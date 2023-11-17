@@ -1,0 +1,17 @@
+{
+	"name": "ExampleMod",
+	"id": "com.example.ExampleMod",
+	"description": "Description of your mod",
+	"category": "Template",
+	"sourceLocation": "https://github.com/resonite-modding-group/ExampleMod",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ExampleMod/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ExampleMod/releases/download/1.0.0/ExampleMod.dll",
+				"filename": "ExampleMod.dll",
+				"sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+			}]
+		}
+	}
+}

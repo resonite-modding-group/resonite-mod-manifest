@@ -1,0 +1,140 @@
+{
+	"$id": "https://github.com/resonite-modding-group/resonite-mod-manifest/blob/master/schemas/mod-schema.json",
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string"
+		},
+		"id": {
+			"type": "string"
+		},
+		"description": {
+			"type": "string"
+		},
+		"category": {
+			"type": "string",
+			"pattern": "^(Audio|Asset Importing|Bug Workarounds|Context Menu|Dashboard|Developers|Hardware Integrations|Inspectors|Keybinds \\& Gestures|Libraries|Protoflux|Memes|Misc|Optimization|Plugins|Technical Tweaks|Template|Visual Tweaks|Wizards)$"
+		},
+		"sourceLocation": {
+			"type": "string",
+			"format": "uri"
+		},
+		"website": {
+			"type": "string",
+			"format": "uri"
+		},
+		"tags": {
+			"type": "array",
+			"items": {
+				"type": "string"
+			},
+			"additionalItems": false
+		},
+		"flags": {
+			"type": "array",
+			"items": {
+				"type": "string",
+				"pattern": "^(deprecated|plugin|file)$"
+			},
+			"additionalItems": false
+		},
+		"platforms": {
+			"type": "array",
+			"items": {
+				"type": "string",
+				"pattern": "^(android|headless|linux|linux-native|linux-wine|windows|other)$"
+			},
+			"additionalItems": false
+		},
+		"additionalAuthors": {
+			"type": "array",
+			"items": {
+				"type": "string"
+			},
+			"additionalItems": true
+		},
+		"versions": {
+			"type": "object",
+			"minProperties": 1,
+			"additionalProperties": {
+				"type": "object",
+				"additionalProperties": false,
+				"required": [
+					"artifacts"
+				],
+				"properties": {
+					"changelog": {
+						"type": "string"
+					},
+					"releaseUrl": {
+						"type": "string"
+					},
+					"conflicts": {
+						"type": "object",
+						"additionalProperties": {
+							"type": "object",
+							"required": [
+								"version"
+							],
+							"properties": {
+								"version": {
+									"type": "string"
+								}
+							}
+						}
+					},
+					"dependencies": {
+						"type": "object",
+						"additionalProperties": {
+							"type": "object",
+							"properties": {
+								"version": {
+									"type": "string"
+								}
+							}
+						}
+					},
+					"artifacts": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"url": {
+									"type": "string",
+									"format": "uri"
+								},
+								"filename": {
+									"type": "string",
+									"pattern": "^[^\\s].*[^\\s]$|^[^\\s]$"
+								},
+								"sha256": {
+									"type": "string",
+									"pattern": "^[a-zA-Z0-9]{64}$"
+								},
+								"installLocation": {
+									"type": "string"
+								}
+							},
+							"additionalProperties": false,
+							"required": [
+								"url",
+								"sha256"
+							]
+						},
+						"minItems": 1,
+						"additionalItems": false
+					}
+				}
+			}
+		}
+	},
+	"additionalProperties": false,
+	"required": [
+		"name",
+		"id",
+		"description",
+		"category",
+		"versions"
+	]
+}

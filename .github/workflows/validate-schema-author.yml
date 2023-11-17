@@ -1,0 +1,41 @@
+name: Validate Author Schema
+
+on:
+  pull_request:
+    paths:
+      - 'manifest/**/author.json'
+  push:
+    paths:
+      - 'manifest/**/author.json'
+    branches:
+      - main
+
+jobs:
+  validate-author-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+        cache: "pip"
+
+    - run: pip install -r requirements.txt
+
+    - name: Get all changed author files
+      id: changed-author-files
+      uses: tj-actions/changed-files@v40
+      with:
+        files: |
+          manifest/**/author.json
+
+    - name: Validate new files against schema
+      run: |
+        for file in ${{ steps.changed-author-files.outputs.all_changed_files }}; do
+          echo "Validating: $file"
+          check-jsonschema --schemafile 'schemas/author-schema.json' "$file"
+        done

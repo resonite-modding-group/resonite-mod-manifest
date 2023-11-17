@@ -1,0 +1,1 @@
+check-jsonschema=27.1

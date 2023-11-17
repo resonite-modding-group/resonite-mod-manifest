@@ -1,0 +1,38 @@
+{
+	"$id": "https://github.com/resonite-modding-group/resonite-mod-manifest/blob/master/schemas/author-schema.json",
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"type": "object",
+	"required": [
+		"author"
+	],
+	"additionalProperties": false,
+	"properties": {
+		"author": {
+			"type": "object",
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"type": "object",
+					"required": [
+						"url"
+					],
+					"additionalProperties": false,
+					"properties": {
+						"url": {
+							"type": "string",
+							"format": "uri"
+						},
+						"icon": {
+							"type": "string",
+							"format": "uri"
+						},
+						"support": {
+							"type": "string",
+							"format": "uri"
+						}
+					}
+				}
+			}
+		}
+	}
+}
