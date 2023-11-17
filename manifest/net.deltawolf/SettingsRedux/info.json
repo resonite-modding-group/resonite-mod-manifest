@@ -1,0 +1,17 @@
+{
+	"name": "SettingsRedux",
+	"id": "net.deltawolf.SettingsRedux",
+	"description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/XDelta/SettingsRedux",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll",
+				"filename": "SettingsRedux.dll",
+				"sha256": "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21"
+			}]
+		}
+	}
+}
