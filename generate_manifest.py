@@ -63,7 +63,7 @@ manifest = {
 # Write the manifest.json
 try:
     with open("manifest.json", "w") as manifest_file:
-        json.dump(manifest, manifest_file, indent=4, separators=(',', ': '))
+        json.dump(manifest, manifest_file, indent=4, separators=(',', ': '), sort_keys=True)
     print("manifest.json created successfully")
 except Exception as e:
     print(f"Error writing manifest.json: {e}")
