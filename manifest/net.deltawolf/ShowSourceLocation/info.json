@@ -1,0 +1,17 @@
+{
+	"name": "ShowSourceLocation",
+	"id": "net.deltawolf.ResoniteShowSourceLocation",
+	"description": "Allows seeing what is driving a field and where a component is located.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/XDelta/ResoniteShowSourceLocation",
+	"versions": {
+		"1.1.1": {
+			"releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
+				"filename": "ResoniteShowSourceLocation.dll",
+				"sha256": "362d18bc3e5c75865ed86fb5dbfc7959fbf152f4d8fe05e39e66859af9f219ff"
+			}]
+		}
+	}
+}
