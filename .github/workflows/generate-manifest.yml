@@ -27,8 +27,8 @@ jobs:
     - name: Check for changes and push
       run: |
         if [[ $(git status --porcelain) ]]; then
-          git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
+          git config user.email "<>"
           git add manifest.json
           git commit -m "Update manifest.json"
           git push
