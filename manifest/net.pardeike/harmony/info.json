@@ -1,0 +1,19 @@
+{
+	"name": "Harmony",
+	"id": "net.pardeike.harmony",
+	"description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/pardeike/Harmony",
+	"website": "https://harmony.pardeike.net/",
+	"versions": {
+		"2.2.2.0": {
+			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0",
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/0Harmony.dll",
+				"filename": "0Harmony.dll",
+				"sha256": "d04ec5b2590dd1bbb57f0f11dc417b1a5bebbb36b1f97006d35f2d87c3a2a69f",
+				"installLocation": "/rml_libs"
+			}]
+		}
+	}
+}
