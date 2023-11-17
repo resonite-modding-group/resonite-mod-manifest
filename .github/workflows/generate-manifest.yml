@@ -1,0 +1,40 @@
+name: Generate Manifest
+
+on:
+  push:
+    paths:
+      - 'manifest/**'
+    branches:
+      - main
+
+jobs:
+  build:
+    if: github.repository == 'resonite-modding-group/resonite-mod-manifest'
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+
+    - name: Run generate_manifest.py
+      run: python generate_manifest.py
+
+    - name: Check for changes and push
+      run: |
+        if [[ $(git status --porcelain) ]]; then
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add manifest.json
+          git commit -m "Update manifest.json"
+          git push
+        else
+          echo "No changes to commit"
+        fi
+      shell: bash
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
