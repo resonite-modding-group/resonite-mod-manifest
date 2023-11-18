@@ -1,6 +1,6 @@
 {
 	"name": "NoSteamScreenshots",
-	"id": "com.raidriar796.NoSteamScreenshots",
+	"id": "net.raidriar796.NoSteamScreenshots",
 	"description": "Prevents in app photos from additionally being saved to Steam.",
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",

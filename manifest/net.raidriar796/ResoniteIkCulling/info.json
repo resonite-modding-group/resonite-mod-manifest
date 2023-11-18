@@ -1,6 +1,6 @@
 {
 	"name": "ResoniteIkCulling",
-	"id": "com.raidriar796.ResoniteIkCulling",
+	"id": "net.raidriar796.ResoniteIkCulling",
 	"description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
 	"category": "Optimization",
 	"sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
