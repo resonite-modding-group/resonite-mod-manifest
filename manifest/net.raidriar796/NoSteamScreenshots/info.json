@@ -5,12 +5,12 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
 	"versions": {
-		"1.0.0": {
-			"releaseUrl": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.0",
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.1",
 			"artifacts": [{
-				"url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.0/NoSteamScreenshots.dll",
+				"url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll",
 				"filename": "NoSteamScreenshots.dll",
-				"sha256": "29F024EE7C3E7CAE8946B38BE1926FFF784D194D478F1936E741658BDE5D8B15"
+				"sha256": "8D9F335ECD39AD245838215B47334825E8F96A8A1464545A1404FFE5C8A345D7"
 			}]
 		}
 	}
