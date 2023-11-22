@@ -1,7 +1,7 @@
 {
 	"name": "ComponentSearchWizard",
 	"id": "owo.Nytra.ComponentSearchWizard",
-	"description": "A mod that provides a wizard for searching for components that exist on slots in the current world. You can search by type and/or by name, and get a list of references as output.",
+	"description": "Adds a wizard to allow searching for components that exist on slots in the current world. You can search by type and/or by name, and get a list of references as output.",
 	"category": "Wizards",
 	"sourceLocation": "https://github.com/Nytra/ResoniteComponentSearchWizard",
 	"versions": {
