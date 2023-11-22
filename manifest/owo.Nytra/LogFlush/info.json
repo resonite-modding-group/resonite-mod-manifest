@@ -2,7 +2,7 @@
 	"name": "LogFlush",
 	"id": "owo.Nytra.LogFlush",
 	"description": "A mod primarily for developers that flushes the log stream when you press the F1 key, causing all buffered messages to be written to the log file.",
-	"category": "Misc",
+	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Nytra/ResoniteLogFlush",
 	"versions": {
 		"1.1.0": {
