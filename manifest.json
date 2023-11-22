@@ -169,6 +169,51 @@
                     "website": "https://harmony.pardeike.net/"
                 }
             }
+        },
+        "net.raidriar796": {
+            "author": {
+                "Raidriar796": {
+                    "url": "https://github.com/Raidriar796"
+                }
+            },
+            "entries": {
+                "net.raidriar796.NoSteamScreenshots": {
+                    "category": "Technical Tweaks",
+                    "description": "Prevents in app photos from additionally being saved to Steam.",
+                    "name": "NoSteamScreenshots",
+                    "sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "NoSteamScreenshots.dll",
+                                    "sha256": "8D9F335ECD39AD245838215B47334825E8F96A8A1464545A1404FFE5C8A345D7",
+                                    "url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "net.raidriar796.ResoniteIkCulling": {
+                    "category": "Optimization",
+                    "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
+                    "name": "ResoniteIkCulling",
+                    "sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
+                    "versions": {
+                        "2.5.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
+                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0"
+                        }
+                    }
+                }
+            }
         }
     },
     "schemaVersion": "1.0.1"
