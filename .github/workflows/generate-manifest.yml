@@ -16,6 +16,8 @@ jobs:
     steps:
     - name: Checkout main
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GH_ACTION }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -37,5 +39,3 @@ jobs:
           echo "No changes to commit"
         fi
       shell: bash
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_ACTION }}
