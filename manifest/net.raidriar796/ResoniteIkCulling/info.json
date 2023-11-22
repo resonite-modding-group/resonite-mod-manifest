@@ -1,0 +1,17 @@
+{
+	"name": "ResoniteIkCulling",
+	"id": "net.raidriar796.ResoniteIkCulling",
+	"description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
+	"category": "Optimization",
+	"sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
+	"versions": {
+		"2.5.0": {
+			"releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll",
+				"filename": "ResoniteIKCulling.dll",
+				"sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C"
+			}]
+		}
+	}
+}
