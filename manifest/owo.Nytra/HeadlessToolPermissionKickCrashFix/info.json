@@ -1,6 +1,6 @@
 {
 	"name": "HeadlessToolPermissionKickCrashFix",
-	"id": "owo.Nytra / Rucio.HeadlessToolPermissionKickCrashFix",
+	"id": "owo.Nytra.HeadlessToolPermissionKickCrashFix",
 	"description": "A Headless Server mod that prevents tool permission kicks from causing a world crash.",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix",
