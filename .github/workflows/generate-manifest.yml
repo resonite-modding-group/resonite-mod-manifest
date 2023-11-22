@@ -1,6 +1,7 @@
 name: Generate Manifest
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'manifest/**'
@@ -37,4 +38,4 @@ jobs:
         fi
       shell: bash
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_ACTION }}
