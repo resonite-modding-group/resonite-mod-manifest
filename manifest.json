@@ -1,103 +1,5 @@
 {
-    "schemaVersion": "1.0.0",
     "objects": {
-        "net.pardeike": {
-            "author": {
-                "pardeike": {
-                    "url": "https://github.com/pardeike/",
-                    "icon": "https://avatars.githubusercontent.com/u/853584?v=4",
-                    "support": "https://www.patreon.com/pardeike"
-                }
-            },
-            "entries": {
-                "net.pardeike.harmony": {
-                    "name": "Harmony",
-                    "description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.",
-                    "category": "Libraries",
-                    "sourceLocation": "https://github.com/pardeike/Harmony",
-                    "website": "https://harmony.pardeike.net/",
-                    "versions": {
-                        "2.2.2.0": {
-                            "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0",
-                            "artifacts": [
-                                {
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/0Harmony.dll",
-                                    "filename": "0Harmony.dll",
-                                    "sha256": "d04ec5b2590dd1bbb57f0f11dc417b1a5bebbb36b1f97006d35f2d87c3a2a69f",
-                                    "installLocation": "/rml_libs"
-                                }
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "com.resonitemodloader": {
-            "author": {
-                "Resonite Modding Group": {
-                    "url": "https://github.com/resonite-modding-group",
-                    "icon": "https://avatars.githubusercontent.com/u/145755526?s=200&v=4"
-                }
-            },
-            "entries": {
-                "com.resonitemodloader.ResoniteModLoader": {
-                    "name": "ResoniteModLoader",
-                    "description": "A mod loader for Resonite",
-                    "category": "Plugins",
-                    "sourceLocation": "https://github.com/resonite-modding-group/ResoniteModLoader/",
-                    "tags": [
-                        "modloader"
-                    ],
-                    "versions": {
-                        "2.5.1": {
-                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.5.1",
-                            "dependencies": {
-                                "net.pardeike.harmony": {
-                                    "version": "^2.2.2"
-                                }
-                            },
-                            "artifacts": [
-                                {
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/ResoniteModLoader.dll",
-                                    "filename": "ResoniteModLoader.dll",
-                                    "sha256": "ee2272282e4b425cf914d3900bca6d4e64f9a6aa408d1e5d677c62a547d58de9"
-                                }
-                            ]
-                        },
-                        "2.5.0": {
-                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.5.0",
-                            "dependencies": {
-                                "net.pardeike.harmony": {
-                                    "version": "^2.2.2"
-                                }
-                            },
-                            "artifacts": [
-                                {
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.0/ResoniteModLoader.dll",
-                                    "filename": "ResoniteModLoader.dll",
-                                    "sha256": "fa69d3eca8789d4c4b5545c37cf0ae3c0b08647a560b81e7dea6cb80306292a3"
-                                }
-                            ]
-                        },
-                        "2.4.0": {
-                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.4.0",
-                            "dependencies": {
-                                "net.pardeike.harmony": {
-                                    "version": "^2.2.2"
-                                }
-                            },
-                            "artifacts": [
-                                {
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.4.0/ResoniteModLoader.dll",
-                                    "filename": "ResoniteModLoader.dll",
-                                    "sha256": "69c9c28faf22da4e356bc588c8bf3802d5f599455d41150ee3db38d9515146e8"
-                                }
-                            ]
-                        }
-                    }
-                }
-            }
-        },
         "com.example": {
             "author": {
                 "AuthorName": {
@@ -106,24 +8,168 @@
             },
             "entries": {
                 "com.example.ExampleMod": {
-                    "name": "ExampleMod",
-                    "description": "Description of your mod",
                     "category": "Template",
+                    "description": "Description of your mod",
+                    "name": "ExampleMod",
                     "sourceLocation": "https://github.com/resonite-modding-group/ExampleMod",
                     "versions": {
                         "1.0.0": {
-                            "releaseUrl": "https://github.com/resonite-modding-group/ExampleMod/releases/tag/1.0.0",
                             "artifacts": [
                                 {
-                                    "url": "https://github.com/resonite-modding-group/ExampleMod/releases/download/1.0.0/ExampleMod.dll",
-                                    "filename": "ExampleMod.dll",
-                                    "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+                                    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+                                    "url": "https://github.com/resonite-modding-group/ExampleMod/releases/download/1.0.0/ExampleMod.dll"
                                 }
-                            ]
+                            ],
+                            "releaseUrl": "https://github.com/resonite-modding-group/ExampleMod/releases/tag/1.0.0"
                         }
                     }
                 }
             }
+        },
+        "com.resonitemodloader": {
+            "author": {
+                "Resonite Modding Group": {
+                    "icon": "https://avatars.githubusercontent.com/u/145755526?s=200&v=4",
+                    "url": "https://github.com/resonite-modding-group"
+                }
+            },
+            "entries": {
+                "com.resonitemodloader.ResoniteModLoader": {
+                    "category": "Plugins",
+                    "description": "A mod loader for Resonite",
+                    "name": "ResoniteModLoader",
+                    "sourceLocation": "https://github.com/resonite-modding-group/ResoniteModLoader/",
+                    "tags": [
+                        "modloader"
+                    ],
+                    "versions": {
+                        "2.4.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteModLoader.dll",
+                                    "sha256": "69c9c28faf22da4e356bc588c8bf3802d5f599455d41150ee3db38d9515146e8",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.4.0/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.2.2"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.4.0"
+                        },
+                        "2.5.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteModLoader.dll",
+                                    "sha256": "fa69d3eca8789d4c4b5545c37cf0ae3c0b08647a560b81e7dea6cb80306292a3",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.0/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.2.2"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.5.0"
+                        },
+                        "2.5.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteModLoader.dll",
+                                    "sha256": "ee2272282e4b425cf914d3900bca6d4e64f9a6aa408d1e5d677c62a547d58de9",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.2.2"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.5.1"
+                        }
+                    }
+                }
+            }
+        },
+        "net.deltawolf": {
+            "author": {
+                "Delta": {
+                    "icon": "https://avatars.githubusercontent.com/u/7883807?v=4",
+                    "support": "https://www.patreon.com/_Delta",
+                    "url": "https://github.com/XDelta/"
+                }
+            },
+            "entries": {
+                "net.deltawolf.ResoniteShowSourceLocation": {
+                    "category": "Inspectors",
+                    "description": "Allows seeing what is driving a field and where a component is located.",
+                    "name": "ShowSourceLocation",
+                    "sourceLocation": "https://github.com/XDelta/ResoniteShowSourceLocation",
+                    "versions": {
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteShowSourceLocation.dll",
+                                    "sha256": "362d18bc3e5c75865ed86fb5dbfc7959fbf152f4d8fe05e39e66859af9f219ff",
+                                    "url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.1.1"
+                        }
+                    }
+                },
+                "net.deltawolf.SettingsRedux": {
+                    "category": "Dashboard",
+                    "description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes",
+                    "name": "SettingsRedux",
+                    "sourceLocation": "https://github.com/XDelta/SettingsRedux",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "SettingsRedux.dll",
+                                    "sha256": "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21",
+                                    "url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "net.pardeike": {
+            "author": {
+                "pardeike": {
+                    "icon": "https://avatars.githubusercontent.com/u/853584?v=4",
+                    "support": "https://www.patreon.com/pardeike",
+                    "url": "https://github.com/pardeike/"
+                }
+            },
+            "entries": {
+                "net.pardeike.harmony": {
+                    "category": "Libraries",
+                    "description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.",
+                    "name": "Harmony",
+                    "sourceLocation": "https://github.com/pardeike/Harmony",
+                    "versions": {
+                        "2.2.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "0Harmony.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "d04ec5b2590dd1bbb57f0f11dc417b1a5bebbb36b1f97006d35f2d87c3a2a69f",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/0Harmony.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0"
+                        }
+                    },
+                    "website": "https://harmony.pardeike.net/"
+                }
+            }
         }
-    }
+    },
+    "schemaVersion": "1.0.1"
 }
