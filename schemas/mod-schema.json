@@ -14,7 +14,7 @@
 		},
 		"category": {
 			"type": "string",
-			"pattern": "^(Audio|Asset Importing|Bug Workarounds|Context Menu|Dashboard|Developers|Hardware Integrations|Inspectors|Keybinds \\& Gestures|Libraries|Protoflux|Memes|Misc|Optimization|Plugins|Technical Tweaks|Template|Visual Tweaks|Wizards)$"
+			"pattern": "^(Asset Importing|Audio|Bug Workaround|Context Menu|Controls|Dashboard|Hardware Integration|Inspectors|Libraries|Memes|Misc|Optimization|Plugins|Protoflux|Technical Tweaks|Template|Visual Tweaks|Wizards)$"
 		},
 		"sourceLocation": {
 			"type": "string",

@@ -56,7 +56,7 @@ manifest_part = {author: data for author, data in manifest.items() if data["entr
 
 # Add the schema to the top of the file
 manifest = {
-    "schemaVersion": "1.0.0",
+    "schemaVersion": "1.0.1",
     "objects": manifest_part
 }
 
