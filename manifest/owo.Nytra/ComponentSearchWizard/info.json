@@ -1,0 +1,16 @@
+{
+	"name": "ComponentSearchWizard",
+	"id": "owo.Nytra.ComponentSearchWizard",
+	"description": "Adds a wizard to allow searching for components that exist on slots in the current world. You can search by type and/or by name, and get a list of references as output.",
+	"category": "Wizards",
+	"sourceLocation": "https://github.com/Nytra/ResoniteComponentSearchWizard",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.0/ComponentSearchWizard.dll",
+				"sha256": "ab12c58541abc87e8541f00955d0297feaa668454a69d39330dfcafc22338333"
+			}]
+		}
+	}
+}

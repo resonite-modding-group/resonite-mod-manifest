@@ -1,0 +1,16 @@
+{
+	"name": "WorldListSessionHider",
+	"id": "owo.Nytra.WorldListSessionHider",
+	"description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username or the sessionID.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/Nytra/ResoniteWorldListSessionHider",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/download/v1.0.0/WorldListSessionHider.dll",
+				"sha256": "6890584a1264d378fe3c21521ce50fd570452bb6edeac05a4702dbda701d10dd"
+			}]
+		}
+	}
+}
