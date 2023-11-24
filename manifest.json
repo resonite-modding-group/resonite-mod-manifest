@@ -214,6 +214,120 @@
                     }
                 }
             }
+        },
+        "owo.Nytra": {
+            "author": {
+                "Nytra": {
+                    "url": "https://github.com/Nytra"
+                }
+            },
+            "entries": {
+                "owo.Nytra / Rucio.HeadlessToolPermissionKickCrashFix": {
+                    "category": "Bug Workaround",
+                    "description": "A Headless Server mod that prevents tool permission kicks from causing a world crash.",
+                    "name": "HeadlessToolPermissionKickCrashFix",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "750102cdc126685956ed73ec47fc3f8509b97d2c6f601724a851ae4eab1908d2",
+                                    "url": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/download/v1.0.0/HeadlessToolPermissionKickCrashFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/tag/v1.0.0"
+                        }
+                    }
+                },
+                "owo.Nytra.AccessibleFullBodyCalibrator": {
+                    "category": "Misc",
+                    "description": "Adds a button to the T-Pose Calibration step of the Full Body Calibrator to allow completing the step if you are unable to use two controllers.",
+                    "name": "AccessibleFullBodyCalibrator",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "48a85d0daeeed8f853d9183c4a498dc9161a9eaa1dd4f8319bfe77d3112c33be",
+                                    "url": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/download/v1.0.0/AccessibleFullBodyCalibrator.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/tag/v1.0.0"
+                        }
+                    }
+                },
+                "owo.Nytra.ComponentSearchWizard": {
+                    "category": "Wizards",
+                    "description": "Adds a wizard to allow searching for components that exist on slots in the current world. You can search by type and/or by name, and get a list of references as output.",
+                    "name": "ComponentSearchWizard",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteComponentSearchWizard",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ab12c58541abc87e8541f00955d0297feaa668454a69d39330dfcafc22338333",
+                                    "url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.0/ComponentSearchWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.0"
+                        }
+                    }
+                },
+                "owo.Nytra.FixSessionBrowser": {
+                    "category": "Bug Workaround",
+                    "description": "A mod that fixes the session browser. It is a workaround for a few bugs that have not been officially fixed yet.",
+                    "name": "FixSessionBrowser",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteFixSessionBrowser",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9ecb1fda212a58ce9962ddd28cbbee8bae4a8663ebca81a48a2ea505255f5426",
+                                    "url": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/download/v1.0.0/FixSessionBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/tag/v1.0.0"
+                        }
+                    }
+                },
+                "owo.Nytra.LogFlush": {
+                    "category": "Technical Tweaks",
+                    "description": "A mod primarily for developers that flushes the log stream when you press the F1 key, causing all buffered messages to be written to the log file.",
+                    "name": "LogFlush",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteLogFlush",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4fb820f1d28b1f1b329519e51ed4be5438655d1cc05bcdd655e75607fc46ba79",
+                                    "url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.0/LogFlush.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.0"
+                        }
+                    }
+                },
+                "owo.Nytra.WorldListSessionHider": {
+                    "category": "Dashboard",
+                    "description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username or the sessionID.",
+                    "name": "WorldListSessionHider",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteWorldListSessionHider",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6890584a1264d378fe3c21521ce50fd570452bb6edeac05a4702dbda701d10dd",
+                                    "url": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/download/v1.0.0/WorldListSessionHider.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
         }
     },
     "schemaVersion": "1.0.1"
