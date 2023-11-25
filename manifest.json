@@ -290,6 +290,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d00605ec3083d53a0dfb37aa8148c0ebb598cb853e12b55571bcf19529de7145",
+                                    "url": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/download/v1.1.0/FixSessionBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/tag/v1.1.0"
                         }
                     }
                 },
@@ -324,6 +333,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7742aa17676d20e4aaace4eef66f2f961a37b7b2eb30f4e9edeb5c002015f958",
+                                    "url": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/download/v1.1.0/WorldListSessionHider.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.1.0"
                         }
                     }
                 }
