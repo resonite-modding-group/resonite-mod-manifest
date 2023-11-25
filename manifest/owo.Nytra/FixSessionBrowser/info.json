@@ -11,6 +11,13 @@
 				"url": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/download/v1.0.0/FixSessionBrowser.dll",
 				"sha256": "9ecb1fda212a58ce9962ddd28cbbee8bae4a8663ebca81a48a2ea505255f5426"
 			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/download/v1.1.0/FixSessionBrowser.dll",
+				"sha256": "d00605ec3083d53a0dfb37aa8148c0ebb598cb853e12b55571bcf19529de7145"
+			}]
 		}
 	}
 }
