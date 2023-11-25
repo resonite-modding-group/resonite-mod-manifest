@@ -110,7 +110,7 @@
 								},
 								"sha256": {
 									"type": "string",
-									"pattern": "^[a-zA-Z0-9]{64}$"
+									"pattern": "^[a-fA-F0-9]{64}$"
 								},
 								"installLocation": {
 									"type": "string"
