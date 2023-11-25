@@ -1,0 +1,18 @@
+{
+	"name": "ResonitePlatformSpoof",
+	"id": "ch.isota.ResonitePlatformSpoof",
+	"description": "Spoofs your platform when joining new sessions.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/isovel/ResonitePlatformSpoof",
+    "additionalAuthors": ["runtime"],
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/isovel/ResonitePlatformSpoof/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.0/ResonitePlatformSpoof.dll",
+				"filename": "ResonitePlatformSpoof.dll",
+				"sha256": "842299ddc43c196e611c6e83eea8678cf322924e1709d38511d66dbcfed2f443"
+			}]
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "DynBoneWrangler",
+	"id": "ch.isota.DynBoneWrangler",
+	"description": "Stops DynamicBoneChain components from updating (locally) if your framerate is too low to properly simulate them.",
+	"category": "Optimization",
+	"sourceLocation": "https://github.com/isovel/DynBoneWrangler",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/isovel/DynBoneWrangler/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/isovel/DynBoneWrangler/releases/download/v1.0.1/DynBoneWrangler.dll",
+				"filename": "DynBoneWrangler.dll",
+				"sha256": "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385"
+			}]
+		}
+	}
+}
