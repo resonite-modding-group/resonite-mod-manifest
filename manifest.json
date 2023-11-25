@@ -154,7 +154,7 @@
                     "name": "Harmony",
                     "sourceLocation": "https://github.com/pardeike/Harmony",
                     "versions": {
-                        "2.2.2.0": {
+                        "2.2.2": {
                             "artifacts": [
                                 {
                                     "filename": "0Harmony.dll",
