@@ -6,7 +6,7 @@
 	"sourceLocation": "https://github.com/pardeike/Harmony",
 	"website": "https://harmony.pardeike.net/",
 	"versions": {
-		"2.2.2.0": {
+		"2.2.2": {
 			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0",
 			"artifacts": [{
 				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/0Harmony.dll",
