@@ -5,6 +5,14 @@
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/XDelta/SettingsRedux",
 	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/SettingsRedux/releases/download/2.1.0/SettingsRedux.dll",
+				"filename": "SettingsRedux.dll",
+				"sha256": "6e1daebc4c16908505044709727715b7b5d09b3e86f8e7e6d5e03a053fe6cc70"
+			}]
+		},
 		"2.0.0": {
 			"releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.0.0",
 			"artifacts": [{
