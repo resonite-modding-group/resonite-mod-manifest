@@ -24,48 +24,6 @@
 					"sha256": "5df909d68a4b057117a46dc682c83e8cf7504aea235587bbe81ee8c8cb8ba555"
 				}
 			]
-		},
-		"1.0.2": {
-			"artifacts": [
-				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.2/VRCFTReceiver.dll",
-					"filename": "VRCFTReceiver.dll",
-					"sha256": "433296c704b62ac4a710e364faae7635d1deed12af8df3f86193ce289da45225"
-				},
-				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.2/vrc_parameters.json",
-					"filename": "vrc_parameters.json",
-					"sha256": "a64a09ee5f5afdb08caf9f9ba7a58dd7efe370fccef769be7e4b74ede92292fb"
-				}
-			]
-		},
-		"1.0.1": {
-			"artifacts": [
-				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.1/VRCFTReceiver.dll",
-					"filename": "VRCFTReceiver.dll",
-					"sha256": "eba11b7ed9e094e57f0bfb75cc0b36a5d00803ba3897cc9df81dd10c6dea50cf"
-				},
-				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.1/vrc_parameters.json",
-					"filename": "vrc_parameters.json",
-					"sha256": "a64a09ee5f5afdb08caf9f9ba7a58dd7efe370fccef769be7e4b74ede92292fb"
-				}
-			]
-		},
-		"1.0.0": {
-			"artifacts": [
-				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.0/VRCFTReceiver.dll",
-					"filename": "VRCFTReceiver.dll",
-					"sha256": "288a30011ad4263308211c898aad542e74a52b5ba5c5d59ad58a5480875f7e51"
-				},
-				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.0/vrc_parameters.json",
-					"filename": "vrc_parameters.json",
-					"sha256": "a64a09ee5f5afdb08caf9f9ba7a58dd7efe370fccef769be7e4b74ede92292fb"
-				}
-			]
 		}
 	}
 }

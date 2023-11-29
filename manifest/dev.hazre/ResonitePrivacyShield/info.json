@@ -23,15 +23,6 @@
 					"sha256": "7712a34aeb5a0a47953e3f55b07ace2aafe3acf7d2f90b6504c570a04736db18"
 				}
 			]
-		},
-		"2.0.0": {
-			"artifacts": [
-				{
-					"url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.0/PrivacyShield.dll",
-					"filename": "PrivacyShield.dll",
-					"sha256": "6be3125e5e952253971721a4f05aae232aa56c82876a7bb8cf9dbb0fd2e43b78"
-				}
-			]
 		}
 	}
 }
