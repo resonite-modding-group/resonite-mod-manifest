@@ -1,8 +1,8 @@
 {
     "name": "TransparentCameraEnabler",
     "id": "me.art0007i.TransparentCameraEnabler",
-    "description": "Allows you to record transparent videos using obs",
-    "category": "Bug Workarounds",
+    "description": "Allows you to record transparent videos using OBS",
+    "category": "Bug Workaround",
     "sourceLocation": "https://github.com/art0007i/TransparentCameraEnabler",
     "versions": {
         "1.0.0": {
