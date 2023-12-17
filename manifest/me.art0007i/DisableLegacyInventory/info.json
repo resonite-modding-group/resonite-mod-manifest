@@ -2,7 +2,7 @@
     "name": "DisableLegacyInventory",
     "id": "me.art0007i.DisableLegacyInventory",
     "description": "Disables the legacy inventory gesture, but it has a config option that can enable it again",
-    "category": "Keybinds & Gestures",
+    "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/DisableLegacyInventory",
     "versions": {
         "2.0.0": {
