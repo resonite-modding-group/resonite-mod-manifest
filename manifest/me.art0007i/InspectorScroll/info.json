@@ -2,7 +2,7 @@
     "name": "InspectorScroll",
     "id": "me.art0007i.InspectorScroll",
     "description": "Allows scrolling inspectors (and other ui panels) using your thumbstick / touchpad",
-    "category": "Keybinds & Gestures",
+    "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/InspectorScroll",
     "versions": {
         "2.0.0": {
