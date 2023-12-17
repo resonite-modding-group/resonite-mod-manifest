@@ -2,7 +2,7 @@
     "name": "RemoveComponentAttacherRestriction",
     "id": "me.art0007i.RemoveComponentAttacherRestriction",
     "description": "Allows you to open a component attacher even if you don't have anything selected in an inspector panel",
-    "category": "Misc",
+    "category": "Inspectors",
     "sourceLocation": "https://github.com/art0007i/RemoveComponentAttacherRestriction",
     "versions": {
         "1.0.0": {
