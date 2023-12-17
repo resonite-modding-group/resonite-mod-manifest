@@ -2,7 +2,7 @@
     "name": "ConsistentDashboard",
     "id": "me.art0007i.ConsistentDashboard",
     "description": "Makes it so the dashboard is always the same resolution in vr and in desktop",
-    "category": "Dash Tweaks",
+    "category": "Dashboard",
     "sourceLocation": "https://github.com/art0007i/ConsistentDashboard",
     "versions": {
         "1.0.0": {
