@@ -2,7 +2,7 @@
     "name": "DefaultToolOverride",
     "id": "me.art0007i.DefaultToolOverride",
     "description": "Gives you full control over the desktop number row tool keybinds",
-    "category": "Technical Tweaks",
+    "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/DefaultToolOverride",
     "versions": {
         "1.0.1": {
