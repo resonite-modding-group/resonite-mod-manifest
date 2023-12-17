@@ -2,7 +2,7 @@
     "name": "NoHeadMenuDash",
     "id": "me.art0007i.NoHeadMenuDash",
     "description": "Removes the gesture that opens the dash when you press the menu button near your head",
-    "category": "Keybinds & Gestures",
+    "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/NoHeadMenuDash",
     "versions": {
         "2.0.0": {
