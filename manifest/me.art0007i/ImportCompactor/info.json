@@ -2,7 +2,7 @@
     "name": "ImportCompactor",
     "id": "me.art0007i.ImportCompactor",
     "description": "Reduces the distance between imported items to a configurable value",
-    "category": "Asset Importing Tweaks",
+    "category": "Asset Importing",
     "sourceLocation": "https://github.com/art0007i/ImportCompactor",
     "versions": {
         "2.0.0": {
