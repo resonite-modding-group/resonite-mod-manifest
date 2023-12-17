@@ -1,0 +1,19 @@
+{
+    "name": "CapturePrivateUI",
+    "id": "me.art0007i.CapturePrivateUI",
+    "description": "Allows finger photos or cameras with a specific tag to render private UI",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/CapturePrivateUI",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/CapturePrivateUI/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CapturePrivateUI/releases/download/2.0.0/CapturePrivateUI.dll",
+                    "filename": "CapturePrivateUI.dll",
+                    "sha256": "ec717dbcc891922e517f2b879c4600605a8207d403b1bde82dcec5c3470717e6"
+                }
+            ]
+        }
+    }
+}

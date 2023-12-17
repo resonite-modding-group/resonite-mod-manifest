@@ -1,0 +1,19 @@
+{
+    "name": "SpecialItemsLib",
+    "id": "me.art0007i.SpecialItemsLib",
+    "description": "Allows other mods to easily add custom special items to be shown in the inventory",
+    "category": "Libraries",
+    "sourceLocation": "https://github.com/art0007i/SpecialItemsLib",
+    "versions": {
+        "2.0.2": {
+            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.2/SpecialItemsLib.dll",
+                    "filename": "SpecialItemsLib.dll",
+                    "sha256": "3a851acca48d4c562dfae4496fada17eb28f50544f372585f63bab30dc166b99"
+                }
+            ]
+        }
+    }
+}

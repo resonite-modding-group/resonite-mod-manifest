@@ -1,0 +1,19 @@
+{
+    "name": "LocalStorage",
+    "id": "me.art0007i.LocalStorage",
+    "description": "Allows you to store items locally on your hard drive",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/LocalStorage",
+    "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.1/LocalStorage.dll",
+                    "filename": "LocalStorage.dll",
+                    "sha256": "c3cbd76e44ba9d45e5d8979ebe0caffe1cbdc14c6ddc43f722d59f5988c809ed"
+                }
+            ]
+        }
+    }
+}
