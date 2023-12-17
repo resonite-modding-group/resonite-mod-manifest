@@ -2,7 +2,7 @@
     "name": "CustomJoinVerifierFix",
     "id": "me.art0007i.CustomJoinVerifierFix",
     "description": "Allows you to enable the custom join verifier when you have admin permissions, instead of only the host",
-    "category": "Bug Workarounds",
+    "category": "Bug Workaround",
     "sourceLocation": "https://github.com/art0007i/CustomJoinVerifierFix",
     "versions": {
         "1.0.0": {
