@@ -2,7 +2,7 @@
     "name": "FixGrabWorld",
     "id": "me.art0007i.FixGrabWorld",
     "description": "Fixes the grab world locomotion moving you forwards each time you use it",
-    "category": "Bug Workarounds",
+    "category": "Bug Workaround",
     "sourceLocation": "https://github.com/art0007i/FixGrabWorld",
     "versions": {
         "2.0.0": {
