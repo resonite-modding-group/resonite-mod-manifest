@@ -1,0 +1,24 @@
+{
+	"name": "SubtitleImporter",
+	"id": "com.jackybuns.SubtitleImporter",
+	"description": "Automatically import subtitles on non streamed media.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/jackybuns/SubtitleImporter",
+	"versions": {
+		"0.0.2": {
+			"releaseUrl": "https://github.com/jackybuns/SubtitleImporter/releases/tag/v0.0.2",
+			"artifacts": [{
+				"url": "https://github.com/jackybuns/SubtitleImporter/releases/download/v0.0.2/SubtitleImporter.dll",
+				"filename": "SubtitleImporter.dll",
+				"sha256": "92edb544d347c77c12bd856e11802dd6ad423fcc98774cda58d7f1a5435bf410",
+				"installLocation": "rml_mods"
+			},
+			{
+				"url": "https://github.com/jackybuns/SubtitleImporter/releases/download/v0.0.2/Xabe.FFmpeg.dll",
+				"filename": "Xabe.FFmpeg.dll",
+				"sha256": "5bb626b163c75d283245634f1083afb6110c42788bf86bd76cf8bb8db1b38655",
+				"installLocation": "rml_libs"
+			}]
+		}
+	}
+}
