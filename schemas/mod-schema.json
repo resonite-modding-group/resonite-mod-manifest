@@ -71,7 +71,8 @@
 						"type": "string"
 					},
 					"releaseUrl": {
-						"type": "string"
+						"type": "string",
+						"format": "uri"
 					},
 					"conflicts": {
 						"type": "object",

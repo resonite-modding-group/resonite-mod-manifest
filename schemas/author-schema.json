@@ -26,6 +26,10 @@
 							"type": "string",
 							"format": "uri"
 						},
+						"website": {
+							"type": "string",
+							"format": "uri"
+						},
 						"support": {
 							"type": "string",
 							"format": "uri"
