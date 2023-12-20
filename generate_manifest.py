@@ -33,7 +33,7 @@ for author_entry in os.scandir(root_folder):
                     entry_folder_path = os.path.join(author_entry.path, entry_folder)
                     entry_info_path = os.path.join(entry_folder_path, "info.json")
                     if os.path.exists(entry_info_path):
-                        with open(entry_info_path, "r") as entry_file:
+                        with open(entry_info_path, "r", encoding='utf-8') as entry_file:
                             entry_info = json.load(entry_file)
                             # Process additionalAuthor entries
                             if "additionalAuthors" in entry_info and isinstance(entry_info["additionalAuthors"], list):
