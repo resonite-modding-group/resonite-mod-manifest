@@ -92,6 +92,9 @@
 						"type": "object",
 						"additionalProperties": {
 							"type": "object",
+							"required": [
+								"version"
+							],
 							"properties": {
 								"version": {
 									"type": "string"
