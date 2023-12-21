@@ -106,6 +106,10 @@
 						"type": "array",
 						"items": {
 							"type": "object",
+							"required": [
+								"url",
+								"sha256"
+							],
 							"properties": {
 								"url": {
 									"type": "string",
@@ -123,14 +127,9 @@
 									"type": "string"
 								}
 							},
-							"additionalProperties": false,
-							"required": [
-								"url",
-								"sha256"
-							]
+							"additionalProperties": false
 						},
-						"minItems": 1,
-						"additionalItems": false
+						"minItems": 1
 					}
 				}
 			}
