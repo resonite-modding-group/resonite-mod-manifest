@@ -4,7 +4,6 @@
 	"description": "Adds Some privacy enhancements like requesting web permission for anything besides Resonite APIs, as well as timezone and FPS spoofing. (Port of PrivacyShield mod by ljoonal)",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/hazre/ResonitePrivacyShield",
-	"website": "http://hazre.dev",
 	"additionalAuthors": [
 		"ljoonal",
 		"NepuShiro"
