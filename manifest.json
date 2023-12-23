@@ -275,6 +275,36 @@
                 }
             }
         },
+        "ninja.badhalo": {
+            "author": {
+                "badhaloninja": {
+                    "icon": "https://stuff.badhalo.ninja/icon/animated/webp/icon.webp",
+                    "support": "https://ko-fi.com/badhaloninja",
+                    "url": "https://github.com/badhaloninja",
+                    "website": "https://badhalo.ninja/"
+                }
+            },
+            "entries": {
+                "ninja.badhalo.ModSettings": {
+                    "category": "Dashboard",
+                    "description": "Adds a dash screen to show mods and edit their configs",
+                    "name": "ResoniteModSettings",
+                    "sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
+                    "versions": {
+                        "2.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d9a1773951301cdad47fa5ed1b4afd5bea33f994e2f7d8834a26eaf738a5a933",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.3/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3"
+                        }
+                    }
+                }
+            }
+        },
         "owo.Nytra": {
             "author": {
                 "Nytra": {
