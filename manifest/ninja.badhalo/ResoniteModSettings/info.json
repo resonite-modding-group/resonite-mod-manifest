@@ -1,0 +1,17 @@
+{
+	"name": "ResoniteModSettings",
+	"id": "ninja.badhalo.ModSettings",
+	"description": "Adds a dash screen to show mods and edit their configs",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
+	"versions": {
+		"2.1.3": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3",
+			"changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.3/ResoniteModSettings.dll",
+				"sha256": "d9a1773951301cdad47fa5ed1b4afd5bea33f994e2f7d8834a26eaf738a5a933"
+			}]
+		}
+	}
+}
