@@ -1,0 +1,19 @@
+{
+    "name": "CustomUILib",
+    "id": "me.art0007i.CustomUILib",
+    "description": "Allows easily adding custom inspector ui to components which don't have any by default",
+    "category": "Libraries",
+    "sourceLocation": "https://github.com/art0007i/CustomUILib",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/CustomUILib/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomUILib/releases/download/2.0.0/CustomUILib.dll",
+                    "filename": "CustomUILib.dll",
+                    "sha256": "2d87f49ed6b1124119785f7d5d138cc3c4322486953894ec317ef9233706cb3c"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "ShadowDistanceChanger",
+    "id": "me.art0007i.ShadowDistanceChanger",
+    "description": "Allows changing the shadow distance using the mod's config",
+    "category": "Visual Tweaks",
+    "sourceLocation": "https://github.com/art0007i/ShadowDistanceChanger",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ShadowDistanceChanger/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/2.0.0/ShadowDistanceChanger.dll",
+                    "filename": "ShadowDistanceChanger.dll",
+                    "sha256": "b33c123e3f16c6f3f12183c975ec03f4e751ee1d12a1eaf171662a3419b5136f"
+                }
+            ]
+        }
+    }
+}

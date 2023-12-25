@@ -1,0 +1,19 @@
+{
+    "name": "CreateWorldConfig",
+    "id": "me.art0007i.CreateWorldConfig",
+    "description": "Adds the world configuration and world permission dialog to the `create new > editors` menu",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/art0007i/CreateWorldConfig",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/CreateWorldConfig/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CreateWorldConfig/releases/download/2.0.0/CreateWorldConfig.dll",
+                    "filename": "CreateWorldConfig.dll",
+                    "sha256": "7c9a9c5fc2a1c59b136704ec3a1dc650d1c0f36bea6b65bcd1c1c0fa7e6de7cb"
+                }
+            ]
+        }
+    }
+}

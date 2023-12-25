@@ -1,0 +1,19 @@
+{
+    "name": "ParentalIssues",
+    "id": "me.art0007i.ParentalIssues",
+    "description": "Changes the default parent and child object names to be funnier",
+    "category": "Memes",
+    "sourceLocation": "https://github.com/art0007i/ParentalIssues",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ParentalIssues/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ParentalIssues/releases/download/2.0.0/ParentalIssues.dll",
+                    "filename": "ParentalIssues.dll",
+                    "sha256": "2241fe6619880543be78d71894378250eba9b5a60147c9a95799869bbe7a129e"
+                }
+            ]
+        }
+    }
+}

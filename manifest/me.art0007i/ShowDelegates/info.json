@@ -1,0 +1,19 @@
+{
+    "name": "ShowDelegates",
+    "id": "me.art0007i.ShowDelegates",
+    "description": "Shows delegates and hidden items in the inspector panel",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/ShowDelegates",
+    "versions": {
+        "2.2.4": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.4/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "b15f241bb31378077cf76c03f5cbdab6f882cad19d0738cc981c91e9be546aac"
+                }
+            ]
+        }
+    }
+}

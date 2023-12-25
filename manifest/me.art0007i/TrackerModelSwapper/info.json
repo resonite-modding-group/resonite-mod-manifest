@@ -1,0 +1,19 @@
+{
+    "name": "TrackerModelSwapper",
+    "id": "me.art0007i.TrackerModelSwapper",
+    "description": "Allows you to replace the vive tracker model used to visualize trackers",
+    "category": "Visual Tweaks",
+    "sourceLocation": "https://github.com/art0007i/TrackerModelSwapper",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/TrackerModelSwapper/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/2.0.0/TrackerModelSwapper.dll",
+                    "filename": "TrackerModelSwapper.dll",
+                    "sha256": "9768a0be3b54c5d79351cbf7e0e237091eeac48038f44d079ea8006b344486ba"
+                }
+            ]
+        }
+    }
+}

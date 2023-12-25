@@ -1,0 +1,19 @@
+{
+    "name": "ExtrasButtonTweaks",
+    "id": "me.art0007i.ExtrasButtonTweaks",
+    "description": "Tweaks the extras button next to field names in inspectors",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/ExtrasButtonTweaks",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.0.0/ExtrasButtonTweaks.dll",
+                    "filename": "ExtrasButtonTweaks.dll",
+                    "sha256": "85880e8504bddde3c3aa5b9e84a7f1f6e747e5698a0d80d081d1314575e25978"
+                }
+            ]
+        }
+    }
+}

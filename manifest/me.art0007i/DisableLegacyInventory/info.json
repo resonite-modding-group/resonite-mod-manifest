@@ -1,0 +1,19 @@
+{
+    "name": "DisableLegacyInventory",
+    "id": "me.art0007i.DisableLegacyInventory",
+    "description": "Disables the legacy inventory gesture, but it has a config option that can enable it again",
+    "category": "Controls",
+    "sourceLocation": "https://github.com/art0007i/DisableLegacyInventory",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/DisableLegacyInventory/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DisableLegacyInventory/releases/download/2.0.0/DisableLegacyInventory.dll",
+                    "filename": "DisableLegacyInventory.dll",
+                    "sha256": "84a5d0a9d5f031225f8cff9d7e18a3b12b196afb05b6c2b9f1fc0e2ddba45a87"
+                }
+            ]
+        }
+    }
+}

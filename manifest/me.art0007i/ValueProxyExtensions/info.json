@@ -1,0 +1,19 @@
+{
+    "name": "ValueProxyExtensions",
+    "id": "me.art0007i.ValueProxyExtensions",
+    "description": "Adds a few extra features to reference and value proxies",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/art0007i/ValueProxyExtensions",
+    "versions": {
+        "2.1.0": {
+            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.0/ValueProxyExtensions.dll",
+                    "filename": "ValueProxyExtensions.dll",
+                    "sha256": "0e1efac55d36be410e7b2fb49cb0135f249b5dba3019b3e41821d0ff9f7cb26b"
+                }
+            ]
+        }
+    }
+}

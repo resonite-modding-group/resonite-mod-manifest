@@ -1,0 +1,19 @@
+{
+    "name": "DefaultToolOverride",
+    "id": "me.art0007i.DefaultToolOverride",
+    "description": "Gives you full control over the desktop number row tool keybinds",
+    "category": "Controls",
+    "sourceLocation": "https://github.com/art0007i/DefaultToolOverride",
+    "versions": {
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.1/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf"
+                }
+            ]
+        }
+    }
+}

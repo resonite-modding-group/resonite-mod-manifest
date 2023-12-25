@@ -1,0 +1,19 @@
+{
+    "name": "FixGrabWorld",
+    "id": "me.art0007i.FixGrabWorld",
+    "description": "Fixes the grab world locomotion moving you forwards each time you use it",
+    "category": "Bug Workaround",
+    "sourceLocation": "https://github.com/art0007i/FixGrabWorld",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/FixGrabWorld/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/FixGrabWorld/releases/download/2.0.0/FixGrabWorld.dll",
+                    "filename": "FixGrabWorld.dll",
+                    "sha256": "8822eb2ca3c0995deef692b92292a67485c27dd664bfd913bb83ba936504ff5d"
+                }
+            ]
+        }
+    }
+}
