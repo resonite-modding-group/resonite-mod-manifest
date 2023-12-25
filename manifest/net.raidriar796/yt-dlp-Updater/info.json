@@ -1,0 +1,17 @@
+{
+	"name": "yt-dlp Updater",
+	"id": "net.raidriar796.yt-dlp-Updater",
+	"description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll",
+				"filename": "ytdlpUpdater.dll",
+				"sha256": "9B6AEE2D1DBEC0A80DA7CEBD90EC208254B64D3F8B00BCA76234CC10098F4CB5"
+			}]
+		}
+	}
+}
