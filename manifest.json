@@ -272,6 +272,45 @@
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0"
                         }
                     }
+                },
+                "net.raidriar796.StresslessHeadless": {
+                    "category": "Technical Tweaks",
+                    "description": "Reduces strain on Headless clients by disabling frequent and heavy calculations.",
+                    "name": "StresslessHeadless",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D",
+                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.1.0"
+                        }
+                    }
+                },
+                "net.raidriar796.yt-dlp-Updater": {
+                    "category": "Misc",
+                    "description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
+                    "name": "yt-dlp Updater",
+                    "sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ytdlpUpdater.dll",
+                                    "sha256": "9B6AEE2D1DBEC0A80DA7CEBD90EC208254B64D3F8B00BCA76234CC10098F4CB5",
+                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0"
+                        }
+                    }
                 }
             }
         },
