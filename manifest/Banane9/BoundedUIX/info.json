@@ -1,0 +1,16 @@
+{
+	"name": "BoundedUIX",
+	"id": "Banane9.BoundedUIX",
+	"description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Banane9/ResoniteBoundedUIX/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Banane9/ResoniteBoundedUIX/releases/download/v1.0.0/BoundedUIX.dll",
+				"sha256": "2878d3b4a61527489d0b778bb9f69e48631cf6b7e89e9d4edf2736aa1ef6efa3"
+			}]
+		}
+	}
+}
