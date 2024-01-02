@@ -28,7 +28,7 @@ jobs:
 
     - name: Get all changed author files
       id: changed-author-files
-      uses: tj-actions/changed-files@v40
+      uses: tj-actions/changed-files@v41
       with:
         files: |
           manifest/**/author.json
