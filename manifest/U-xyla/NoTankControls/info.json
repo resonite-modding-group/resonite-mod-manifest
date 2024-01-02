@@ -1,0 +1,16 @@
+{
+	"name": "NoTankControls",
+	"id": "U-xyla.XyMod",
+	"description": "Don't lock up joystick movement while tools are equipped. Very helpful on Quest.",
+	"category": "Controls",
+	"sourceLocation": "https://github.com/furrz/NoTankControls",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/furrz/NoTankControls/releases/tag/1.0.0-resonite",
+			"artifacts": [{
+				"url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0-resonite/NoTankControls.dll",
+				"sha256": "f80b301222a8cf7c1529d114f28380f826005929d7f77a309125fd01f4f05117"
+			}]
+		}
+	}
+}
