@@ -1,0 +1,16 @@
+{
+	"name": "VDFaceTracking",
+	"id": "org.zeith.VDFaceTracking",
+	"description": "Virtual Desktop face tracking mod for Resonite.",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/Zeitheron/VDFaceTracking",
+	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.2/VDFaceTracking.dll",
+				"sha256": "e6a6c46939810ec8d49d237f47ca9fb5f0826a6d9f135fb53096dbc3ded92d8d"
+			}]
+		}
+	}
+}
