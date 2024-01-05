@@ -1,5 +1,50 @@
 {
     "objects": {
+        "Banane9": {
+            "author": {
+                "Banane9": {
+                    "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                    "support": "https://paypal.me/Banane9",
+                    "url": "https://github.com/Banane9"
+                }
+            },
+            "entries": {
+                "Banane9.BoundedUIX": {
+                    "category": "Inspectors",
+                    "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
+                    "name": "BoundedUIX",
+                    "sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2878d3b4a61527489d0b778bb9f69e48631cf6b7e89e9d4edf2736aa1ef6efa3",
+                                    "url": "https://github.com/Banane9/ResoniteBoundedUIX/releases/download/v1.0.0/BoundedUIX.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Banane9/ResoniteBoundedUIX/releases/tag/v1.0.0"
+                        }
+                    }
+                },
+                "Banane9.StopDisappearingLocomotionMenu": {
+                    "category": "Context Menu",
+                    "description": "Stops the locomotion (and scale) context menu entries from disappearing when a tool is equipped",
+                    "name": "StopDisappearingLocomotionMenu",
+                    "sourceLocation": "https://github.com/Banane9/ResoniteStopDisappearingLocomotionMenu",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1faff2c4c50ba0980df63b93ca047f0674e4d8f41632e20f88df17a9386eeaa5",
+                                    "url": "https://github.com/Banane9/ResoniteStopDisappearingLocomotionMenu/releases/download/v1.0.0/StopDisappearingLocomotionMenu.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Banane9/ResoniteStopDisappearingLocomotionMenu/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "U-xyla": {
             "author": {
                 "Zyntaks": {
