@@ -876,6 +876,35 @@
                 }
             }
         },
+        "org.zeith": {
+            "author": {
+                "Zeith": {
+                    "icon": "https://assets.zeith.org/icons/zeitheron.png",
+                    "support": "https://www.patreon.com/zeitheron",
+                    "url": "https://github.com/Zeitheron",
+                    "website": "https://me.zeith.org/"
+                }
+            },
+            "entries": {
+                "org.zeith.VDFaceTracking": {
+                    "category": "Hardware Integration",
+                    "description": "Virtual Desktop face tracking mod for Resonite.",
+                    "name": "VDFaceTracking",
+                    "sourceLocation": "https://github.com/Zeitheron/VDFaceTracking",
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e6a6c46939810ec8d49d237f47ca9fb5f0826a6d9f135fb53096dbc3ded92d8d",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.2/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.2"
+                        }
+                    }
+                }
+            }
+        },
         "owo.Nytra": {
             "author": {
                 "Nytra": {
