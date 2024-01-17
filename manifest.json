@@ -614,6 +614,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.4"
+                        },
+                        "2.2.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDelegates.dll",
+                                    "sha256": "ec2460b109f04c62045c0b537cf50b1e545b72f3aabb6f5e2a3b2320d1b55316",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.5/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Fix issue where some delegates were not showing up (#7)",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.5"
                         }
                     }
                 },
