@@ -1,0 +1,16 @@
+{
+	"name": "GTAV-Importer",
+	"id": "net.dfgHiatus.GTAImporter",
+	"description": "Allows importing GTA V assets (.odr and .odd files). Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/dfgHiatus/GTAImporter",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/GTAImporter/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/GTAImporter/releases/download/v2.0.0/GTAImporter.dll",
+				"sha256": "e3229f1f52969b4460eec36c5818f45c990094c72243765cffd14daad277a27c"
+			}]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "SpeedyURLs",
+	"id": "net.dfgHiatus.SpeedyURLs",
+	"description": "Skips the countdown in the hyperlink open dialog",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/dfgHiatus/SpeedyURLs",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v2.0.0/SpeedyURLs.dll",
+				"sha256": "52663402e34e48137765d49a0dcd8a47293a21e01692c274bf2c3cef643d2c79"
+			}]
+		}
+	}
+}
