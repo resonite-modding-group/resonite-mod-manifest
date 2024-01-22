@@ -874,6 +874,32 @@
                 }
             }
         },
+        "net.mizle": {
+            "author": {
+                "Eai": {
+                    "url": "https://github.com/eai04191"
+                }
+            },
+            "entries": {
+                "net.mizle.ResoniteDisableGamepads": {
+                    "category": "Controls",
+                    "description": "Completely disables all gamepad inputs (e.g. from an Xbox Controller) in Resonite. The original was created by Lexevo.",
+                    "name": "DisableGamepads",
+                    "sourceLocation": "https://github.com/eai04191/ResoniteDisableGamepads",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116",
+                                    "url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/eai04191/ResoniteDisableGamepads/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "net.pardeike": {
             "author": {
                 "pardeike": {
