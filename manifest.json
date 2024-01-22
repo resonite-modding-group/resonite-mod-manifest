@@ -813,6 +813,67 @@
                 }
             }
         },
+        "net.dfgHiatus": {
+            "author": {
+                "dfgHiatus": {
+                    "icon": "https://avatars.githubusercontent.com/u/51272212?v=4",
+                    "url": "https://github.com/dfgHiatus"
+                }
+            },
+            "entries": {
+                "net.dfgHiatus.GTAImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing GTA V assets (.odr and .odd files). Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
+                    "name": "GTAV-Importer",
+                    "sourceLocation": "https://github.com/dfgHiatus/GTAImporter",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e3229f1f52969b4460eec36c5818f45c990094c72243765cffd14daad277a27c",
+                                    "url": "https://github.com/dfgHiatus/GTAImporter/releases/download/v2.0.0/GTAImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/GTAImporter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.SpeedyURLs": {
+                    "category": "Misc",
+                    "description": "Skips the countdown in the hyperlink open dialog",
+                    "name": "SpeedyURLs",
+                    "sourceLocation": "https://github.com/dfgHiatus/SpeedyURLs",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "52663402e34e48137765d49a0dcd8a47293a21e01692c274bf2c3cef643d2c79",
+                                    "url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v2.0.0/SpeedyURLs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.TarGZImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing and extraction of .tar.gz files",
+                    "name": "TarGZImporter",
+                    "sourceLocation": "https://github.com/dfgHiatus/TarGZImporter",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3ac7b36adaf12ce35438eefeeaa40f6935c350f8d1031c0857b33186cbf1d8c5",
+                                    "url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v2.0.0/TarGZImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v2.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "net.pardeike": {
             "author": {
                 "pardeike": {
