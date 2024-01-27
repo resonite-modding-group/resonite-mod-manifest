@@ -470,6 +470,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "LocalStorage.dll",
+                                    "sha256": "c5a72d01d0a3327540ec26cff3bafae00e8b140b2a5e1ba881411258fa150ccf",
+                                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.2/LocalStorage.dll"
+                                }
+                            ],
+                            "changelog": "Remove calls to UniLog.Log",
+                            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.2"
                         }
                     }
                 },
