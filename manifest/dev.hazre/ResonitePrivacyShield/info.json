@@ -14,12 +14,12 @@
 		"network"
 	],
 	"versions": {
-		"2.0.1": {
+		"2.0.2": {
 			"artifacts": [
 				{
-					"url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.1/PrivacyShield.dll",
+					"url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll",
 					"filename": "PrivacyShield.dll",
-					"sha256": "7712a34aeb5a0a47953e3f55b07ace2aafe3acf7d2f90b6504c570a04736db18"
+					"sha256": "1BDBF99BCC08E3699A86BCEBE850C60B1598D0B8F39882E2F73CD7F225DC3352"
 				}
 			]
 		}

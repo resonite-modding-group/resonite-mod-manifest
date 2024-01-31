@@ -15,12 +15,12 @@
 		"avatar"
 	],
 	"versions": {
-		"1.0.3": {
+		"1.0.4": {
 			"artifacts": [
 				{
-					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.3/VRCFTReceiver.dll",
+					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll",
 					"filename": "VRCFTReceiver.dll",
-					"sha256": "5df909d68a4b057117a46dc682c83e8cf7504aea235587bbe81ee8c8cb8ba555"
+					"sha256": "8B419A4FB64543D36CE7C02E1BFDCB9FA32039584F5462C3A6FBD067387F384F"
 				}
 			]
 		}
