@@ -213,6 +213,69 @@
                 }
             }
         },
+        "dev.hazre": {
+            "author": {
+                "hazre": {
+                    "icon": "https://github.com/hazre.png",
+                    "url": "https://github.com/hazre"
+                }
+            },
+            "entries": {
+                "dev.hazre.ResonitePrivacyShield": {
+                    "additionalAuthors": {
+                        "NepuShiro": {},
+                        "ljoonal": {}
+                    },
+                    "category": "Misc",
+                    "description": "Adds Some privacy enhancements like requesting web permission for anything besides Resonite APIs, as well as timezone and FPS spoofing. (Port of PrivacyShield mod by ljoonal)",
+                    "name": "ResonitePrivacyShield",
+                    "sourceLocation": "https://github.com/hazre/ResonitePrivacyShield",
+                    "tags": [
+                        "privacy",
+                        "spoofing",
+                        "network"
+                    ],
+                    "versions": {
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "PrivacyShield.dll",
+                                    "sha256": "1BDBF99BCC08E3699A86BCEBE850C60B1598D0B8F39882E2F73CD7F225DC3352",
+                                    "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "dev.hazre.VRCFTReceiver": {
+                    "additionalAuthors": {
+                        "art0007i": {},
+                        "knackrack615": {}
+                    },
+                    "category": "Hardware Integration",
+                    "description": "A Mod that let's you use VRCFaceTracking Program for Eye and Face Tracking inside Resonite.",
+                    "name": "VRCFTReceiver",
+                    "sourceLocation": "https://github.com/hazre/VRCFTReceiver",
+                    "tags": [
+                        "facetracking",
+                        "eyetracking",
+                        "expressions",
+                        "avatar"
+                    ],
+                    "versions": {
+                        "1.0.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "VRCFTReceiver.dll",
+                                    "sha256": "8B419A4FB64543D36CE7C02E1BFDCB9FA32039584F5462C3A6FBD067387F384F",
+                                    "url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "me.art0007i": {
             "author": {
                 "art0007i": {
