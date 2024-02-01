@@ -9,7 +9,7 @@
 			"releaseUrl": "https://github.com/dfgHiatus/FuckMirrors/releases/tag/v2.0.0",
 			"artifacts": [{
 				"url": "https://github.com/dfgHiatus/FuckMirrors/releases/download/v2.0.0/FuckMirrors.dll",
-				"sha256": "74e067f1af65944725714d66cf153213a1d809cc5f27b96ac985860aed14ac9c"
+				"sha256": "2d0d1dba29d963a7c5ebca43507b6b212736fe16a2db5e6025e3b196032eded4"
 			}]
 		}
 	}
