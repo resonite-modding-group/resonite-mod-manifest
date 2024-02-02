@@ -9,7 +9,7 @@
 			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.3",
 			"artifacts": [{
 				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.3/VDFaceTracking.dll",
-				"sha256": "76a38f4becac1d18c54737da818b349cb0730567d4660056489b3edc2bf2ca8d"
+				"sha256": "fa0ca6f05a82b9837a547350d1836c1e8aee91371f7b98d2023e257747383111"
 			}]
 		},
 		"1.0.2": {
