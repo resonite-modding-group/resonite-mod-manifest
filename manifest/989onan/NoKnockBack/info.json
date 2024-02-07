@@ -1,0 +1,23 @@
+{
+	"name": "989onan.NoKnockBack",
+	"id": "989onan.NoKnockBack",
+	"description": "A Resonite mod that prevents knockback and sends an impulse of \"knockbackcanceled\" for knockback and \"gravitychangecanceled\" for gravity changes to the client's user root.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/989onan/NoKnockBack",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/989onan/NoKnockBack/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/989onan/NoKnockBack/releases/download/1.0.0/NoKnockBack.dll",
+				"sha256": "0857A5B614F221CFC9B77B5896118691F9659E2E54AF59857A3DD477B12EC399"
+			}]
+		},
+        "1.1.0": {
+			"releaseUrl": "https://github.com/989onan/NoKnockBack/releases/tag/1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/989onan/NoKnockBack/releases/download/1.0.1/NoKnockBack.dll",
+				"sha256": "D1C9E4BA2209F1672769C8BFA5FB6484CD7D28A9C118BD54D0295B5A54181E57"
+			}]
+		}
+	}
+}
