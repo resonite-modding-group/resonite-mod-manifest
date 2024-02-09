@@ -1114,9 +1114,26 @@
                 }
             },
             "entries": {
+                "ninja.badhalo.FixAltEnter": {
+                    "category": "Bug Workaround",
+                    "description": "Fixes alt + enter not respecting monitor resolution",
+                    "name": "FixAltEnter",
+                    "sourceLocation": "https://github.com/badhaloninja/FixAltEnter",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e2e2117f3c30f8a9fa5e7be8fe459fcd521beb3212be0897d1481c0d8d68e7fe",
+                                    "url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/FixAltEnter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
                 "ninja.badhalo.ModSettings": {
                     "category": "Dashboard",
-                    "description": "Adds a dash screen to show mods and edit their configs",
+                    "description": "Adds a dash screen to show and edit mods and their configs",
                     "name": "ResoniteModSettings",
                     "sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
                     "versions": {
