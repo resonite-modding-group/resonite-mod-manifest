@@ -1,0 +1,19 @@
+{
+    "name": "QuickFolderOpener",
+    "id": "me.art0007i.QuickFolderOpener",
+    "description": "Adds an option to your context menu which can open a folder without saving it",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/QuickFolderOpener",
+    "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/QuickFolderOpener/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/QuickFolderOpener/releases/download/2.0.1/QuickFolderOpener.dll",
+                    "filename": "QuickFolderOpener.dll",
+                    "sha256": "821ceeeeecd1a9e56c117e15f457f517e1e821666464a4d169e27c0be979f3f5"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"name": "FixAltEnter",
+	"id": "ninja.badhalo.FixAltEnter",
+	"description": "Fixes alt + enter not respecting monitor resolution",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/badhaloninja/FixAltEnter",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/badhaloninja/FixAltEnter/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll",
+				"sha256": "e2e2117f3c30f8a9fa5e7be8fe459fcd521beb3212be0897d1481c0d8d68e7fe"
+			}]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "name": "CustomInspectors",
+    "id": "me.art0007i.CustomInspectors",
+    "description": "Allows you to use custom inspector panels by saving them and favoriting them in your inventory",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/CustomInspectors",
+    "versions": {
+        "2.1.1": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.1/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "3c65cec215ef380f2cfa63c57daf123dcce68aee4c0e104953e7e2b7721985e4"
+                }
+            ]
+        }
+    }
+}

@@ -1,9 +1,12 @@
 {
 	"name": "FixSessionBrowser",
 	"id": "owo.Nytra.FixSessionBrowser",
-	"description": "A mod that fixes the session browser. It is a workaround for a few bugs that have not been officially fixed yet.",
+	"description": "A mod that fixed the session browser. This is no longer needed as of Beta 2024.1.30.731.",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/Nytra/ResoniteFixSessionBrowser",
+	"flags": [
+		"deprecated"
+	],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/tag/v1.0.0",

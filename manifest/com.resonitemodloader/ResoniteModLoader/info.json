@@ -8,13 +8,26 @@
 		"modloader"
 	],
 	"versions": {
+		"2.6.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.6.0",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.2.2"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.6.0/ResoniteModLoader.dll",
+				"filename": "ResoniteModLoader.dll",
+				"sha256": "35e928db9f4a1e703cf9b5b597ccecf1142bba36f1ca78217cc7edd2e116f4ef"
+			}]
+		},
 		"2.5.1": {
 			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.5.1",
 			"dependencies": {
-                "net.pardeike.harmony": {
-                    "version": "^2.2.2"
-                }
-            },
+				"net.pardeike.harmony": {
+					"version": "^2.2.2"
+				}
+			},
 			"artifacts": [{
 				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.1/ResoniteModLoader.dll",
 				"filename": "ResoniteModLoader.dll",
@@ -24,10 +37,10 @@
 		"2.5.0": {
 			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.5.0",
 			"dependencies": {
-                "net.pardeike.harmony": {
-                    "version": "^2.2.2"
-                }
-            },
+				"net.pardeike.harmony": {
+					"version": "^2.2.2"
+				}
+			},
 			"artifacts": [{
 				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.0/ResoniteModLoader.dll",
 				"filename": "ResoniteModLoader.dll",
@@ -37,10 +50,10 @@
 		"2.4.0": {
 			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.4.0",
 			"dependencies": {
-                "net.pardeike.harmony": {
-                    "version": "^2.2.2"
-                }
-            },
+				"net.pardeike.harmony": {
+					"version": "^2.2.2"
+				}
+			},
 			"artifacts": [{
 				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.4.0/ResoniteModLoader.dll",
 				"filename": "ResoniteModLoader.dll",

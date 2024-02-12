@@ -1,0 +1,19 @@
+{
+    "name": "ToolshelfAnarchy",
+    "id": "me.art0007i.ToolshelfAnarchy",
+    "description": "Allows you to take and put tools on other peoples toolshelves",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/ToolshelfAnarchy",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ToolshelfAnarchy/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ToolshelfAnarchy/releases/download/2.0.0/ToolshelfAnarchy.dll",
+                    "filename": "ToolshelfAnarchy.dll",
+                    "sha256": "f76d2a6a138c0ead9f70f35125c73e6085cb513fe85ffb7f01f54a15c3b522bb"
+                }
+            ]
+        }
+    }
+}

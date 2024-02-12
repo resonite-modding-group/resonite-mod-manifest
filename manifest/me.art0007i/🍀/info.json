@@ -1,0 +1,19 @@
+{
+    "name": "🍀",
+    "id": "me.art0007i.🍀",
+    "description": "Makes you luckier",
+    "category": "Memes",
+    "sourceLocation": "https://github.com/art0007i/FourLeafClover",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/FourLeafClover/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/FourLeafClover/raw/be7320d48fffedbdd6b086111a3d26bab09c26c4/%F0%9F%8D%80.dll",
+                    "filename": "🍀.dll",
+                    "sha256": "e18f11c954c2ad045d23cc2efa7c8e8f5589e90adead57bff35410ecc6baa43e"
+                }
+            ]
+        }
+    }
+}

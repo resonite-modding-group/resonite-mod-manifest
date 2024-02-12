@@ -28,7 +28,7 @@ jobs:
 
     - name: Get all changed mod info files
       id: changed-mod-files
-      uses: tj-actions/changed-files@v40
+      uses: tj-actions/changed-files@v41
       with:
         files: |
           manifest/**/info.json

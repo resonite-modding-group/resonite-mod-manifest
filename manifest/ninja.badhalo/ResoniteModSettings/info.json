@@ -1,7 +1,7 @@
 {
 	"name": "ResoniteModSettings",
 	"id": "ninja.badhalo.ModSettings",
-	"description": "Adds a dash screen to show mods and edit their configs",
+	"description": "Adds a dash screen to show and edit mods and their configs",
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
 	"versions": {

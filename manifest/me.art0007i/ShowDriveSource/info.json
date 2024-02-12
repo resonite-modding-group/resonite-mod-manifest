@@ -1,0 +1,19 @@
+{
+    "name": "ShowDriveSource",
+    "id": "me.art0007i.ShowDriveSource",
+    "description": "Allows you to see what is driving a field by simply clicking on the name of the field",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/ShowDriveSource",
+    "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.1/ShowDriveSource.dll",
+                    "filename": "ShowDriveSource.dll",
+                    "sha256": "c47e5b88277cfa4c1d365d122cd2bf3adbffc05ddd97887e6842eb2f92540704"
+                }
+            ]
+        }
+    }
+}

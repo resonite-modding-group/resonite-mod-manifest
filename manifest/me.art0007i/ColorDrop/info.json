@@ -1,0 +1,19 @@
+{
+    "name": "ColorDrop",
+    "id": "me.art0007i.ColorDrop",
+    "description": "Allows you to grab and drop colors in inspectors, similar to how you can grab numbers",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/ColorDrop",
+    "versions": {
+        "2.1.0": {
+            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.0/ColorDrop.dll",
+                    "filename": "ColorDrop.dll",
+                    "sha256": "d4f0e4b7ded4056fbee7ab94819bbd8a2a5ea2e60eb6680817f5476cced6688d"
+                }
+            ]
+        }
+    }
+}

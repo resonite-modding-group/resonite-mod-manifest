@@ -1,0 +1,28 @@
+{
+	"name": "VRCFTReceiver",
+	"id": "dev.hazre.VRCFTReceiver",
+	"description": "A Mod that let's you use VRCFaceTracking Program for Eye and Face Tracking inside Resonite.",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/hazre/VRCFTReceiver",
+	"additionalAuthors": [
+		"knackrack615",
+		"art0007i"
+	],
+	"tags": [
+		"facetracking",
+		"eyetracking",
+		"expressions",
+		"avatar"
+	],
+	"versions": {
+		"1.0.4": {
+			"artifacts": [
+				{
+					"url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll",
+					"filename": "VRCFTReceiver.dll",
+					"sha256": "8B419A4FB64543D36CE7C02E1BFDCB9FA32039584F5462C3A6FBD067387F384F"
+				}
+			]
+		}
+	}
+}

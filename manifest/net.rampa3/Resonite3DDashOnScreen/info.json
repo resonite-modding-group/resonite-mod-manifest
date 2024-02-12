@@ -1,0 +1,16 @@
+{
+	"name": "3DDashOnScreenResonite",
+	"id": "net.rampa3.3DDashOnScreenResonite",
+	"description": "Resonite Mod Loader mod, that replaces 2D overlay dash in Screen mode with the regular VR one",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/rampa3/3DDashOnScreenResonite",
+	"versions": {
+		"3.6.0": {
+			"releaseUrl": "https://github.com/rampa3/3DDashOnScreenResonite/releases/tag/3.6.0.0",
+			"artifacts": [{
+				"url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.0.0/3DDashOnScreenResonite.dll",
+				"sha256": "fe56959ff282e994aeff8b67fd0700916ba539a8f175faf377a999e899fc3284"
+			}]
+		}
+	}
+}

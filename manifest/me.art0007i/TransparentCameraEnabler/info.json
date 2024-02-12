@@ -1,0 +1,19 @@
+{
+    "name": "TransparentCameraEnabler",
+    "id": "me.art0007i.TransparentCameraEnabler",
+    "description": "Allows you to record transparent videos using OBS",
+    "category": "Bug Workaround",
+    "sourceLocation": "https://github.com/art0007i/TransparentCameraEnabler",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/TransparentCameraEnabler/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
+                    "filename": "TransparentCameraEnabler.dll",
+                    "sha256": "ee9f60a8a9826a2a579c8c2fbd49346a55ffee089931f38bbb11dd90b899c052"
+                }
+            ]
+        }
+    }
+}

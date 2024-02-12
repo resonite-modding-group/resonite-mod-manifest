@@ -1,0 +1,19 @@
+{
+    "name": "ShowComponentSlot",
+    "id": "me.art0007i.ShowComponentSlot",
+    "description": "Allows you to open the slot that a component is attached to in component inspectors",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/ShowComponentSlot",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ShowComponentSlot/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowComponentSlot/releases/download/2.0.0/ShowComponentSlot.dll",
+                    "filename": "ShowComponentSlot.dll",
+                    "sha256": "3520caa2b3dffce36036371d25214f31da0516a9bd6061d0dec54734949738f2"
+                }
+            ]
+        }
+    }
+}
