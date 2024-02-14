@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'isovel/resonite-mod-manifest'
+    if: github.repository == 'resonite-modding-group/resonite-mod-manifest'
     runs-on: ubuntu-latest
 
     steps:
