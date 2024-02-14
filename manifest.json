@@ -116,6 +116,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/isovel/ResonitePlatformSpoof/releases/tag/v2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResonitePlatformSpoof.dll",
+                                    "sha256": "082D9872AC50F915B8D06820AF9B5E7D44D8941D6D2FEB023818EE2C34376CF3",
+                                    "url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.1/ResonitePlatformSpoof.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/isovel/ResonitePlatformSpoof/releases/tag/v2.0.1"
                         }
                     }
                 }
