@@ -4,6 +4,7 @@
 	"description": "Allows importing VRML 1.0/2.0 and X3D files. Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/dfgHiatus/ResoniteVRMLImporter",
+	"platforms": ["windows", "linux-wine"],
 	"versions": {
 		"2.0.0": {
 			"releaseUrl": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/tag/v2.0.0",
