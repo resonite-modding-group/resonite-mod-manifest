@@ -1170,6 +1170,23 @@
                 }
             },
             "entries": {
+                "ninja.badhalo.DeselectOwnGizmos": {
+                    "category": "Context Menu",
+                    "description": "Adds the ability to deselect the user's own gizmos",
+                    "name": "DeselectOwnGizmos",
+                    "sourceLocation": "https://github.com/badhaloninja/DeselectOwnGizmos",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "82697257345def0fcc6fbdcac3b5013f0e708f8cebe64a643b7bfad7220cfa16",
+                                    "url": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/download/v2.0.1/DeselectOwnGizmos.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v2.0.1"
+                        }
+                    }
+                },
                 "ninja.badhalo.FixAltEnter": {
                     "category": "Bug Workaround",
                     "description": "Fixes alt + enter not respecting monitor resolution",
