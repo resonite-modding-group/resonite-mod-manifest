@@ -1,0 +1,23 @@
+{
+	"name": "PimaxEyeTracking",
+	"id": "net.dfg.PimaxEyeTracking",
+	"description": "Integrates the Droolon Pi1 eye-tracking module. Tracks Gaze, Eye Widen, and Eye Openness both combined and per-eye.",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v2.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracking-Resonite.dll",
+					"sha256": "b37fb3a29c75907f1dc412908395e74cf35e90ad58657e81a59479aba4fa0c22"
+				},
+				{
+					"url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracker.dll",
+					"sha256": "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759",
+					"installLocation": "/"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "MTLImporter",
+	"id": "net.dfgHiatus.MTLImporter",
+	"description": "Allows importing Wavefront .mtl files as material orbs",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/dfgHiatus/MTLImporter",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/MTLImporter/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/MTLImporter/releases/download/v2.0.0/MTLImporter.dll",
+				"sha256": "36454b8e11310b2540d6ce1680869a53e439df076a33650c5bc496c98dd3f94d"
+			}]
+		}
+	}
+}
