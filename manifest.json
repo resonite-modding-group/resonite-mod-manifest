@@ -920,6 +920,62 @@
                 }
             },
             "entries": {
+                "net.dfg.PimaxEyeTracking": {
+                    "category": "Hardware Integration",
+                    "description": "Integrates the Droolon Pi1 eye-tracking module. Tracks Gaze, Eye Widen, and Eye Openness both combined and per-eye.",
+                    "name": "PimaxEyeTracking",
+                    "sourceLocation": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b37fb3a29c75907f1dc412908395e74cf35e90ad58657e81a59479aba4fa0c22",
+                                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracking-Resonite.dll"
+                                },
+                                {
+                                    "installLocation": "/",
+                                    "sha256": "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759",
+                                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracker.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.CacheGetClapped": {
+                    "category": "Misc",
+                    "description": "Smart cache management - deletes stale cached assets automatically upon exiting Resonite",
+                    "name": "CacheGetClapped",
+                    "sourceLocation": "https://github.com/dfgHiatus/CacheGetClapped",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d1ad34dce33461a2de36a2363dadaaec12b30604f2a6094b9cdc2177f1d16493",
+                                    "url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.1/CacheGetClapped.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v2.0.1"
+                        }
+                    }
+                },
+                "net.dfgHiatus.FuckMirrors": {
+                    "category": "Memes",
+                    "description": "Cringe remover. Locally disables world-space cameras. Breaks things such as UI elements that rely on cameras to render textures. Can sometimes solve rendering issues with certain HMDs.",
+                    "name": "FuckMirrors",
+                    "sourceLocation": "https://github.com/dfgHiatus/FuckMirrors",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2d0d1dba29d963a7c5ebca43507b6b212736fe16a2db5e6025e3b196032eded4",
+                                    "url": "https://github.com/dfgHiatus/FuckMirrors/releases/download/v2.0.0/FuckMirrors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/FuckMirrors/releases/tag/v2.0.0"
+                        }
+                    }
+                },
                 "net.dfgHiatus.GTAImporter": {
                     "category": "Asset Importing",
                     "description": "Allows importing GTA V assets (.odr and .odd files). Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
@@ -934,6 +990,40 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/GTAImporter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.MTLImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing Wavefront .mtl files as material orbs",
+                    "name": "MTLImporter",
+                    "sourceLocation": "https://github.com/dfgHiatus/MTLImporter",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "36454b8e11310b2540d6ce1680869a53e439df076a33650c5bc496c98dd3f94d",
+                                    "url": "https://github.com/dfgHiatus/MTLImporter/releases/download/v2.0.0/MTLImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/MTLImporter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.SVGImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing SVG (Scalable Vector Graphics) files as 3D models. Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
+                    "name": "SVGImporter",
+                    "sourceLocation": "https://github.com/dfgHiatus/ResoniteSVGImporter",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "71f7ff48a4d286a1bb410583301bb6b81bc685544294ea2e24452ad7d14c918d",
+                                    "url": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/download/v2.0.0/SVGImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/tag/v2.0.0"
                         }
                     }
                 },
@@ -968,6 +1058,69 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.VRMLImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing VRML 1.0/2.0 and X3D files. Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
+                    "name": "VRMLImporter",
+                    "platforms": [
+                        "windows",
+                        "linux-wine"
+                    ],
+                    "sourceLocation": "https://github.com/dfgHiatus/ResoniteVRMLImporter",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2dd001fa8f55e876c274075225d92d4bd03b81a2c8a2477fcb0f5456929ccfb7",
+                                    "url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/VRMLImporter.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_mods/vrml_importer",
+                                    "sha256": "bb1d0a31295560c20dbd8d477813be7d0172321cee0d166236d0baec5291fdf2",
+                                    "url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vrml1tovrml2.exe"
+                                },
+                                {
+                                    "installLocation": "/rml_mods/vrml_importer",
+                                    "sha256": "47c3bca760f7a7dd65fb935b9cde6a0ab90566f3786dfbf1a648a6dcedb1b20f",
+                                    "url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vrml1tovrml2.txt"
+                                },
+                                {
+                                    "installLocation": "/rml_mods/vrml_importer",
+                                    "sha256": "6e3f443f82a49dc41b207cb1ad20d53f68e4055b1e6a85569fe833dfe565cb0b",
+                                    "url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vr1tovr2.exe"
+                                },
+                                {
+                                    "installLocation": "/rml_mods/vrml_importer",
+                                    "sha256": "54710eedc2aa5597af3fabab5ab0d2e47c56ad615e0a1bfbf60619e5b5bc64a4",
+                                    "url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vr1tovr2.txt"
+                                },
+                                {
+                                    "installLocation": "/rml_mods/vrml_importer",
+                                    "sha256": "3c4c1021aebb19e2d42173c52589e4380d93d4c2fd31ee70f9ff06035fe56dbb",
+                                    "url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/cp_vrml1to2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dfgHiatus.ZipImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing and extraction of .zip files",
+                    "name": "ZipImporter",
+                    "sourceLocation": "https://github.com/dfgHiatus/ZipImporter",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4c7972d935452ac5f3db44738ba0972b13ccb1e8907dc4092b7325c80cb999f2",
+                                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.1/ZipImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1"
                         }
                     }
                 }
