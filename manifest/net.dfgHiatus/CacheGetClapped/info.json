@@ -1,0 +1,16 @@
+{
+	"name": "CacheGetClapped",
+	"id": "net.dfgHiatus.CacheGetClapped",
+	"description": "Smart cache management - deletes stale cached assets automatically upon exiting Resonite",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/dfgHiatus/CacheGetClapped",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.1/CacheGetClapped.dll",
+				"sha256": "d1ad34dce33461a2de36a2363dadaaec12b30604f2a6094b9cdc2177f1d16493"
+			}]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "ZipImporter",
+	"id": "net.dfgHiatus.ZipImporter",
+	"description": "Allows importing and extraction of .zip files",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/dfgHiatus/ZipImporter",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.1/ZipImporter.dll",
+				"sha256": "4c7972d935452ac5f3db44738ba0972b13ccb1e8907dc4092b7325c80cb999f2"
+			}]
+		}
+	}
+}
