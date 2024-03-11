@@ -1,0 +1,16 @@
+{
+	"name": "ResoniteScreenshotExtensions",
+	"id": "dev.baru.resonite.ResoniteScreenshotExtensions",
+	"description": "Extensions of screenshot",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.0.0/ResoniteScreenshotExtensions.dll",
+				"sha256": "fdfaee5ec4beac44f2a7e957a187461694f92bbe89b44fd553cf9233b5dacfb6"
+			}]
+		}
+	}
+}
