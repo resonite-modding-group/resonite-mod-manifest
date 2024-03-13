@@ -1,0 +1,16 @@
+{
+	"name": "EnumDropdown",
+	"id": "ninja.badhalo.EnumDropdown",
+	"description": "Adds a dropdown for enum fields",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/badhaloninja/EnumDropdown",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.0/EnumDropdown.dll",
+				"sha256": "b1d52e93b4b85111cf0c8924be34f5637bc557f613056a5af0e9eac252c54e33"
+			}]
+		}
+	}
+}

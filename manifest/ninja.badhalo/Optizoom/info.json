@@ -1,0 +1,16 @@
+{
+	"name": "Optizoom",
+	"id": "ninja.badhalo.Optizoom",
+	"description": "Adds the ability to zoom",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/badhaloninja/Optizoom",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.0/Optizoom.dll",
+				"sha256": "d0bfb4a59fd8d3cfa2ee86f25e557cf125ad98f43b5275649d1d6fffa79f795f"
+			}]
+		}
+	}
+}
