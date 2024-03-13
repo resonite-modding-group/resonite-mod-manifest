@@ -4,6 +4,9 @@
 	"description": "A Headless Server mod that prevents tool permission kicks from causing a world crash.",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix",
+	"flags": [
+		"deprecated"
+	],
 	"platforms": [
 		"headless"
 	],
