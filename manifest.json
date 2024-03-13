@@ -1492,7 +1492,10 @@
             "entries": {
                 "owo.Nytra / Rucio.HeadlessToolPermissionKickCrashFix": {
                     "category": "Bug Workaround",
-                    "description": "A Headless Server mod that prevents tool permission kicks from causing a world crash.",
+                    "description": "A Headless Server mod that prevented tool permission kicks from causing a world crash. This is no longer needed as of Beta 2024.3.12.1169.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "HeadlessToolPermissionKickCrashFix",
                     "platforms": [
                         "headless"
