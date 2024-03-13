@@ -1340,6 +1340,23 @@
                         }
                     }
                 },
+                "ninja.badhalo.EnumDropdown": {
+                    "category": "Inspectors",
+                    "description": "Adds a dropdown for enum fields",
+                    "name": "EnumDropdown",
+                    "sourceLocation": "https://github.com/badhaloninja/EnumDropdown",
+                    "versions": {
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b1d52e93b4b85111cf0c8924be34f5637bc557f613056a5af0e9eac252c54e33",
+                                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.0/EnumDropdown.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0"
+                        }
+                    }
+                },
                 "ninja.badhalo.FixAltEnter": {
                     "category": "Bug Workaround",
                     "description": "Fixes alt + enter not respecting monitor resolution",
@@ -1372,6 +1389,23 @@
                             ],
                             "changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3"
+                        }
+                    }
+                },
+                "ninja.badhalo.Optizoom": {
+                    "category": "Visual Tweaks",
+                    "description": "Adds the ability to zoom",
+                    "name": "Optizoom",
+                    "sourceLocation": "https://github.com/badhaloninja/Optizoom",
+                    "versions": {
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d0bfb4a59fd8d3cfa2ee86f25e557cf125ad98f43b5275649d1d6fffa79f795f",
+                                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.0/Optizoom.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.0"
                         }
                     }
                 }
