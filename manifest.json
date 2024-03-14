@@ -878,6 +878,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.3.0"
+                        },
+                        "1.4.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e6fe84872c599dbb8799ccc97ec49293b71c0141609d52c0113482bb3a2b6ec1",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.4.0/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.4.0"
                         }
                     }
                 },
