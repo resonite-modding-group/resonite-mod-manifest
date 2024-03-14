@@ -11,6 +11,13 @@
 				"url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.3.0/ResonitePTTKeybinds.dll",
 				"sha256": "6795e0bba010a58cda9a6383e09a973c8c4aa65a2aa1a77ba78604d30a794b48"
 			}]
+		},
+		"1.4.0": {
+			"releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.4.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.4.0/ResonitePTTKeybinds.dll",
+				"sha256": "e6fe84872c599dbb8799ccc97ec49293b71c0141609d52c0113482bb3a2b6ec1"
+			}]
 		}
 	}
 }
