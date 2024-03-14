@@ -1,0 +1,16 @@
+{
+	"name": "NeosBetterIMESupport",
+	"id": "dev.baru.resonite.NeosBetterIMESupport",
+	"description": "Fix issues in IME with complex input methods like Japanese",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/hantabaru1014/NeosBetterIMESupport",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll",
+				"sha256": "642b898c50103bbfc70560fe96ac476e5654bae1fd63adf7ae534272e19a6320"
+			}]
+		}
+	}
+}

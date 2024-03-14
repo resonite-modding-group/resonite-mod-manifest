@@ -1,0 +1,16 @@
+{
+	"name": "BetterInventoryBrowser",
+	"id": "dev.baru.resonite.BetterInventoryBrowser",
+	"description": "UI tweaks for InventoryBrowser",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/hantabaru1014/BetterInventoryBrowser",
+	"versions": {
+		"0.6.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.1/BetterInventoryBrowser.dll",
+				"sha256": "8b3164140486384570ed3c70d4d3abb93730c56badf2576e1c4ce10de57c0352"
+			}]
+		}
+	}
+}
