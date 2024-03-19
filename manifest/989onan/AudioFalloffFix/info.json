@@ -1,0 +1,23 @@
+{
+	"name": "989onan.AudioFalloffFix",
+	"id": "989onan.AudioFalloffFix",
+	"description": "A Resonite mod that allows you to change audio falloff for all logmarithic falloffs locally.",
+	"category": "Audio",
+	"sourceLocation": "https://github.com/989onan/AudioFalloffFix",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/989onan/AudioFalloffFix/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/989onan/AudioFalloffFix/releases/download/1.0.0/AudioFalloffFix.dll",
+				"sha256": "A80E53A0A936B410E1B97A8A0201AA8301CA523D2A7C311F59AAAD4AA98C5602"
+			}]
+		},
+        "1.1.0": {
+			"releaseUrl": "https://github.com/989onan/AudioFalloffFix/releases/tag/1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/989onan/AudioFalloffFix/releases/download/1.1.0/AudioFalloffFix.dll",
+				"sha256": "9E8E33D0E95098146CD03776D09F7DFED6EFCFD79B8E67691BD3C43F86260DC9"
+			}]
+		}
+	}
+}
