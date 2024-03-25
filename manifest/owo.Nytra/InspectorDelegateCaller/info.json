@@ -5,11 +5,11 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/Nytra/ResoniteInspectorDelegateCaller",
 	"versions": {
-		"1.3.0": {
-			"releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.3.0",
+		"1.4.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.0",
 			"artifacts": [{
-				"url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.3.0/InspectorDelegateCaller.dll",
-				"sha256": "2f3c77725ad0ffc63e91b7af4d21a330bf7cab4f9f4502ec15a1fde40e28ec6e"
+				"url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.0/InspectorDelegateCaller.dll",
+				"sha256": "4d9aba017d5381c4c20a782e18bd1756ff4370cae78ccb952af55a6ecb84eee6"
 			}]
 		}
 	}
