@@ -1,0 +1,16 @@
+{
+	"name": "InspectorDelegateCaller",
+	"id": "net.eia485 / Nytra.InspectorDelegateCaller",
+	"description": "Adds some buttons to inspector UI for workers that have callable delegates.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Nytra/ResoniteInspectorDelegateCaller",
+	"versions": {
+		"1.4.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.0/InspectorDelegateCaller.dll",
+				"sha256": "4d9aba017d5381c4c20a782e18bd1756ff4370cae78ccb952af55a6ecb84eee6"
+			}]
+		}
+	}
+}
