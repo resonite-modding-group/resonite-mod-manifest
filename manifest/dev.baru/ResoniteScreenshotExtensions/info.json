@@ -1,7 +1,7 @@
 {
 	"name": "ResoniteScreenshotExtensions",
 	"id": "dev.baru.resonite.ResoniteScreenshotExtensions",
-	"description": "Extensions of screenshot",
+	"description": "Embed additional information in the screenshot and expand options when saving files",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
 	"versions": {
