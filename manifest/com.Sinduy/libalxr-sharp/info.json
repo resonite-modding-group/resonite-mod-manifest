@@ -1,0 +1,21 @@
+{
+	"name": "libalxr-sharp",
+	"id": "com.Sinduy.libalxr-sharp",
+	"description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.0",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
+	"additionalAuthors": [
+		"korejan"
+	],
+	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/v1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/v1.2.0/libalxr-sharp.dll",
+				"filename": "libalxr-sharp.dll",
+				"sha256": "",
+				"installLocation": "/rml_libs"
+			}]
+		}
+	}
+}
