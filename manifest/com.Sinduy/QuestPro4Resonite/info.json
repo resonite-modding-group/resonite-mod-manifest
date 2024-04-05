@@ -21,9 +21,8 @@
 			"artifacts": [{
 				"url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.3/QuestProModule.dll",
 				"filename": "QuestProModule.dll",
-				"sha256": ""
-			}],
-			"changelog": ""
+				"sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669"
+			}]
 		}
 	}
 }
