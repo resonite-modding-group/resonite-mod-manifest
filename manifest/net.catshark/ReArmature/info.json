@@ -1,6 +1,6 @@
 {
 	"name": "ReArmature",
-	"id": "net.catshark.ReArmature",
+	"id": "net.catshark.rearmature",
 	"description": "Adds a 'Re-Setup bones' button SkinnedMeshRenderers that helps with re-assigning bones to the armature. Works with new bones aswell",
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/CatSharkShin/ReArmature",
