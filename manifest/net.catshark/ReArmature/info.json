@@ -5,11 +5,11 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/CatSharkShin/ReArmature",
 	"versions": {
-		"2.1": {
-			"releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1",
+		"2.1.0": {
+			"releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.0",
 			"artifacts": [{
-				"url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1/ReArmature.dll",
-				"sha256": "e6af6d82832ed8cee672427338d414cd3a9a6b0b7607d8f20512ed3379aa4e54"
+				"url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.0/ReArmature.dll",
+				"sha256": "e8e309314b844847d19fb8fa7346c966eaacf73920aad3c786987e35efd89379"
 			}]
 		}
 	}
