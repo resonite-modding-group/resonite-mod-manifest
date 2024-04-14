@@ -1,7 +1,7 @@
 {
 	"name": "libalxr-sharp",
 	"id": "com.Sinduy.libalxr-sharp",
-	"description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.0",
+	"description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.2",
 	"category": "Libraries",
 	"sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
 	"additionalAuthors": [
