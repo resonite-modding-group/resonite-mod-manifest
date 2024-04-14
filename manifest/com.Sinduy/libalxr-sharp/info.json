@@ -9,7 +9,7 @@
 	],
 	"versions": {
 		"1.2.0": {
-			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/v1.2.0",
+			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/v1.2.0",
 			"artifacts": [{
 				"url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/v1.2.0/libalxr-sharp.dll",
 				"filename": "libalxr-sharp.dll",
