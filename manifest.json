@@ -131,6 +131,67 @@
                 }
             }
         },
+        "com.Sinduy": {
+            "author": {
+                "Sinduy": {
+                    "icon": "https://github.com/sjsanjsrh.png",
+                    "url": "https://github.com/sjsanjsrh"
+                }
+            },
+            "entries": {
+                "com.Sinduy.QuestPro4Resonite": {
+                    "additionalAuthors": {
+                        "Dante Tucker": {},
+                        "Geenz": {},
+                        "Scar Vorrix": {},
+                        "dfgHiatus": {}
+                    },
+                    "category": "Hardware Integration",
+                    "description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
+                    "name": "QuestPro4Resonite",
+                    "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
+                    "versions": {
+                        "2.1.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "QuestProModule.dll",
+                                    "sha256": "f802d5915c532dd9355440407dee212c46e41131c64d906800d0b133e1c08e45",
+                                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/QuestProModule.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "com.Sinduy.libalxr-sharp": {
+                                    "version": "^1.2.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4"
+                        }
+                    }
+                },
+                "com.Sinduy.libalxr-sharp": {
+                    "additionalAuthors": {
+                        "korejan": {}
+                    },
+                    "category": "Libraries",
+                    "description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.2",
+                    "name": "libalxr-sharp",
+                    "sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
+                    "versions": {
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "libalxr-sharp.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d",
+                                    "url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.2.0/libalxr-sharp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.example": {
             "author": {
                 "ExampleAuthor": {
