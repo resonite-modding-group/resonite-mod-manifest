@@ -9,11 +9,11 @@
 	],
 	"versions": {
 		"1.2.0": {
-			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/v1.2.0",
+			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0",
 			"artifacts": [{
-				"url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/v1.2.0/libalxr-sharp.dll",
+				"url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.2.0/libalxr-sharp.dll",
 				"filename": "libalxr-sharp.dll",
-				"sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669",
+				"sha256": "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d",
 				"installLocation": "/rml_libs"
 			}]
 		}
