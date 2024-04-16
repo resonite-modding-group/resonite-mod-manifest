@@ -1025,7 +1025,10 @@
                 },
                 "net.deltawolf.SettingsRedux": {
                     "category": "Dashboard",
-                    "description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes",
+                    "description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes. Superceded by settings overhaul in 2024.4.15.1407",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "SettingsRedux",
                     "sourceLocation": "https://github.com/XDelta/SettingsRedux",
                     "versions": {
