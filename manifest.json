@@ -403,6 +403,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837",
+                                    "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1"
                         }
                     }
                 },
