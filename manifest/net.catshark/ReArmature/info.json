@@ -11,6 +11,14 @@
 				"url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.0/ReArmature.dll",
 				"sha256": "e8e309314b844847d19fb8fa7346c966eaacf73920aad3c786987e35efd89379"
 			}]
+		},
+		"2.1.1": {
+			"releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.1",
+			"artifacts": [{
+				"url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.1/ReArmature.dll",
+				"sha256": "12818a538b7b352fe7dc6f169d8a64acc51328ce34ae4acd51b3dc4355110953"
+			}],
+            "changelog": "Rebuild for 2024.4.17.208"
 		}
 	}
 }
