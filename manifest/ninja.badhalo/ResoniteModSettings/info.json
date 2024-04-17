@@ -5,6 +5,13 @@
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
 	"versions": {
+		"2.1.4": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.4",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.4/ResoniteModSettings.dll",
+				"sha256": "d0fbc993661c240b38a3f0d79eeb91ef2b22aae5aa064b278e0bfc5e01f25280"
+			}]
+		},
 		"2.1.3": {
 			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3",
 			"changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",
