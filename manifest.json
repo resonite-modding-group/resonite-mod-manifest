@@ -1542,6 +1542,15 @@
                             ],
                             "changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3"
+                        },
+                        "2.1.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d0fbc993661c240b38a3f0d79eeb91ef2b22aae5aa064b278e0bfc5e01f25280",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.4/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.4"
                         }
                     }
                 },
