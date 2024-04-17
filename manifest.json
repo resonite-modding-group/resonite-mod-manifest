@@ -805,6 +805,16 @@
                             ],
                             "changelog": "Fix issue where some delegates were not showing up (#7)",
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.5"
+                        },
+                        "2.2.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3126895a622ae75bed335d5fe6ee2d1d9ecb4a13179791211464c4f5e4cd85a4",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.6/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild for 2024.4.15.1407",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.6"
                         }
                     }
                 },
