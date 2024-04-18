@@ -407,10 +407,12 @@
                         "2.1.1": {
                             "artifacts": [
                                 {
+                                    "filename": "ColorDrop.dll",
                                     "sha256": "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837",
                                     "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll"
                                 }
                             ],
+                            "changelog": "Rebuild for compatibility with 2024.4.15.1407",
                             "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1"
                         }
                     }
@@ -653,6 +655,25 @@
                         }
                     }
                 },
+                "me.art0007i.MyInspectors": {
+                    "category": "Inspectors",
+                    "description": "Makes inspectors generate by local user instead of host. Slightly unsable, if anything with inspectors breaks remove this mod.",
+                    "name": "MyInspectors",
+                    "sourceLocation": "https://github.com/art0007i/MyInspectors",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "MyInspectors.dll",
+                                    "sha256": "da60f1bc535a5054124e2f746a0f3df90a7a19d87e132e25a5084034b9a1c24f",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.1/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fixed for new resonite version",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.1"
+                        }
+                    }
+                },
                 "me.art0007i.NoHeadMenuDash": {
                     "category": "Controls",
                     "description": "Removes the gesture that opens the dash when you press the menu button near your head",
@@ -809,11 +830,12 @@
                         "2.2.6": {
                             "artifacts": [
                                 {
+                                    "filename": "ShowDelegates.dll",
                                     "sha256": "3126895a622ae75bed335d5fe6ee2d1d9ecb4a13179791211464c4f5e4cd85a4",
                                     "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.6/ShowDelegates.dll"
                                 }
                             ],
-                            "changelog": "Rebuild for 2024.4.15.1407",
+                            "changelog": "Rebuilt for new resonite version",
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.6"
                         }
                     }
