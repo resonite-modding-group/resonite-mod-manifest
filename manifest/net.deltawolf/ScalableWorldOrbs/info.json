@@ -1,0 +1,16 @@
+{
+	"name": "ScalableWorldOrbs",
+	"id": "net.deltawolf.ScalableWorldOrbs",
+	"description": "Makes World Orbs you spawn scalable by default.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/XDelta/ScalableWorldOrbs",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/XDelta/ScalableWorldOrbs/releases/tag/2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ScalableWorldOrbs/releases/download/2.0.0/ScalableWorldOrbs.dll",
+				"sha256": "41d55d41a3667d06b64631b01662de1cc0a95d16dfb7b5c895c6c63f0d509261"
+			}]
+		}
+	}
+}

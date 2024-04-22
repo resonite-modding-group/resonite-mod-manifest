@@ -131,6 +131,67 @@
                 }
             }
         },
+        "com.Sinduy": {
+            "author": {
+                "Sinduy": {
+                    "icon": "https://github.com/sjsanjsrh.png",
+                    "url": "https://github.com/sjsanjsrh"
+                }
+            },
+            "entries": {
+                "com.Sinduy.QuestPro4Resonite": {
+                    "additionalAuthors": {
+                        "Dante Tucker": {},
+                        "Geenz": {},
+                        "Scar Vorrix": {},
+                        "dfgHiatus": {}
+                    },
+                    "category": "Hardware Integration",
+                    "description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
+                    "name": "QuestPro4Resonite",
+                    "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
+                    "versions": {
+                        "2.1.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "QuestProModule.dll",
+                                    "sha256": "f802d5915c532dd9355440407dee212c46e41131c64d906800d0b133e1c08e45",
+                                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/QuestProModule.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "com.Sinduy.libalxr-sharp": {
+                                    "version": "^1.2.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4"
+                        }
+                    }
+                },
+                "com.Sinduy.libalxr-sharp": {
+                    "additionalAuthors": {
+                        "korejan": {}
+                    },
+                    "category": "Libraries",
+                    "description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.2",
+                    "name": "libalxr-sharp",
+                    "sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
+                    "versions": {
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "libalxr-sharp.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d",
+                                    "url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.2.0/libalxr-sharp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.example": {
             "author": {
                 "ExampleAuthor": {
@@ -342,6 +403,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ColorDrop.dll",
+                                    "sha256": "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837",
+                                    "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild for compatibility with 2024.4.15.1407",
+                            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1"
                         }
                     }
                 },
@@ -450,6 +522,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "DefaultToolOverride.dll",
+                                    "sha256": "4e5e2c1ac7a8676095599671228990abcda3718d006e0e0af05c2804234ff499",
+                                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.2/DefaultToolOverride.dll"
+                                }
+                            ],
+                            "changelog": "Fix \"None\" override type not working correctly.",
+                            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -569,6 +652,25 @@
                             ],
                             "changelog": "Remove calls to UniLog.Log",
                             "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.2"
+                        }
+                    }
+                },
+                "me.art0007i.MyInspectors": {
+                    "category": "Inspectors",
+                    "description": "Makes inspectors generate by local user instead of host. Slightly unsable, if anything with inspectors breaks remove this mod.",
+                    "name": "MyInspectors",
+                    "sourceLocation": "https://github.com/art0007i/MyInspectors",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "MyInspectors.dll",
+                                    "sha256": "da60f1bc535a5054124e2f746a0f3df90a7a19d87e132e25a5084034b9a1c24f",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.1/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fixed for new resonite version",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -724,6 +826,17 @@
                             ],
                             "changelog": "Fix issue where some delegates were not showing up (#7)",
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.5"
+                        },
+                        "2.2.6": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDelegates.dll",
+                                    "sha256": "3126895a622ae75bed335d5fe6ee2d1d9ecb4a13179791211464c4f5e4cd85a4",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.6/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Rebuilt for new resonite version",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.6"
                         }
                     }
                 },
@@ -855,15 +968,86 @@
                 }
             }
         },
+        "net.catshark": {
+            "author": {
+                "CatSharkShin": {
+                    "url": "https://github.com/CatSharkShin"
+                }
+            },
+            "entries": {
+                "net.catshark.rearmature": {
+                    "category": "Inspectors",
+                    "description": "Adds a 'Re-Setup bones' button SkinnedMeshRenderers that helps with re-assigning bones to the armature. Works with new bones aswell",
+                    "name": "ReArmature",
+                    "sourceLocation": "https://github.com/CatSharkShin/ReArmature",
+                    "versions": {
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e8e309314b844847d19fb8fa7346c966eaacf73920aad3c786987e35efd89379",
+                                    "url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.0/ReArmature.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "12818a538b7b352fe7dc6f169d8a64acc51328ce34ae4acd51b3dc4355110953",
+                                    "url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.1/ReArmature.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild for 2024.4.17.208",
+                            "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.1"
+                        }
+                    }
+                }
+            }
+        },
         "net.deltawolf": {
             "author": {
                 "Delta": {
-                    "icon": "https://avatars.githubusercontent.com/u/7883807?v=4",
+                    "icon": "https://github.com/XDelta.png",
                     "support": "https://www.patreon.com/_Delta",
                     "url": "https://github.com/XDelta/"
                 }
             },
             "entries": {
+                "net.deltawolf.ResonitePTTKeybinds": {
+                    "category": "Controls",
+                    "description": "Allows disabling and rebinding the default Push to Talk / Mute keybinds and setting keybinds to set your current voicemode",
+                    "name": "PTTKeybinds",
+                    "sourceLocation": "https://github.com/XDelta/ResonitePTTKeybinds",
+                    "versions": {
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6795e0bba010a58cda9a6383e09a973c8c4aa65a2aa1a77ba78604d30a794b48",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.3.0/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.3.0"
+                        },
+                        "1.4.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e6fe84872c599dbb8799ccc97ec49293b71c0141609d52c0113482bb3a2b6ec1",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.4.0/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.4.0"
+                        },
+                        "1.5.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a55817ddeb7725c1c3d18d838f4133351dbfe634af500a01de641a52efefb618",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.0/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ResoniteShowSourceLocation": {
                     "category": "Inspectors",
                     "description": "Allows seeing what is driving a field and where a component is located.",
@@ -882,9 +1066,29 @@
                         }
                     }
                 },
+                "net.deltawolf.ScalableWorldOrbs": {
+                    "category": "Misc",
+                    "description": "Makes World Orbs you spawn scalable by default.",
+                    "name": "ScalableWorldOrbs",
+                    "sourceLocation": "https://github.com/XDelta/ScalableWorldOrbs",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "41d55d41a3667d06b64631b01662de1cc0a95d16dfb7b5c895c6c63f0d509261",
+                                    "url": "https://github.com/XDelta/ScalableWorldOrbs/releases/download/2.0.0/ScalableWorldOrbs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ScalableWorldOrbs/releases/tag/2.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.SettingsRedux": {
                     "category": "Dashboard",
-                    "description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes",
+                    "description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes. Superceded by settings overhaul in 2024.4.15.1407",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "SettingsRedux",
                     "sourceLocation": "https://github.com/XDelta/SettingsRedux",
                     "versions": {
@@ -1340,6 +1544,23 @@
                         }
                     }
                 },
+                "ninja.badhalo.EnumDropdown": {
+                    "category": "Inspectors",
+                    "description": "Adds a dropdown for enum fields",
+                    "name": "EnumDropdown",
+                    "sourceLocation": "https://github.com/badhaloninja/EnumDropdown",
+                    "versions": {
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b1d52e93b4b85111cf0c8924be34f5637bc557f613056a5af0e9eac252c54e33",
+                                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.0/EnumDropdown.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0"
+                        }
+                    }
+                },
                 "ninja.badhalo.FixAltEnter": {
                     "category": "Bug Workaround",
                     "description": "Fixes alt + enter not respecting monitor resolution",
@@ -1372,6 +1593,41 @@
                             ],
                             "changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3"
+                        },
+                        "2.1.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d0fbc993661c240b38a3f0d79eeb91ef2b22aae5aa064b278e0bfc5e01f25280",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.4/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.4"
+                        }
+                    }
+                },
+                "ninja.badhalo.Optizoom": {
+                    "category": "Visual Tweaks",
+                    "description": "Adds the ability to zoom",
+                    "name": "Optizoom",
+                    "sourceLocation": "https://github.com/badhaloninja/Optizoom",
+                    "versions": {
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d0bfb4a59fd8d3cfa2ee86f25e557cf125ad98f43b5275649d1d6fffa79f795f",
+                                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.0/Optizoom.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3e44d3fdd440b4b3460dcebcfe343dc9b3db4e64be6ac9550dced6420195da03",
+                                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.1/Optizoom.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.1"
                         }
                     }
                 }
@@ -1424,7 +1680,10 @@
             "entries": {
                 "owo.Nytra / Rucio.HeadlessToolPermissionKickCrashFix": {
                     "category": "Bug Workaround",
-                    "description": "A Headless Server mod that prevents tool permission kicks from causing a world crash.",
+                    "description": "A Headless Server mod that prevented tool permission kicks from causing a world crash. This is no longer needed as of Beta 2024.3.12.1169.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "HeadlessToolPermissionKickCrashFix",
                     "platforms": [
                         "headless"
@@ -1473,6 +1732,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b3235d2f936152cf20757ea9cc968d5ad2b5d6932908137ae900e70c6523f591",
+                                    "url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.1/ComponentSearchWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0831436b2a4110957253694004caca592bf1a08525b5a9b735a719daa7798b2b",
+                                    "url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.2/ComponentSearchWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.2"
                         }
                     }
                 },
@@ -1502,6 +1779,26 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteFixSessionBrowser/releases/tag/v1.1.0"
+                        }
+                    }
+                },
+                "owo.Nytra.InspectorDelegateCaller": {
+                    "additionalAuthors": {
+                        "eia485": {}
+                    },
+                    "category": "Inspectors",
+                    "description": "Adds some buttons to inspector UI for workers that have callable delegates.",
+                    "name": "InspectorDelegateCaller",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteInspectorDelegateCaller",
+                    "versions": {
+                        "1.4.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b8c668fd10157e9221389dfe4ebfcfeb85211dd22868ce32c3d8e013ecf80467",
+                                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.1/InspectorDelegateCaller.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.1"
                         }
                     }
                 },
