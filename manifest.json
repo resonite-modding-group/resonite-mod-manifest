@@ -1398,6 +1398,10 @@
                     "category": "Technical Tweaks",
                     "description": "Prevents in app photos from additionally being saved to Steam.",
                     "name": "NoSteamScreenshots",
+                    "platforms": [
+                        "linux",
+                        "windows"
+                    ],
                     "sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
                     "versions": {
                         "1.0.1": {
@@ -1437,6 +1441,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.1"
+                        },
+                        "2.6.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
+                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2"
                         }
                     }
                 },
@@ -1475,6 +1489,10 @@
                     "category": "Misc",
                     "description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
                     "name": "yt-dlp Updater",
+                    "platforms": [
+                        "linux-wine",
+                        "windows"
+                    ],
                     "sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
                     "versions": {
                         "1.1.0": {
@@ -1486,6 +1504,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ytdlpUpdater.dll",
+                                    "sha256": "4B9DF59C40D647F90AE1166A3619B408B558C049C42823CA975AEE8833DB2066",
+                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0"
                         }
                     }
                 }
