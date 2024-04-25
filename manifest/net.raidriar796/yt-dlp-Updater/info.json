@@ -3,8 +3,20 @@
 	"id": "net.raidriar796.yt-dlp-Updater",
 	"description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
 	"category": "Misc",
+	"platforms": [
+		"linux-wine",
+		"windows"
+	],
 	"sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
 	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll",
+				"filename": "ytdlpUpdater.dll",
+				"sha256": "4B9DF59C40D647F90AE1166A3619B408B558C049C42823CA975AEE8833DB2066"
+			}]
+		},
 		"1.1.0": {
 			"releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0",
 			"artifacts": [{
