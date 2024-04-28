@@ -299,6 +299,68 @@
                 }
             }
         },
+        "dev.baru": {
+            "author": {
+                "hantabaru1014": {
+                    "icon": "https://github.com/hantabaru1014.png",
+                    "support": "https://ko-fi.com/hantabaru1014",
+                    "url": "https://github.com/hantabaru1014"
+                }
+            },
+            "entries": {
+                "dev.baru.resonite.BetterInventoryBrowser": {
+                    "category": "Dashboard",
+                    "description": "UI tweaks for InventoryBrowser",
+                    "name": "BetterInventoryBrowser",
+                    "sourceLocation": "https://github.com/hantabaru1014/BetterInventoryBrowser",
+                    "versions": {
+                        "0.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8b3164140486384570ed3c70d4d3abb93730c56badf2576e1c4ce10de57c0352",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.1/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.1"
+                        }
+                    }
+                },
+                "dev.baru.resonite.NeosBetterIMESupport": {
+                    "category": "Misc",
+                    "description": "Fix issues in IME with complex input methods like Japanese",
+                    "name": "NeosBetterIMESupport",
+                    "sourceLocation": "https://github.com/hantabaru1014/NeosBetterIMESupport",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "642b898c50103bbfc70560fe96ac476e5654bae1fd63adf7ae534272e19a6320",
+                                    "url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "dev.baru.resonite.ResoniteScreenshotExtensions": {
+                    "category": "Misc",
+                    "description": "Embed additional information in the screenshot and expand options when saving files",
+                    "name": "ResoniteScreenshotExtensions",
+                    "sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9c8224af9119b835cb5c89ad40d09b4304f93c56eb35ecdd26589ffd83ad88a2",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.0/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.0"
+                        }
+                    }
+                }
+            }
+        },
         "dev.hazre": {
             "author": {
                 "hazre": {
@@ -1325,6 +1387,51 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1"
+                        }
+                    }
+                }
+            }
+        },
+        "net.hantabaru1014": {
+            "author": {
+                "hantabaru1014": {
+                    "icon": "https://github.com/hantabaru1014.png",
+                    "support": "https://ko-fi.com/hantabaru1014",
+                    "url": "https://github.com/hantabaru1014"
+                }
+            },
+            "entries": {
+                "net.hantabaru1014.HeadCullingMask": {
+                    "category": "Visual Tweaks",
+                    "description": "Make your avatar's head invisible only to your FPV",
+                    "name": "HeadCullingMask",
+                    "sourceLocation": "https://github.com/hantabaru1014/HeadCullingMask",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8",
+                                    "url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.hantabaru1014.SaveItemTweaks": {
+                    "category": "Misc",
+                    "description": "Tweaks for item saving/spawning when your scale is not set to 1",
+                    "name": "SaveItemTweaks",
+                    "sourceLocation": "https://github.com/hantabaru1014/SaveItemTweaks",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7",
+                                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1"
                         }
                     }
                 }
