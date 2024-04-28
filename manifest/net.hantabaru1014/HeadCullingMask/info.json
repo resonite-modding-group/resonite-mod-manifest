@@ -1,0 +1,16 @@
+{
+	"name": "HeadCullingMask",
+	"id": "net.hantabaru1014.HeadCullingMask",
+	"description": "Make your avatar's head invisible only to your FPV",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/hantabaru1014/HeadCullingMask",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
+				"sha256": "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8"
+			}]
+		}
+	}
+}
