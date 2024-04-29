@@ -1,0 +1,16 @@
+{
+	"name": "LocalStorageV2 (Lime fork)",
+	"id": "me.CalamityLime.LocalStorage",
+	"description": "local storage with ability to save Files with same name Without it overwriting. And now saves Files with special characters",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/LimeProgramming/LocalStorage",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/LimeProgramming/LocalStorage/tag/2.0.3",
+			"artifacts": [{
+				"url": "https://github.com/LimeProgramming/LocalStorage/releases/download/2.0.3/LocalStorage.dll",
+				"sha256": "b4ca41ac353429c8e57e14a467a92f69c7dbc4399c7463583b7c37278e35ec34"
+			}]
+		}
+	}
+}
