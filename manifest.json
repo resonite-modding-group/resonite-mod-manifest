@@ -322,6 +322,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.1"
+                        },
+                        "0.6.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1c4eeb81a24049c0a9b1b781621b986db91d7383279305973f8c471dee645c43",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.2/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.2"
                         }
                     }
                 },
