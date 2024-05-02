@@ -1972,6 +1972,23 @@
                         }
                     }
                 },
+                "owo.Nytra.LeftHandedProtoFlux": {
+                    "category": "Memes",
+                    "description": "Makes ProtoFlux flow from right to left.",
+                    "name": "LeftHandedProtoFlux",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux",
+                    "versions": {
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d",
+                                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.2.1"
+                        }
+                    }
+                },
                 "owo.Nytra.LogFlush": {
                     "category": "Technical Tweaks",
                     "description": "A mod primarily for developers that flushes the log stream when you press the F1 key, causing all buffered messages to be written to the log file.",
