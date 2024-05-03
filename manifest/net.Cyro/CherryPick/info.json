@@ -1,0 +1,65 @@
+{
+	"name": "CherryPick",
+	"id": "net.Cyro.CherryPick",
+	"description": "Simple component searching for Resonite ",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/BlueCyro/CherryPick",
+	"versions": {
+		"1.0.7": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.7",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.7/CherryPick.dll",
+				"sha256": "9d5799a0561e0f24ae11cf7cf021fae6515537b93641a8ee0b90782c0fa73588"
+			}]
+		},
+		"1.0.6": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.6",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.6/CherryPick.dll",
+				"sha256": "6ccdf4ef20ad0327ba528ec2d2efdd9118de966d3904e253a76d0ec67e02e5d8"
+			}]
+		},
+		"1.0.5": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.5",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.5/CherryPick.dll",
+				"sha256": "c5929adec016a4a8b67d4bd75453f652e2ab0c13b038cdd00807bd239fa22394"
+			}]
+		},
+		"1.0.4": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.4",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.4/CherryPick.dll",
+				"sha256": "33f1aa95626e180a7d1cc100a020c37ab133c10765f31d690f6b4f9c386d4732"
+			}]
+		},
+		"1.0.3": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.3",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.3/CherryPick.dll",
+				"sha256": "e7474977124cf497da307e0da106453cde649d8820d8138888f66b2d561ff350"
+			}]
+		},
+		"1.0.2": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.2/CherryPick.dll",
+				"sha256": "3cdd638c000057428dcf47e5d62a19eddaa45f069cef0464bda70132ae9dbd83"
+			}]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.1/CherryPick.dll",
+				"sha256": "c74c645cb063592be3b1d5906eeaa0af9f726aec7c24c675a1b807639468363f"
+			}]
+		},
+		"1.0.0": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.0/CherryPick.dll",
+				"sha256": "d9a2c82eb4aa0045fa1cafc4b43638021951adb0fe081736b175dfd2a4ab145a"
+			}]
+		}
+	}
+}
