@@ -1048,6 +1048,33 @@
                 }
             }
         },
+        "net.Cyro": {
+            "author": {
+                "Cyro": {
+                    "icon": "https://github.com/BlueCyro.png",
+                    "url": "https://github.com/BlueCyro"
+                }
+            },
+            "entries": {
+                "net.Cyro.CherryPick": {
+                    "category": "Technical Tweaks",
+                    "description": "Simple component and protoflux searching",
+                    "name": "CherryPick",
+                    "sourceLocation": "https://github.com/BlueCyro/CherryPick",
+                    "versions": {
+                        "1.0.7": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9d5799a0561e0f24ae11cf7cf021fae6515537b93641a8ee0b90782c0fa73588",
+                                    "url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.7/CherryPick.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.7"
+                        }
+                    }
+                }
+            }
+        },
         "net.catshark": {
             "author": {
                 "CatSharkShin": {
