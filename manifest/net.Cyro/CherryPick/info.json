@@ -1,7 +1,7 @@
 {
 	"name": "CherryPick",
 	"id": "net.Cyro.CherryPick",
-	"description": "Simple component searching for Resonite ",
+	"description": "Simple component and protoflux searching",
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/BlueCyro/CherryPick",
 	"versions": {
