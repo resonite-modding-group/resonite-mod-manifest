@@ -1,0 +1,19 @@
+{
+    "name": "DuplicateFix",
+    "id": "me.art0007i.DuplicateFix",
+    "description": "Makes it so duplicated items maintain references between each other.",
+    "category": "Bug Workaround",
+    "sourceLocation": "https://github.com/art0007i/DuplicateFix",
+    "versions": {
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.1/DuplicateFix.dll",
+                    "filename": "DuplicateFix.dll",
+                    "sha256": "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb"
+                }
+            ]
+        }
+    }
+}

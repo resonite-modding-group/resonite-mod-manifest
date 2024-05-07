@@ -1,0 +1,19 @@
+{
+    "name": "NotificationFixer",
+    "id": "me.art0007i.NotificationFixer",
+    "description": "Fixes the notifications being off center and getting cut off slightly.",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/art0007i/NotificationFixer",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/NotificationFixer/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/NotificationFixer/releases/download/1.0.0/NotificationFixer.dll",
+                    "filename": "NotificationFixer.dll",
+                    "sha256": "8f3e56671a6b278c7036f72d2a97f3cd56afd6d72f6599259f8e580de88b4954"
+                }
+            ]
+        }
+    }
+}
