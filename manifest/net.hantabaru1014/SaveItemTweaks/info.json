@@ -1,0 +1,16 @@
+{
+	"name": "SaveItemTweaks",
+	"id": "net.hantabaru1014.SaveItemTweaks",
+	"description": "Tweaks for item saving/spawning when your scale is not set to 1",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/hantabaru1014/SaveItemTweaks",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
+				"sha256": "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7"
+			}]
+		}
+	}
+}

@@ -299,6 +299,86 @@
                 }
             }
         },
+        "dev.baru": {
+            "author": {
+                "hantabaru1014": {
+                    "icon": "https://github.com/hantabaru1014.png",
+                    "support": "https://ko-fi.com/hantabaru1014",
+                    "url": "https://github.com/hantabaru1014"
+                }
+            },
+            "entries": {
+                "dev.baru.resonite.BetterInventoryBrowser": {
+                    "category": "Dashboard",
+                    "description": "UI tweaks for InventoryBrowser",
+                    "name": "BetterInventoryBrowser",
+                    "sourceLocation": "https://github.com/hantabaru1014/BetterInventoryBrowser",
+                    "versions": {
+                        "0.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8b3164140486384570ed3c70d4d3abb93730c56badf2576e1c4ce10de57c0352",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.1/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.1"
+                        },
+                        "0.6.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1c4eeb81a24049c0a9b1b781621b986db91d7383279305973f8c471dee645c43",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.2/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.2"
+                        }
+                    }
+                },
+                "dev.baru.resonite.NeosBetterIMESupport": {
+                    "category": "Misc",
+                    "description": "Fix issues in IME with complex input methods like Japanese",
+                    "name": "NeosBetterIMESupport",
+                    "sourceLocation": "https://github.com/hantabaru1014/NeosBetterIMESupport",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "642b898c50103bbfc70560fe96ac476e5654bae1fd63adf7ae534272e19a6320",
+                                    "url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "dev.baru.resonite.ResoniteScreenshotExtensions": {
+                    "category": "Misc",
+                    "description": "Embed additional information in the screenshot and expand options when saving files",
+                    "name": "ResoniteScreenshotExtensions",
+                    "sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9c8224af9119b835cb5c89ad40d09b4304f93c56eb35ecdd26589ffd83ad88a2",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.0/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "350cbd6cd33bc516a535c9474f0b33969b991557b4cccfba7066ab253db094ec",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.1/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.1"
+                        }
+                    }
+                }
+            }
+        },
         "dev.hazre": {
             "author": {
                 "hazre": {
@@ -407,10 +487,12 @@
                         "2.1.1": {
                             "artifacts": [
                                 {
+                                    "filename": "ColorDrop.dll",
                                     "sha256": "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837",
                                     "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll"
                                 }
                             ],
+                            "changelog": "Rebuild for compatibility with 2024.4.15.1407",
                             "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1"
                         }
                     }
@@ -653,6 +735,25 @@
                         }
                     }
                 },
+                "me.art0007i.MyInspectors": {
+                    "category": "Inspectors",
+                    "description": "Makes inspectors generate by local user instead of host. Slightly unsable, if anything with inspectors breaks remove this mod.",
+                    "name": "MyInspectors",
+                    "sourceLocation": "https://github.com/art0007i/MyInspectors",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "MyInspectors.dll",
+                                    "sha256": "da60f1bc535a5054124e2f746a0f3df90a7a19d87e132e25a5084034b9a1c24f",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.1/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fixed for new resonite version",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.1"
+                        }
+                    }
+                },
                 "me.art0007i.NoHeadMenuDash": {
                     "category": "Controls",
                     "description": "Removes the gesture that opens the dash when you press the menu button near your head",
@@ -809,11 +910,12 @@
                         "2.2.6": {
                             "artifacts": [
                                 {
+                                    "filename": "ShowDelegates.dll",
                                     "sha256": "3126895a622ae75bed335d5fe6ee2d1d9ecb4a13179791211464c4f5e4cd85a4",
                                     "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.6/ShowDelegates.dll"
                                 }
                             ],
-                            "changelog": "Rebuild for 2024.4.15.1407",
+                            "changelog": "Rebuilt for new resonite version",
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.6"
                         }
                     }
@@ -941,6 +1043,33 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/FourLeafClover/releases/tag/2.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "net.Cyro": {
+            "author": {
+                "Cyro": {
+                    "icon": "https://github.com/BlueCyro.png",
+                    "url": "https://github.com/BlueCyro"
+                }
+            },
+            "entries": {
+                "net.Cyro.CherryPick": {
+                    "category": "Technical Tweaks",
+                    "description": "Simple component and protoflux searching",
+                    "name": "CherryPick",
+                    "sourceLocation": "https://github.com/BlueCyro/CherryPick",
+                    "versions": {
+                        "1.0.7": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9d5799a0561e0f24ae11cf7cf021fae6515537b93641a8ee0b90782c0fa73588",
+                                    "url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.7/CherryPick.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.7"
                         }
                     }
                 }
@@ -1308,6 +1437,51 @@
                 }
             }
         },
+        "net.hantabaru1014": {
+            "author": {
+                "hantabaru1014": {
+                    "icon": "https://github.com/hantabaru1014.png",
+                    "support": "https://ko-fi.com/hantabaru1014",
+                    "url": "https://github.com/hantabaru1014"
+                }
+            },
+            "entries": {
+                "net.hantabaru1014.HeadCullingMask": {
+                    "category": "Visual Tweaks",
+                    "description": "Make your avatar's head invisible only to your FPV",
+                    "name": "HeadCullingMask",
+                    "sourceLocation": "https://github.com/hantabaru1014/HeadCullingMask",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8",
+                                    "url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.hantabaru1014.SaveItemTweaks": {
+                    "category": "Misc",
+                    "description": "Tweaks for item saving/spawning when your scale is not set to 1",
+                    "name": "SaveItemTweaks",
+                    "sourceLocation": "https://github.com/hantabaru1014/SaveItemTweaks",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7",
+                                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1"
+                        }
+                    }
+                }
+            }
+        },
         "net.mizle": {
             "author": {
                 "Eai": {
@@ -1376,6 +1550,10 @@
                     "category": "Technical Tweaks",
                     "description": "Prevents in app photos from additionally being saved to Steam.",
                     "name": "NoSteamScreenshots",
+                    "platforms": [
+                        "linux",
+                        "windows"
+                    ],
                     "sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
                     "versions": {
                         "1.0.1": {
@@ -1415,6 +1593,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.1"
+                        },
+                        "2.6.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
+                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2"
                         }
                     }
                 },
@@ -1453,6 +1641,10 @@
                     "category": "Misc",
                     "description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
                     "name": "yt-dlp Updater",
+                    "platforms": [
+                        "linux-wine",
+                        "windows"
+                    ],
                     "sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
                     "versions": {
                         "1.1.0": {
@@ -1464,6 +1656,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ytdlpUpdater.dll",
+                                    "sha256": "4B9DF59C40D647F90AE1166A3619B408B558C049C42823CA975AEE8833DB2066",
+                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0"
                         }
                     }
                 }
@@ -1536,6 +1738,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cd1340e1c3555b837123bb20482f4e5b29485225982adade8fb4e1115be65a63",
+                                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.1/EnumDropdown.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.1"
                         }
                     }
                 },
@@ -1760,6 +1971,23 @@
                         }
                     }
                 },
+                "owo.Nytra.HotReloadLib": {
+                    "category": "Libraries",
+                    "description": "Library for Resonite mod developers to hot reload their mods without needing to restart the whole game.",
+                    "name": "HotReloadLib",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteHotReloadLib",
+                    "versions": {
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "76c6871dc58ebee39a86758e05703831518e7992c9ecf018e2c0a7e63f8b81ac",
+                                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.0/ResoniteHotReloadLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.0"
+                        }
+                    }
+                },
                 "owo.Nytra.InspectorDelegateCaller": {
                     "additionalAuthors": {
                         "eia485": {}
@@ -1777,6 +2005,23 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.1"
+                        }
+                    }
+                },
+                "owo.Nytra.LeftHandedProtoFlux": {
+                    "category": "Memes",
+                    "description": "Makes ProtoFlux flow from right to left.",
+                    "name": "LeftHandedProtoFlux",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux",
+                    "versions": {
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d",
+                                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.2.1"
                         }
                     }
                 },

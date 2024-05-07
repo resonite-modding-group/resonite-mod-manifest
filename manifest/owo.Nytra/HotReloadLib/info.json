@@ -1,0 +1,16 @@
+{
+	"name": "HotReloadLib",
+	"id": "owo.Nytra.HotReloadLib",
+	"description": "Library for Resonite mod developers to hot reload their mods without needing to restart the whole game.",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/Nytra/ResoniteHotReloadLib",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.0/ResoniteHotReloadLib.dll",
+				"sha256": "76c6871dc58ebee39a86758e05703831518e7992c9ecf018e2c0a7e63f8b81ac"
+			}]
+		}
+	}
+}
