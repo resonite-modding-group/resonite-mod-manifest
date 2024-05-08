@@ -634,6 +634,24 @@
                         }
                     }
                 },
+                "me.art0007i.DuplicateFix": {
+                    "category": "Bug Workaround",
+                    "description": "Makes it so duplicated items maintain references between each other.",
+                    "name": "DuplicateFix",
+                    "sourceLocation": "https://github.com/art0007i/DuplicateFix",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DuplicateFix.dll",
+                                    "sha256": "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb",
+                                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.1/DuplicateFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.1"
+                        }
+                    }
+                },
                 "me.art0007i.ExtrasButtonTweaks": {
                     "category": "Inspectors",
                     "description": "Tweaks the extras button next to field names in inspectors",
@@ -706,6 +724,24 @@
                         }
                     }
                 },
+                "me.art0007i.JustBoundedUIX": {
+                    "category": "Technical Tweaks",
+                    "description": "Adds gizmo bounding boxes to UIX elements, and fixes UIX elements breaking when a parent is inserted.",
+                    "name": "JustBoundedUIX",
+                    "sourceLocation": "https://github.com/art0007i/JustBoundedUIX",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "JustBoundedUIX.dll",
+                                    "sha256": "fbefcaf3d3b8735f34fcfffa0caf15ae529e3ee5f56eb89e9ff0118ca85618b6",
+                                    "url": "https://github.com/art0007i/JustBoundedUIX/releases/download/2.0.1/JustBoundedUIX.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/JustBoundedUIX/releases/tag/2.0.1"
+                        }
+                    }
+                },
                 "me.art0007i.LocalStorage": {
                     "category": "Misc",
                     "description": "Allows you to store items locally on your hard drive",
@@ -732,6 +768,42 @@
                             ],
                             "changelog": "Remove calls to UniLog.Log",
                             "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.2"
+                        }
+                    }
+                },
+                "me.art0007i.LogCleaner": {
+                    "category": "Technical Tweaks",
+                    "description": "Omits certain information from your logs to make them more readable.",
+                    "name": "LogCleaner",
+                    "sourceLocation": "https://github.com/art0007i/LogCleaner",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "LogCleaner.dll",
+                                    "sha256": "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861",
+                                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.0/LogCleaner.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.0"
+                        }
+                    }
+                },
+                "me.art0007i.MessageCopy": {
+                    "category": "Dashboard",
+                    "description": "Allows you to copy all messages, not just text ones.",
+                    "name": "MessageCopy",
+                    "sourceLocation": "https://github.com/art0007i/MessageCopy",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "MessageCopy.dll",
+                                    "sha256": "dc74baff6a08083f4e493e0251c76ba09c88c57ce998c9908f2a401cb2413dc7",
+                                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.0/MessageCopy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -772,6 +844,24 @@
                         }
                     }
                 },
+                "me.art0007i.NotificationFixer": {
+                    "category": "Dashboard",
+                    "description": "Fixes the notifications being off center and getting cut off slightly.",
+                    "name": "NotificationFixer",
+                    "sourceLocation": "https://github.com/art0007i/NotificationFixer",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "NotificationFixer.dll",
+                                    "sha256": "8f3e56671a6b278c7036f72d2a97f3cd56afd6d72f6599259f8e580de88b4954",
+                                    "url": "https://github.com/art0007i/NotificationFixer/releases/download/1.0.0/NotificationFixer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/NotificationFixer/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "me.art0007i.ParentalIssues": {
                     "category": "Memes",
                     "description": "Changes the default parent and child object names to be funnier",
@@ -793,6 +883,9 @@
                 "me.art0007i.PresenceToggle": {
                     "category": "Misc",
                     "description": "Allows you to toggle steam and discord rich presence",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "PresenceToggle",
                     "sourceLocation": "https://github.com/art0007i/PresenceToggle",
                     "versions": {
@@ -847,6 +940,9 @@
                 "me.art0007i.ShadowDistanceChanger": {
                     "category": "Visual Tweaks",
                     "description": "Allows changing the shadow distance using the mod's config",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ShadowDistanceChanger",
                     "sourceLocation": "https://github.com/art0007i/ShadowDistanceChanger",
                     "versions": {
