@@ -1,0 +1,19 @@
+{
+    "name": "MessageCopy",
+    "id": "me.art0007i.MessageCopy",
+    "description": "Allows you to copy all messages, not just text ones.",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/art0007i/MessageCopy",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.0/MessageCopy.dll",
+                    "filename": "MessageCopy.dll",
+                    "sha256": "dc74baff6a08083f4e493e0251c76ba09c88c57ce998c9908f2a401cb2413dc7"
+                }
+            ]
+        }
+    }
+}

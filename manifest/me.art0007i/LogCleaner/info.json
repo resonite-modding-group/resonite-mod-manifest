@@ -1,0 +1,19 @@
+{
+    "name": "LogCleaner",
+    "id": "me.art0007i.LogCleaner",
+    "description": "Omits certain information from your logs to make them more readable.",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/art0007i/LogCleaner",
+    "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.0/LogCleaner.dll",
+                    "filename": "LogCleaner.dll",
+                    "sha256": "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861"
+                }
+            ]
+        }
+    }
+}

@@ -1,4 +1,5 @@
 {
+    "flags": ["deprecated"],
     "name": "ShadowDistanceChanger",
     "id": "me.art0007i.ShadowDistanceChanger",
     "description": "Allows changing the shadow distance using the mod's config",
