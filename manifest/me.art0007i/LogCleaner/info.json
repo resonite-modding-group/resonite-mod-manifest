@@ -2,7 +2,7 @@
     "name": "LogCleaner",
     "id": "me.art0007i.LogCleaner",
     "description": "Omits certain information from your logs to make them more readable.",
-    "category": "Developers",
+    "category": "Technical Tweaks",
     "sourceLocation": "https://github.com/art0007i/LogCleaner",
     "versions": {
         "1.1.0": {
