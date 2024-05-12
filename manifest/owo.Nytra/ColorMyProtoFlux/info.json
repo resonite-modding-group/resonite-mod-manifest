@@ -1,0 +1,16 @@
+{
+	"name": "ColorMyProtoFlux",
+	"id": "owo.Nytra.ColorMyProtoFlux",
+	"description": "Apply colors to your ProtoFlux nodes. Highly configurable.",
+	"category": "Protoflux",
+	"sourceLocation": "https://github.com/Nytra/ResoniteColorMyProtoFlux",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/download/v1.0.0/ColorMyProtoFlux.dll",
+				"sha256": "91ebe77c947022ed14f411d6350eb4186807a5dbf1ec3b72f242b45c7764fda4"
+			}]
+		}
+	}
+}
