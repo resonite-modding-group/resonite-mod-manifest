@@ -1216,6 +1216,23 @@
                 }
             },
             "entries": {
+                "net.deltawolf.PermissionControl": {
+                    "category": "Dashboard",
+                    "description": "Allows editing permission overrides individually, even for users not in a session",
+                    "name": "PermissionControl",
+                    "sourceLocation": "https://github.com/XDelta/PermissionControl",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "575a1a04fe0aaac21b6a310924eb8a1b76f251a340b6f892633c9a2d57481706",
+                                    "url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.0/PermissionControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ResonitePTTKeybinds": {
                     "category": "Controls",
                     "description": "Allows disabling and rebinding the default Push to Talk / Mute keybinds and setting keybinds to set your current voicemode",
