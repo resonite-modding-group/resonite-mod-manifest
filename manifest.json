@@ -2190,6 +2190,23 @@
                         }
                     }
                 },
+                "owo.Nytra.NoTankControls": {
+                    "category": "Controls",
+                    "description": "Don't lock up joystick movement while tools are equipped. Very helpful on Quest. This version has tweaks to work better with InspectorScroll.",
+                    "name": "NoTankControls-InspectorScrollCompatible",
+                    "sourceLocation": "https://github.com/Nytra/NoTankControls",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "04cfe11bd0415f4fa62f00f39987b2b7667935995823ccede10f534238deb51d",
+                                    "url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.0/NoTankControls.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.0"
+                        }
+                    }
+                },
                 "owo.Nytra.WorldListSessionHider": {
                     "category": "Dashboard",
                     "description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username or the sessionID.",
