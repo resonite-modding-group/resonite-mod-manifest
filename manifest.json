@@ -2207,6 +2207,23 @@
                         }
                     }
                 },
+                "owo.Nytra.ReferenceFinderWizard": {
+                    "category": "Wizards",
+                    "description": "Adds a wizard that lets you find references to things. Has options to adjust the search and can optionally spawn a detailed text output.",
+                    "name": "ReferenceFinderWizard",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteReferenceFinderWizard",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c89cf8cd870c01afd179b5ea292447fceef30a0ad28affca953a03d4fb23e610",
+                                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.0.0/ReferenceFinderWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "owo.Nytra.WorldListSessionHider": {
                     "category": "Dashboard",
                     "description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username or the sessionID.",
