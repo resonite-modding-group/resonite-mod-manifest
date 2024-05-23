@@ -14,6 +14,17 @@
                     "sha256": "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf"
                 }
             ]
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.2/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "4e5e2c1ac7a8676095599671228990abcda3718d006e0e0af05c2804234ff499"
+                }
+            ],
+            "changelog": "Fix \"None\" override type not working correctly."
         }
     }
 }

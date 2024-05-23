@@ -1,0 +1,16 @@
+{
+	"name": "ReferenceFinderWizard",
+	"id": "owo.Nytra.ReferenceFinderWizard",
+	"description": "Adds a wizard that lets you find references to things. Has options to adjust the search and can optionally spawn a detailed text output.",
+	"category": "Wizards",
+	"sourceLocation": "https://github.com/Nytra/ResoniteReferenceFinderWizard",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.0.0/ReferenceFinderWizard.dll",
+				"sha256": "c89cf8cd870c01afd179b5ea292447fceef30a0ad28affca953a03d4fb23e610"
+			}]
+		}
+	}
+}

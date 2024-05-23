@@ -1,0 +1,16 @@
+{
+	"name": "CherryPick",
+	"id": "net.Cyro.CherryPick",
+	"description": "Simple component and protoflux searching",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/BlueCyro/CherryPick",
+	"versions": {
+		"1.0.7": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.0.7",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.7/CherryPick.dll",
+				"sha256": "9d5799a0561e0f24ae11cf7cf021fae6515537b93641a8ee0b90782c0fa73588"
+			}]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "LeftHandedProtoFlux",
+	"id": "owo.Nytra.LeftHandedProtoFlux",
+	"description": "Makes ProtoFlux flow from right to left.",
+	"category": "Memes",
+	"sourceLocation": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux",
+	"versions": {
+		"1.2.1": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.2.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll",
+				"sha256": "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d"
+			}]
+		}
+	}
+}

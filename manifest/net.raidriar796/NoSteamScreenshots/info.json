@@ -3,6 +3,10 @@
 	"id": "net.raidriar796.NoSteamScreenshots",
 	"description": "Prevents in app photos from additionally being saved to Steam.",
 	"category": "Technical Tweaks",
+	"platforms": [
+		"linux",
+		"windows"
+	],
 	"sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
 	"versions": {
 		"1.0.1": {
