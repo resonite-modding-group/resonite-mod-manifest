@@ -1986,6 +1986,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.3"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "87da2e15f7981ea09c6060f2b06ba25909757214e4a89751fa93e672e981c70b",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.0/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.0"
                         }
                     }
                 }
