@@ -15,6 +15,7 @@
 	],
 	"versions": {
 		"2.0.2": {
+			"releaseUrl": "https://github.com/hazre/ResonitePrivacyShield/releases/tag/v2.0.2",
 			"artifacts": [
 				{
 					"url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll",
@@ -24,6 +25,7 @@
 			]
 		},
 		"2.0.3": {
+			"releaseUrl": "https://github.com/hazre/ResonitePrivacyShield/releases/tag/v2.0.3",
 			"artifacts": [
 				{
 					"url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.3/PrivacyShield.dll",
