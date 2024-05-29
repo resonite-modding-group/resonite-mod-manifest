@@ -2173,6 +2173,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.1"
+                        },
+                        "1.4.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8e5a2ae15d38d7093bf78f64756eaa40aed30cddcf1fb74b014557df5d321e58",
+                                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.2/InspectorDelegateCaller.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.2"
                         }
                     }
                 },
