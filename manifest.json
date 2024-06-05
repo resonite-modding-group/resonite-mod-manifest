@@ -1942,6 +1942,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.4"
+                        },
+                        "2.1.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a92c0fe86246b55706e05fcc28eaa40b16a1d4793667af651e15e0e3a88a120f",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.5/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.5"
                         }
                     }
                 },
