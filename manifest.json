@@ -633,6 +633,17 @@
                             ],
                             "changelog": "Fix \"None\" override type not working correctly.",
                             "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.2"
+                        },
+                        "1.0.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "DefaultToolOverride.dll",
+                                    "sha256": "d1931db626e12e7f0bac541da554fa85117d8fbe22684e724dbd0b5b7f5a07e3",
+                                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.4/DefaultToolOverride.dll"
+                                }
+                            ],
+                            "changelog": "Add option for modifier key.",
+                            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.4"
                         }
                     }
                 },
