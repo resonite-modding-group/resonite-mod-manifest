@@ -5,6 +5,13 @@
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/hantabaru1014/BetterInventoryBrowser",
 	"versions": {
+		"0.6.3": {
+			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.3",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.3/BetterInventoryBrowser.dll",
+				"sha256": "fe0e1419ae64267267910c37cdc1b7b3e199a4e4a22126250a8491b2b5aba2ff"
+			}]
+		},
 		"0.6.2": {
 			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.2",
 			"artifacts": [{
