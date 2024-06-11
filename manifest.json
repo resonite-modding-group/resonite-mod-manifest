@@ -568,6 +568,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "CustomInspectors.dll",
+                                    "sha256": "df1977595f17d3bc9ed1a2c7af2e8532489342c2fef3977bf284273cdece4381",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.2/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix reference to SkyFrost",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.2"
                         }
                     }
                 },
@@ -817,6 +828,17 @@
                             ],
                             "changelog": "Remove calls to UniLog.Log",
                             "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.2"
+                        },
+                        "2.0.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "LocalStorage.dll",
+                                    "sha256": "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33",
+                                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.3/LocalStorage.dll"
+                                }
+                            ],
+                            "changelog": "Fix reference to SkyFrost",
+                            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.3"
                         }
                     }
                 },
@@ -853,6 +875,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "MessageCopy.dll",
+                                    "sha256": "8ed99837b36c9e3d8d62130701509be105516ef98e396832193bac92d484c850",
+                                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.1/MessageCopy.dll"
+                                }
+                            ],
+                            "changelog": "Fix reference to SkyFrost",
+                            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -1098,6 +1131,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.2"
+                        },
+                        "2.0.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "SpecialItemsLib.dll",
+                                    "sha256": "6937419b73ad1010f289e944fe621f4e0e6c3a343226012cafa414d36b22d216",
+                                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.3/SpecialItemsLib.dll"
+                                }
+                            ],
+                            "changelog": "Fix reference to SkyFrost",
+                            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.3"
                         }
                     }
                 },
