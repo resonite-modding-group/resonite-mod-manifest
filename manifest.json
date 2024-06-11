@@ -2332,6 +2332,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3e010c4728f7144567a5208015177dbe81cd0ef21f210895c6bfff3bff58c6a9",
+                                    "url": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/download/v1.1.1/WorldListSessionHider.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.1.1"
                         }
                     }
                 }
