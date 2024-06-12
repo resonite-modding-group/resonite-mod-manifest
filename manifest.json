@@ -1683,6 +1683,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93",
+                                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.2"
                         }
                     }
                 }
