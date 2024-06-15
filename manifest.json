@@ -1792,6 +1792,9 @@
                 "net.raidriar796.NoSteamScreenshots": {
                     "category": "Technical Tweaks",
                     "description": "Prevents in app photos from additionally being saved to Steam.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "NoSteamScreenshots",
                     "platforms": [
                         "linux",
