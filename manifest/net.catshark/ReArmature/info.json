@@ -19,6 +19,14 @@
 				"sha256": "12818a538b7b352fe7dc6f169d8a64acc51328ce34ae4acd51b3dc4355110953"
 			}],
             "changelog": "Rebuild for 2024.4.17.208"
+		},
+		"2.1.2": {
+			"releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.2",
+			"artifacts": [{
+				"url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.2/ReArmature.dll",
+				"sha256": "a9e73ce996c231a1a49ef2a83754be1474a2ad707198d24f9649e3e3ae28f890"
+			}],
+            "changelog": "Fixed Empty Bone Stripping. Fixed Null Mesh Asset occurences. Reworked button."
 		}
 	}
 }
