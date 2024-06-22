@@ -1037,6 +1037,24 @@
                         }
                     }
                 },
+                "me.art0007i.SessionItemModal": {
+                    "category": "Dashboard",
+                    "description": "Allows opening modal dialogs for sessions seen in the contacts tab, by clicking the circle preview. This mod is quite jank but I still find it useful.",
+                    "name": "SessionItemModal",
+                    "sourceLocation": "https://github.com/art0007i/SessionItemModal",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "SessionItemModal.dll",
+                                    "sha256": "f6e502ac0afbd600068168b41258048e78e3827f4550cacb71f1d258f5ff94bb",
+                                    "url": "https://github.com/art0007i/SessionItemModal/releases/download/1.0.0/SessionItemModal.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/SessionItemModal/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "me.art0007i.ShadowDistanceChanger": {
                     "category": "Visual Tweaks",
                     "description": "Allows changing the shadow distance using the mod's config",
