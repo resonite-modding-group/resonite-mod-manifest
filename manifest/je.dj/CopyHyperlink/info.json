@@ -1,0 +1,18 @@
+{
+	"name": "CopyHyperlink",
+	"id": "je.dj.CopyHyperlink",
+	"description": "Adds a \"Copy Link\" button to the hyperlink popup.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/djsime1/CopyHyperlink",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.0.0",
+			"changelog": "Initial release.",
+			"artifacts": [{
+				"filename": "CopyHyperlink.dll",
+				"url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.0/CopyHyperlink.dll",
+				"sha256": "ec25187d32b6d2612ec988152f4a79c5c20873f5bb0fd87780944a4fe511be48"
+			}]
+		}
+	}
+}
