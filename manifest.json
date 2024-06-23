@@ -480,6 +480,59 @@
                 }
             }
         },
+        "je.dj": {
+            "author": {
+                "djsime1": {
+                    "icon": "https://avatars.githubusercontent.com/u/8518150?v=4",
+                    "url": "https://github.com/djsime1"
+                }
+            },
+            "entries": {
+                "je.dj.CopyHyperlink": {
+                    "category": "Misc",
+                    "description": "Adds a \"Copy Link\" button to the hyperlink popup.",
+                    "name": "CopyHyperlink",
+                    "sourceLocation": "https://github.com/djsime1/CopyHyperlink",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "CopyHyperlink.dll",
+                                    "sha256": "ec25187d32b6d2612ec988152f4a79c5c20873f5bb0fd87780944a4fe511be48",
+                                    "url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.0/CopyHyperlink.dll"
+                                }
+                            ],
+                            "changelog": "Initial release.",
+                            "releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "je.dj.GradientDriverEasing": {
+                    "category": "Inspectors",
+                    "description": "Adds easing function presets to ValueGradientDriver components.",
+                    "name": "GradientDriverEasing",
+                    "sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "GradientDriverEasing.dll",
+                                    "sha256": "4e3d1fcb7343867549b3debc555f45f3cf0738e1a5021058cc6e7260af1489df",
+                                    "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.0.0/GradientDriverEasing.dll"
+                                }
+                            ],
+                            "changelog": "Initial release.\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.",
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "me.art0007i": {
             "author": {
                 "art0007i": {
