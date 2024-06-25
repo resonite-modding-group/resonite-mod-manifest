@@ -27,6 +27,14 @@
 				"sha256": "a9e73ce996c231a1a49ef2a83754be1474a2ad707198d24f9649e3e3ae28f890"
 			}],
             "changelog": "Fixed Empty Bone Stripping. Fixed Null Mesh Asset occurences. Reworked button."
+		},
+		"2.1.3": {
+			"releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.3",
+			"artifacts": [{
+				"url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.3/ReArmature.dll",
+				"sha256": "26c2501f8424c7f8e4dab8baf85a6e53a19f1619dde7c34f02a49999bac67550"
+			}],
+            "changelog": "UIX Changes, and rebuilt for the latest Resonite version."
 		}
 	}
 }
