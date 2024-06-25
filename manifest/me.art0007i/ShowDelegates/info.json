@@ -36,6 +36,17 @@
                 }
             ],
             "changelog": "Rebuilt for new resonite version"
+        },
+        "2.2.7": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.7",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.7/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "3a13bb871d3957bc0a0d956494e8805e9e0686a8233a82bb15a4f7b82d4a0846"
+                }
+            ],
+            "changelog": "Fixed the mod not working in the latest version"
         }
     }
 }
