@@ -14,6 +14,17 @@
                     "sha256": "f6e502ac0afbd600068168b41258048e78e3827f4550cacb71f1d258f5ff94bb"
                 }
             ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/SessionItemModal/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SessionItemModal/releases/download/1.0.1/SessionItemModal.dll",
+                    "filename": "SessionItemModal.dll",
+                    "sha256": "1228278c23ae210d8d60285505d4bd5df4550cc3d01fd2f09402b526e2049ba3"
+                }
+            ],
+            "changelog": "Fix for latest version."
         }
     }
 }
