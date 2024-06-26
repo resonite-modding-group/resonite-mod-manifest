@@ -1,7 +1,7 @@
 {
 	"name": "WorldListSessionHider",
 	"id": "owo.Nytra.WorldListSessionHider",
-	"description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username or the sessionID.",
+	"description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username, the world ID or the session ID.",
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/Nytra/ResoniteWorldListSessionHider",
 	"versions": {
@@ -25,6 +25,15 @@
 				"url": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/download/v1.1.1/WorldListSessionHider.dll",
 				"sha256": "3e010c4728f7144567a5208015177dbe81cd0ef21f210895c6bfff3bff58c6a9"
 			}]
+		},
+		"1.2.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/download/v1.2.0/WorldListSessionHider.dll",
+				"sha256": "58d5be3e4782682ccd819991339a93c72cb53770de01070572c07d6d57b16b4b",
+				"filename": "WorldListSessionHider.dll"
+			}],
+			"changelog": "Added option to filter sessions out by world ID and improved config string parsing."
 		}
 	}
 }
