@@ -1,0 +1,16 @@
+{
+	"name": "EffortlessEfficiency",
+	"id": "net.Cyro.EffortlessEfficiency",
+	"description": "Provide a continually-expanding patchset for increasing performance in certain key areas of the game to reduce microstutters and momentary hitching.",
+	"category": "Optimization",
+	"sourceLocation": "https://github.com/BlueCyro/EffortlessEfficiency",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/BlueCyro/EffortlessEfficiency/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/EffortlessEfficiency/releases/download/1.0.0/EffortlessEfficiency.dll",
+				"sha256": "a5ea72df14ca79564c542e007dff93494b0fd4458fa05a349d0bf99bbfacc506"
+			}]
+		}
+	}
+}
