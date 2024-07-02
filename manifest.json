@@ -1400,6 +1400,23 @@
                             "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.1.0"
                         }
                     }
+                },
+                "net.Cyro.EffortlessEfficiency": {
+                    "category": "Optimization",
+                    "description": "Provide a continually-expanding patchset for increasing performance in certain key areas of the game to reduce microstutters and momentary hitching.",
+                    "name": "EffortlessEfficiency",
+                    "sourceLocation": "https://github.com/BlueCyro/EffortlessEfficiency",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a5ea72df14ca79564c542e007dff93494b0fd4458fa05a349d0bf99bbfacc506",
+                                    "url": "https://github.com/BlueCyro/EffortlessEfficiency/releases/download/1.0.0/EffortlessEfficiency.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/BlueCyro/EffortlessEfficiency/releases/tag/1.0.0"
+                        }
+                    }
                 }
             }
         },
