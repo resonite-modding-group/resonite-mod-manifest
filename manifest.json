@@ -1485,6 +1485,23 @@
                 }
             },
             "entries": {
+                "net.deltawolf.DisableSRAnipal": {
+                    "category": "Hardware Integration",
+                    "description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
+                    "name": "DisableSRAnipal",
+                    "sourceLocation": "https://github.com/XDelta/DisableSRAnipal",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c30b49b2be0c708cc4260c035b5821ed24676a57c237e15d033a9ab428ea393d",
+                                    "url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.0/DisableSRAnipal.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.PermissionControl": {
                     "category": "Dashboard",
                     "description": "Allows editing permission overrides individually, even for users not in a session",
