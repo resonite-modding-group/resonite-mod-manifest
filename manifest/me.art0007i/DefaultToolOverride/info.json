@@ -5,6 +5,17 @@
     "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/DefaultToolOverride",
     "versions": {
+        "1.0.4": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.4/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "d1931db626e12e7f0bac541da554fa85117d8fbe22684e724dbd0b5b7f5a07e3"
+                }
+            ],
+            "changelog": "Add option for modifier key."
+        },
         "1.0.1": {
             "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1",
             "artifacts": [

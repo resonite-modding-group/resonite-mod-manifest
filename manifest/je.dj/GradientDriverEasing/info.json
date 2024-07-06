@@ -1,0 +1,23 @@
+{
+	"name": "GradientDriverEasing",
+	"id": "je.dj.GradientDriverEasing",
+	"description": "Adds easing function presets to ValueGradientDriver components.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.0.0",
+			"changelog": "Initial release.\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.",
+			"dependencies": {
+				"me.art0007i.CustomUILib": {
+					"version": "^2.0.0"
+				}
+			},
+			"artifacts": [{
+				"filename": "GradientDriverEasing.dll",
+				"url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.0.0/GradientDriverEasing.dll",
+				"sha256": "4e3d1fcb7343867549b3debc555f45f3cf0738e1a5021058cc6e7260af1489df"
+			}]
+		}
+	}
+}

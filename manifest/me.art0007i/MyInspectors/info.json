@@ -1,0 +1,20 @@
+{
+    "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.1/MyInspectors.dll",
+                    "filename": "MyInspectors.dll",
+                    "sha256": "da60f1bc535a5054124e2f746a0f3df90a7a19d87e132e25a5084034b9a1c24f"
+                }
+            ],
+            "changelog": "Fixed for new resonite version"
+        }
+    },
+    "name": "MyInspectors",
+    "id": "me.art0007i.MyInspectors",
+    "description": "Makes inspectors generate by local user instead of host. Slightly unsable, if anything with inspectors breaks remove this mod.",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/art0007i/MyInspectors"
+}

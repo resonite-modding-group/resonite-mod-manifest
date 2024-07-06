@@ -1,0 +1,16 @@
+{
+	"name": "NoTankControls-InspectorScrollCompatible",
+	"id": "owo.Nytra.NoTankControls",
+	"description": "Don't lock up joystick movement while tools are equipped. Very helpful on Quest. This version has tweaks to work better with InspectorScroll.",
+	"category": "Controls",
+	"sourceLocation": "https://github.com/Nytra/NoTankControls",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.0/NoTankControls.dll",
+				"sha256": "04cfe11bd0415f4fa62f00f39987b2b7667935995823ccede10f534238deb51d"
+			}]
+		}
+	}
+}
