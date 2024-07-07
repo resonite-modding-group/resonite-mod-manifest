@@ -4,6 +4,7 @@
 	"description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
+	"tags": ["deprecated"],
 	"additionalAuthors": [
 		"dfgHiatus",
 		"Geenz",
