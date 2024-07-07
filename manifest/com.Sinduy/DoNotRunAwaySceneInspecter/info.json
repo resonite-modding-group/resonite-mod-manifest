@@ -1,0 +1,17 @@
+{
+	"name": "DoNotRunAwaySceneInspecter",
+	"id": "com.Sinduy.DoNotRunAwaySceneInspecter",
+	"description": "This mod prevents the scene inspector from moving away form user when they are trying to inspect a scene.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.0/SlotInspectorHighlighter.dll",
+				"filename": "DoNotRunAwaySceneInspecter.dll",
+				"sha256": "a2ee76df5361933db30e812d3fad60998409eba2dc14dfbf5dfca0d52ac6e0cf"
+			}]
+		}
+	}
+}
