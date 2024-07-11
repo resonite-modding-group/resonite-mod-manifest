@@ -1977,6 +1977,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0"
+                        },
+                        "2.3.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "0Harmony.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e96fc01100b6bbdc094b900efe47850cf97aa9df7c6a78cbe723b1decf5a506a",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/3.0.0/0Harmony.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.3.3.0"
                         }
                     },
                     "website": "https://harmony.pardeike.net/"
