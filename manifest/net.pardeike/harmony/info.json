@@ -6,7 +6,6 @@
 	"sourceLocation": "https://github.com/pardeike/Harmony",
 	"website": "https://harmony.pardeike.net/",
 	"versions": {
-e96fc01100b6bbdc094b900efe47850cf97aa9df7c6a78cbe723b1decf5a506a
 		"2.3.3": {
 			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.3.3.0",
 			"artifacts": [{
