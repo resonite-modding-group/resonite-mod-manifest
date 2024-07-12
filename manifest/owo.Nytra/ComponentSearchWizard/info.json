@@ -32,6 +32,13 @@
 				"url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.3/ComponentSearchWizard.dll",
 				"sha256": "19c156975490ddce08c146649e610c259f57da7eb27cb99a9bf2bc6c0e7745b3"
 			}]
+		},
+		"1.1.4": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.4",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.4/ComponentSearchWizard.dll",
+				"sha256": "0dfaf67a825eab9ba98a76f8ba6deba2a91a3ec93c30393b78ceb335a66f0e63"
+			}]
 		}
 	}
 }
