@@ -1260,6 +1260,16 @@
                             ],
                             "changelog": "Fixed the mod not working in the latest version",
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.7"
+                        },
+                        "2.2.8": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDelegates.dll",
+                                    "sha256": "489ccc8326e7b5404be15d874da950772180b3a220bbebcd9cc555079e3041c7",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.8/ShowDelegates.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.8"
                         }
                     }
                 },
@@ -1379,6 +1389,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "be0e8f5f2c75775ad55a6ffd0a1f744973be9fff985fa2699988042d43ecab0c",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.1/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.1"
                         }
                     }
                 },
