@@ -2622,6 +2622,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2bc3aed7d5afa10fe74f415d120fec71ed6f239fcb77c354d7c1af6a2537d216",
+                                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.0.2/ReferenceFinderWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.2"
                         }
                     }
                 },
