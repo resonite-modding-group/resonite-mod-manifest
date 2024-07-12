@@ -47,6 +47,16 @@
                 }
             ],
             "changelog": "Fixed the mod not working in the latest version"
+        },
+        "2.2.8": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.8",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.8/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "489ccc8326e7b5404be15d874da950772180b3a220bbebcd9cc555079e3041c7"
+                }
+            ]
         }
     }
 }
