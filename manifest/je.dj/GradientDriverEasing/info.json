@@ -5,6 +5,34 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
 	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.0",
+			"changelog": "Added:\n- An option to enable/disable the mod.\n- Error popup when the mod fails to initialize, such as in the case of CustomUILib not being available.\n\nUpdated:\n- Code style & refactoring.\n\nFixed:\n- Interpolating colors by HSV not underflowing their hue if the difference of hues is over 180\u00b0.\n\nRemoved:Escape Unicode Characters\n- Being able to apply easing functions to non-lerpable types, such as booleans.\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2024.7.12.12.",
+			"dependencies": {
+				"me.art0007i.CustomUILib": {
+					"version": "^2.0.0"
+				}
+			},
+			"artifacts": [{
+				"filename": "GradientDriverEasing.dll",
+				"url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.0/GradientDriverEasing.dll",
+				"sha256": "0e0dcfa91b6cb56b9a541ee6132d80629ea85cfc1e0cfc4e79fb6efd242f3724"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.1.0",
+			"changelog": "Added:\n- An option to tween color and colorX by HSV instead of RGB (disabled by default).\n- An option to use unclamped lerp calculations (enabled by default).\n\nFixed:\n- Back, elastic, and spring easing presets being clamped.\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2024.7.4.1347.",
+			"dependencies": {
+				"me.art0007i.CustomUILib": {
+					"version": "^2.0.0"
+				}
+			},
+			"artifacts": [{
+				"filename": "GradientDriverEasing.dll",
+				"url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.1.0/GradientDriverEasing.dll",
+				"sha256": "b760471aeabae335048d39a36a9d0e4a2b3133643a0959ac46db5f403f8fde92"
+			}]
+		},
 		"1.0.0": {
 			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.0.0",
 			"changelog": "Initial release.\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.",
