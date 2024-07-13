@@ -1454,6 +1454,15 @@
                             ],
                             "changelog": "Improved search method speed by removing LinQ. Changed method for building the component cache.",
                             "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5c82c0a8702d210067df68864ce8d06797c28d69e506ed3bc9b5ffe8f6ca9719",
+                                    "url": "https://github.com/BlueCyro/CherryPick/releases/download/1.1.1/CherryPick.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.1.1"
                         }
                     }
                 },
