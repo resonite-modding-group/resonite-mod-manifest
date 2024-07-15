@@ -756,6 +756,17 @@
                             ],
                             "changelog": "Fix reference to SkyFrost",
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.2"
+                        },
+                        "2.1.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "CustomInspectors.dll",
+                                    "sha256": "3223d33159b848d6ae2d00a0077825697554db7c06f94bc3b6c34871e5d54794",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.3/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix for type management build",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.3"
                         }
                     }
                 },
