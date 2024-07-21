@@ -10,7 +10,7 @@
 			"artifacts": [{
 				"filename": "!Console.dll",
 				"url": "https://github.com/KannyaResonite/Console/releases/download/1.0.0/Console.dll",
-				"sha256": "149fe95dc98eb7d266b58670f1fe1524a2fcdffeb148e0f3fe692c71cb5122c2"
+				"sha256": "f2ba3f0b61664cfb07eff6cfbc04e5f996094a40760f93c08fa6d1e55a305c53"
 			}]
 		}
 	}
