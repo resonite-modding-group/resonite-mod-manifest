@@ -1,0 +1,16 @@
+{
+	"name": "Console",
+	"id": "com.Kannya.Console",
+	"description": "A simple but very useful console mod for RML",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/KannyaResonite/Console",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/KannyaResonite/Console/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/KannyaResonite/Console/releases/download/1.0.0/Console.dll",
+				"sha256": "149fe95dc98eb7d266b58670f1fe1524a2fcdffeb148e0f3fe692c71cb5122c2"
+			}]
+		}
+	}
+}
