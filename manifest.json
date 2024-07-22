@@ -142,6 +142,9 @@
                     "category": "Misc",
                     "description": "A simple but very useful console mod for RML",
                     "name": "Console",
+                    "platforms": [
+                        "windows"
+                    ],
                     "sourceLocation": "https://github.com/KannyaResonite/Console",
                     "versions": {
                         "1.0.0": {
