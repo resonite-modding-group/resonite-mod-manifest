@@ -5,6 +5,13 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/BlueCyro/CherryPick",
 	"versions": {
+		"1.1.2": {
+			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.1.2",
+			"artifacts": [{
+				"url": "https://github.com/BlueCyro/CherryPick/releases/download/1.1.2/CherryPick.dll",
+				"sha256": "d47fefb81bebbe120c93d5f7cdc6a7a9006bc8ffbab08b5d125c86eb6b298dc2"
+			}]
+		},
 		"1.1.1": {
 			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.1.1",
 			"artifacts": [{
