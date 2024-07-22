@@ -4,6 +4,7 @@
 	"description": "A simple but very useful console mod for RML",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/KannyaResonite/Console",
+	"platforms": ["windows"],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/KannyaResonite/Console/releases/tag/1.0.0",
