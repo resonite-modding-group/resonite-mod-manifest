@@ -36,6 +36,16 @@
                 }
             ],
             "changelog": "Fix for type management build"
+        },
+        "2.1.4": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.4/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "caceeab994bfec8aa7009c3c29deccf63763a25fbf3816588f51565fc2c32307"
+                }
+            ]
         }
     }
 }
