@@ -1328,6 +1328,9 @@
                 "me.art0007i.ShowComponentSlot": {
                     "category": "Inspectors",
                     "description": "Allows you to open the slot that a component is attached to in component inspectors",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ShowComponentSlot",
                     "sourceLocation": "https://github.com/art0007i/ShowComponentSlot",
                     "versions": {
