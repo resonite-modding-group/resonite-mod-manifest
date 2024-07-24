@@ -2,7 +2,7 @@
 	"name": "StresslessHeadless",
 	"id": "net.raidriar796.StresslessHeadless",
 	"description": "Disables frequent and heavy calculations on certain components from running on Headless clients.",
-	"category": "Technical Tweaks",
+	"category": "Optimization",
 	"platforms": [
 		"headless"
 	],
