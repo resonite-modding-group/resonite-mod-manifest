@@ -140,7 +140,7 @@
             "entries": {
                 "com.Kannya.Console": {
                     "category": "Misc",
-                    "description": "A simple but very useful console mod for RML",
+                    "description": "A simple but very useful console mod for RML and MonkeyLoader",
                     "name": "Console",
                     "platforms": [
                         "windows"
@@ -156,6 +156,34 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/KannyaResonite/Console/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "!Console.dll",
+                                    "sha256": "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584",
+                                    "url": "https://github.com/KannyaResonite/Console/releases/download/1.0.1/Console.dll"
+                                }
+                            ],
+                            "changelog": "Added proper MonkeyLoader support.",
+                            "releaseUrl": "https://github.com/KannyaResonite/Console/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "com.Kannya.FilesColours": {
+                    "category": "Dashboard",
+                    "description": "Simply colours your files in the files window on a per file category basis in Resonite. Configurable.",
+                    "name": "ColourMyFiles",
+                    "sourceLocation": "https://github.com/KannyaResonite/ColourMyFiles",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f9caefeb706eb7c8c370c001f00961dc76500d7b318e858be60f293a0482b4a4",
+                                    "url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.0/ColourMyFiles.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/KannyaResonite/ColourMyFiles/releases/tag/1.0.0"
                         }
                     }
                 }
