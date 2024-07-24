@@ -1622,6 +1622,23 @@
                             "releaseUrl": "https://github.com/BlueCyro/EffortlessEfficiency/releases/tag/1.0.0"
                         }
                     }
+                },
+                "net.Cyro.Outflow": {
+                    "category": "Optimization",
+                    "description": "Mitigate hitching when new users join a session you are hosting",
+                    "name": "Outflow",
+                    "sourceLocation": "https://github.com/BlueCyro/Outflow/",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "bf373d2a145e3ffb9683d3bf8395d86f90dceb1343521ba96f8001f8ceec07a4",
+                                    "url": "https://github.com/BlueCyro/Outflow/releases/download/1.0.1/Outflow.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/BlueCyro/Outflow/releases/tag/1.0.1"
+                        }
+                    }
                 }
             }
         },
