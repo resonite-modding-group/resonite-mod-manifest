@@ -2216,7 +2216,7 @@
                     }
                 },
                 "net.raidriar796.StresslessHeadless": {
-                    "category": "Technical Tweaks",
+                    "category": "Optimization",
                     "description": "Disables frequent and heavy calculations on certain components from running on Headless clients.",
                     "name": "StresslessHeadless",
                     "platforms": [
@@ -2243,6 +2243,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0"
+                        }
+                    }
+                },
+                "net.raidriar796.lognt": {
+                    "category": "Technical Tweaks",
+                    "description": "Allows for disabling all logs, warnings, and errors from being written to disk.",
+                    "name": "Lognt",
+                    "sourceLocation": "https://github.com/Raidriar796/Lognt",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Lognt.dll",
+                                    "sha256": "1F69BE8F97EEBB89F7C86286E3540966D176F160AB3D91003C8DF9BB96C2F81A",
+                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.0.0/Lognt.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -2275,6 +2293,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0"
+                        },
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ytdlpUpdater.dll",
+                                    "sha256": "2C00777F29F88E0B032239A55029944938592823523EC05CB8459F2D6BD742FE",
+                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.3.0"
                         }
                     }
                 }
