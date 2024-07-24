@@ -1,0 +1,16 @@
+{
+	"name": "PermissionControl",
+	"id": "net.deltawolf.PermissionControl",
+	"description": "Allows editing permission overrides individually, even for users not in a session",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/XDelta/PermissionControl",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.0/PermissionControl.dll",
+				"sha256": "575a1a04fe0aaac21b6a310924eb8a1b76f251a340b6f892633c9a2d57481706"
+			}]
+		}
+	}
+}

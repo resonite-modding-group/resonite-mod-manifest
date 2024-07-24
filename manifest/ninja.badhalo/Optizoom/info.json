@@ -18,6 +18,13 @@
 				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.1/Optizoom.dll",
 				"sha256": "3e44d3fdd440b4b3460dcebcfe343dc9b3db4e64be6ac9550dced6420195da03"
 			}]
+		},
+		"2.1.2": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.2",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.2/Optizoom.dll",
+				"sha256": "d6512b01bbc7c4760454b9deb90417bdb509576600bfb24e4c114d363b059ace"
+			}]
 		}
 	}
 }

@@ -1,0 +1,19 @@
+{
+    "name": "LargerObjectMessagePreviews",
+    "id": "me.art0007i.LargerObjectMessagePreviews",
+    "description": "Increases the size of object message thumbnails.",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/art0007i/LargerObjectMessagePreviews",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/2.0.0/LargerObjectMessagePreviews.dll",
+                    "filename": "LargerObjectMessagePreviews.dll",
+                    "sha256": "e8f6bb0dbde068bc53d01a0788f9ff8b21dfbec5320df88c9c81aa112633d5b4"
+                }
+            ]
+        }
+    }
+}

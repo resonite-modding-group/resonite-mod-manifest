@@ -25,6 +25,17 @@
                 }
             ],
             "changelog": "Remove calls to UniLog.Log"
+        },
+        "2.0.3": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.3/LocalStorage.dll",
+                    "filename": "LocalStorage.dll",
+                    "sha256": "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33"
+                }
+            ],
+            "changelog": "Fix reference to SkyFrost"
         }
     }
 }

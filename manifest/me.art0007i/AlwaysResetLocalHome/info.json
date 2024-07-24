@@ -1,0 +1,19 @@
+{
+    "name": "AlwaysResetLocalHome",
+    "id": "me.art0007i.AlwaysResetLocalHome",
+    "description": "Forces the local home to be reset every time the game is launched, it also tries to load the local home file from `Resonite/RuntimeData/LocalModded.bin`.",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/AlwaysResetLocalHome",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/AlwaysResetLocalHome/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/AlwaysResetLocalHome/releases/download/1.0.0/AlwaysResetLocalHome.dll",
+                    "filename": "AlwaysResetLocalHome.dll",
+                    "sha256": "975e3410d31eeaacad571a458283fd0c8cbb40df037f6b27926dbf8c3ba94253"
+                }
+            ]
+        }
+    }
+}
