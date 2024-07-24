@@ -1,4 +1,5 @@
 {
+    "flags": ["deprecated"],
     "name": "ShowComponentSlot",
     "id": "me.art0007i.ShowComponentSlot",
     "description": "Allows you to open the slot that a component is attached to in component inspectors",
