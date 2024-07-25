@@ -1,0 +1,16 @@
+{
+	"name": "GifImporter",
+	"id": "xyz.astralchan.gifimporter",
+	"description": "Import gifs in resonite",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/astralchan/GifImporter",
+	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/astralchan/GifImporter/releases/tag/1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/astralchan/GifImporter/releases/download/1.2.0/GifImporter.dll",
+				"sha256": "c8f8cc50c92c7af5c7221e51d2f72e6709e78bb0a0cb15e5b5109def580d0121"
+			}]
+		}
+	}
+}
