@@ -14,6 +14,17 @@
                     "sha256": "dc74baff6a08083f4e493e0251c76ba09c88c57ce998c9908f2a401cb2413dc7"
                 }
             ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.1/MessageCopy.dll",
+                    "filename": "MessageCopy.dll",
+                    "sha256": "8ed99837b36c9e3d8d62130701509be105516ef98e396832193bac92d484c850"
+                }
+            ],
+            "changelog": "Fix reference to SkyFrost"
         }
     }
 }

@@ -14,6 +14,38 @@
                     "sha256": "3c65cec215ef380f2cfa63c57daf123dcce68aee4c0e104953e7e2b7721985e4"
                 }
             ]
+        },
+        "2.1.2": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.2/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "df1977595f17d3bc9ed1a2c7af2e8532489342c2fef3977bf284273cdece4381"
+                }
+            ],
+            "changelog": "Fix reference to SkyFrost"
+        },
+        "2.1.3": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.3/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "3223d33159b848d6ae2d00a0077825697554db7c06f94bc3b6c34871e5d54794"
+                }
+            ],
+            "changelog": "Fix for type management build"
+        },
+        "2.1.4": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.4/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "caceeab994bfec8aa7009c3c29deccf63763a25fbf3816588f51565fc2c32307"
+                }
+            ]
         }
     }
 }
