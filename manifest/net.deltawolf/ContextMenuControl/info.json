@@ -1,0 +1,17 @@
+{
+	"name": "ContextMenuControl",
+	"id": "net.deltawolf.ContextMenuControl",
+	"description": "Allows seeing what is driving a field and where a component is located.",
+	"category": "Context Menu",
+	"sourceLocation": "https://github.com/XDelta/ContextMenuControl/",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll",
+				"filename": "ContextMenuControl.dll",
+				"sha256": "f49ee1cc24d3881acea9c954aca3c1ee47bfeaa960b9e6d015e5e26d141db22d"
+			}]
+		}
+	}
+}
