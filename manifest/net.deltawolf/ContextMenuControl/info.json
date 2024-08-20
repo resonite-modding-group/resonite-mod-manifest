@@ -1,7 +1,7 @@
 {
 	"name": "ContextMenuControl",
 	"id": "net.deltawolf.ContextMenuControl",
-	"description": "Allows seeing what is driving a field and where a component is located.",
+	"description": "Gives higher control over your context menu. Features include disabling scale reset, hiding the scale or locomotion options and hiding the context menu from others.",
 	"category": "Context Menu",
 	"sourceLocation": "https://github.com/XDelta/ContextMenuControl/",
 	"versions": {
