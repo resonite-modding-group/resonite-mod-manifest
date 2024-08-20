@@ -1710,6 +1710,24 @@
                 }
             },
             "entries": {
+                "net.deltawolf.ContextMenuControl": {
+                    "category": "Context Menu",
+                    "description": "Gives higher control over your context menu. Features include disabling scale reset, hiding the scale or locomotion options and hiding the context menu from others.",
+                    "name": "ContextMenuControl",
+                    "sourceLocation": "https://github.com/XDelta/ContextMenuControl/",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ContextMenuControl.dll",
+                                    "sha256": "f49ee1cc24d3881acea9c954aca3c1ee47bfeaa960b9e6d015e5e26d141db22d",
+                                    "url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.DisableSRAnipal": {
                     "category": "Hardware Integration",
                     "description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
