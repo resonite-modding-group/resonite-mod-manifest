@@ -11,6 +11,13 @@
 				"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.0/ResoniteHotReloadLib.dll",
 				"sha256": "76c6871dc58ebee39a86758e05703831518e7992c9ecf018e2c0a7e63f8b81ac"
 			}]
+		},
+		"2.1.1": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.1/ResoniteHotReloadLib.dll",
+				"sha256": "64f85cfe1681a1b49ba88087dcfe07050696617db85b50e3b77a4e8db01f0be9"
+			}]
 		}
 	}
 }
