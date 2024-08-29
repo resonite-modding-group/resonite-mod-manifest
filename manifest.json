@@ -2924,6 +2924,23 @@
                         }
                     }
                 },
+                "owo.Nytra.ScrollableFieldEditors": {
+                    "category": "Inspectors",
+                    "description": "Allows clicking into inspector fields and then scrolling to change the value.",
+                    "name": "ScrollableFieldEditors",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteScrollableFieldEditors",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2a2c1ca9740f52f20210313553cd5c41043fa8e0826880a994cffaac47c7144d",
+                                    "url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/download/v1.0.0/ScrollableFieldEditors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "owo.Nytra.WorldListSessionHider": {
                     "category": "Dashboard",
                     "description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username, the world ID or the session ID.",
