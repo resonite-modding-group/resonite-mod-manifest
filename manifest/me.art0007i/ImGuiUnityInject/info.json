@@ -10,17 +10,20 @@
             "artifacts": [
                 {
                     "url": "https://github.com/art0007i/ImGuiUnityInject/releases/download/0.1.1/ImGuiUnityInject.dll",
-                    "filename": "../rml_libs/ImGuiUnityInject.dll",
+                    "filename": "ImGuiUnityInject.dll",
+                    "installLocation": "/rml_libs",
                     "sha256": "3c8735b22d05e6136c10a3132800084a4e42ed803b059bc2820c0ab8d4b4bfd9"
                 },
                 {
                     "url": "https://github.com/art0007i/ImGuiUnityInject/raw/d5c5ab8208bf4b6bd5f6dec0756573b85c1d0e61/Plugins/cimgui-freetype.dll",
-                    "filename": "../Resonite_Data/Plugins/x86_64/cimgui-freetype.dll",
+                    "filename": "cimgui-freetype.dll",
+                    "installLocation": "/Resonite_Data/Plugins/x86_64",
                     "sha256": "e43759ef30a1c02fb0dec1dc232873fb576f6c6483de0c7a5e7e7157fad5cf10"
                 },
                 {
                     "url": "https://github.com/art0007i/ImGuiUnityInject/raw/d5c5ab8208bf4b6bd5f6dec0756573b85c1d0e61/Plugins/cimgui.dll",
-                    "filename": "../Resonite_Data/Plugins/x86_64/cimgui.dll",
+                    "filename": "cimgui.dll",
+                    "installLocation": "/Resonite_Data/Plugins/x86_64",
                     "sha256": "09bb9d5e23137e3b2ee681a1700a3a0f4bd847846368ede847a163f1f91e8560"
                 }
             ]
