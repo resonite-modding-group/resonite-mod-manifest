@@ -1422,6 +1422,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDriveSource.dll",
+                                    "sha256": "db7820f5070833f9987e608243139d841d3dcfc06444fa2aa4e42f88d91fe231",
+                                    "url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.2/ShowDriveSource.dll"
+                                }
+                            ],
+                            "changelog": "Fix for new version",
+                            "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.2"
                         }
                     }
                 },
