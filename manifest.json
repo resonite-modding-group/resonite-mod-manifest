@@ -986,6 +986,37 @@
                         }
                     }
                 },
+                "me.art0007i.ImGuiUnityInject": {
+                    "category": "Libraries",
+                    "description": "Edit of https://github.com/realgamessoftware/dear-imgui-unity to work with game modding",
+                    "name": "ImGuiUnityInject",
+                    "sourceLocation": "https://github.com/art0007i/ImGuiUnityInject",
+                    "versions": {
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ImGuiUnityInject.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "3c8735b22d05e6136c10a3132800084a4e42ed803b059bc2820c0ab8d4b4bfd9",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/releases/download/0.1.1/ImGuiUnityInject.dll"
+                                },
+                                {
+                                    "filename": "cimgui-freetype.dll",
+                                    "installLocation": "/Resonite_Data/Plugins/x86_64",
+                                    "sha256": "e43759ef30a1c02fb0dec1dc232873fb576f6c6483de0c7a5e7e7157fad5cf10",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/raw/d5c5ab8208bf4b6bd5f6dec0756573b85c1d0e61/Plugins/cimgui-freetype.dll"
+                                },
+                                {
+                                    "filename": "cimgui.dll",
+                                    "installLocation": "/Resonite_Data/Plugins/x86_64",
+                                    "sha256": "09bb9d5e23137e3b2ee681a1700a3a0f4bd847846368ede847a163f1f91e8560",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/raw/d5c5ab8208bf4b6bd5f6dec0756573b85c1d0e61/Plugins/cimgui.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/ImGuiUnityInject/releases/tag/0.1.1"
+                        }
+                    }
+                },
                 "me.art0007i.ImportCompactor": {
                     "category": "Asset Importing",
                     "description": "Reduces the distance between imported items to a configurable value",
@@ -1272,6 +1303,29 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "me.art0007i.ResoniteImGuiLib": {
+                    "category": "Libraries",
+                    "description": "A library which allows modders to use ImGuiUnityInject in resonite",
+                    "name": "ResoniteImGuiLib",
+                    "sourceLocation": "https://github.com/art0007i/ResoniteImGuiLib",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteImGuiLib.dll",
+                                    "sha256": "531ad310a61df024569a6eb3c58b2e222f4dca0f8ad53e3003ad6a483aef1afd",
+                                    "url": "https://github.com/art0007i/ResoniteImGuiLib/releases/download/1.0.0/ResoniteImGuiLib.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.ImGuiUnityInject": {
+                                    "version": "0.1.x"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/art0007i/ResoniteImGuiLib/releases/tag/1.0.0"
                         }
                     }
                 },
