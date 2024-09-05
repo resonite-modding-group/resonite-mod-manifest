@@ -1,0 +1,24 @@
+{
+    "name": "ResoniteImGuiLib",
+    "id": "me.art0007i.ResoniteImGuiLib",
+    "description": "A library which allows modders to use ImGuiUnityInject in resonite",
+    "category": "Libraries",
+    "sourceLocation": "https://github.com/art0007i/ResoniteImGuiLib",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ResoniteImGuiLib/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ResoniteImGuiLib/releases/download/1.0.0/ResoniteImGuiLib.dll",
+                    "filename": "ResoniteImGuiLib.dll",
+                    "sha256": "531ad310a61df024569a6eb3c58b2e222f4dca0f8ad53e3003ad6a483aef1afd"
+                }
+            ],
+            "dependencies": {
+                "me.art0007i.ImGuiUnityInject": {
+                    "version": "0.1.x"
+                }
+            }
+        }
+    }
+}
