@@ -917,6 +917,9 @@
                 "me.art0007i.DisableLegacyInventory": {
                     "category": "Controls",
                     "description": "Disables the legacy inventory gesture, but it has a config option that can enable it again",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "DisableLegacyInventory",
                     "sourceLocation": "https://github.com/art0007i/DisableLegacyInventory",
                     "versions": {
