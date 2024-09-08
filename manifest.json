@@ -3074,6 +3074,32 @@
                     }
                 }
             }
+        },
+        "semmiedev": {
+            "author": {
+                "SemmieDev": {
+                    "url": "https://github.com/SemmieDev"
+                }
+            },
+            "entries": {
+                "semmiedev.NoDoubleTapSprint": {
+                    "category": "Controls",
+                    "description": "Disable double-tap sprinting when using a keyboard",
+                    "name": "NoDoubleTapSprint",
+                    "sourceLocation": "https://github.com/SemmieDev/NoDoubleTapSprint",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b4410991d37bb2a6c675adaab18ea97c179b9b126dc5474ba3f1a64791931342",
+                                    "url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
         }
     },
     "schemaVersion": "1.0.1"
