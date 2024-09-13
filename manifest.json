@@ -1813,6 +1813,23 @@
                         }
                     }
                 },
+                "net.deltawolf.LogAutoFlush": {
+                    "category": "Technical Tweaks",
+                    "description": "Allows forcing the LogStream to AutoFlush and write to file immediately instead of buffering writes.",
+                    "name": "LogAutoFlush",
+                    "sourceLocation": "https://github.com/XDelta/LogAutoFlush",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0",
+                                    "url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.0/LogAutoFlush.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.PermissionControl": {
                     "category": "Dashboard",
                     "description": "Allows editing permission overrides individually, even for users not in a session",
