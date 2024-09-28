@@ -1,0 +1,68 @@
+{
+  "name": "Headless Prometheus Exporter",
+  "id": "lc.j4.hdpromex",
+  "description": "Exports statistics formatted for Prometheus to a web endpoint.",
+  "category": "statistics",
+  "platforms": [
+    "headless"
+  ],
+  "sourceLocation": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter",
+  "versions": {
+    "1.0.7": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.7",
+      "artifacts": [{
+        "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.7/downloads/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "88DE914C34308F321C7B6DBC725ECD189E4F6D38EBC0DDE5797FC7429B01C56F"
+      }]
+    },
+    "1.0.5": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.5",
+      "artifacts": [{
+        "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.5/downloads/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "88DE914C34308F321C7B6DBC725ECD189E4F6D38EBC0DDE5797FC7429B01C56F"
+      }]
+    },
+    "1.0.4": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.4",
+      "artifacts": [{
+        "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.4/downloads/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "E319F1B1D11FA67B7244E51B950F70E9BFB02259C1C55147E54FD19970C9D097"
+      }]
+    },
+    "1.0.3": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.3",
+      "artifacts": [{
+        "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.3/downloads/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "6FF16DA9371B5FEEB3BF642DC3A67F0928AEB7F9C79F89745ADD7A243D778AA9"
+      }]
+    },
+    "1.0.2": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.2",
+      "artifacts": [{
+        "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.2/downloads/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "5B55FB7890B248A48849C1F18A7EDD23C6418F933FC736477E78761821DD3E75"
+      }]
+    },
+    "1.0.1": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.1",
+      "artifacts": [{
+        "url": "https://g.j4.lc/-/project/95/uploads/fd78d04b067bde84e9a9cb54dcdc6eb6/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "BED300AC632A89282A3B670BC5CF1FB98119FBA01C48FCE08177D764BE00A5A6"
+      }]
+    },
+    "1.0.0": {
+      "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.0.0",
+      "artifacts": [{
+        "url": "https://g.j4.lc/-/project/95/uploads/33fabbae891815ca49c82e4c329a226a/HeadlessPrometheusExporter.dll",
+        "filename": "HeadlessPrometheusExporter.dll",
+        "sha256": "4C7099EC21324EFFDFACAA567A3329CFACEC8E76989C434925B29FC29C063C90"
+      }]
+    }
+  }
+}
