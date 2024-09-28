@@ -2,7 +2,7 @@
   "name": "Headless Prometheus Exporter",
   "id": "lc.j4.hdpromex",
   "description": "Exports statistics formatted for Prometheus to a web endpoint.",
-  "category": "statistics",
+  "category": "misc",
   "platforms": [
     "headless"
   ],
