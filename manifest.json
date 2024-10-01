@@ -1737,6 +1737,9 @@
                 "net.Cyro.Outflow": {
                     "category": "Optimization",
                     "description": "Mitigate hitching when new users join a session you are hosting",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "Outflow",
                     "sourceLocation": "https://github.com/BlueCyro/Outflow/",
                     "versions": {
