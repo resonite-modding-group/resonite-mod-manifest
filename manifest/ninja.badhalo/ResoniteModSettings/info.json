@@ -5,6 +5,13 @@
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
 	"versions": {
+		"2.1.8": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.8",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.8/ResoniteModSettings.dll",
+				"sha256": "80c05d2b36c3aa26f2e8d022e65e3f75083127a83ae7a2f224707d8d67e95fc4"
+			}]
+		},
 		"2.1.7": {
 			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.7",
 			"artifacts": [{
