@@ -1274,6 +1274,24 @@
                         }
                     }
                 },
+                "me.art0007i.OutOfSightOverride": {
+                    "category": "Misc",
+                    "description": "Ignores the out of sight check on buttons",
+                    "name": "OutOfSightOverride",
+                    "sourceLocation": "https://github.com/art0007i/OutOfSightOverride",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "OutOfSightOverride.dll",
+                                    "sha256": "c7fef55525aa9bbcb96c42aa4271707497fd3f0466cb17f1bc1c37e907544c75",
+                                    "url": "https://github.com/art0007i/OutOfSightOverride/releases/download/1.0.0/OutOfSightOverride.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/OutOfSightOverride/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "me.art0007i.ParentalIssues": {
                     "category": "Memes",
                     "description": "Changes the default parent and child object names to be funnier",
