@@ -1,0 +1,27 @@
+{
+	"name": "Console",
+	"id": "com.Kannya.Console",
+	"description": "A simple but very useful console mod for RML and MonkeyLoader",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/KannyaResonite/Console",
+	"platforms": ["windows"],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/KannyaResonite/Console/releases/tag/1.0.0",
+			"artifacts": [{
+				"filename": "!Console.dll",
+				"url": "https://github.com/KannyaResonite/Console/releases/download/1.0.0/Console.dll",
+				"sha256": "f2ba3f0b61664cfb07eff6cfbc04e5f996094a40760f93c08fa6d1e55a305c53"
+			}]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/KannyaResonite/Console/releases/tag/1.0.1",
+			"artifacts": [{
+				"filename": "!Console.dll",
+				"url": "https://github.com/KannyaResonite/Console/releases/download/1.0.1/Console.dll",
+				"sha256": "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584"
+			}],
+            "changelog": "Added proper MonkeyLoader support."
+		}
+	}
+}

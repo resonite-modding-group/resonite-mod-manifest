@@ -1,0 +1,44 @@
+{
+	"name": "VRMLImporter",
+	"id": "net.dfgHiatus.VRMLImporter",
+	"description": "Allows importing VRML 1.0/2.0 and X3D files. Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/dfgHiatus/ResoniteVRMLImporter",
+	"platforms": ["windows", "linux-wine"],
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/tag/v2.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/VRMLImporter.dll",
+					"sha256": "2dd001fa8f55e876c274075225d92d4bd03b81a2c8a2477fcb0f5456929ccfb7"
+				},
+				{
+					"url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vrml1tovrml2.exe",
+					"sha256": "bb1d0a31295560c20dbd8d477813be7d0172321cee0d166236d0baec5291fdf2",
+					"installLocation": "/rml_mods/vrml_importer"
+				},
+				{
+					"url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vrml1tovrml2.txt",
+					"sha256": "47c3bca760f7a7dd65fb935b9cde6a0ab90566f3786dfbf1a648a6dcedb1b20f",
+					"installLocation": "/rml_mods/vrml_importer"
+				},
+				{
+					"url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vr1tovr2.exe",
+					"sha256": "6e3f443f82a49dc41b207cb1ad20d53f68e4055b1e6a85569fe833dfe565cb0b",
+					"installLocation": "/rml_mods/vrml_importer"
+				},
+				{
+					"url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/vr1tovr2.txt",
+					"sha256": "54710eedc2aa5597af3fabab5ab0d2e47c56ad615e0a1bfbf60619e5b5bc64a4",
+					"installLocation": "/rml_mods/vrml_importer"
+				},
+				{
+					"url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/cp_vrml1to2.dll",
+					"sha256": "3c4c1021aebb19e2d42173c52589e4380d93d4c2fd31ee70f9ff06035fe56dbb",
+					"installLocation": "/rml_mods/vrml_importer"
+				}
+			]
+		}
+	}
+}

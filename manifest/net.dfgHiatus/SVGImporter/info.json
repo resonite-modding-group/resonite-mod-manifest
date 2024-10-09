@@ -1,0 +1,16 @@
+{
+	"name": "SVGImporter",
+	"id": "net.dfgHiatus.SVGImporter",
+	"description": "Allows importing SVG (Scalable Vector Graphics) files as 3D models. Requires Blender to be installed on the system or in [RESONITE PATH]/tools/Blender.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/dfgHiatus/ResoniteSVGImporter",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/download/v2.0.0/SVGImporter.dll",
+				"sha256": "71f7ff48a4d286a1bb410583301bb6b81bc685544294ea2e24452ad7d14c918d"
+			}]
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"name": "ResoniteScreenshotExtensions",
+	"id": "dev.baru.resonite.ResoniteScreenshotExtensions",
+	"description": "Embed additional information in the screenshot and expand options when saving files",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
+	"versions": {
+		"1.1.4": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.4",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.4/ResoniteScreenshotExtensions.dll",
+				"sha256": "63b592ee2191cc8a2db0c21832b0d14fcca49c8740b4b7020a5a3e7e7a3094c9"
+			}]
+		},
+		"1.1.3": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.3",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.3/ResoniteScreenshotExtensions.dll",
+				"sha256": "520f11015cf6c319685ad3e5cee41428d71f705636963fd2b0d10a029c3a62fd"
+			}]
+		},
+		"1.1.2": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.2",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.2/ResoniteScreenshotExtensions.dll",
+				"sha256": "451fc7f85c0e8e2bd60a255d7ecd28938eefaef82e875677a5c4230b2cab6a84"
+			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.1/ResoniteScreenshotExtensions.dll",
+				"sha256": "350cbd6cd33bc516a535c9474f0b33969b991557b4cccfba7066ab253db094ec"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.0/ResoniteScreenshotExtensions.dll",
+				"sha256": "9c8224af9119b835cb5c89ad40d09b4304f93c56eb35ecdd26589ffd83ad88a2"
+			}]
+		}
+	}
+}

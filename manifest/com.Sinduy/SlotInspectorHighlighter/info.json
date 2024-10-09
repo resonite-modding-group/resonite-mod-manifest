@@ -1,0 +1,17 @@
+{
+	"name": "SlotInspectorHighlighter",
+	"id": "com.Sinduy.SlotInspectorHighlighter",
+	"description": "Adds a highlight to the hierarchy interface in the inspector to show which slot is currently being selected.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/sjsanjsrh/SlotInspectorHighlighter",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.0/SlotInspectorHighlighter.dll",
+				"filename": "SlotInspectorHighlighter.dll",
+				"sha256": "5a263595f9412ffc7fab7c535590a1e9444197c41777f6f3ff463862596ce65c"
+			}]
+		}
+	}
+}

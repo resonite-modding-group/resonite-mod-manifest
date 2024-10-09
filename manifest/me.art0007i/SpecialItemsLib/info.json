@@ -14,6 +14,17 @@
                     "sha256": "3a851acca48d4c562dfae4496fada17eb28f50544f372585f63bab30dc166b99"
                 }
             ]
+        },
+        "2.0.3": {
+            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.3/SpecialItemsLib.dll",
+                    "filename": "SpecialItemsLib.dll",
+                    "sha256": "6937419b73ad1010f289e944fe621f4e0e6c3a343226012cafa414d36b22d216"
+                }
+            ],
+            "changelog": "Fix reference to SkyFrost"
         }
     }
 }

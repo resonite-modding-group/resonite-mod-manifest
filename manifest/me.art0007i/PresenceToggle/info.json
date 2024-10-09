@@ -1,4 +1,5 @@
 {
+    "flags": ["deprecated"],
     "name": "PresenceToggle",
     "id": "me.art0007i.PresenceToggle",
     "description": "Allows you to toggle steam and discord rich presence",

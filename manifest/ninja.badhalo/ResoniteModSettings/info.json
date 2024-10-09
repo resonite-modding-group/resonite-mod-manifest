@@ -1,10 +1,45 @@
 {
 	"name": "ResoniteModSettings",
 	"id": "ninja.badhalo.ModSettings",
-	"description": "Adds a dash screen to show mods and edit their configs",
+	"description": "Adds a dash screen to show and edit mods and their configs",
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/badhaloninja/ResoniteModSettings",
 	"versions": {
+		"2.1.8": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.8",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.8/ResoniteModSettings.dll",
+				"sha256": "80c05d2b36c3aa26f2e8d022e65e3f75083127a83ae7a2f224707d8d67e95fc4"
+			}]
+		},
+		"2.1.7": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.7",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.7/ResoniteModSettings.dll",
+				"sha256": "2e7d470f0ea82a7822cf35bf2a85030ec13547eae258902c1625089f6385d4c4"
+			}]
+		},
+		"2.1.6": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.6",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.6/ResoniteModSettings.dll",
+				"sha256": "084ae96a20438d2f3812b4d464878387d31c5400636f4665010b723228fbb6a8"
+			}]
+		},
+		"2.1.5": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.5",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.5/ResoniteModSettings.dll",
+				"sha256": "a92c0fe86246b55706e05fcc28eaa40b16a1d4793667af651e15e0e3a88a120f"
+			}]
+		},
+		"2.1.4": {
+			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.4",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.4/ResoniteModSettings.dll",
+				"sha256": "d0fbc993661c240b38a3f0d79eeb91ef2b22aae5aa064b278e0bfc5e01f25280"
+			}]
+		},
 		"2.1.3": {
 			"releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3",
 			"changelog": "- Updated harmony ID to `ninja.badhalo.ModSettings`\n- Cleaned up build files",

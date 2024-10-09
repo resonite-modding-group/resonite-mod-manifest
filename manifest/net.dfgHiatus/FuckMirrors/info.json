@@ -1,0 +1,16 @@
+{
+	"name": "FuckMirrors",
+	"id": "net.dfgHiatus.FuckMirrors",
+	"description": "Cringe remover. Locally disables world-space cameras. Breaks things such as UI elements that rely on cameras to render textures. Can sometimes solve rendering issues with certain HMDs.",
+	"category": "Memes",
+	"sourceLocation": "https://github.com/dfgHiatus/FuckMirrors",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/dfgHiatus/FuckMirrors/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/FuckMirrors/releases/download/v2.0.0/FuckMirrors.dll",
+				"sha256": "2d0d1dba29d963a7c5ebca43507b6b212736fe16a2db5e6025e3b196032eded4"
+			}]
+		}
+	}
+}

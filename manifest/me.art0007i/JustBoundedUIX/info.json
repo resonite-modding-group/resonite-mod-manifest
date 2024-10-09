@@ -1,0 +1,19 @@
+{
+    "name": "JustBoundedUIX",
+    "id": "me.art0007i.JustBoundedUIX",
+    "description": "Adds gizmo bounding boxes to UIX elements, and fixes UIX elements breaking when a parent is inserted.",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/art0007i/JustBoundedUIX",
+    "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/JustBoundedUIX/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/JustBoundedUIX/releases/download/2.0.1/JustBoundedUIX.dll",
+                    "filename": "JustBoundedUIX.dll",
+                    "sha256": "fbefcaf3d3b8735f34fcfffa0caf15ae529e3ee5f56eb89e9ff0118ca85618b6"
+                }
+            ]
+        }
+    }
+}
