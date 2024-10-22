@@ -2900,6 +2900,23 @@
                         }
                     }
                 },
+                "owo.Nytra.ComponentMemberReplicator": {
+                    "category": "Wizards",
+                    "description": "Adds a wizard to allow copying selected values from a source component and applying them to one or many other components of the same Type. Can also (re)create drives.",
+                    "name": "ComponentMemberReplicator",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteComponentMemberReplicator",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b2431d95b4d5fef2a2d57326dc6d003e926e32b7c20f293db4e8a36340b55741",
+                                    "url": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/download/v1.0.0/ComponentMemberReplicator.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "owo.Nytra.ComponentSearchWizard": {
                     "category": "Wizards",
                     "description": "Adds a wizard to allow searching for components that exist on slots in the current world. You can search by type and/or by name, and get a list of references as output.",
