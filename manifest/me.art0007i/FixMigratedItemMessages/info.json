@@ -1,7 +1,7 @@
 {
     "name": "FixMigratedItemMessages",
     "id": "me.art0007i.FixMigratedItemMessages",
-    "description": "Fixes issue [#83](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/83)",
+    "description": "Fixes migrated objects in messages being unable to be spawned (issue [#83](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/83))",
     "category": "Bug Workaround",
     "sourceLocation": "https://github.com/art0007i/FixMigratedItemMessages",
     "versions": {
