@@ -1029,6 +1029,24 @@
                         }
                     }
                 },
+                "me.art0007i.FixMigratedItemMessages": {
+                    "category": "Bug Workaround",
+                    "description": "Fixes migrated objects in messages being unable to be spawned (issue [#83](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/83))",
+                    "name": "FixMigratedItemMessages",
+                    "sourceLocation": "https://github.com/art0007i/FixMigratedItemMessages",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "FixMigratedItemMessages.dll",
+                                    "sha256": "a5af5714384e935f68163b53e9154aedf9ecbfd41579dfd5bd5ca4b137f0e881",
+                                    "url": "https://github.com/art0007i/FixMigratedItemMessages/releases/download/1.0.0/FixMigratedItemMessages.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/FixMigratedItemMessages/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "me.art0007i.ImGuiUnityInject": {
                     "category": "Libraries",
                     "description": "Edit of https://github.com/realgamessoftware/dear-imgui-unity to work with game modding",
