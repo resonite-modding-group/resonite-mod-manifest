@@ -9,7 +9,7 @@
 			"releaseUrl": "hhttps://github.com/Frozenreflex/Thundagun/releases/tag/1.1.1-beta",
 			"artifacts": [{
 				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1-beta/Thundagun.dll",
-				"sha256": "84d92b27f26cef5fa3e0a3fa02b2ea97941125a5cf56184fa59e942bfcd96f23"
+				"sha256": "36e28c3097ab2e1850f700edf3e354ee6444a9f7cc6cbd03a54f0049f62ab224"
 			}]
 		}
 	}
