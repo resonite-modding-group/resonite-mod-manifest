@@ -7,13 +7,14 @@
 	"additionalAuthors": [
 		"989onan",
 		"DoubleStyx",
-		"Nytra"
+		"Nytra",
+		"Merith-TK"
 	],
 	"versions": {
-		"1.1.1-beta": {
-			"releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.1.1-beta",
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.1.1",
 			"artifacts": [{
-				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1-beta/Thundagun.dll",
+				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1/Thundagun.dll",
 				"sha256": "36e28c3097ab2e1850f700edf3e354ee6444a9f7cc6cbd03a54f0049f62ab224"
 			}]
 		}
