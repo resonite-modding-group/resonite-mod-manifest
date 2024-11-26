@@ -1,0 +1,16 @@
+{
+	"name": "FluxFinder",
+	"id": "net.NepuShiro.FluxFinder",
+	"description": "Exposes the Flux Tip's hovered color as a Dynamic Variable.",
+	"category": "Protoflux",
+	"sourceLocation": "https://github.com/NepuShiro/FluxFinder",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.0/FluxFinder.dll",
+				"sha256": "c4114505d891dd37f58b3b192bdbb619fba7092c5aa4367aab77fd340dce78d2"
+			}]
+		}
+	}
+}
