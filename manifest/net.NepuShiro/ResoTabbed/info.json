@@ -1,7 +1,7 @@
 {
 	"name": "ResoTabbed",
 	"id": "net.NepuShiro.ResoTabbed",
-	"description": "Adds a Dynamic Variable to show when you're tabbed in or not",
+	"description": "Adds a Dynamic Variable to show when you're tabbed in or not.",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/NepuShiro/ResoTabbed",
 	"versions": {
@@ -9,7 +9,7 @@
 			"releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.0.0/ResoTabbed.dll",
-				"sha256": "da445cd6a06ef9e443cb8474bcc72a898d4984f39b421cf8161128f41b9ae9c5"
+				"sha256": "f8ba58713e57f0a429b4665077950091e4f144d2f4a028b4a91c543536de4992"
 			}]
 		}
 	}
