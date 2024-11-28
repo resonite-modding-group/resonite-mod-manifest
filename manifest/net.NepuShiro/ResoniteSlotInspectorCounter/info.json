@@ -1,0 +1,16 @@
+{
+	"name": "ResoniteSlotInspectorCounter",
+	"id": "net.NepuShiro.ResoniteSlotInspectorCounter",
+	"description": "Changes the Collapse/Expand Buttons on the Inspector to Reflect the amount of Slots in that Slot Recursively.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter",
+	"versions": {
+		"1.3.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.3.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.3.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "108d0dc4be5a219751f741df5f74350929a1fd476915e20222a3dc5387996adf"
+			}]
+		}
+	}
+}
