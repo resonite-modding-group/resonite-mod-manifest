@@ -1824,6 +1824,101 @@
                 }
             }
         },
+        "net.NepuShiro": {
+            "author": {
+                "NepuShiro": {
+                    "icon": "https://avatars.githubusercontent.com/u/147555953?v=4",
+                    "url": "https://github.com/NepuShiro/"
+                }
+            },
+            "entries": {
+                "net.NepuShiro.ChangeJoinLeaveSound": {
+                    "category": "Dashboard",
+                    "description": "Allows you to change the default User Join/Leave sounds, and color.",
+                    "name": "ChangeJoinLeaveSound",
+                    "sourceLocation": "https://github.com/NepuShiro/ChangeJoinLeaveSound",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4",
+                                    "url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.NepuShiro.FluxFinder": {
+                    "category": "Protoflux",
+                    "description": "Exposes the Flux Tip's hovered color as a Dynamic Variable.",
+                    "name": "FluxFinder",
+                    "sourceLocation": "https://github.com/NepuShiro/FluxFinder",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0cc60114c1d5027dcc662f6b9b6de56a51e4a66333e44bbc3c22860193b5c1ed",
+                                    "url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.0/FluxFinder.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.NepuShiro.ResoTabbed": {
+                    "category": "Misc",
+                    "description": "Adds a Dynamic Variable to show when you're tabbed in or not.",
+                    "name": "ResoTabbed",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoTabbed",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f8ba58713e57f0a429b4665077950091e4f144d2f4a028b4a91c543536de4992",
+                                    "url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.0.0/ResoTabbed.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.NepuShiro.ResoniteFixContactIcons": {
+                    "category": "Dashboard",
+                    "description": "Fixes the Contact PFP's in the Contacts Tab, and Notifications.",
+                    "name": "ResoniteFixContactIcons",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteFixContactIcons",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "94a6202c95edbf43a54ca2b114392679120bae4a4559b50aea8722d94c344dc1",
+                                    "url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.1/ResoniteFixContactIcons.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "net.NepuShiro.ResoniteSlotInspectorCounter": {
+                    "category": "Inspectors",
+                    "description": "Changes the Collapse/Expand Buttons on the Inspector to Reflect the amount of Slots in that Slot Recursively.",
+                    "name": "ResoniteSlotInspectorCounter",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter",
+                    "versions": {
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "108d0dc4be5a219751f741df5f74350929a1fd476915e20222a3dc5387996adf",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.3.0/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.3.0"
+                        }
+                    }
+                }
+            }
+        },
         "net.catshark": {
             "author": {
                 "CatSharkShin": {
