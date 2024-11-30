@@ -11,11 +11,11 @@
 		"Merith-TK"
 	],
 	"versions": {
-		"1.1.1": {
-			"releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.1.1",
+		"1.2.0": {
+			"releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.0",
 			"artifacts": [{
-				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1/Thundagun.dll",
-				"sha256": "e0de1e188d5c3114fd924e09753c733357910947ddab22a9f4777d928ad07eed"
+				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.0/Thundagun.dll",
+				"sha256": "cbb9e58c98ca2096e7128df4ec57ca8c4afd25f8af2ab81c10572ee6ad930d83"
 			}]
 		}
 	}
