@@ -324,6 +324,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.1.1"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cbb9e58c98ca2096e7128df4ec57ca8c4afd25f8af2ab81c10572ee6ad930d83",
+                                    "url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.0/Thundagun.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.0"
                         }
                     }
                 }
