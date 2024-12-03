@@ -1173,6 +1173,24 @@
                         }
                     }
                 },
+                "me.art0007i.KeyRepeatAdjust": {
+                    "category": "Controls",
+                    "description": "Allows you to change the key repeat rate for the vr keyboard",
+                    "name": "KeyRepeatAdjust",
+                    "sourceLocation": "https://github.com/art0007i/KeyRepeatAdjust",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "KeyRepeatAdjust.dll",
+                                    "sha256": "d2798798f6cd185fbb782648190373b4b3ea986e06cf4ecbd67a8e19f808f41b",
+                                    "url": "https://github.com/art0007i/KeyRepeatAdjust/releases/download/1.0.0/KeyRepeatAdjust.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/KeyRepeatAdjust/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "me.art0007i.LargerObjectMessagePreviews": {
                     "category": "Dashboard",
                     "description": "Increases the size of object message thumbnails.",
