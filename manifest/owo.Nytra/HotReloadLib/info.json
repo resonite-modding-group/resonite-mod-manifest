@@ -23,7 +23,8 @@
 			"releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v3.0.0",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0/HotReloadLib.3.0.0.RML.zip",
-				"sha256": "0f7ddfd595a4b36e1dfa2103bd245a90f620324b0f41b27e1e278b819c7bd065"
+				"sha256": "0f7ddfd595a4b36e1dfa2103bd245a90f620324b0f41b27e1e278b819c7bd065",
+				"installLocation": "/rml_libs"
 			}]
 		}
 	}
