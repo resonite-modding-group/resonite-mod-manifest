@@ -307,9 +307,11 @@
                 "com.frozenreflex.Thundagun": {
                     "additionalAuthors": {
                         "989onan": {},
+                        "BlueberryWolf": {},
                         "DoubleStyx": {},
                         "Merith-TK": {},
-                        "Nytra": {}
+                        "Nytra": {},
+                        "SectOLT": {}
                     },
                     "category": "Optimization",
                     "description": "A lightning fast performance mod for Resonite. It improves performance by decoupling the FrooxEngine and Unity loops by running FrooxEngine and Unity on separate threads.",
@@ -333,6 +335,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "747a0afb947ec914f6cbeeab92159ee51cb5d9d5b5579efa6074554092625256",
+                                    "url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.1/Thundagun.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.1"
                         }
                     }
                 }
