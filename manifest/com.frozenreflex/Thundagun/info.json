@@ -8,7 +8,9 @@
 		"989onan",
 		"DoubleStyx",
 		"Nytra",
-		"Merith-TK"
+		"Merith-TK",
+		"SectOLT",
+		"BlueberryWolf"
 	],
 	"versions": {
 		"1.1.1": {
@@ -23,6 +25,13 @@
 			"artifacts": [{
 				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.0/Thundagun.dll",
 				"sha256": "cbb9e58c98ca2096e7128df4ec57ca8c4afd25f8af2ab81c10572ee6ad930d83"
+			}]
+		},
+		"1.2.1": {
+			"releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.1",
+			"artifacts": [{
+				"url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.1/Thundagun.dll",
+				"sha256": "747a0afb947ec914f6cbeeab92159ee51cb5d9d5b5579efa6074554092625256"
 			}]
 		}
 	}
