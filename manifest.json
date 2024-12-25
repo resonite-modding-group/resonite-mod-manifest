@@ -1333,6 +1333,17 @@
                             ],
                             "changelog": "Fixed for new resonite version",
                             "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "MyInspectors.dll",
+                                    "sha256": "048818e89f8a5b63d64047bb2fa717c4f3e16b7affdd96d2dc15dafda857fbcb",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.2/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Add toggle on/off option",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.2"
                         }
                     }
                 },
