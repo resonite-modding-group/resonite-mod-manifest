@@ -45,6 +45,32 @@
                 }
             }
         },
+        "RyanVittore": {
+            "author": {
+                "Ryan Vittore": {
+                    "url": "https://github.com/RyanVittore/"
+                }
+            },
+            "entries": {
+                "RyanVittore.ArrayEditing": {
+                    "category": "Inspectors",
+                    "description": "Makes Arrays editable in inspectors.",
+                    "name": "ArrayEditing",
+                    "sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b6ef7672ed686c46fb6460b0ea661cf50d524db96805ca9fb762c3db1bbc8b7a",
+                                    "url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.0/ArrayEditing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "U-xyla": {
             "author": {
                 "Zyntaks": {
