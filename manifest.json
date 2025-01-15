@@ -1794,6 +1794,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "46bce08c5e1798d77d13d922d7d385349addd5ffb1f22187ad67a1eaf6acbb3f",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.2/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "changelog": "Remove workaround for bug that has been fixed.",
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.2"
                         }
                     }
                 },
