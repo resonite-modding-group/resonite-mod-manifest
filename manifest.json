@@ -2604,9 +2604,10 @@
         "net.pardeike": {
             "author": {
                 "pardeike": {
-                    "icon": "https://avatars.githubusercontent.com/u/853584?v=4",
+                    "icon": "https://github.com/pardeike.png",
                     "support": "https://www.patreon.com/pardeike",
-                    "url": "https://github.com/pardeike/"
+                    "url": "https://github.com/pardeike/",
+                    "website": "https://pardeike.net/"
                 }
             },
             "entries": {
