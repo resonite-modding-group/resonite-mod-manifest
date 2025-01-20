@@ -13,6 +13,15 @@
 					"sha256": "37d2f0a25b2a8aec4b041402f796be88cb1d0f7cab1c4aace33534ce1c39d44f"
 				}
 			]
+		},
+		"2.1.3": {
+			"releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3",
+			"artifacts": [
+				{
+					"url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
+					"sha256": "4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97"
+				}
+			]
 		}
 	}
 }
