@@ -1,6 +1,6 @@
 {
 	"name": "CloseConfirm",
-	"id": "co.uk.alexw-578.CloseConfirm",
+	"id": "co.uk.AlexW-578.CloseConfirm",
 	"description": "Opens the Exit dashboard tab instead of closing the game on pressing Alt+F4 or clicking [X] on the game window.",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/AlexW-578/CloseConfirm",
