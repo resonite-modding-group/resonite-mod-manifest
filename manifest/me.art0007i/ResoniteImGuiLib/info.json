@@ -5,6 +5,20 @@
     "category": "Libraries",
     "sourceLocation": "https://github.com/art0007i/ResoniteImGuiLib",
     "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/art0007i/ResoniteImGuiLib/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ResoniteImGuiLib/releases/download/1.1.0/ResoniteImGuiLib.dll",
+                    "sha256": "ef21b285d0f067eb365c17dbd37a1267ab185edcb8a70f43f08fa5ed06c8506d"
+                }
+            ],
+            "dependencies": {
+                "me.art0007i.ImGuiUnityInject": {
+                    "version": "0.1.x"
+                }
+            }
+        },
         "1.0.0": {
             "releaseUrl": "https://github.com/art0007i/ResoniteImGuiLib/releases/tag/1.0.0",
             "artifacts": [
