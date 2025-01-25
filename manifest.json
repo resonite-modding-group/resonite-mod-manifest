@@ -2155,6 +2155,23 @@
                         }
                     }
                 },
+                "net.deltawolf.NonPersistentInspectors": {
+                    "category": "Inspectors",
+                    "description": "Inspectors you spawn will be set as non-persistent",
+                    "name": "NonPersistentInspectors",
+                    "sourceLocation": "https://github.com/XDelta/NonPersistentInspectors",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3d15180b8f3cc4fac717cc777248a96b50ec3ab02b17cd0cdf7f3b88628caaaf",
+                                    "url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.0/NonPersistentInspectors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.OpenInSteamOverlay": {
                     "category": "Misc",
                     "description": "Makes links open in the steam overlay instead of your default browser.",
