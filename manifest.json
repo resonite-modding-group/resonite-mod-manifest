@@ -1215,6 +1215,24 @@
                         }
                     }
                 },
+                "me.art0007i.IKnowWhatImDoing": {
+                    "category": "Inspectors",
+                    "description": "Removes confirmation menu for deleting components.",
+                    "name": "IKnowWhatImDoing",
+                    "sourceLocation": "https://github.com/art0007i/IKnowWhatImDoing",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "IKnowWhatImDoing.dll",
+                                    "sha256": "58eff34847608084768386de58d9ec248d1e8b3eff7b8534994899ede9c48433",
+                                    "url": "https://github.com/art0007i/IKnowWhatImDoing/releases/download/1.0.0/IKnowWhatImDoing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/IKnowWhatImDoing/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "me.art0007i.ImGuiUnityInject": {
                     "category": "Libraries",
                     "description": "Edit of https://github.com/realgamessoftware/dear-imgui-unity to work with game modding",
