@@ -45,6 +45,67 @@
                 }
             }
         },
+        "ErrorJan": {
+            "author": {
+                "ErrorJan": {
+                    "icon": "https://github.com/ErrorJan.png",
+                    "url": "https://github.com/ErrorJan"
+                }
+            },
+            "entries": {
+                "ErrorJan.EnableToolspawnInVR": {
+                    "category": "Controls",
+                    "description": "Patching out a bool check, that removes the ability using the number keys to spawn out tools in VR.",
+                    "name": "EnableToolspawnInVR",
+                    "sourceLocation": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f603d232216a8872b603356868c4cd81a1863358dcfc51c1a1c1e3e46c93e61f",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.0/EnableToolspawnInVR.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "ErrorJan.FixMirrorSteamVRIPDOffset": {
+                    "category": "Bug Workaround",
+                    "description": "When offsetting virtual IPD in SteamVR configs (steamvr.vrsettings) the mirror doesn't respect that, this mod fixes this issue.",
+                    "name": "FixMirrorSteamVRIPDOffset",
+                    "sourceLocation": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0543dd244cb222733f6be4d667442fb9d22420d5325169ee134d2d6f63a204cc",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/1.0.0/FixMirrorSteamVRIPDOffset.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "ErrorJan.IgnoreControllerAxis": {
+                    "category": "Controls",
+                    "description": "Make some joystick axis' not react at all or add a custom per axis deadzone.",
+                    "name": "IgnoreControllerAxis",
+                    "sourceLocation": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9d5c8a8d0556b0f441f37e9e5167fa6da27bba0f58e2f30d1e7298d76a770a42",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.0.0/IgnoreControllerAxis.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "RyanVittore": {
             "author": {
                 "Ryan Vittore": {
