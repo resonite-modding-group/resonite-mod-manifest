@@ -1,0 +1,20 @@
+{
+	"name": "HeadlessUserCulling",
+	"id": "net.raidriar796.HeadlessUserCulling",
+	"description": "Provides a user culling system managed by the headless client.",
+	"category": "Optimization",
+	"platforms": [
+		"headless"
+	],
+	"sourceLocation": "https://github.com/Raidriar796/HeadlessUserCulling",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll",
+				"filename": "HeadlessUserCulling.dll",
+				"sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD"
+			}]
+		}
+	}
+}
