@@ -2841,6 +2841,27 @@
                 }
             },
             "entries": {
+                "net.raidriar796.HeadlessUserCulling": {
+                    "category": "Optimization",
+                    "description": "Provides a user culling system managed by the headless client.",
+                    "name": "HeadlessUserCulling",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://github.com/Raidriar796/HeadlessUserCulling",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessUserCulling.dll",
+                                    "sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD",
+                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.raidriar796.NoSteamScreenshots": {
                     "category": "Technical Tweaks",
                     "description": "Prevents in app photos from additionally being saved to Steam.",
