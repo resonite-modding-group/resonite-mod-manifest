@@ -45,6 +45,32 @@
                 }
             }
         },
+        "RyanVittore": {
+            "author": {
+                "Ryan Vittore": {
+                    "url": "https://github.com/RyanVittore/"
+                }
+            },
+            "entries": {
+                "RyanVittore.ArrayEditing": {
+                    "category": "Inspectors",
+                    "description": "Makes Arrays editable in inspectors.",
+                    "name": "ArrayEditing",
+                    "sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b6ef7672ed686c46fb6460b0ea661cf50d524db96805ca9fb762c3db1bbc8b7a",
+                                    "url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.0/ArrayEditing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "U-xyla": {
             "author": {
                 "Zyntaks": {
@@ -126,6 +152,77 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/isovel/ResonitePlatformSpoof/releases/tag/v2.0.1"
+                        }
+                    }
+                }
+            }
+        },
+        "co.uk.AlexW-578": {
+            "author": {
+                "AlexW-578": {
+                    "icon": "https://github.com/AlexW-578.png",
+                    "url": "https://github.com/AlexW-578",
+                    "website": "http://www.alexw-578.co.uk/"
+                }
+            },
+            "entries": {
+                "co.uk.AlexW-578.CloseConfirm": {
+                    "category": "Misc",
+                    "description": "Opens the Exit dashboard tab instead of closing the game on pressing Alt+F4 or clicking [X] on the game window.",
+                    "name": "CloseConfirm",
+                    "sourceLocation": "https://github.com/AlexW-578/CloseConfirm",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "C188D02C48303254066CBCC9D34737EF9FB646D7599ED73F2679BA437D3F1ABD",
+                                    "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.1.0"
+                        }
+                    }
+                },
+                "co.uk.AlexW-578.ScalableMaterialOrbs": {
+                    "category": "Misc",
+                    "description": "Allows you to scale material orbs by default.",
+                    "name": "ScalableMaterialOrbs",
+                    "sourceLocation": "https://github.com/AlexW-578/ScalableMaterialOrbs",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "078FBA5D661C34CF0723798E2C70301854BC1A7B507E70F2C1BAA7D02DB298AA",
+                                    "url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "co.uk.alexw-578.CustomProtofluxBrowser": {
+                    "category": "Protoflux",
+                    "description": "Allows you to use a custom protoflux browser by saving and favoriting it in your inventory.",
+                    "name": "CustomProtofluxBrowser",
+                    "sourceLocation": "https://github.com/AlexW-578/CustomProtofluxBrowser",
+                    "versions": {
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "37d2f0a25b2a8aec4b041402f796be88cb1d0f7cab1c4aace33534ce1c39d44f",
+                                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.2"
+                        },
+                        "2.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97",
+                                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3"
                         }
                     }
                 }
@@ -292,6 +389,58 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/resonite-modding-group/ExampleMod/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "com.frozenreflex": {
+            "author": {
+                "Frozenreflex": {
+                    "url": "https://github.com/Frozenreflex/"
+                }
+            },
+            "entries": {
+                "com.frozenreflex.Thundagun": {
+                    "additionalAuthors": {
+                        "989onan": {},
+                        "BlueberryWolf": {},
+                        "DoubleStyx": {},
+                        "Merith-TK": {},
+                        "Nytra": {},
+                        "SectOLT": {}
+                    },
+                    "category": "Optimization",
+                    "description": "A lightning fast performance mod for Resonite. It improves performance by decoupling the FrooxEngine and Unity loops by running FrooxEngine and Unity on separate threads.",
+                    "name": "Thundagun",
+                    "sourceLocation": "https://github.com/Frozenreflex/Thundagun",
+                    "versions": {
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e0de1e188d5c3114fd924e09753c733357910947ddab22a9f4777d928ad07eed",
+                                    "url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1/Thundagun.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.1.1"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cbb9e58c98ca2096e7128df4ec57ca8c4afd25f8af2ab81c10572ee6ad930d83",
+                                    "url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.0/Thundagun.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "747a0afb947ec914f6cbeeab92159ee51cb5d9d5b5579efa6074554092625256",
+                                    "url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.1/Thundagun.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.1"
                         }
                     }
                 }
@@ -504,6 +653,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.4"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c152c33816f881dbf3fe3a564d82719c0dc1238c7a23e29ff7086afddb08a7d2",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.2.0/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.2.0"
                         }
                     }
                 }
@@ -674,6 +832,56 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.0"
+                        }
+                    }
+                }
+            }
+        },
+        "lc.j4": {
+            "author": {
+                "Jae": {
+                    "url": "https://j4.lc"
+                }
+            },
+            "entries": {
+                "lc.j4.hdpromex": {
+                    "category": "Misc",
+                    "description": "Exports statistics formatted for Prometheus to a web endpoint.",
+                    "name": "Headless Prometheus Exporter",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter",
+                    "versions": {
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessPrometheusExporter.dll",
+                                    "sha256": "477c0f45267851700a5afada8784406c6f0c448ecb6470d9f15c14c6d69ca184",
+                                    "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.0/downloads/HeadlessPrometheusExporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessPrometheusExporter.dll",
+                                    "sha256": "ec69b67f314081276fcf1605837ad2bd10d43ee127ac7c8eecbb12f6053de306",
+                                    "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.1/downloads/HeadlessPrometheusExporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessPrometheusExporter.dll",
+                                    "sha256": "bb12615a2e2d7e4d6084d3597d8faf3f3baa40191fc78f98e745f28bcb8c9c58",
+                                    "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.2/downloads/HeadlessPrometheusExporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.2"
                         }
                     }
                 }
@@ -917,6 +1125,9 @@
                 "me.art0007i.DisableLegacyInventory": {
                     "category": "Controls",
                     "description": "Disables the legacy inventory gesture, but it has a config option that can enable it again",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "DisableLegacyInventory",
                     "sourceLocation": "https://github.com/art0007i/DisableLegacyInventory",
                     "versions": {
@@ -986,6 +1197,73 @@
                         }
                     }
                 },
+                "me.art0007i.FixMigratedItemMessages": {
+                    "category": "Bug Workaround",
+                    "description": "Fixes migrated objects in messages being unable to be spawned (issue [#83](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/83))",
+                    "name": "FixMigratedItemMessages",
+                    "sourceLocation": "https://github.com/art0007i/FixMigratedItemMessages",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "FixMigratedItemMessages.dll",
+                                    "sha256": "a5af5714384e935f68163b53e9154aedf9ecbfd41579dfd5bd5ca4b137f0e881",
+                                    "url": "https://github.com/art0007i/FixMigratedItemMessages/releases/download/1.0.0/FixMigratedItemMessages.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/FixMigratedItemMessages/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "me.art0007i.IKnowWhatImDoing": {
+                    "category": "Inspectors",
+                    "description": "Removes confirmation menu for deleting components.",
+                    "name": "IKnowWhatImDoing",
+                    "sourceLocation": "https://github.com/art0007i/IKnowWhatImDoing",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "IKnowWhatImDoing.dll",
+                                    "sha256": "58eff34847608084768386de58d9ec248d1e8b3eff7b8534994899ede9c48433",
+                                    "url": "https://github.com/art0007i/IKnowWhatImDoing/releases/download/1.0.0/IKnowWhatImDoing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/IKnowWhatImDoing/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "me.art0007i.ImGuiUnityInject": {
+                    "category": "Libraries",
+                    "description": "Edit of https://github.com/realgamessoftware/dear-imgui-unity to work with game modding",
+                    "name": "ImGuiUnityInject",
+                    "sourceLocation": "https://github.com/art0007i/ImGuiUnityInject",
+                    "versions": {
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ImGuiUnityInject.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "3c8735b22d05e6136c10a3132800084a4e42ed803b059bc2820c0ab8d4b4bfd9",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/releases/download/0.1.1/ImGuiUnityInject.dll"
+                                },
+                                {
+                                    "filename": "cimgui-freetype.dll",
+                                    "installLocation": "/Resonite_Data/Plugins/x86_64",
+                                    "sha256": "e43759ef30a1c02fb0dec1dc232873fb576f6c6483de0c7a5e7e7157fad5cf10",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/raw/d5c5ab8208bf4b6bd5f6dec0756573b85c1d0e61/Plugins/cimgui-freetype.dll"
+                                },
+                                {
+                                    "filename": "cimgui.dll",
+                                    "installLocation": "/Resonite_Data/Plugins/x86_64",
+                                    "sha256": "09bb9d5e23137e3b2ee681a1700a3a0f4bd847846368ede847a163f1f91e8560",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/raw/d5c5ab8208bf4b6bd5f6dec0756573b85c1d0e61/Plugins/cimgui.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/ImGuiUnityInject/releases/tag/0.1.1"
+                        }
+                    }
+                },
                 "me.art0007i.ImportCompactor": {
                     "category": "Asset Importing",
                     "description": "Reduces the distance between imported items to a configurable value",
@@ -1037,6 +1315,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/JustBoundedUIX/releases/tag/2.0.1"
+                        }
+                    }
+                },
+                "me.art0007i.KeyRepeatAdjust": {
+                    "category": "Controls",
+                    "description": "Allows you to change the key repeat rate for the vr keyboard",
+                    "name": "KeyRepeatAdjust",
+                    "sourceLocation": "https://github.com/art0007i/KeyRepeatAdjust",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "KeyRepeatAdjust.dll",
+                                    "sha256": "d2798798f6cd185fbb782648190373b4b3ea986e06cf4ecbd67a8e19f808f41b",
+                                    "url": "https://github.com/art0007i/KeyRepeatAdjust/releases/download/1.0.0/KeyRepeatAdjust.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/KeyRepeatAdjust/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -1161,6 +1457,17 @@
                             ],
                             "changelog": "Fixed for new resonite version",
                             "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "MyInspectors.dll",
+                                    "sha256": "048818e89f8a5b63d64047bb2fa717c4f3e16b7affdd96d2dc15dafda857fbcb",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.2/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Add toggle on/off option",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.2"
                         }
                     }
                 },
@@ -1197,6 +1504,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/NotificationFixer/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "me.art0007i.OutOfSightOverride": {
+                    "category": "Misc",
+                    "description": "Ignores the out of sight check on buttons",
+                    "name": "OutOfSightOverride",
+                    "sourceLocation": "https://github.com/art0007i/OutOfSightOverride",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "OutOfSightOverride.dll",
+                                    "sha256": "c7fef55525aa9bbcb96c42aa4271707497fd3f0466cb17f1bc1c37e907544c75",
+                                    "url": "https://github.com/art0007i/OutOfSightOverride/releases/download/1.0.0/OutOfSightOverride.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/OutOfSightOverride/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -1272,6 +1597,43 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "me.art0007i.ResoniteImGuiLib": {
+                    "category": "Libraries",
+                    "description": "A library which allows modders to use ImGuiUnityInject in resonite",
+                    "name": "ResoniteImGuiLib",
+                    "sourceLocation": "https://github.com/art0007i/ResoniteImGuiLib",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteImGuiLib.dll",
+                                    "sha256": "531ad310a61df024569a6eb3c58b2e222f4dca0f8ad53e3003ad6a483aef1afd",
+                                    "url": "https://github.com/art0007i/ResoniteImGuiLib/releases/download/1.0.0/ResoniteImGuiLib.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.ImGuiUnityInject": {
+                                    "version": "0.1.x"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/art0007i/ResoniteImGuiLib/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ef21b285d0f067eb365c17dbd37a1267ab185edcb8a70f43f08fa5ed06c8506d",
+                                    "url": "https://github.com/art0007i/ResoniteImGuiLib/releases/download/1.1.0/ResoniteImGuiLib.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.ImGuiUnityInject": {
+                                    "version": "0.1.x"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/art0007i/ResoniteImGuiLib/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -1422,6 +1784,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDriveSource.dll",
+                                    "sha256": "db7820f5070833f9987e608243139d841d3dcfc06444fa2aa4e42f88d91fe231",
+                                    "url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.2/ShowDriveSource.dll"
+                                }
+                            ],
+                            "changelog": "Fix for new version",
+                            "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.2"
                         }
                     }
                 },
@@ -1533,6 +1906,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "46bce08c5e1798d77d13d922d7d385349addd5ffb1f22187ad67a1eaf6acbb3f",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.2/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "changelog": "Remove workaround for bug that has been fixed.",
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.2"
                         }
                     }
                 },
@@ -1629,6 +2013,9 @@
                 "net.Cyro.Outflow": {
                     "category": "Optimization",
                     "description": "Mitigate hitching when new users join a session you are hosting",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "Outflow",
                     "sourceLocation": "https://github.com/BlueCyro/Outflow/",
                     "versions": {
@@ -1640,6 +2027,110 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/BlueCyro/Outflow/releases/tag/1.0.1"
+                        }
+                    }
+                }
+            }
+        },
+        "net.NepuShiro": {
+            "author": {
+                "NepuShiro": {
+                    "icon": "https://avatars.githubusercontent.com/u/147555953?v=4",
+                    "url": "https://github.com/NepuShiro/"
+                }
+            },
+            "entries": {
+                "net.NepuShiro.ChangeJoinLeaveSound": {
+                    "category": "Dashboard",
+                    "description": "Allows you to change the default User Join/Leave sounds, and color.",
+                    "name": "ChangeJoinLeaveSound",
+                    "sourceLocation": "https://github.com/NepuShiro/ChangeJoinLeaveSound",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4",
+                                    "url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.NepuShiro.FluxFinder": {
+                    "category": "Protoflux",
+                    "description": "Exposes the Flux Tip's hovered color as a Dynamic Variable.",
+                    "name": "FluxFinder",
+                    "sourceLocation": "https://github.com/NepuShiro/FluxFinder",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0cc60114c1d5027dcc662f6b9b6de56a51e4a66333e44bbc3c22860193b5c1ed",
+                                    "url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.0/FluxFinder.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.NepuShiro.ResoTabbed": {
+                    "category": "Misc",
+                    "description": "Adds a Dynamic Variable to show when you're tabbed in or not.",
+                    "name": "ResoTabbed",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoTabbed",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f8ba58713e57f0a429b4665077950091e4f144d2f4a028b4a91c543536de4992",
+                                    "url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.0.0/ResoTabbed.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.NepuShiro.ResoniteFixContactIcons": {
+                    "category": "Dashboard",
+                    "description": "Fixes the Contact PFP's in the Contacts Tab, and Notifications.",
+                    "name": "ResoniteFixContactIcons",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteFixContactIcons",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "94a6202c95edbf43a54ca2b114392679120bae4a4559b50aea8722d94c344dc1",
+                                    "url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.1/ResoniteFixContactIcons.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "net.NepuShiro.ResoniteSlotInspectorCounter": {
+                    "category": "Inspectors",
+                    "description": "Changes the Collapse/Expand Buttons on the Inspector to Reflect the amount of Slots in that Slot Recursively.",
+                    "name": "ResoniteSlotInspectorCounter",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter",
+                    "versions": {
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "108d0dc4be5a219751f741df5f74350929a1fd476915e20222a3dc5387996adf",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.3.0/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.3.0"
+                        },
+                        "1.5.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "67e229fa48d362a9a5ca717d554e3cd926c2feb9252d42e8045bebdc2f1340c2",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.5.0/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.5.0"
                         }
                     }
                 }
@@ -1710,6 +2201,24 @@
                 }
             },
             "entries": {
+                "net.deltawolf.ContextMenuControl": {
+                    "category": "Context Menu",
+                    "description": "Gives higher control over your context menu. Features include disabling scale reset, hiding the scale or locomotion options and hiding the context menu from others.",
+                    "name": "ContextMenuControl",
+                    "sourceLocation": "https://github.com/XDelta/ContextMenuControl/",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ContextMenuControl.dll",
+                                    "sha256": "f49ee1cc24d3881acea9c954aca3c1ee47bfeaa960b9e6d015e5e26d141db22d",
+                                    "url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.DisableSRAnipal": {
                     "category": "Hardware Integration",
                     "description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
@@ -1724,6 +2233,57 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.deltawolf.LogAutoFlush": {
+                    "category": "Technical Tweaks",
+                    "description": "Allows forcing the LogStream to AutoFlush and write to file immediately instead of buffering writes.",
+                    "name": "LogAutoFlush",
+                    "sourceLocation": "https://github.com/XDelta/LogAutoFlush",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0",
+                                    "url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.0/LogAutoFlush.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.deltawolf.NonPersistentInspectors": {
+                    "category": "Inspectors",
+                    "description": "Inspectors you spawn will be set as non-persistent",
+                    "name": "NonPersistentInspectors",
+                    "sourceLocation": "https://github.com/XDelta/NonPersistentInspectors",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3d15180b8f3cc4fac717cc777248a96b50ec3ab02b17cd0cdf7f3b88628caaaf",
+                                    "url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.0/NonPersistentInspectors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.0"
+                        }
+                    }
+                },
+                "net.deltawolf.OpenInSteamOverlay": {
+                    "category": "Misc",
+                    "description": "Makes links open in the steam overlay instead of your default browser.",
+                    "name": "OpenInSteamOverlay",
+                    "sourceLocation": "https://github.com/XDelta/ResoniteOpenInSteamOverlay",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4029af57b820ff056ee84ad312542ddd3caa3181fab77f094e1e5f15555fdd6b",
+                                    "url": "https://github.com/XDelta/ResoniteOpenInSteamOverlay/releases/download/1.0.0/OpenInSteamOverlay.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteOpenInSteamOverlay/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -1862,6 +2422,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e",
+                                    "url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.1"
                         }
                     }
                 }
@@ -2164,9 +2733,10 @@
         "net.pardeike": {
             "author": {
                 "pardeike": {
-                    "icon": "https://avatars.githubusercontent.com/u/853584?v=4",
+                    "icon": "https://github.com/pardeike.png",
                     "support": "https://www.patreon.com/pardeike",
-                    "url": "https://github.com/pardeike/"
+                    "url": "https://github.com/pardeike/",
+                    "website": "https://pardeike.net/"
                 }
             },
             "entries": {
@@ -2275,7 +2845,7 @@
                 },
                 "net.raidriar796.StresslessHeadless": {
                     "category": "Optimization",
-                    "description": "Disables frequent and heavy calculations on certain components from running on Headless clients.",
+                    "description": "Disables some frequent and heavy calculations from running on Headless clients.",
                     "name": "StresslessHeadless",
                     "platforms": [
                         "headless"
@@ -2301,6 +2871,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0"
+                        },
+                        "1.3.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166",
+                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1"
                         }
                     }
                 },
@@ -2387,6 +2967,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/rampa3/3DDashOnScreenResonite/releases/tag/3.6.0.0"
+                        },
+                        "3.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "28346faa13547a8ce4c63d7d52011d5d32814173393c44e11829d237765f114f",
+                                    "url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.1.0/3DDashOnScreenResonite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/rampa3/3DDashOnScreenResonite/releases/tag/3.6.1.0"
                         }
                     }
                 }
@@ -2504,6 +3093,33 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.6"
+                        },
+                        "2.1.7": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2e7d470f0ea82a7822cf35bf2a85030ec13547eae258902c1625089f6385d4c4",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.7/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.7"
+                        },
+                        "2.1.8": {
+                            "artifacts": [
+                                {
+                                    "sha256": "80c05d2b36c3aa26f2e8d022e65e3f75083127a83ae7a2f224707d8d67e95fc4",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.8/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.8"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9b1ee1585a04339de7096e3c3883e966f6071f5f53030e6fa77662e0d62f3a05",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.2.0/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.0"
                         }
                     }
                 },
@@ -2586,6 +3202,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "689ed767913005c713ae2792cf129994adfdf52158d3c2d04562c293e60f1064",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.1/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.1"
                         }
                     }
                 }
@@ -2661,6 +3286,32 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/tag/v1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ed6634fe79389e8d34b1ed1801d37804acc6146d702d612d2ed5f8618ccb214f",
+                                    "url": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/download/v1.2.0/ColorMyProtoFlux.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/tag/v1.2.0"
+                        }
+                    }
+                },
+                "owo.Nytra.ComponentMemberReplicator": {
+                    "category": "Wizards",
+                    "description": "Adds a wizard to allow copying selected values from a source component and applying them to one or many other components of the same Type. Can also (re)create drives.",
+                    "name": "ComponentMemberReplicator",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteComponentMemberReplicator",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b2431d95b4d5fef2a2d57326dc6d003e926e32b7c20f293db4e8a36340b55741",
+                                    "url": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/download/v1.0.0/ComponentMemberReplicator.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/tag/v1.0.0"
                         }
                     }
                 },
@@ -2760,6 +3411,30 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "64f85cfe1681a1b49ba88087dcfe07050696617db85b50e3b77a4e8db01f0be9",
+                                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.1/ResoniteHotReloadLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.1"
+                        },
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "305275c439b7866acdb2030097cfff710df5a240aab2144ce873f262e57be752",
+                                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0-RML/ResoniteHotReloadLib.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "8f9f3c7fb44adce01a9a39976906f55b6a39b9d0771aa33b8bd5efeaa7fb4022",
+                                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0-RML/ResoniteHotReloadLibCore.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v3.0.0"
                         }
                     }
                 },
@@ -2878,6 +3553,23 @@
                         }
                     }
                 },
+                "owo.Nytra.ScrollableFieldEditors": {
+                    "category": "Inspectors",
+                    "description": "Allows clicking into inspector fields and then scrolling to change the value.",
+                    "name": "ScrollableFieldEditors",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteScrollableFieldEditors",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2a2c1ca9740f52f20210313553cd5c41043fa8e0826880a994cffaac47c7144d",
+                                    "url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/download/v1.0.0/ScrollableFieldEditors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "owo.Nytra.WorldListSessionHider": {
                     "category": "Dashboard",
                     "description": "A mod that hides session info and thumbnails in your session browser based on the host's userID/username, the world ID or the session ID.",
@@ -2921,6 +3613,32 @@
                             ],
                             "changelog": "Added option to filter sessions out by world ID and improved config string parsing.",
                             "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.2.0"
+                        }
+                    }
+                }
+            }
+        },
+        "semmiedev": {
+            "author": {
+                "SemmieDev": {
+                    "url": "https://github.com/SemmieDev"
+                }
+            },
+            "entries": {
+                "semmiedev.NoDoubleTapSprint": {
+                    "category": "Controls",
+                    "description": "Disable double-tap sprinting when using a keyboard",
+                    "name": "NoDoubleTapSprint",
+                    "sourceLocation": "https://github.com/SemmieDev/NoDoubleTapSprint",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b4410991d37bb2a6c675adaab18ea97c179b9b126dc5474ba3f1a64791931342",
+                                    "url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/tag/v1.0.0"
                         }
                     }
                 }
