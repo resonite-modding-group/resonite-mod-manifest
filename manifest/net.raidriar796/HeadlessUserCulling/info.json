@@ -15,6 +15,14 @@
 				"filename": "HeadlessUserCulling.dll",
 				"sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD"
 			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll",
+				"filename": "HeadlessUserCulling.dll",
+				"sha256": "2BA6F640DA9FE8D4451884838295A7A9E31C9DE2BBA2C7F33149F783F2114F15"
+			}]
 		}
 	}
 }
