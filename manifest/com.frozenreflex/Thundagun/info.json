@@ -4,6 +4,9 @@
 	"description": "A lightning fast performance mod for Resonite. It improves performance by decoupling the FrooxEngine and Unity loops by running FrooxEngine and Unity on separate threads.",
 	"category": "Optimization",
 	"sourceLocation": "https://github.com/Frozenreflex/Thundagun",
+	"flags": [
+		"deprecated"
+	],
 	"additionalAuthors": [
 		"989onan",
 		"DoubleStyx",
