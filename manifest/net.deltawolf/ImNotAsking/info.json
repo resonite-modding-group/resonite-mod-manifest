@@ -1,0 +1,16 @@
+{
+	"name": "ImNotAsking",
+	"id": "net.deltawolf.ImNotAsking",
+	"description": "Hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/XDelta/ImNotAsking",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/ImNotAsking/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
+				"sha256": "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0"
+			}]
+		}
+	}
+}
