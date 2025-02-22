@@ -127,6 +127,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "46d5a612c81e5bdcf1a728d71cea0d0c11945406a1839f5d142797f6225a04c8",
+                                    "url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.1/ArrayEditing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.1"
                         }
                     }
                 }
@@ -473,6 +482,9 @@
                     },
                     "category": "Optimization",
                     "description": "A lightning fast performance mod for Resonite. It improves performance by decoupling the FrooxEngine and Unity loops by running FrooxEngine and Unity on separate threads.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "Thundagun",
                     "sourceLocation": "https://github.com/Frozenreflex/Thundagun",
                     "versions": {
@@ -1978,6 +1990,17 @@
                             ],
                             "changelog": "Remove workaround for bug that has been fixed.",
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.2"
+                        },
+                        "2.1.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "96b84d877fc28af68c043059f9ebfd74d4799d76e7c6dbdce3794b1d54b0d5a1",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.3/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "changelog": "Recompile against latest version",
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.3"
                         }
                     }
                 },
@@ -2859,6 +2882,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessUserCulling.dll",
+                                    "sha256": "2BA6F640DA9FE8D4451884838295A7A9E31C9DE2BBA2C7F33149F783F2114F15",
+                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1"
                         }
                     }
                 },
@@ -3202,6 +3235,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.0"
+                        },
+                        "2.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e56dbb3b8a64df9c75aeb5a779a1a0a5165bb8f171183bc8c32770aacd6f0e52",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.2.1/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.1"
                         }
                     }
                 },
