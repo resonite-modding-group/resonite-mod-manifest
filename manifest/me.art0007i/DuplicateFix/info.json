@@ -14,6 +14,17 @@
                     "sha256": "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb"
                 }
             ]
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.2/DuplicateFix.dll",
+                    "filename": "DuplicateFix.dll",
+                    "sha256": "9036cc5a4a927a944626c0cc8a1f1c7d97845bf9505f3f30895f4398712301a9"
+                }
+            ],
+            "changelog": "Fix bug where you couldn't make your legacy inventory public."
         }
     }
 }
