@@ -1231,6 +1231,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "DuplicateFix.dll",
+                                    "sha256": "9036cc5a4a927a944626c0cc8a1f1c7d97845bf9505f3f30895f4398712301a9",
+                                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.2/DuplicateFix.dll"
+                                }
+                            ],
+                            "changelog": "Fix bug where you couldn't make your legacy inventory public.",
+                            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.2"
                         }
                     }
                 },
