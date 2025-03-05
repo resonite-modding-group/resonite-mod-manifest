@@ -25,6 +25,17 @@
                 }
             ],
             "changelog": "Fix bug where you couldn't make your legacy inventory public."
+        },
+        "1.0.3": {
+            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.3/DuplicateFix.dll",
+                    "filename": "DuplicateFix.dll",
+                    "sha256": "d349f3aae8d5488733a1b7392b277c4d68e69f4857296bc674c8e077214ef65c"
+                }
+            ],
+            "changelog": "Fix bug with duplicating sliders and dynamic bones"
         }
     }
 }
