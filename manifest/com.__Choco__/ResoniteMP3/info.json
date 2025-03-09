@@ -1,6 +1,6 @@
 {
 	"name": "ResoniteMP3",
-	"id": "com.ResoniteMP3",
+	"id": "com.__Choco__.ResoniteMP3",
 	"description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into WAV files on import so that they import as audio files.",
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/AwesomeTornado/ResoniteMP3",
