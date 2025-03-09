@@ -3195,6 +3195,35 @@
                 }
             }
         },
+        "news.fawx": {
+            "author": {
+                "OrionMoonclaw": {
+                    "url": "https://blog.fawx.news/"
+                }
+            },
+            "entries": {
+                "news.fawx.LocalAllowList": {
+                    "category": "Technical Tweaks",
+                    "description": "Lets you use a local user allow list on a headless configured through console commands.",
+                    "name": "LocalAllowList",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://codeberg.org/Orion_Moonclaw/LocalAllowList",
+                    "versions": {
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b3cad964ed1f44555ba3f31f8d134fb296262bc95261fb06a96c813148bd7103",
+                                    "url": "https://codeberg.org/Orion_Moonclaw/LocalAllowList/releases/download/0.1.1/LocalAllowList.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Orion_Moonclaw/LocalAllowList/releases/tag/0.1.1"
+                        }
+                    }
+                }
+            }
+        },
         "ninja.badhalo": {
             "author": {
                 "badhaloninja": {
