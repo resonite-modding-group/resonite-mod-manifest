@@ -10,7 +10,6 @@
 			"artifacts": [
 				{
 					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.0.0/ResoniteMP3.dll",
-					"installLocation": "/rml_mods",
 					"sha256": "aeaa1b92056d6f03a08cdae6ea496b819d4b28ad5d053deaa92c584bee599cfd"
 				},
 				{
