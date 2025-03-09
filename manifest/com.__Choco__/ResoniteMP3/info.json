@@ -5,7 +5,7 @@
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/AwesomeTornado/ResoniteMP3",
 	"versions": {
-		"1.0.0": {
+		"2.0.0": {
 			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V2.0.0",
 			"artifacts": [
 				{
