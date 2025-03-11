@@ -373,11 +373,11 @@
                     },
                     "category": "Hardware Integration",
                     "description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
-                    "name": "QuestPro4Resonite",
-                    "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
-                    "tags": [
+                    "flags": [
                         "deprecated"
                     ],
+                    "name": "QuestPro4Resonite",
+                    "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
                     "versions": {
                         "2.1.4": {
                             "artifacts": [
@@ -1363,6 +1363,9 @@
                 "me.art0007i.IKnowWhatImDoing": {
                     "category": "Inspectors",
                     "description": "Removes confirmation menu for deleting components.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "IKnowWhatImDoing",
                     "sourceLocation": "https://github.com/art0007i/IKnowWhatImDoing",
                     "versions": {
