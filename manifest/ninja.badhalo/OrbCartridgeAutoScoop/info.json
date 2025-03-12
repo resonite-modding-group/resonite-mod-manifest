@@ -1,0 +1,22 @@
+{
+	"name": "OrbCartridgeAutoScoop",
+	"id": "ninja.badhalo.OrbCartridgeAutoScoop",
+	"description": "Makes orb based tools grab a new orb regardless if there is already an orb in the tool",
+	"tags": [
+		"material",
+		"mesh",
+		"tool",
+		"orb"
+	],
+	"category": "Misc",
+	"sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.1/OrbCartridgeAutoScoop.dll",
+				"sha256": "9b29ccaa19ef61092d7aad280d5dc9c9985d5e41610234ca4f1cb1f677af40c7"
+			}]
+		}
+	}
+}
