@@ -3230,7 +3230,7 @@
         "ninja.badhalo": {
             "author": {
                 "badhaloninja": {
-                    "icon": "https://stuff.badhalo.ninja/icon/animated/webp/icon.webp",
+                    "icon": "https://avatars.githubusercontent.com/u/1661241?v=4",
                     "support": "https://ko-fi.com/badhaloninja",
                     "url": "https://github.com/badhaloninja",
                     "website": "https://badhalo.ninja/"
@@ -3410,6 +3410,29 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.2"
+                        }
+                    }
+                },
+                "ninja.badhalo.OrbCartridgeAutoScoop": {
+                    "category": "Misc",
+                    "description": "Makes orb based tools grab a new orb regardless if there is already an orb in the tool",
+                    "name": "OrbCartridgeAutoScoop",
+                    "sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",
+                    "tags": [
+                        "material",
+                        "mesh",
+                        "tool",
+                        "orb"
+                    ],
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9b29ccaa19ef61092d7aad280d5dc9c9985d5e41610234ca4f1cb1f677af40c7",
+                                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.1/OrbCartridgeAutoScoop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.1"
                         }
                     }
                 }
