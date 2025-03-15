@@ -571,11 +571,11 @@
                 "com.resonitemodloader.ResoniteModLoader": {
                     "category": "Plugins",
                     "description": "A mod loader for Resonite",
+                    "flags": [
+                        "plugin"
+                    ],
                     "name": "ResoniteModLoader",
                     "sourceLocation": "https://github.com/resonite-modding-group/ResoniteModLoader/",
-                    "tags": [
-                        "modloader"
-                    ],
                     "versions": {
                         "2.4.0": {
                             "artifacts": [
