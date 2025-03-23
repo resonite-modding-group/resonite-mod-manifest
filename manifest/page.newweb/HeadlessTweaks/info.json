@@ -1,7 +1,7 @@
 {
 	"name": "HeadlessTweaks",
 	"id": "page.newweb.HeadlessTweaks",
-	"description": "Adds some nice to have features to headless clients. To use the discord related options `Discord.Net.Webhook`, `Discord.Net.Rest`, and `Discord.Net.Core` libraries are required, view the readme for more information.",
+	"description": "Adds some nice to have features to headless clients. The net9 version of harmonylib is required. To use the discord related options `Discord.Net.Webhook`, `Discord.Net.Rest`, and `Discord.Net.Core` libraries are required, view the readme for more information.",
 	"category": "Technical Tweaks",
 	"platforms": [
 		"headless"
