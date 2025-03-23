@@ -1,0 +1,24 @@
+{
+	"name": "Discord.Net.Rest",
+	"id": "dev.discordnet.Rest",
+	"description": "The rest components for the Discord.Net library.",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/discord-net/Discord.Net",
+	"website": "https://discordnet.dev/",
+	"versions": {
+		"3.17.0": {
+			"releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/Discord.Net.Rest.dll",
+				"filename": "Discord.Net.Rest.dll",
+				"sha256": "9f0675905bfef39076654bd904956604e18fedcfff67075e34e50cef0bab5427",
+				"installLocation": "/rml_libs"
+			}],
+			"dependencies": {
+				"dev.discordnet.Core": {
+					"version": "^3.17.0"
+				}
+			}
+		}
+	}
+}
