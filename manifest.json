@@ -814,6 +814,91 @@
                 }
             }
         },
+        "dev.discordnet": {
+            "author": {
+                "pardeike": {
+                    "icon": "https://github.com/discord-net.png",
+                    "support": "https://opencollective.com/discordnet",
+                    "url": "https://github.com/discord-net",
+                    "website": "https://discordnet.dev/"
+                }
+            },
+            "entries": {
+                "dev.discordnet.Core": {
+                    "category": "Libraries",
+                    "description": "The core components for the Discord.Net library.",
+                    "name": "Discord.Net.Core",
+                    "sourceLocation": "https://github.com/discord-net/Discord.Net",
+                    "versions": {
+                        "3.17.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Discord.Net.Core.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "a82431fc7ac64743e1846d6d553ffa324a93fe69dcd6c1815c3cb3ec4ab9e235",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/Discord.Net.Core.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0"
+                        }
+                    },
+                    "website": "https://discordnet.dev/"
+                },
+                "dev.discordnet.Rest": {
+                    "category": "Libraries",
+                    "description": "The rest components for the Discord.Net library.",
+                    "name": "Discord.Net.Rest",
+                    "sourceLocation": "https://github.com/discord-net/Discord.Net",
+                    "versions": {
+                        "3.17.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Discord.Net.Rest.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "9f0675905bfef39076654bd904956604e18fedcfff67075e34e50cef0bab5427",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/Discord.Net.Rest.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "dev.discordnet.Core": {
+                                    "version": "^3.17.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0"
+                        }
+                    },
+                    "website": "https://discordnet.dev/"
+                },
+                "dev.discordnet.Webhook": {
+                    "category": "Libraries",
+                    "description": "The webhook components for the Discord.Net library.",
+                    "name": "Discord.Net.Webhook",
+                    "sourceLocation": "https://github.com/discord-net/Discord.Net",
+                    "versions": {
+                        "3.17.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Discord.Net.Webhook.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "cda28bd16c518ed8c44618d0c7a8548c10f462ffc0e66aed1551d945e339df58",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/Discord.Net.Webhook.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "dev.discordnet.Core": {
+                                    "version": "^3.17.0"
+                                },
+                                "dev.discordnet.Rest": {
+                                    "version": "^3.17.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0"
+                        }
+                    },
+                    "website": "https://discordnet.dev/"
+                }
+            }
+        },
         "dev.hazre": {
             "author": {
                 "hazre": {
@@ -3926,6 +4011,39 @@
                             "releaseUrl": "https://github.com/Nytra/ResoniteWorldListSessionHider/releases/tag/v1.2.0"
                         }
                     }
+                }
+            }
+        },
+        "page.newweb": {
+            "author": {
+                "New_Project_Final_Final_WIP": {
+                    "icon": "https://www.newweb.page/assets/images/logo.png",
+                    "url": "https://github.com/New-Project-Final-Final-WIP",
+                    "website": "https://newweb.page/"
+                }
+            },
+            "entries": {
+                "page.newweb.HeadlessTweaks": {
+                    "category": "Technical Tweaks",
+                    "description": "Adds some nice to have features to headless clients. To use the discord related options `Discord.Net.Webhook`, `Discord.Net.Rest`, and `Discord.Net.Core` libraries are required, view the readme for more information.",
+                    "name": "HeadlessTweaks",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
+                    "versions": {
+                        "2.1.9": {
+                            "artifacts": [
+                                {
+                                    "sha256": "edc53c2656d610396c6ee06b0e6d8365e8cbd5d47a7c95c27de575eeb3bc069a",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/HeadlessTweaks.dll"
+                                }
+                            ],
+                            "changelog": "- Added the option to automatically accept invite requests sent using the Ask to Join button (`AutoHandleInviteRequests`)\n  - This will send an invite for whatever session the headless is currently focused on\n  - This is only done if it is sent directly to the headless by the person requesting, this does not apply to forwarded requests\n  - The permission check is handled the same as the `/reqInvite` command\n  - If the user does not have permission to join then the request will be forwarded to the session admins\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added option to add go.resonite.com link to session start message (`DiscordLinkToSession`)\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n  - Updated project files\n",
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.9"
+                        }
+                    },
+                    "website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md"
                 }
             }
         },
