@@ -118,6 +118,9 @@
                     "description": "Makes Arrays editable in inspectors.",
                     "name": "ArrayEditing",
                     "sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
+                    "tags": [
+                        "list"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
