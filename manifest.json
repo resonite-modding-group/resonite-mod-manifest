@@ -3556,6 +3556,23 @@
                             "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.1"
                         }
                     }
+                },
+                "ninja.badhalo.ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod": {
+                    "category": "Inspectors",
+                    "description": "The mod that shows the ObjectRoot slot name in subtitle on inspectors for the selected slot",
+                    "name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+                    "sourceLocation": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "66c4a711daeeb4d1ed1f62e7e982fc46e78fdafa15e76e0bb82fa48c9b062a28",
+                                    "url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/tag/v1.0.0"
+                        }
+                    }
                 }
             }
         },
