@@ -3418,6 +3418,29 @@
                         }
                     }
                 },
+                "ninja.badhalo.FriendlyInventoryAvatars": {
+                    "category": "Technical Tweaks",
+                    "description": "Makes the inventory only clear blocking avatars when equipping",
+                    "name": "FriendlyInventoryAvatars",
+                    "sourceLocation": "https://github.com/badhaloninja/FriendlyInventoryAvatars",
+                    "tags": [
+                        "bodynode",
+                        "equip",
+                        "multiple",
+                        "avatar"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2c75b78f7bef200ea2dfcd747d43868717f6ebfcd4742985fc2bf13ab753563a",
+                                    "url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.0.0/FriendlyInventoryAvatars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "ninja.badhalo.ModSettings": {
                     "category": "Dashboard",
                     "description": "Adds a dash screen to show and edit mods and their configs",
