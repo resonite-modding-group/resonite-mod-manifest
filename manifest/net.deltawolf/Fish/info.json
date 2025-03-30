@@ -1,0 +1,17 @@
+{
+	"name": "Fish",
+	"id": "net.deltawolf.Fish",
+	"description": "You know what that means",
+	"category": "Memes",
+	"sourceLocation": "https://github.com/XDelta/ResoniteFish",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/ResoniteFish/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ResoniteFish/releases/download/1.0.0/ResoniteFish.dll",
+				"filename": "Fish.dll",
+				"sha256": "93ffabce687b6307720a724613d6e183a850b49c84221422f419bd05907bbed5"
+			}]
+		}
+	}
+}
