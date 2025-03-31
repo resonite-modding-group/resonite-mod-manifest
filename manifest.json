@@ -2507,6 +2507,24 @@
                         }
                     }
                 },
+                "net.deltawolf.Fish": {
+                    "category": "Memes",
+                    "description": "You know what that means",
+                    "name": "Fish",
+                    "sourceLocation": "https://github.com/XDelta/ResoniteFish",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Fish.dll",
+                                    "sha256": "93ffabce687b6307720a724613d6e183a850b49c84221422f419bd05907bbed5",
+                                    "url": "https://github.com/XDelta/ResoniteFish/releases/download/1.0.0/ResoniteFish.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteFish/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ImNotAsking": {
                     "category": "Dashboard",
                     "description": "Hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.",
