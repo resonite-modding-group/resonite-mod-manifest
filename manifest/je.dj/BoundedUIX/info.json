@@ -1,0 +1,51 @@
+{
+	"name": "BoundedUIX (RML)",
+	"id": "je.dj.BoundedUIX",
+	"description": "Fork of Banane9's BoundedUIX mod before it was converted to a MonkeyLoader mod.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/djsime1/BoundedUIX",
+	"versions": {
+		"1.1.2": {
+			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2",
+			"changelog": "Added:\n- A mod section header in RectTransform inspectors.\n\nUpdated:\n- Changed the mod ID from Banane9.BoundedUIX to je.dj.BoundedUIX for the RML mod manifest.\n\nBuilt against Resonite version 2025.3.28.1172.",
+			"conflicts": {
+				"Banane9.BoundedUIX": {
+					"version": "*"
+				}
+			},
+			"artifacts": [{
+				"filename": "BoundedUIX.dll",
+				"url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll",
+				"sha256": "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b"
+			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.1",
+			"changelog": "Version bump, no functional changes.\n\nBuilt against Resonite version 2024.7.12.12.",
+			"conflicts": {
+				"Banane9.BoundedUIX": {
+					"version": "*"
+				}
+			},
+			"artifacts": [{
+				"filename": "BoundedUIX.dll",
+				"url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.1/BoundedUIX.dll",
+				"sha256": "5c108a2e2bfe87498d14341c31dbabcbe90ea187611b73d7d7c71b1298ec99d6"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.0",
+			"changelog": "Added:\n- Merged FixUIXButton directly into this mod, even though it probably isn't needed.\n- An option to disable the prioritization of Button components when selecting UIX elements.\n\nUpdated:\n- Target .NET framework from 4.6.2 to 4.7.2\n- Automatic assembly publicization using BepInEx.AssemblyPublicizer\n\nFixed:\n- DevTip UIX selection gizmo with after Resonite's 2024.5.29.27 update.\n\nBuilt against Resonite version 2024.6.11.74.",
+			"conflicts": {
+				"Banane9.BoundedUIX": {
+					"version": "*"
+				}
+			},
+			"artifacts": [{
+				"filename": "BoundedUIX.dll",
+				"url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.0/BoundedUIX.dll",
+				"sha256": "2611da67850b7aeb32e27e9a838f55c07777e6575bfb5fea879d6b3e7448cbdb"
+			}]
+		}
+	}
+}
