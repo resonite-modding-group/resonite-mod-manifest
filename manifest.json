@@ -984,6 +984,39 @@
                 }
             },
             "entries": {
+                "je.dj.BoundedUIX": {
+                    "additionalAuthors": {
+                        "Banane9": {
+                            "Banane9": {
+                                "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                                "support": "https://paypal.me/Banane9",
+                                "url": "https://github.com/Banane9"
+                            }
+                        }
+                    },
+                    "category": "Inspectors",
+                    "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted. Fork of Banane9's BoundedUIX.",
+                    "name": "BoundedUIX (djsime1's fork)",
+                    "sourceLocation": "https://github.com/djsime1/BoundedUIX",
+                    "versions": {
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "BoundedUIX.dll",
+                                    "sha256": "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b",
+                                    "url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll"
+                                }
+                            ],
+                            "changelog": "Added:\n- A mod section header in RectTransform inspectors.\n\nUpdated:\n- Changed the mod ID from Banane9.BoundedUIX to je.dj.BoundedUIX for the RML mod manifest.\n\nBuilt against Resonite version 2025.3.28.1172.",
+                            "conflicts": {
+                                "Banane9.BoundedUIX": {
+                                    "version": "*"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2"
+                        }
+                    }
+                },
                 "je.dj.CopyHyperlink": {
                     "category": "Misc",
                     "description": "Adds a \"Copy Link\" button to the hyperlink popup.",
