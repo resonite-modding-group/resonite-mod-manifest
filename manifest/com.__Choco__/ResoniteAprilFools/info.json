@@ -1,0 +1,19 @@
+{
+	"name": "ResoniteAprilFools",
+	"id": "com.__Choco__.ResoniteAprilFools",
+	"description": "Activates all April Fools content even when it isn't April 1st.",
+	"category": "memes",
+	"sourceLocation": "https://github.com/AwesomeTornado/ResoniteAprilFools",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/tag/v1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/download/v1.0.0/ResoniteAprilFools.dll",
+					"sha256": "f20617b752e62ce3a4cf3340be8551f7f776816f0c88694ed7f32cdc91ea9817"
+				}
+			]
+		}
+	}
+}
+
