@@ -448,6 +448,23 @@
                 }
             },
             "entries": {
+                "com.__Choco__.ResoniteAprilFools": {
+                    "category": "Memes",
+                    "description": "Activates all April Fools content even when it isn't April 1st.",
+                    "name": "ResoniteAprilFools",
+                    "sourceLocation": "https://github.com/AwesomeTornado/ResoniteAprilFools",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e5a4461553cb4d6e750d79156b0919e5bb6506fe86eabefabae2fcc8e617f8c2",
+                                    "url": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/download/v1.0.1/ResoniteAprilFools.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/tag/v1.0.1"
+                        }
+                    }
+                },
                 "com.__Choco__.ResoniteMP3": {
                     "category": "Asset Importing",
                     "description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into WAV files on import so that they import as audio files.",
