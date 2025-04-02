@@ -2,7 +2,7 @@
 	"name": "ResoniteAprilFools",
 	"id": "com.__Choco__.ResoniteAprilFools",
 	"description": "Activates all April Fools content even when it isn't April 1st.",
-	"category": "memes",
+	"category": "Memes",
 	"sourceLocation": "https://github.com/AwesomeTornado/ResoniteAprilFools",
 	"versions": {
 		"1.0.0": {
