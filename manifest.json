@@ -1328,6 +1328,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.4"
+                        },
+                        "2.1.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "CustomInspectors.dll",
+                                    "sha256": "7955c4000384691d85b99d0b97048808f180b79d3765679c6155feb1ad8a5d4e",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.5/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild for latest version of resonite.",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.5"
                         }
                     }
                 },
