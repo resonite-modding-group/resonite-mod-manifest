@@ -2899,6 +2899,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/MTLImporter/releases/tag/v2.0.0"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0945d7d10cf7c1351566aa4fbf5c201617804fd3bcf603997df5d3d2de378f02",
+                                    "url": "https://github.com/dfgHiatus/MTLImporter/releases/download/v2.0.2/MTLImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/MTLImporter/releases/tag/v2.0.2"
                         }
                     }
                 },
