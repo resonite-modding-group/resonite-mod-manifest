@@ -57,6 +57,17 @@
                     "sha256": "489ccc8326e7b5404be15d874da950772180b3a220bbebcd9cc555079e3041c7"
                 }
             ]
+        },
+        "2.2.9": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.9",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.9/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8"
+                }
+            ],
+            "changelog": "Add a few delegates to the lookup table"
         }
     }
 }
