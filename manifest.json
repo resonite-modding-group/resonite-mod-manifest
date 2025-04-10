@@ -4184,6 +4184,16 @@
                     ],
                     "sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
                     "versions": {
+                        "2.1.10": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22576814868b7e8b67d8a25c78e86a8b5f613ccb49ad4d3b1f04351133445195",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.10/HeadlessTweaks.dll"
+                                }
+                            ],
+                            "changelog": "- Fixed start world commands creating invalid invites\n- Fix nml typo in a warning message fixed by XDelta",
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.10"
+                        },
                         "2.1.9": {
                             "artifacts": [
                                 {
