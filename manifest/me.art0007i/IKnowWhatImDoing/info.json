@@ -3,6 +3,7 @@
     "id": "me.art0007i.IKnowWhatImDoing",
     "description": "Removes confirmation menu for deleting components.",
     "category": "Inspectors",
+    "flags": ["deprecated"],
     "sourceLocation": "https://github.com/art0007i/IKnowWhatImDoing",
     "versions": {
         "1.0.0": {
