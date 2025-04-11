@@ -2087,6 +2087,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.8"
+                        },
+                        "2.2.9": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDelegates.dll",
+                                    "sha256": "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.9/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Add a few delegates to the lookup table",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.9"
                         }
                     }
                 },
