@@ -3077,6 +3077,41 @@
                 }
             }
         },
+        "net.eia485": {
+            "author": {
+                "EIA485": {
+                    "icon": "https://github.com/EIA485.png",
+                    "url": "https://github.com/EIA485/"
+                }
+            },
+            "entries": {
+                "net.eia485.GetItemLink": {
+                    "category": "Dashboard",
+                    "description": "Adds buttons in the inventory to copy an item resdb or resrec to the clipboard.",
+                    "name": "GetItemLink",
+                    "sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
+                    "tags": [
+                        "url",
+                        "link",
+                        "asset",
+                        "potato",
+                        "cheese"
+                    ],
+                    "versions": {
+                        "1.4.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "GetItemLink.dll",
+                                    "sha256": "61d6e5f9d1c4430bd77bd4293a94302546ff96c1480cdfb44ead4b9cd410c46d",
+                                    "url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.5.0"
+                        }
+                    }
+                }
+            }
+        },
         "net.hantabaru1014": {
             "author": {
                 "hantabaru1014": {
