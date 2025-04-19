@@ -2,10 +2,10 @@
 	"name": "HandAligner",
 	"id": "com.__Choco__.HandAligner",
 	"description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
-	"category": "Memes",
+	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
 	"versions": {
-		"1.0.1": {
+		"1.0.0": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.0",
 			"artifacts": [
 				{
