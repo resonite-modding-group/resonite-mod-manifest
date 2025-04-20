@@ -5,12 +5,12 @@
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
 	"versions": {
-		"1.0.0": {
-			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.0",
+		"1.0.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.1",
 			"artifacts": [
 				{
-					"url": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/download/V1.0.1/HandAligner.dll",
-					"sha256": "df7e40d21ee89e61ddec06557b5a2f1690bf7160f31ad11a16a02ff8e2225095"
+					"url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.1/HandAligner.dll",
+					"sha256": "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1"
 				}
 			]
 		}
