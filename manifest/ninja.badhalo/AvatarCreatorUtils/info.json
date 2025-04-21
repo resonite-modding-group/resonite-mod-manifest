@@ -1,0 +1,18 @@
+{
+	"name": "AvatarCreatorUtils",
+	"id": "ninja.badhalo.AvatarCreatorUtils",
+	"description": "Options to add info to avatars during creation and clean up proxies.",
+	"category": "Wizards",
+	"website": "https://github.com/badhaloninja/AvatarCreatorUtils/blob/master/README.md",
+	"sourceLocation": "https://github.com/badhaloninja/AvatarCreatorUtils",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v2.0.0",
+			"changelog": "- Resonite Port",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v2.0.0/AvatarCreatorUtils.dll",
+				"sha256": "0837b3e3595430dc43cc471d699d8bfff50836d0a4d651fb7052b135f262c7a0"
+			}]
+		}
+	}
+}
