@@ -3549,6 +3549,25 @@
                 }
             },
             "entries": {
+                "ninja.badhalo.AvatarCreatorUtils": {
+                    "category": "Wizards",
+                    "description": "Options to add info to avatars during creation and clean up proxies.",
+                    "name": "AvatarCreatorUtils",
+                    "sourceLocation": "https://github.com/badhaloninja/AvatarCreatorUtils",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0837b3e3595430dc43cc471d699d8bfff50836d0a4d651fb7052b135f262c7a0",
+                                    "url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v2.0.0/AvatarCreatorUtils.dll"
+                                }
+                            ],
+                            "changelog": "- Resonite Port",
+                            "releaseUrl": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v2.0.0"
+                        }
+                    },
+                    "website": "https://github.com/badhaloninja/AvatarCreatorUtils/blob/master/README.md"
+                },
                 "ninja.badhalo.DeselectOwnGizmos": {
                     "category": "Context Menu",
                     "description": "Adds the ability to deselect the user's own gizmos",
