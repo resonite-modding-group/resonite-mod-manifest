@@ -1,0 +1,16 @@
+{
+	"name": "HostCrashGuard",
+	"id": "com.__Choco__.HostCrashGuard",
+	"description": "Stops you from crashing when whoever is hosting your session crashes. fixes bug #2681",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.0.0/HostCrashGuard.dll",
+				"sha256": "f3e2ab6ee6e5a4324e2887d5b2987dcbf54bc9df26901424dccc51295125561f"
+			}]
+		}
+	}
+}
