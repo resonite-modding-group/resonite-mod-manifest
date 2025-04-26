@@ -5,11 +5,11 @@
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
 	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.0.0",
+		"2.0.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.0.1",
 			"artifacts": [{
-				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.0.0/HostCrashGuard.dll",
-				"sha256": "f3e2ab6ee6e5a4324e2887d5b2987dcbf54bc9df26901424dccc51295125561f"
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.0.1/HostCrashGuard.dll",
+				"sha256": "fdc07132e203e3d9d90db765c6e1cc1eb5942fae06e140a64cf5b9da46405861"
 			}]
 		}
 	}
