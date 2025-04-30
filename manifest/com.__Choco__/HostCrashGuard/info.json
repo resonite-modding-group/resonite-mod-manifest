@@ -1,0 +1,16 @@
+{
+	"name": "HostCrashGuard",
+	"id": "com.__Choco__.HostCrashGuard",
+	"description": "Stops you from crashing when whoever is hosting your session crashes. Also stops you from crashing whenever someone brings out a ValueMod<Decimal> protoflux node. Fixes bug #2681 and #2746",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
+	"versions": {
+		"2.1.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.1.1",
+			"artifacts": [{
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.1.1/HostCrashGuard.dll",
+				"sha256": "110fac75550fc0853542e65639d073190c7292da20195ae70c74346c766d3993"
+			}]
+		}
+	}
+}
