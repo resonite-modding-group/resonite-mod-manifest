@@ -465,6 +465,23 @@
                         }
                     }
                 },
+                "com.__Choco__.HostCrashGuard": {
+                    "category": "Bug Workaround",
+                    "description": "Stops you from crashing when whoever is hosting your session crashes. Also stops you from crashing whenever someone brings out a ValueMod<Decimal> protoflux node. Fixes bug #2681 and #2746",
+                    "name": "HostCrashGuard",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
+                    "versions": {
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "110fac75550fc0853542e65639d073190c7292da20195ae70c74346c766d3993",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.1.1/HostCrashGuard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.1.1"
+                        }
+                    }
+                },
                 "com.__Choco__.ResoniteAprilFools": {
                     "category": "Memes",
                     "description": "Activates all April Fools content even when it isn't April 1st.",
