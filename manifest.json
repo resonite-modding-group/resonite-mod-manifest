@@ -2332,6 +2332,17 @@
                             ],
                             "changelog": "Recompile against latest version",
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.3"
+                        },
+                        "2.1.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "e8033714199409c8f1b0d3b29c386b56bf26e77b19e4e40876ae6de0d4c0745c",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.4/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "changelog": "Fix bug with ToolSimulator + ProtoFluxTool",
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.4"
                         }
                     }
                 },
