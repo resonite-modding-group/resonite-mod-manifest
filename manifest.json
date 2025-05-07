@@ -467,7 +467,7 @@
                 },
                 "com.__Choco__.HostCrashGuard": {
                     "category": "Bug Workaround",
-                    "description": "Stops you from crashing when whoever is hosting your session crashes. Also stops you from crashing whenever someone brings out a ValueMod<Decimal> protoflux node. Fixes bug #2681 and #2746",
+                    "description": "Stops network changes from crashing Resonite. Also stops DIV/0 crashes caused by Decimal types. Fixes bug #2681 and #2746",
                     "name": "HostCrashGuard",
                     "sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
                     "versions": {
@@ -479,6 +479,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.1.1"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "52ba5e94b675852d25c30de7be1db42d9fb3fb5f1b3273b8a3288ef60bb75b18",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.2.0/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Improved UI, neater codebase, more universal Decimal DIV/0 fix",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.2.0"
                         }
                     }
                 },
