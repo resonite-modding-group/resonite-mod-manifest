@@ -1,0 +1,19 @@
+{
+    "name": "SimpleInventorySearch",
+    "id": "me.art0007i.SimpleInventorySearch",
+    "description": "Adds a filter bar which filters the currently open folder.",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/art0007i/SimpleInventorySearch",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SimpleInventorySearch/releases/download/1.0.0/SimpleInventorySearch.dll",
+                    "filename": "SimpleInventorySearch.dll",
+                    "sha256": "6eaf93757694ab8848bc9fbd0c95c4be06542bb21f6d8b7fc6ee8aa9f82c9374"
+                }
+            ]
+        }
+    }
+}
