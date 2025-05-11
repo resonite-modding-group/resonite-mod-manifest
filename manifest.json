@@ -1559,6 +1559,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ExtrasButtonTweaks.dll",
+                                    "sha256": "a6a9b165c5d4305c20e53e2dc370952f89309bf5ccd7bbdf1f7be334499fc56e",
+                                    "url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.0/ExtrasButtonTweaks.dll"
+                                }
+                            ],
+                            "changelog": "Allow dropping values onto the button.",
+                            "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.1.0"
                         }
                     }
                 },
