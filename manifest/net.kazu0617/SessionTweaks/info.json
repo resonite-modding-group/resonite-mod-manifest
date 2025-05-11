@@ -1,0 +1,30 @@
+{
+	"name": "SessionTweaks",
+	"id": "net.kazu0617.sessiontweaks",
+	"description": "Add these 3 buttons, 'Spawn' as spawn session orb, 'Open' as join session without focusing' and 'Copy' as copies session uri in Contacts tab.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/kazu0617/SessionTweaks",
+	"versions": {
+		"4.0.0": {
+			"releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0",
+			"artifacts": [{
+				"url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll",
+				"sha256": "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac"
+			}]
+		},
+		"3.0.1": {
+			"releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/3.0.1",
+			"artifacts": [{
+				"url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.1/SessionTweaks.dll",
+				"sha256": "2c326da2de6fe1a5f07111af97e2d2d8d9af8554eafb8376f29a621285f05a0e"
+			}]
+		},
+		"3.0.0": {
+			"releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/3.0.0",
+			"artifacts": [{
+				"url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.0/SessionTweaks.dll",
+				"sha256": "7768e18651b980ce6f80c6038d62a89d0d37eaea8f1dc558ff4661fe7c91feaa"
+			}]
+		}
+	}
+}
