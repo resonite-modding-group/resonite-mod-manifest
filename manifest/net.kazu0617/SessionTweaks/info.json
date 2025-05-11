@@ -2,7 +2,8 @@
 	"name": "SessionTweaks",
 	"id": "net.kazu0617.sessiontweaks",
 	"description": "Add these 3 buttons, 'Spawn' as spawn session orb, 'Open' as join session without focusing' and 'Copy' as copies session uri in Contacts tab.",
-	"category": "Misc",
+	"category": "Dashboard",
+	"tags": ["world"],
 	"sourceLocation": "https://github.com/kazu0617/SessionTweaks",
 	"versions": {
 		"4.0.0": {
