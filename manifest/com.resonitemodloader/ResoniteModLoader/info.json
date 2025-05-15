@@ -4,8 +4,8 @@
 	"description": "A mod loader for Resonite",
 	"category": "Plugins",
 	"sourceLocation": "https://github.com/resonite-modding-group/ResoniteModLoader/",
-	"tags": [
-		"modloader"
+	"flags": [
+		"plugin"
 	],
 	"versions": {
 		"3.0.0": {
