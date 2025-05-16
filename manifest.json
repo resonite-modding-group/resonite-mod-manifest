@@ -12,6 +12,9 @@
                 "Banane9.BoundedUIX": {
                     "category": "Inspectors",
                     "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "BoundedUIX",
                     "sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
                     "versions": {
