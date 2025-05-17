@@ -11,14 +11,14 @@
 	],
 	"versions": {
 		"0.1.0": {
-			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0",
+			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
 				"sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0"
 			}]
 		},
 		"0.0.1": {
-			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0",
+			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.1.0",
 			"artifacts": [{
 				"url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
 				"sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a"
