@@ -1,0 +1,28 @@
+{
+	"name": "EsnyaTweaks",
+	"id": "com.nekometer.esnya.EsnyaTweaks",
+	"description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
+	"tags": [
+		"PhotonDust",
+		"LOD",
+		"SystemHelper"
+	],
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
+				"sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0"
+			}]
+		},
+		"0.0.1": {
+			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0",
+			"artifacts": [{
+				"url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
+				"sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a"
+			}]
+		}
+	}
+}
