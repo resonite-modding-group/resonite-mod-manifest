@@ -5,6 +5,13 @@
 	"category": "Misc",
 	"sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
 	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.1/ResoniteScreenshotExtensions.dll",
+				"sha256": "dbde70f2b09414ad4cd2fa54db6c0e21e5dbe148bc904094716662f320fa3fc3"
+			}]
+		},
 		"1.2.0": {
 			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.2.0",
 			"artifacts": [{

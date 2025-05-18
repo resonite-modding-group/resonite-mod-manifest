@@ -12,6 +12,9 @@
                 "Banane9.BoundedUIX": {
                     "category": "Inspectors",
                     "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "BoundedUIX",
                     "sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
                     "versions": {
@@ -118,6 +121,9 @@
                     "description": "Makes Arrays editable in inspectors.",
                     "name": "ArrayEditing",
                     "sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
+                    "tags": [
+                        "list"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -445,6 +451,67 @@
                 }
             },
             "entries": {
+                "com.__Choco__.HandAligner": {
+                    "category": "Bug Workaround",
+                    "description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
+                    "name": "HandAligner",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.1/HandAligner.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.1"
+                        }
+                    }
+                },
+                "com.__Choco__.HostCrashGuard": {
+                    "category": "Bug Workaround",
+                    "description": "Stops network changes from crashing Resonite. Also stops DIV/0 crashes caused by Decimal types. Fixes bug #2681 and #2746",
+                    "name": "HostCrashGuard",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
+                    "versions": {
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "110fac75550fc0853542e65639d073190c7292da20195ae70c74346c766d3993",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.1.1/HostCrashGuard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.1.1"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "52ba5e94b675852d25c30de7be1db42d9fb3fb5f1b3273b8a3288ef60bb75b18",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.2.0/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Improved UI, neater codebase, more universal Decimal DIV/0 fix",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.2.0"
+                        }
+                    }
+                },
+                "com.__Choco__.ResoniteAprilFools": {
+                    "category": "Memes",
+                    "description": "Activates all April Fools content even when it isn't April 1st.",
+                    "name": "ResoniteAprilFools",
+                    "sourceLocation": "https://github.com/AwesomeTornado/ResoniteAprilFools",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e5a4461553cb4d6e750d79156b0919e5bb6506fe86eabefabae2fcc8e617f8c2",
+                                    "url": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/download/v1.0.1/ResoniteAprilFools.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/ResoniteAprilFools/releases/tag/v1.0.1"
+                        }
+                    }
+                },
                 "com.__Choco__.ResoniteMP3": {
                     "category": "Asset Importing",
                     "description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into WAV files on import so that they import as audio files.",
@@ -809,6 +876,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.2.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dbde70f2b09414ad4cd2fa54db6c0e21e5dbe148bc904094716662f320fa3fc3",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.1/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.1"
                         }
                     }
                 }
@@ -816,7 +892,7 @@
         },
         "dev.discordnet": {
             "author": {
-                "pardeike": {
+                "discord.net": {
                     "icon": "https://github.com/discord-net.png",
                     "support": "https://opencollective.com/discordnet",
                     "url": "https://github.com/discord-net",
@@ -981,6 +1057,39 @@
                 }
             },
             "entries": {
+                "je.dj.BoundedUIX": {
+                    "additionalAuthors": {
+                        "Banane9": {
+                            "Banane9": {
+                                "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                                "support": "https://paypal.me/Banane9",
+                                "url": "https://github.com/Banane9"
+                            }
+                        }
+                    },
+                    "category": "Inspectors",
+                    "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted. Fork of Banane9's BoundedUIX.",
+                    "name": "BoundedUIX (djsime1's fork)",
+                    "sourceLocation": "https://github.com/djsime1/BoundedUIX",
+                    "versions": {
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "BoundedUIX.dll",
+                                    "sha256": "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b",
+                                    "url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll"
+                                }
+                            ],
+                            "changelog": "Added:\n- A mod section header in RectTransform inspectors.\n\nUpdated:\n- Changed the mod ID from Banane9.BoundedUIX to je.dj.BoundedUIX for the RML mod manifest.\n\nBuilt against Resonite version 2025.3.28.1172.",
+                            "conflicts": {
+                                "Banane9.BoundedUIX": {
+                                    "version": "*"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2"
+                        }
+                    }
+                },
                 "je.dj.CopyHyperlink": {
                     "category": "Misc",
                     "description": "Adds a \"Copy Link\" button to the hyperlink popup.",
@@ -1114,6 +1223,16 @@
                                 }
                             ],
                             "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.2"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessPrometheusExporter.dll",
+                                    "sha256": "32d0a4c3bf1ff0069e0edd3df454a4b685df9ae94a4cad8de1d7a386308bd4b0",
+                                    "url": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.3/downloads/HeadlessPrometheusExporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter/-/releases/1.2.3"
                         }
                     }
                 }
@@ -1275,6 +1394,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.4"
+                        },
+                        "2.1.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "CustomInspectors.dll",
+                                    "sha256": "7955c4000384691d85b99d0b97048808f180b79d3765679c6155feb1ad8a5d4e",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.5/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild for latest version of resonite.",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.5"
                         }
                     }
                 },
@@ -1412,6 +1542,17 @@
                             ],
                             "changelog": "Fix bug with duplicating sliders and dynamic bones",
                             "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.3"
+                        },
+                        "1.0.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "DuplicateFix.dll",
+                                    "sha256": "c420496d3a25e1ccf1dab84f338de136fc17507c1e68776f83845561d3f17f01",
+                                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.4/DuplicateFix.dll"
+                                }
+                            ],
+                            "changelog": "Fix for latest version.",
+                            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.4"
                         }
                     }
                 },
@@ -1430,6 +1571,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ExtrasButtonTweaks.dll",
+                                    "sha256": "a6a9b165c5d4305c20e53e2dc370952f89309bf5ccd7bbdf1f7be334499fc56e",
+                                    "url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.0/ExtrasButtonTweaks.dll"
+                                }
+                            ],
+                            "changelog": "Allow dropping values onto the button.",
+                            "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -1518,6 +1670,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ImGuiUnityInject/releases/tag/0.1.1"
+                        },
+                        "0.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ImGuiUnityInject.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "49c55d5b49af698166eb0931f9e7ffb7d326c3d4ba42c4cacc35891c8b8df47e",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/releases/download/0.2.0/ImGuiUnityInject.dll"
+                                },
+                                {
+                                    "filename": "cimgui.dll",
+                                    "installLocation": "/Resonite_Data/Plugins/x86_64",
+                                    "sha256": "60ec992bcebd354d59f235ed97cdc3b0eea62c2def53c4a71f22937e500fa80b",
+                                    "url": "https://github.com/art0007i/ImGuiUnityInject/raw/bc77c0ee59c18874df210d25d82a269374c7e772/Plugins/win-x64/cimgui.dll"
+                                }
+                            ],
+                            "changelog": "Updated ImGui to version 1.91.6.1",
+                            "releaseUrl": "https://github.com/art0007i/ImGuiUnityInject/releases/tag/0.2.0"
                         }
                     }
                 },
@@ -2023,6 +2193,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.8"
+                        },
+                        "2.2.9": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDelegates.dll",
+                                    "sha256": "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.9/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Add a few delegates to the lookup table",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.9"
                         }
                     }
                 },
@@ -2052,6 +2233,24 @@
                             ],
                             "changelog": "Fix for new version",
                             "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.2"
+                        }
+                    }
+                },
+                "me.art0007i.SimpleInventorySearch": {
+                    "category": "Dashboard",
+                    "description": "Adds a filter bar which filters the currently open folder.",
+                    "name": "SimpleInventorySearch",
+                    "sourceLocation": "https://github.com/art0007i/SimpleInventorySearch",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "SimpleInventorySearch.dll",
+                                    "sha256": "6eaf93757694ab8848bc9fbd0c95c4be06542bb21f6d8b7fc6ee8aa9f82c9374",
+                                    "url": "https://github.com/art0007i/SimpleInventorySearch/releases/download/1.0.0/SimpleInventorySearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -2185,6 +2384,17 @@
                             ],
                             "changelog": "Recompile against latest version",
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.3"
+                        },
+                        "2.1.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "e8033714199409c8f1b0d3b29c386b56bf26e77b19e4e40876ae6de0d4c0745c",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.4/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "changelog": "Fix bug with ToolSimulator + ProtoFluxTool",
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.4"
                         }
                     }
                 },
@@ -2504,6 +2714,36 @@
                         }
                     }
                 },
+                "net.deltawolf.Fish": {
+                    "additionalAuthors": {
+                        "Raidriar796": {}
+                    },
+                    "category": "Memes",
+                    "description": "You know what that means",
+                    "name": "Fish",
+                    "sourceLocation": "https://github.com/XDelta/ResoniteFish",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Fish.dll",
+                                    "sha256": "93ffabce687b6307720a724613d6e183a850b49c84221422f419bd05907bbed5",
+                                    "url": "https://github.com/XDelta/ResoniteFish/releases/download/1.0.0/ResoniteFish.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteFish/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "04163aa28f5a9254019c45afe424d1ba950c86fcc65e6d724b2e7f70541c868d",
+                                    "url": "https://github.com/XDelta/ResoniteFish/releases/download/1.1.0/Fish.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteFish/releases/tag/1.1.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ImNotAsking": {
                     "category": "Dashboard",
                     "description": "Hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.",
@@ -2816,6 +3056,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/MTLImporter/releases/tag/v2.0.0"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0945d7d10cf7c1351566aa4fbf5c201617804fd3bcf603997df5d3d2de378f02",
+                                    "url": "https://github.com/dfgHiatus/MTLImporter/releases/download/v2.0.2/MTLImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/MTLImporter/releases/tag/v2.0.2"
                         }
                     }
                 },
@@ -2935,6 +3184,41 @@
                 }
             }
         },
+        "net.eia485": {
+            "author": {
+                "EIA485": {
+                    "icon": "https://github.com/EIA485.png",
+                    "url": "https://github.com/EIA485/"
+                }
+            },
+            "entries": {
+                "net.eia485.GetItemLink": {
+                    "category": "Dashboard",
+                    "description": "Adds buttons in the inventory to copy an item resdb or resrec to the clipboard.",
+                    "name": "GetItemLink",
+                    "sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
+                    "tags": [
+                        "url",
+                        "link",
+                        "asset",
+                        "potato",
+                        "cheese"
+                    ],
+                    "versions": {
+                        "1.4.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "GetItemLink.dll",
+                                    "sha256": "61d6e5f9d1c4430bd77bd4293a94302546ff96c1480cdfb44ead4b9cd410c46d",
+                                    "url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.5.0"
+                        }
+                    }
+                }
+            }
+        },
         "net.hantabaru1014": {
             "author": {
                 "hantabaru1014": {
@@ -2993,6 +3277,36 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.1.0"
+                        }
+                    }
+                }
+            }
+        },
+        "net.kazu0617": {
+            "author": {
+                "kazu0617": {
+                    "icon": "https://github.com/kazu0617.png",
+                    "url": "https://github.com/kazu0617"
+                }
+            },
+            "entries": {
+                "net.kazu0617.sessiontweaks": {
+                    "category": "Dashboard",
+                    "description": "Add these 3 buttons, 'Spawn' as spawn session orb, 'Open' as join session without focusing' and 'Copy' as copies session uri in Contacts tab.",
+                    "name": "SessionTweaks",
+                    "sourceLocation": "https://github.com/kazu0617/SessionTweaks",
+                    "tags": [
+                        "world"
+                    ],
+                    "versions": {
+                        "4.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac",
+                                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0"
                         }
                     }
                 }
@@ -3102,6 +3416,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessUserCulling.dll",
+                                    "sha256": "BB632928114E2318D883CEB2A5E2B20734434D2AC83600791B803CAC2EC59131",
+                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2"
                         }
                     }
                 },
@@ -3355,6 +3679,25 @@
                 }
             },
             "entries": {
+                "ninja.badhalo.AvatarCreatorUtils": {
+                    "category": "Wizards",
+                    "description": "Options to add info to avatars during creation and clean up proxies.",
+                    "name": "AvatarCreatorUtils",
+                    "sourceLocation": "https://github.com/badhaloninja/AvatarCreatorUtils",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0837b3e3595430dc43cc471d699d8bfff50836d0a4d651fb7052b135f262c7a0",
+                                    "url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v2.0.0/AvatarCreatorUtils.dll"
+                                }
+                            ],
+                            "changelog": "- Resonite Port",
+                            "releaseUrl": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v2.0.0"
+                        }
+                    },
+                    "website": "https://github.com/badhaloninja/AvatarCreatorUtils/blob/master/README.md"
+                },
                 "ninja.badhalo.DeselectOwnGizmos": {
                     "category": "Context Menu",
                     "description": "Adds the ability to deselect the user's own gizmos",
@@ -3412,6 +3755,29 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/FixAltEnter/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "ninja.badhalo.FriendlyInventoryAvatars": {
+                    "category": "Technical Tweaks",
+                    "description": "Makes the inventory only clear blocking avatars when equipping",
+                    "name": "FriendlyInventoryAvatars",
+                    "sourceLocation": "https://github.com/badhaloninja/FriendlyInventoryAvatars",
+                    "tags": [
+                        "bodynode",
+                        "equip",
+                        "multiple",
+                        "avatar"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2c75b78f7bef200ea2dfcd747d43868717f6ebfcd4742985fc2bf13ab753563a",
+                                    "url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.0.0/FriendlyInventoryAvatars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.0.0"
                         }
                     }
                 },
@@ -3493,6 +3859,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.1"
+                        },
+                        "2.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "10010787db40e0eacfda441c18254f6988b6d1280bab2c2f898a94c39d26643a",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.2.2/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.2"
                         }
                     }
                 },
@@ -3528,6 +3903,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.2"
+                        },
+                        "2.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0d98c6112581db0f24bbc0465857ac2bbf6d05bb9a6592e234c84f3a4ac83128",
+                                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.3/Optizoom.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.3"
                         }
                     }
                 },
@@ -3551,6 +3935,23 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.1"
+                        }
+                    }
+                },
+                "ninja.badhalo.ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod": {
+                    "category": "Inspectors",
+                    "description": "The mod that shows the ObjectRoot slot name in subtitle on inspectors for the selected slot",
+                    "name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+                    "sourceLocation": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "66c4a711daeeb4d1ed1f62e7e982fc46e78fdafa15e76e0bb82fa48c9b062a28",
+                                    "url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/tag/v1.0.0"
                         }
                     }
                 }
@@ -4032,6 +4433,16 @@
                     ],
                     "sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
                     "versions": {
+                        "2.1.10": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22576814868b7e8b67d8a25c78e86a8b5f613ccb49ad4d3b1f04351133445195",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.10/HeadlessTweaks.dll"
+                                }
+                            ],
+                            "changelog": "- Fixed start world commands creating invalid invites\n- Fix nml typo in a warning message fixed by XDelta",
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.10"
+                        },
                         "2.1.9": {
                             "artifacts": [
                                 {

@@ -1,0 +1,16 @@
+{
+	"name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+	"id": "ninja.badhalo.ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+	"description": "The mod that shows the ObjectRoot slot name in subtitle on inspectors for the selected slot",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
+				"sha256": "66c4a711daeeb4d1ed1f62e7e982fc46e78fdafa15e76e0bb82fa48c9b062a28"
+			}]
+		}
+	}
+}

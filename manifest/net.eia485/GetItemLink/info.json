@@ -1,0 +1,24 @@
+{
+	"name": "GetItemLink",
+	"id": "net.eia485.GetItemLink",
+	"description": "Adds buttons in the inventory to copy an item resdb or resrec to the clipboard.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
+	"tags": [
+		"url",
+		"link",
+		"asset",
+		"potato",
+		"cheese"
+	],
+	"versions": {
+		"1.4.5": {
+			"releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.5.0",
+			"artifacts": [{
+				"url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll",
+				"filename": "GetItemLink.dll",
+				"sha256": "61d6e5f9d1c4430bd77bd4293a94302546ff96c1480cdfb44ead4b9cd410c46d"
+			}]
+		}
+	}
+}
