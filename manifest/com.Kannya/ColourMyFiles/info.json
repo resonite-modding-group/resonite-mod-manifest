@@ -17,7 +17,7 @@
             "releaseUrl": "https://github.com/KannyaResonite/ColourMyFiles/releases/tag/1.0.1",
             "artifacts": [{
                 "url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.1/ColourMyFiles.dll",
-                "sha256": "120d32ffcdab0f20e31cfdc27112b6ce54efdd5e621320d937bf2003ace60aa7"
+                "sha256": "9d1968181bf90c67dd6ba0f0999b11e97bc288055279055a8210bb884bcc31f0"
             }],
             "changelog": "Fix for latest version."
         }
