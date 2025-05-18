@@ -14,7 +14,26 @@
 		},
 		"category": {
 			"type": "string",
-			"pattern": "^(Asset Importing|Audio|Bug Workaround|Context Menu|Controls|Dashboard|Hardware Integration|Inspectors|Libraries|Memes|Misc|Optimization|Plugins|Protoflux|Technical Tweaks|Template|Visual Tweaks|Wizards)$"
+			"enum": [
+				"Asset Importing",
+				"Audio",
+				"Bug Workaround",
+				"Context Menu",
+				"Controls",
+				"Dashboard",
+				"Hardware Integration",
+				"Inspectors",
+				"Libraries",
+				"Memes",
+				"Misc",
+				"Optimization",
+				"Plugins",
+				"Protoflux",
+				"Technical Tweaks",
+				"Template",
+				"Visual Tweaks",
+				"Wizards"
+			]
 		},
 		"sourceLocation": {
 			"type": "string",
@@ -35,7 +54,7 @@
 			"type": "array",
 			"items": {
 				"type": "string",
-				"pattern": "^(deprecated|plugin|file)$"
+				"enum": ["deprecated", "plugin", "file"]
 			},
 			"additionalItems": false
 		},
@@ -43,7 +62,7 @@
 			"type": "array",
 			"items": {
 				"type": "string",
-				"pattern": "^(android|headless|linux|linux-native|linux-wine|windows|other)$"
+				"enum": ["android", "headless", "linux", "linux-native", "linux-wine", "windows", "other"]
 			},
 			"additionalItems": false
 		},

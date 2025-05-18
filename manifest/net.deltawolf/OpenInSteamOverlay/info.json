@@ -1,0 +1,16 @@
+{
+	"name": "OpenInSteamOverlay",
+	"id": "net.deltawolf.OpenInSteamOverlay",
+	"description": "Makes links open in the steam overlay instead of your default browser.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/XDelta/ResoniteOpenInSteamOverlay",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/ResoniteOpenInSteamOverlay/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ResoniteOpenInSteamOverlay/releases/download/1.0.0/OpenInSteamOverlay.dll",
+				"sha256": "4029af57b820ff056ee84ad312542ddd3caa3181fab77f094e1e5f15555fdd6b"
+			}]
+		}
+	}
+}

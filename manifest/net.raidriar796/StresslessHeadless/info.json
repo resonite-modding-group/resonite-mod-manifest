@@ -1,13 +1,29 @@
 {
 	"name": "StresslessHeadless",
 	"id": "net.raidriar796.StresslessHeadless",
-	"description": "Disables frequent and heavy calculations on certain components from running on Headless clients.",
-	"category": "Technical Tweaks",
+	"description": "Disables select functionality from running on headless clients.",
+	"category": "Optimization",
 	"platforms": [
 		"headless"
 	],
 	"sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
 	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
+				"filename": "StresslessHeadless.dll",
+				"sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A"
+			}]
+		},
+		"1.3.1": {
+			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1",
+			"artifacts": [{
+				"url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
+				"filename": "StresslessHeadless.dll",
+				"sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166"
+			}]
+		},
 		"1.2.0": {
 			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0",
 			"artifacts": [{
