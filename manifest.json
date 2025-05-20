@@ -3190,6 +3190,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff",
+                                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.2/ZipImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.1.2"
                         }
                     }
                 }
