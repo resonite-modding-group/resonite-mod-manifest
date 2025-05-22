@@ -14,20 +14,6 @@
 				"url": "https://github.com/DexyThePuppy/ProtoFluxVisualsOverhaul/releases/download/1.4.1/ProtoFluxVisualsOverhaul.dll",
 				"sha256": "0b736c427c3e7f70f0fad32c7b99d8fc353131670a3c56a004015d13a3723c97"
 			}]
-		},
-		"1.1.0": {
-			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxVisualsOverhaul/releases/tag/1.1",
-			"artifacts": [{
-				"url": "https://github.com/DexyThePuppy/ProtoFluxVisualsOverhaul/releases/download/1.1/ProtoWireScroll.dll",
-				"sha256": "203a9eabf394e263bd83a83e89792ee03ed5fcbbfdca85fdc02609746149ee87"
-			}]
-		},
-		"1.0.0": {
-			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxVisualsOverhaul/releases/tag/Release",
-			"artifacts": [{
-				"url": "https://github.com/DexyThePuppy/ProtoFluxVisualsOverhaul/releases/download/Release/ProtoWireScroll.dll",
-				"sha256": "198a7ca7cc338028e052e1c70ad98b42532a278c3cfe2d87f607a7d25d13e314"
-			}]
 		}
 	}
 }
