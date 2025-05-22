@@ -1,7 +1,7 @@
 {
 	"name": "HostCrashGuard",
 	"id": "com.__Choco__.HostCrashGuard",
-	"description": "Stops network changes from crashing Resonite. Also stops DIV/0 crashes caused by Decimal types. Fixes bug #2681 and #2746",
+	"description": "Makes Resonite crash less! Fixes #2746 (Decimal DIV/0), #2681 (Host timout), #1646 (Invalid components)",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
 	"versions": {
