@@ -5,6 +5,14 @@
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
 	"versions": {
+		"2.4.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.0",
+			"artifacts": [{
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.4.0/HostCrashGuard.dll",
+				"sha256": "3dc229c417e5b484954d4614b237ff6bdf672e6449a183762101ade01290dac8"
+			}],
+			"changelog": "Added component validation, removed HostDisconnect catch."
+		},
 		"2.2.0": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.2.0",
 			"artifacts": [{
