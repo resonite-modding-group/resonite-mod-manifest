@@ -513,6 +513,16 @@
                             ],
                             "changelog": "Added component validation, removed HostDisconnect catch.",
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.0"
+                        },
+                        "2.4.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5db26c4b3144caac23190727e1571193507b42c42a72b5f33b4de87e9361811d",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.4.5/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Fixed component validation.",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.5"
                         }
                     }
                 },
