@@ -9,7 +9,7 @@
 			"releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.1",
 			"artifacts": [{
 				"url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.1/DisableSRAnipal.dll",
-				"sha256": "1de2c8bb180e22a7123784b3c5a465da6a0db1a5c74b0f88c46d3ea4438d1af6"
+				"sha256": "ee3fb4a58176469a774eb5bde82d40eff6791e13199563eafb9110c7a5ca3d44"
 			}]
 		},
 		"1.0.0": {
