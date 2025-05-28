@@ -916,6 +916,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7353a9fca4c8d8ae773d4959981385505da7a002cc1db3423a59fb710986aa13",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.2/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.2"
                         }
                     }
                 }
