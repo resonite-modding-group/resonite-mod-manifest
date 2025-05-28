@@ -5,6 +5,13 @@
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/XDelta/DisableSRAnipal",
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.1/DisableSRAnipal.dll",
+				"sha256": "ee3fb4a58176469a774eb5bde82d40eff6791e13199563eafb9110c7a5ca3d44"
+			}]
+		},
 		"1.0.0": {
 			"releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.0",
 			"artifacts": [{
