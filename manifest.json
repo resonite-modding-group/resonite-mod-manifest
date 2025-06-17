@@ -12,6 +12,9 @@
                 "Banane9.BoundedUIX": {
                     "category": "Inspectors",
                     "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "BoundedUIX",
                     "sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
                     "versions": {
@@ -353,7 +356,18 @@
                                     "url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.0/ColourMyFiles.dll"
                                 }
                             ],
+                            "changelog": "Initial Release.",
                             "releaseUrl": "https://github.com/KannyaResonite/ColourMyFiles/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9774cd4f834f85031c9192a3b5adffd3561a9d2f83c0a49defdb0670cba0d6d6",
+                                    "url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.1/ColourMyFiles.dll"
+                                }
+                            ],
+                            "changelog": "Fix for latest version.",
+                            "releaseUrl": "https://github.com/KannyaResonite/ColourMyFiles/releases/tag/1.0.1"
                         }
                     }
                 }
@@ -414,6 +428,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "SlotInspectorHighlighter.dll",
+                                    "sha256": "a0a2f0cf0586adf224a94b20f4f9f8afd317990521db632d04ced4a22cd2b8d3",
+                                    "url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.1/SlotInspectorHighlighter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.1"
                         }
                     }
                 },
@@ -467,7 +491,7 @@
                 },
                 "com.__Choco__.HostCrashGuard": {
                     "category": "Bug Workaround",
-                    "description": "Stops network changes from crashing Resonite. Also stops DIV/0 crashes caused by Decimal types. Fixes bug #2681 and #2746",
+                    "description": "Makes Resonite crash less! Fixes #2746 (Decimal DIV/0), #2681 (Host timout), #1646 (Invalid components)",
                     "name": "HostCrashGuard",
                     "sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
                     "versions": {
@@ -489,6 +513,26 @@
                             ],
                             "changelog": "Improved UI, neater codebase, more universal Decimal DIV/0 fix",
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.2.0"
+                        },
+                        "2.4.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3dc229c417e5b484954d4614b237ff6bdf672e6449a183762101ade01290dac8",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.4.0/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Added component validation, removed HostDisconnect catch.",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.0"
+                        },
+                        "2.4.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5db26c4b3144caac23190727e1571193507b42c42a72b5f33b4de87e9361811d",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.4.5/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Fixed component validation.",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.5"
                         }
                     }
                 },
@@ -882,6 +926,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7353a9fca4c8d8ae773d4959981385505da7a002cc1db3423a59fb710986aa13",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.2/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.2"
                         }
                     }
                 }
@@ -2708,6 +2761,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ee3fb4a58176469a774eb5bde82d40eff6791e13199563eafb9110c7a5ca3d44",
+                                    "url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.1/DisableSRAnipal.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b5cd3da42f98136104e5300107d263ffc13ef8a85ed9c31a63c6c2642c06ca3e",
+                                    "url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.2/DisableSRAnipal.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/DisableSRAnipal/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -3176,6 +3247,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff",
+                                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.2/ZipImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.1.2"
                         }
                     }
                 }
@@ -3413,6 +3493,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessUserCulling.dll",
+                                    "sha256": "BB632928114E2318D883CEB2A5E2B20734434D2AC83600791B803CAC2EC59131",
+                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2"
                         }
                     }
                 },
