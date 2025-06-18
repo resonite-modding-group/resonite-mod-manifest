@@ -1,15 +1,15 @@
 {
 	"name": "EsnyaResoniteModTemplate",
 	"id": "com.nekometer.esnya.EsnyaResoniteModTemplate",
-	"description": "Esnya customized template for a mod for ResoniteModLoader.",
+	"description": "Esnya's customized template for ResoniteModLoader mods.",
 	"category": "Template",
 	"sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
 	"versions": {
 		"0.0.0": {
-			"releaseUrl": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0.0",
+			"releaseUrl": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0-template.1",
 			"artifacts": [{
-				"url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0.0/EsnyaResoniteModTemplate.dll",
-				"sha256": "3cff8af1d9f674ef36ce46490b7ef436d66f37080886121dc279f47a5e7c711d"
+				"url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll",
+				"sha256": "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739"
 			}]
 		}
 	}
