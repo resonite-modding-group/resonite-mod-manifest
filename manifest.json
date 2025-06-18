@@ -109,6 +109,35 @@
                 }
             }
         },
+        "Restrainite": {
+            "author": {
+                "Restrainite developers": {
+                    "icon": "https://github.com/restrainite.png",
+                    "url": "https://github.com/restrainite",
+                    "website": "https://restrainite.github.io/"
+                }
+            },
+            "entries": {
+                "Restrainite.Restrainite": {
+                    "category": "Misc",
+                    "description": "Allows other users to control restrictions of the local user.",
+                    "name": "Restrainite",
+                    "sourceLocation": "https://github.com/Restrainite/Restrainite",
+                    "versions": {
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e74d360869734bb3c1e70a6cef284add863c5f5158c2a7b1016e1898bd779f12",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.3/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.3"
+                        }
+                    },
+                    "website": "https://restrainite.github.io/"
+                }
+            }
+        },
         "RyanVittore": {
             "author": {
                 "Ryan Vittore": {
