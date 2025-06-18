@@ -3641,6 +3641,9 @@
                 "net.raidriar796.yt-dlp-Updater": {
                     "category": "Misc",
                     "description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "yt-dlp Updater",
                     "platforms": [
                         "linux-wine",
