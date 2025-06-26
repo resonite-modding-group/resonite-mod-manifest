@@ -12,7 +12,12 @@
 					"url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
 					"sha256": "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be"
 				}
-			]
+			],
+			"dependencies": {
+    				"com.__Choco__.CustomShaderLib": {
+        				"version": "1.0.1"
+    				}
+			}
 		}
 	}
 }
