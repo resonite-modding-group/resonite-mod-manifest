@@ -6,7 +6,7 @@
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
 	"versions": {
 		"1.6.0": {
-			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/tag/V1.6.0",
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.0",
 			"artifacts": [
 				{
 					"url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
