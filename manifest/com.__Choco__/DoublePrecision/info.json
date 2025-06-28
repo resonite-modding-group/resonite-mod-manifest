@@ -5,12 +5,12 @@
 	"category": "Visual Tweaks",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
 	"versions": {
-		"1.6.0": {
-			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.0",
+		"1.6.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1",
 			"artifacts": [
 				{
-					"url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
-					"sha256": "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be"
+					"url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
+					"sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb"
 				}
 			],
 			"dependencies": {
