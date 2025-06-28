@@ -142,8 +142,6 @@ for author_guid in NEW_MANIFEST["objects"]:
                 mod_entry_value["author"] = entry_data["author"] #gives the specific mod with an update and copies the author data into it
                 EMBEDS.append(mod_to_embed(mod_entry_value))
 
-#Role Ping
-#<@&1079268851952406571>
 if EMBEDS:
     DISCORD_JSON = {
         "embeds": EMBEDS,
