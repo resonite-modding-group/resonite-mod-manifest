@@ -16,7 +16,7 @@
 			"releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.2",
 			"artifacts": [{
 				"url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
-				"sha256": "8e67f454244a42f5765b6692916a03951788b4ff32be71326bd8ba09dee797a2"
+				"sha256": "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5"
 			}]
 		}
 	}
