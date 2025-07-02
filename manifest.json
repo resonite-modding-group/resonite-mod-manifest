@@ -2686,6 +2686,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.0"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5",
+                                    "url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -2703,6 +2712,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7f274b03a7c55508b301a53add5529994557f342b8656df412a336cbf474f46d",
+                                    "url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.1/FluxFinder.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -2720,6 +2738,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4cb0ec4aba5522f7fc529cec45bd39e4df9e1d3f611625a29f43218d27c512a8",
+                                    "url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.1.0/ResoTabbed.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -2737,6 +2764,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.1"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329",
+                                    "url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.2.0"
                         }
                     }
                 },
@@ -2763,6 +2799,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.5.0"
+                        },
+                        "1.6.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.6.0/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.6.0"
                         }
                     }
                 }
