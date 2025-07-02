@@ -11,6 +11,13 @@
 				"url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.1/ResoniteFixContactIcons.dll",
 				"sha256": "94a6202c95edbf43a54ca2b114392679120bae4a4559b50aea8722d94c344dc1"
 			}]
+		},
+		"1.2.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll",
+				"sha256": "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329"
+			}]
 		}
 	}
 }

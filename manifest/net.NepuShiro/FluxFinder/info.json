@@ -11,6 +11,13 @@
 				"url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.0/FluxFinder.dll",
 				"sha256": "0cc60114c1d5027dcc662f6b9b6de56a51e4a66333e44bbc3c22860193b5c1ed"
 			}]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.1/FluxFinder.dll",
+				"sha256": "7f274b03a7c55508b301a53add5529994557f342b8656df412a336cbf474f46d"
+			}]
 		}
 	}
 }
