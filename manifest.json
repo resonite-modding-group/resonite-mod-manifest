@@ -510,6 +510,45 @@
                 }
             },
             "entries": {
+                "com.__Choco__.CustomShaderLib": {
+                    "category": "Libraries",
+                    "description": "Removes shader validation and verification, in order to allow custom shaders.",
+                    "name": "CustomShaderLib",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1"
+                        }
+                    }
+                },
+                "com.__Choco__.DoublePrecision": {
+                    "category": "Visual Tweaks",
+                    "description": "Fixes floating point rendering errors!",
+                    "name": "DoublePrecision",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
+                    "versions": {
+                        "1.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "com.__Choco__.CustomShaderLib": {
+                                    "version": "1.0.1"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1"
+                        }
+                    }
+                },
                 "com.__Choco__.HandAligner": {
                     "category": "Bug Workaround",
                     "description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
