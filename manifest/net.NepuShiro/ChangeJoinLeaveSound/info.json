@@ -12,11 +12,11 @@
 				"sha256": "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4"
 			}]
 		},
-		"1.0.1": {
-			"releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.1",
+		"1.0.2": {
+			"releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.2",
 			"artifacts": [{
-				"url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.1/ChangeJoinLeaveSound.dll",
-				"sha256": "ec0ca26addc0c3bb8712ac2d0a1ab009d44109640f35b2d9bd1b42b24cdad8be"
+				"url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
+				"sha256": "8e67f454244a42f5765b6692916a03951788b4ff32be71326bd8ba09dee797a2"
 			}]
 		}
 	}
