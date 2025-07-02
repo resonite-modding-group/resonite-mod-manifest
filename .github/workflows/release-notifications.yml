@@ -35,4 +35,8 @@ jobs:
 
       - name: Send notification
         if: ${{ steps.gen.outputs.JSON != '' }}
-        run: "curl --fail -H 'Content-Type: application/json' -d '${{ steps.gen.outputs.JSON }}' '${{ secrets.DISCORD_MOD_RELEASES_WEBHOOK_URL }}'"
+        env:
+          JSON: ${{ steps.gen.outputs.JSON }}
+        run: |
+          curl --fail -H 'Content-Type: application/json' --data-raw "$JSON" '${{ secrets.DISCORD_MOD_RELEASES_WEBHOOK_URL }}'
+
