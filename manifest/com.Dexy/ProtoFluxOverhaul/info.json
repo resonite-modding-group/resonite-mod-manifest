@@ -1,0 +1,19 @@
+{
+	"name": "ProtoFluxOverhaul",
+	"id": "com.Dexy.ProtoFluxOverhaul",
+	"description": "Unpack your nodes with rounded textures and animated wires, or choose your own textures.",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
+	"additionalAuthors": [
+		"NepuShiro"
+	],
+	"versions": {
+		"1.4.2": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2",
+			"artifacts": [{
+				"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
+				"sha256": "8ca2cc802668623bc43b27f859e50c3708540c07607e5cf7de8a0a3a0f82623f"
+			}]
+		}
+	}
+}
