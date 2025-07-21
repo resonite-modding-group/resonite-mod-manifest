@@ -769,6 +769,90 @@
                 }
             }
         },
+        "com.nekometer.esnya": {
+            "author": {
+                "esnya": {
+                    "icon": "https://github.com/esnya.png",
+                    "url": "https://github.com/esnya"
+                }
+            },
+            "entries": {
+                "com.nekometer.esnya.EsnyaResoniteModTemplate": {
+                    "category": "Template",
+                    "description": "Esnya's customized template for ResoniteModLoader mods.",
+                    "name": "EsnyaResoniteModTemplate",
+                    "sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
+                    "versions": {
+                        "0.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739",
+                                    "url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0-template.1"
+                        }
+                    }
+                },
+                "com.nekometer.esnya.EsnyaTweaks": {
+                    "category": "Technical Tweaks",
+                    "description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
+                    "name": "EsnyaTweaks",
+                    "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
+                    "tags": [
+                        "PhotonDust",
+                        "LOD",
+                        "SystemHelper"
+                    ],
+                    "versions": {
+                        "0.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a",
+                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.1.0"
+                        },
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0",
+                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0"
+                        }
+                    }
+                },
+                "com.nekometer.esnya.ResoniteMetricsCounter": {
+                    "additionalAuthors": {
+                        "AwesomeTornado": {}
+                    },
+                    "category": "Optimization",
+                    "description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
+                    "name": "Resonite Metrics Counter",
+                    "sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
+                    "tags": [
+                        "profiling",
+                        "stats",
+                        "benchmark",
+                        "diagnostic"
+                    ],
+                    "versions": {
+                        "0.7.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dda0229de9c1d0f49c3541e6f470c322726aa837d16e2052f81edd7faa6db845",
+                                    "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.7.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.resonitemodloader": {
             "author": {
                 "Resonite Modding Group": {
