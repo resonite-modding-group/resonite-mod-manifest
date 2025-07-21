@@ -1,0 +1,25 @@
+{
+	"name": "Resonite Metrics Counter",
+	"id": "com.nekometer.esnya.ResoniteMetricsCounter",
+	"description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
+	"category": "Optimization",
+	"sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
+	"additionalAuthors": [
+		"AwesomeTornado"
+	],
+	"tags": [
+		"profiling",
+		"stats",
+		"benchmark",
+		"diagnostic"
+	],
+	"versions": {
+		"0.7.0": {
+			"releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.7.0.0",
+			"artifacts": [{
+				"url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll",
+				"sha256": "dda0229de9c1d0f49c3541e6f470c322726aa837d16e2052f81edd7faa6db845"
+			}]
+		}
+	}
+}
