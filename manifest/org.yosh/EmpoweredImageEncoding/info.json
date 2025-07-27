@@ -1,0 +1,16 @@
+{
+	"name": "EmpoweredImageEncoding",
+	"id": "org.yosh.EmpoweredImageEncoding",
+	"description": "Configure Resonite image encoding & quick photo quality parameters",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v1.0.0/EmpoweredImageEncoding.dll",
+				"sha256": "eee0760b3e9593e75486b72dd9751aa33960b6c693dd8422fafa039b4fcbcc69"
+			}]
+		}
+	}
+}
