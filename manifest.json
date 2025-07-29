@@ -4333,6 +4333,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8e17fb603b5dc9efea9349e3d7407a7b6feb55780cd887814cbe52239ab9e699",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v1.1.0/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.1.0"
                         }
                     }
                 },
