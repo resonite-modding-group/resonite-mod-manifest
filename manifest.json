@@ -342,6 +342,37 @@
                 }
             }
         },
+        "com.Dexy": {
+            "author": {
+                "DexyThePuppy": {
+                    "icon": "https://github.com/DexyThePuppy.png",
+                    "url": "https://github.com/DexyThePuppy",
+                    "website": "https://me.dexy.dog/"
+                }
+            },
+            "entries": {
+                "com.Dexy.ProtoFluxOverhaul": {
+                    "additionalAuthors": {
+                        "NepuShiro": {}
+                    },
+                    "category": "Visual Tweaks",
+                    "description": "Unpack your nodes with rounded textures and animated wires, or choose your own textures.",
+                    "name": "ProtoFluxOverhaul",
+                    "sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
+                    "versions": {
+                        "1.4.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2"
+                        }
+                    }
+                }
+            }
+        },
         "com.Kannya": {
             "author": {
                 "Kannya": {
