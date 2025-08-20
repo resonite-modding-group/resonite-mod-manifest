@@ -6,6 +6,15 @@
 	"sourceLocation": "https://github.com/pardeike/Harmony",
 	"website": "https://harmony.pardeike.net/",
 	"versions": {
+		"2.4.0": {
+			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.0.0",
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.0.0/0Harmony.dll",
+				"filename": "0Harmony.dll",
+				"sha256": "81bb9e42e053309c3f000e9cd22895081f155e43e1e4074fcae681832afb5ede",
+				"installLocation": "/rml_libs"
+			}]
+		}, 
 		"2.3.3": {
 			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.3.3.0",
 			"artifacts": [{
