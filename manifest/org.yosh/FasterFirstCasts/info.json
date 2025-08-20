@@ -11,6 +11,13 @@
 				"url": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/download/v1.0.2/FasterFirstCasts.dll",
 				"sha256": "0b077ee07691b717ce5d3cfae5cd4c28d8ca750b4082d9387b29937a4b705905"
 			}]
+		},
+		"2.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/download/v2.0.0/FasterFirstCasts.dll",
+				"sha256": "d1b63603696065f82d0a7bd84e1056b04f46993196f32118607631af2a304b2d"
+			}]
 		}
 	}
 }
