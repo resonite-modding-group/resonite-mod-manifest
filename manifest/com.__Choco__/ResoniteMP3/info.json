@@ -1,10 +1,29 @@
 {
 	"name": "ResoniteMP3",
 	"id": "com.__Choco__.ResoniteMP3",
-	"description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into WAV files on import so that they import as audio files.",
+	"description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into OGG files on import so that they import as audio files.",
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/AwesomeTornado/ResoniteMP3",
 	"versions": {
+		"3.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V3.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/ResoniteMP3.dll",
+					"sha256": "2f3787c38c8338c48364224453e76a736982e60f7f26cf654b72c50b39264aa9"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/FFMpegCore.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "8065e8a1ae74db282723e0e53faa56410c867e9b41df7e835f54cf1e9807acc1"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/Instances.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "2c196e02ca9bc8d9b2aea7506014636e48868e180b0f54f7ff0ad520963588bf"
+				}
+			]
+		},
 		"2.1.0": {
 			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V2.1.0",
 			"artifacts": [
