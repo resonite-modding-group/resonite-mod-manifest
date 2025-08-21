@@ -3920,6 +3920,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2"
+                        },
+                        "2.7.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
+                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0"
                         }
                     }
                 },
@@ -3989,6 +3999,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Lognt.dll",
+                                    "sha256": "0C2B00AAED7FA050040B62CB534AA9DA4DC26A862590507E5549D6FE85836FEE",
+                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.0/Lognt.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.0"
                         }
                     }
                 },
