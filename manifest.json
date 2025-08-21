@@ -3367,6 +3367,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "40706fc5bcc021cbc5a200f5f8f81cd50995d064aaede780e5a870c701435029",
+                                    "url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.2/ShowSourceLocation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.2"
                         }
                     }
                 }
