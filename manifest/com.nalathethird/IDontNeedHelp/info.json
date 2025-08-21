@@ -1,7 +1,7 @@
 {
 	"name": "IDontNeedHelp",
 	"id": "com.nalathethird.IDontNeedHelp",
-	"description": "A mod to remove the 'Help' Section on the Dashboard for 'Experienced Users'- only.",
+	"description": "A mod to remove the 'Help' Section on the Dashboard for 'Experienced Resonite Users' - only.",
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/nalathethird/Fck-HelpSection",
 	"versions": {
@@ -11,8 +11,7 @@
 				{
 					"url": "https://github.com/nalathethird/Fck-HelpSection/releases/download/1.0.0/IDontNeedHelp.dll",
 					"filename": "IDontNeedHelp.dll",
-					"installLocation": "/",
-					"sha256": "sha256:9c874cc93143b7bd0fd2bef2f683be4c720080c7730a1b78988149ad7a1c66e1"
+					"sha256": "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783"
 				}
 			]
 		}
