@@ -109,6 +109,62 @@
                 }
             }
         },
+        "Restrainite": {
+            "author": {
+                "Restrainite developers": {
+                    "icon": "https://github.com/restrainite.png",
+                    "url": "https://github.com/restrainite",
+                    "website": "https://restrainite.github.io/"
+                }
+            },
+            "entries": {
+                "Restrainite.Restrainite": {
+                    "category": "Misc",
+                    "description": "Allows other users to control restrictions of the local user.",
+                    "name": "Restrainite",
+                    "sourceLocation": "https://github.com/Restrainite/Restrainite",
+                    "versions": {
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e74d360869734bb3c1e70a6cef284add863c5f5158c2a7b1016e1898bd779f12",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.3/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.3"
+                        },
+                        "1.2.9": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9de48bd8f991b30610d7fe8809393c0f4954aec8329e539d4ef0db4ecc55a9ad",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.9/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.9"
+                        },
+                        "1.3.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5393e0a9c02c5e2041aeac572dbcc513eef929149131f15395c7fc49515a52a3",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.6/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.3.6"
+                        },
+                        "2.0.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e4a001b230817e069ec3040fabc985d62b24d79958caffaf13e7cc8e8552e641",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.6/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.6"
+                        }
+                    },
+                    "website": "https://restrainite.github.io/"
+                }
+            }
+        },
         "RyanVittore": {
             "author": {
                 "Ryan Vittore": {
@@ -304,6 +360,37 @@
                 }
             }
         },
+        "com.Dexy": {
+            "author": {
+                "DexyThePuppy": {
+                    "icon": "https://github.com/DexyThePuppy.png",
+                    "url": "https://github.com/DexyThePuppy",
+                    "website": "https://me.dexy.dog/"
+                }
+            },
+            "entries": {
+                "com.Dexy.ProtoFluxOverhaul": {
+                    "additionalAuthors": {
+                        "NepuShiro": {}
+                    },
+                    "category": "Visual Tweaks",
+                    "description": "Unpack your nodes with rounded textures and animated wires, or choose your own textures.",
+                    "name": "ProtoFluxOverhaul",
+                    "sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
+                    "versions": {
+                        "1.4.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2"
+                        }
+                    }
+                }
+            }
+        },
         "com.Kannya": {
             "author": {
                 "Kannya": {
@@ -472,6 +559,45 @@
                 }
             },
             "entries": {
+                "com.__Choco__.CustomShaderLib": {
+                    "category": "Libraries",
+                    "description": "Removes shader validation and verification, in order to allow custom shaders.",
+                    "name": "CustomShaderLib",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1"
+                        }
+                    }
+                },
+                "com.__Choco__.DoublePrecision": {
+                    "category": "Visual Tweaks",
+                    "description": "Fixes floating point rendering errors!",
+                    "name": "DoublePrecision",
+                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
+                    "versions": {
+                        "1.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "com.__Choco__.CustomShaderLib": {
+                                    "version": "1.0.1"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1"
+                        }
+                    }
+                },
                 "com.__Choco__.HandAligner": {
                     "category": "Bug Workaround",
                     "description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
@@ -555,7 +681,7 @@
                 },
                 "com.__Choco__.ResoniteMP3": {
                     "category": "Asset Importing",
-                    "description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into WAV files on import so that they import as audio files.",
+                    "description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into OGG files on import so that they import as audio files.",
                     "name": "ResoniteMP3",
                     "sourceLocation": "https://github.com/AwesomeTornado/ResoniteMP3",
                     "versions": {
@@ -606,6 +732,25 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V2.1.0"
+                        },
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2f3787c38c8338c48364224453e76a736982e60f7f26cf654b72c50b39264aa9",
+                                    "url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/ResoniteMP3.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "8065e8a1ae74db282723e0e53faa56410c867e9b41df7e835f54cf1e9807acc1",
+                                    "url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/FFMpegCore.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "2c196e02ca9bc8d9b2aea7506014636e48868e180b0f54f7ff0ad520963588bf",
+                                    "url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/Instances.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V3.0.0"
                         }
                     }
                 }
@@ -687,6 +832,90 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Frozenreflex/Thundagun/releases/tag/1.2.1"
+                        }
+                    }
+                }
+            }
+        },
+        "com.nekometer.esnya": {
+            "author": {
+                "esnya": {
+                    "icon": "https://github.com/esnya.png",
+                    "url": "https://github.com/esnya"
+                }
+            },
+            "entries": {
+                "com.nekometer.esnya.EsnyaResoniteModTemplate": {
+                    "category": "Template",
+                    "description": "Esnya's customized template for ResoniteModLoader mods.",
+                    "name": "EsnyaResoniteModTemplate",
+                    "sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
+                    "versions": {
+                        "0.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739",
+                                    "url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0-template.1"
+                        }
+                    }
+                },
+                "com.nekometer.esnya.EsnyaTweaks": {
+                    "category": "Technical Tweaks",
+                    "description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
+                    "name": "EsnyaTweaks",
+                    "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
+                    "tags": [
+                        "PhotonDust",
+                        "LOD",
+                        "SystemHelper"
+                    ],
+                    "versions": {
+                        "0.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a",
+                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.1.0"
+                        },
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0",
+                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0"
+                        }
+                    }
+                },
+                "com.nekometer.esnya.ResoniteMetricsCounter": {
+                    "additionalAuthors": {
+                        "AwesomeTornado": {}
+                    },
+                    "category": "Optimization",
+                    "description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
+                    "name": "Resonite Metrics Counter",
+                    "sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
+                    "tags": [
+                        "profiling",
+                        "stats",
+                        "benchmark",
+                        "diagnostic"
+                    ],
+                    "versions": {
+                        "0.7.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "26c5f0aec4bbde207cc4c23b2261eb6a6975fbeae28c939c61648215cb818511",
+                                    "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.7.0.0"
                         }
                     }
                 }
@@ -783,6 +1012,48 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/3.0.0"
+                        },
+                        "4.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteModLoader.dll",
+                                    "sha256": "faa02723c21b7e9fc38ebf10837d3468c73e947383a1fcb2ce0c4629e21b3fd4",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.0.0/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "com.ultrawidegamer": {
+            "author": {
+                "ultrawidegamer": {
+                    "icon": "https://github.com/ultrawidegamer.png",
+                    "url": "https://github.com/ultrawidegamer"
+                }
+            },
+            "entries": {
+                "com.ultrawidegamer.CustomTextureSettings": {
+                    "category": "Asset Importing",
+                    "description": "Resonite mod that adds an option to the image importer to import images using your custom settings",
+                    "name": "CustomTextureSettings",
+                    "sourceLocation": "https://github.com/ultrawidegamer/CustomTextureSettings",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89",
+                                    "url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.0.0/CustomTextureSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/tag/1.0.0"
                         }
                     }
                 }
@@ -935,6 +1206,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.2"
+                        },
+                        "2.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "07e640889e80b9686da52f43caf20222ac5683d0bc7104cd0740d4d7d3146511",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.3/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.3"
                         }
                     }
                 }
@@ -2582,6 +2862,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.0"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5",
+                                    "url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -2599,6 +2888,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7f274b03a7c55508b301a53add5529994557f342b8656df412a336cbf474f46d",
+                                    "url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.1/FluxFinder.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/FluxFinder/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -2616,6 +2914,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4cb0ec4aba5522f7fc529cec45bd39e4df9e1d3f611625a29f43218d27c512a8",
+                                    "url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.1.0/ResoTabbed.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -2633,6 +2940,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.1"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329",
+                                    "url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.2.0"
                         }
                     }
                 },
@@ -2659,6 +2975,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.5.0"
+                        },
+                        "1.6.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.6.0/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.6.0"
                         }
                     }
                 }
@@ -2843,6 +3168,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ea81299fd63243a78c85e9e69e96813926661d5ef3fbd2dde1f2db27ab7c9217",
+                                    "url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.1/LogAutoFlush.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -3452,6 +3786,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.3.3.0"
+                        },
+                        "2.4.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "0Harmony.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "81bb9e42e053309c3f000e9cd22895081f155e43e1e4074fcae681832afb5ede",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.0.0/0Harmony.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.0.0"
                         }
                     },
                     "website": "https://harmony.pardeike.net/"
@@ -3641,6 +3986,9 @@
                 "net.raidriar796.yt-dlp-Updater": {
                     "category": "Misc",
                     "description": "Runs the built in update function for yt-dlp on startup, includes option to change the update branch.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "yt-dlp Updater",
                     "platforms": [
                         "linux-wine",
@@ -4034,6 +4382,78 @@
                 }
             }
         },
+        "org.yosh": {
+            "author": {
+                "yosh": {
+                    "icon": "https://avalis.are-really.cool/9uXuUj9.png",
+                    "url": "https://git.unix.dog/yosh",
+                    "website": "https://www.unix.dog/~yosh"
+                }
+            },
+            "entries": {
+                "org.yosh.EmpoweredImageEncoding": {
+                    "category": "Technical Tweaks",
+                    "description": "Configure Resonite image encoding & quick photo quality parameters",
+                    "name": "EmpoweredImageEncoding",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "eee0760b3e9593e75486b72dd9751aa33960b6c693dd8422fafa039b4fcbcc69",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v1.0.0/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8e17fb603b5dc9efea9349e3d7407a7b6feb55780cd887814cbe52239ab9e699",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v1.1.0/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.1.0"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3700d1b945bd45609b723ed7fa7ce45515568610fbdfc9605efb2b7b75ebf6fb",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.0/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "org.yosh.FasterFirstCasts": {
+                    "category": "Optimization",
+                    "description": "Faster first node overload casting by only searching ProtoFlux nodes",
+                    "name": "FasterFirstCasts",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts",
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0b077ee07691b717ce5d3cfae5cd4c28d8ca750b4082d9387b29937a4b705905",
+                                    "url": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/download/v1.0.2/FasterFirstCasts.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/tag/v1.0.2"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d1b63603696065f82d0a7bd84e1056b04f46993196f32118607631af2a304b2d",
+                                    "url": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/download/v2.0.0/FasterFirstCasts.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/tag/v2.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "org.zeith": {
             "author": {
                 "Zeith": {
@@ -4085,6 +4505,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f689c8389ca8f8b78d5178fc8e0bec9dc5458f8a9740e4eade3445405c3a44d6",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.2/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.2"
                         }
                     }
                 }
