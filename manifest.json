@@ -4275,6 +4275,30 @@
                         }
                     }
                 },
+                "ninja.badhalo.FixSelectionRadiusScale": {
+                    "category": "Misc",
+                    "description": "Makes the Developer Tool's selection radius dependent on scale, fixes issues selecting what you want when scaled down",
+                    "name": "FixSelectionRadiusScale",
+                    "sourceLocation": "https://github.com/badhaloninja/FixSelectionRadiusScale",
+                    "tags": [
+                        "dev",
+                        "developer",
+                        "tool",
+                        "select",
+                        "scale"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b0c60f89aa653b26d954260b76fe847af72f5efdcc0148daff46e852b44a5b20",
+                                    "url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.0/FixSelectionRadiusScale.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "ninja.badhalo.FriendlyInventoryAvatars": {
                     "category": "Technical Tweaks",
                     "description": "Makes the inventory only clear blocking avatars when equipping",
