@@ -16,7 +16,7 @@
 			"releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.1",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.1/NoTankControls.dll",
-				"sha256": "5c789ffaf8560dc954af0b6187534611e542f463c574c32a338d0871dc9ee6a5"
+				"sha256": "ab2831f1d882d4ef49c64d37e5ff872f1d681d655b985e5b7cab8deaa3636a68"
 			}]
 		}
 	}
