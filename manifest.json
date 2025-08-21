@@ -4592,6 +4592,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cb0b2856a27099b895bbb8c750c08bc345d12595f1400bd6e0b0166d81064650",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.3/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.3"
                         }
                     }
                 }
