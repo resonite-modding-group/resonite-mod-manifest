@@ -4334,6 +4334,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.2"
+                        },
+                        "2.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9ce64c469cd6052e0414ac83b5bb9beaffffb7f8e5ba49367d5efcfe15335148",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.3.0/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.3.0"
                         }
                     }
                 },
@@ -4378,6 +4387,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.3"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0cacd23127ff49b8b0510179807378f822d8a02aef1187ad274f951874d2fa2a",
+                                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.2.0/Optizoom.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.2.0"
                         }
                     }
                 },
