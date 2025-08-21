@@ -1045,6 +1045,38 @@
                 }
             }
         },
+        "com.tabbynet": {
+            "author": {
+                "tabithamoon": {
+                    "url": "https://github.com/tabithamoon",
+                    "website": "https://tabby.page"
+                }
+            },
+            "entries": {
+                "com.tabbynet.ResonitePSVR2": {
+                    "category": "Hardware Integration",
+                    "description": "Enables support for special hardware features on the PlayStation VR2",
+                    "name": "ResonitePSVR2",
+                    "sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
+                    "tags": [
+                        "psvr2",
+                        "eye",
+                        "tracking"
+                    ],
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.1/ResonitePSVR2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1"
+                        }
+                    }
+                }
+            }
+        },
         "com.ultrawidegamer": {
             "author": {
                 "ultrawidegamer": {
