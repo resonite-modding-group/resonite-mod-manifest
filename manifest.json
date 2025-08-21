@@ -579,6 +579,9 @@
                 "com.__Choco__.DoublePrecision": {
                     "category": "Visual Tweaks",
                     "description": "Fixes floating point rendering errors!",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "DoublePrecision",
                     "sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
                     "versions": {
@@ -659,6 +662,16 @@
                             ],
                             "changelog": "Fixed component validation.",
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.5"
+                        },
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b9953fe57c6ceee222791e9517b02c7ce799c2042c339190ccff3c4a42c56a0c",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V3.0.0/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Updated to .NET9",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V3.0.0"
                         }
                     }
                 },
@@ -3233,7 +3246,7 @@
                 },
                 "net.deltawolf.ResonitePTTKeybinds": {
                     "category": "Controls",
-                    "description": "Allows disabling and rebinding the default Push to Talk / Mute keybinds and setting keybinds to set your current voicemode",
+                    "description": "Allows disabling and rebinding the default Push to Talk / Mute keybinds and setting keybinds for your voicemode",
                     "name": "PTTKeybinds",
                     "sourceLocation": "https://github.com/XDelta/ResonitePTTKeybinds",
                     "versions": {
@@ -3263,6 +3276,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.0"
+                        },
+                        "1.5.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7ad64f9a7d3c93aaf08236171d89f49f44699d808fe44c4322f2d02cdd80654b",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.1/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.1"
                         }
                     }
                 },
@@ -3358,6 +3380,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "40706fc5bcc021cbc5a200f5f8f81cd50995d064aaede780e5a870c701435029",
+                                    "url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.2/ShowSourceLocation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.2"
                         }
                     }
                 }
@@ -3911,6 +3942,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2"
+                        },
+                        "2.7.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
+                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0"
                         }
                     }
                 },
@@ -3980,6 +4021,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Lognt.dll",
+                                    "sha256": "0C2B00AAED7FA050040B62CB534AA9DA4DC26A862590507E5549D6FE85836FEE",
+                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.0/Lognt.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -4293,6 +4344,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.2"
+                        },
+                        "2.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9ce64c469cd6052e0414ac83b5bb9beaffffb7f8e5ba49367d5efcfe15335148",
+                                    "url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.3.0/ResoniteModSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.3.0"
                         }
                     }
                 },
@@ -4337,6 +4397,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.3"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0cacd23127ff49b8b0510179807378f822d8a02aef1187ad274f951874d2fa2a",
+                                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.2.0/Optizoom.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.2.0"
                         }
                     }
                 },
@@ -4414,6 +4483,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.1.0"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3700d1b945bd45609b723ed7fa7ce45515568610fbdfc9605efb2b7b75ebf6fb",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.0/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.0"
                         }
                     }
                 },
@@ -4431,6 +4509,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/tag/v1.0.2"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d1b63603696065f82d0a7bd84e1056b04f46993196f32118607631af2a304b2d",
+                                    "url": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/download/v2.0.0/FasterFirstCasts.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/tag/v2.0.0"
                         }
                     }
                 }
@@ -4487,6 +4574,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f689c8389ca8f8b78d5178fc8e0bec9dc5458f8a9740e4eade3445405c3a44d6",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.2/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.2"
                         }
                     }
                 }

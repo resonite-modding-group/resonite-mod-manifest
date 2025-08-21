@@ -4,6 +4,9 @@
 	"description": "Fixes floating point rendering errors!",
 	"category": "Visual Tweaks",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
+	"flags": [
+		"deprecated"
+	],
 	"versions": {
 		"1.6.1": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1",
@@ -21,4 +24,5 @@
 		}
 	}
 }
+
 
