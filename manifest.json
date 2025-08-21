@@ -662,6 +662,16 @@
                             ],
                             "changelog": "Fixed component validation.",
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.5"
+                        },
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b9953fe57c6ceee222791e9517b02c7ce799c2042c339190ccff3c4a42c56a0c",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V3.0.0/HostCrashGuard.dll"
+                                }
+                            ],
+                            "changelog": "Updated to .NET9",
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V3.0.0"
                         }
                     }
                 },
