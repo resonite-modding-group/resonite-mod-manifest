@@ -1,0 +1,27 @@
+{
+	"name": "Discord.Net.Webhook",
+	"id": "dev.discordnet.Webhook",
+	"description": "The webhook components for the Discord.Net library.",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/discord-net/Discord.Net",
+	"website": "https://discordnet.dev/",
+	"versions": {
+		"3.17.0": {
+			"releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/Discord.Net.Webhook.dll",
+				"filename": "Discord.Net.Webhook.dll",
+				"sha256": "cda28bd16c518ed8c44618d0c7a8548c10f462ffc0e66aed1551d945e339df58",
+				"installLocation": "/rml_libs"
+			}],
+			"dependencies": {
+				"dev.discordnet.Core": {
+					"version": "^3.17.0"
+				},
+				"dev.discordnet.Rest": {
+					"version": "^3.17.0"
+				}
+			}
+		}
+	}
+}

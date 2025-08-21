@@ -1,0 +1,42 @@
+{
+	"name": "HeadlessUserCulling",
+	"id": "net.raidriar796.HeadlessUserCulling",
+	"description": "Provides a user culling system managed by the headless client.",
+	"category": "Optimization",
+	"platforms": [
+		"headless"
+	],
+	"sourceLocation": "https://github.com/Raidriar796/HeadlessUserCulling",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll",
+					"filename": "HeadlessUserCulling.dll",
+					"sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD"
+				}
+			]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll",
+					"filename": "HeadlessUserCulling.dll",
+					"sha256": "2BA6F640DA9FE8D4451884838295A7A9E31C9DE2BBA2C7F33149F783F2114F15"
+				}
+			]
+		},
+		"1.1.2": {
+			"releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll",
+					"filename": "HeadlessUserCulling.dll",
+					"sha256": "BB632928114E2318D883CEB2A5E2B20734434D2AC83600791B803CAC2EC59131"
+				}
+			]
+		}
+	}
+}

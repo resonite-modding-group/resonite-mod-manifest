@@ -5,6 +5,13 @@
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/dfgHiatus/ZipImporter",
 	"versions": {
+		"2.1.2": {
+			"releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.1.2",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.2/ZipImporter.dll",
+				"sha256": "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff"
+			}]
+		},
 		"2.0.1": {
 			"releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1",
 			"artifacts": [{

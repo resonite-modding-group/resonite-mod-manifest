@@ -27,6 +27,24 @@
                     "sha256": "09bb9d5e23137e3b2ee681a1700a3a0f4bd847846368ede847a163f1f91e8560"
                 }
             ]
+        },
+        "0.2.0": {
+            "releaseUrl": "https://github.com/art0007i/ImGuiUnityInject/releases/tag/0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ImGuiUnityInject/releases/download/0.2.0/ImGuiUnityInject.dll",
+                    "filename": "ImGuiUnityInject.dll",
+                    "installLocation": "/rml_libs",
+                    "sha256": "49c55d5b49af698166eb0931f9e7ffb7d326c3d4ba42c4cacc35891c8b8df47e"
+                },
+                {
+                    "url": "https://github.com/art0007i/ImGuiUnityInject/raw/bc77c0ee59c18874df210d25d82a269374c7e772/Plugins/win-x64/cimgui.dll",
+                    "filename": "cimgui.dll",
+                    "installLocation": "/Resonite_Data/Plugins/x86_64",
+                    "sha256": "60ec992bcebd354d59f235ed97cdc3b0eea62c2def53c4a71f22937e500fa80b"
+                }
+            ],
+            "changelog": "Updated ImGui to version 1.91.6.1"
         }
     }
 }

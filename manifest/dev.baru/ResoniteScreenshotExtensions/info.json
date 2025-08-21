@@ -5,6 +5,34 @@
 	"category": "Misc",
 	"sourceLocation": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
 	"versions": {
+		"2.0.3": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.3",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.3/ResoniteScreenshotExtensions.dll",
+				"sha256": "07e640889e80b9686da52f43caf20222ac5683d0bc7104cd0740d4d7d3146511"
+			}]
+		},
+		"2.0.2": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.2",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.2/ResoniteScreenshotExtensions.dll",
+				"sha256": "7353a9fca4c8d8ae773d4959981385505da7a002cc1db3423a59fb710986aa13"
+			}]
+		},
+		"2.0.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.1/ResoniteScreenshotExtensions.dll",
+				"sha256": "dbde70f2b09414ad4cd2fa54db6c0e21e5dbe148bc904094716662f320fa3fc3"
+			}]
+		},
+		"1.2.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.2.0/ResoniteScreenshotExtensions.dll",
+				"sha256": "c152c33816f881dbf3fe3a564d82719c0dc1238c7a23e29ff7086afddb08a7d2"
+			}]
+		},
 		"1.1.4": {
 			"releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.4",
 			"artifacts": [{

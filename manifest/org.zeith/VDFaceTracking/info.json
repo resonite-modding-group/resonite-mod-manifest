@@ -5,6 +5,13 @@
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/Zeitheron/VDFaceTracking",
 	"versions": {
+		"1.1.2": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.2",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.2/VDFaceTracking.dll",
+				"sha256": "f689c8389ca8f8b78d5178fc8e0bec9dc5458f8a9740e4eade3445405c3a44d6"
+			}]
+		},
 		"1.1.1": {
 			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.1",
 			"artifacts": [{

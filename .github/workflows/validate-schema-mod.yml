@@ -21,14 +21,14 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: "3.12"
+        python-version: "3.13"
         cache: "pip"
 
     - run: pip install -r requirements.txt
 
     - name: Get all changed mod info files
       id: changed-mod-files
-      uses: tj-actions/changed-files@v45
+      uses: step-security/changed-files@95b56dadb92a30ca9036f16423fd3c088a71ee94 # v46.0.5
       with:
         files: |
           manifest/**/info.json

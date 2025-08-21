@@ -1,0 +1,23 @@
+{
+	"name": "ChangeJoinLeaveSound",
+	"id": "net.NepuShiro.ChangeJoinLeaveSound",
+	"description": "Allows you to change the default User Join/Leave sounds, and color.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/NepuShiro/ChangeJoinLeaveSound",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll",
+				"sha256": "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4"
+			}]
+		},
+		"1.0.2": {
+			"releaseUrl": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
+				"sha256": "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5"
+			}]
+		}
+	}
+}
