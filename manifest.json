@@ -552,6 +552,51 @@
                 }
             }
         },
+        "com.TheJebForge": {
+            "author": {
+                "TheJebForge": {
+                    "icon": "https://github.com/TheJebForge.png",
+                    "url": "https://github.com/TheJebForge",
+                    "website": "https://thejebforge.com/"
+                }
+            },
+            "entries": {
+                "com.TheJebForge.BoneReferenceHelper": {
+                    "category": "Inspectors",
+                    "description": "Adds a lot of useful things for transferring bone references of skinned mesh renderers",
+                    "name": "BoneReferenceHelper",
+                    "sourceLocation": "https://github.com/TheJebForge/BoneReferenceHelper",
+                    "versions": {
+                        "2.0.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "203a14448c8b9fff31fee1b27c28e3cc139b660ed146854cff7696a31de8e861",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.5/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.5"
+                        }
+                    }
+                },
+                "com.TheJebForge.DynVarGenerator": {
+                    "category": "Wizards",
+                    "description": "Adds a wizard to quickly generate huge amounts of dynamic fields/variables/drivers for slots, blend shapes, bones or anything else",
+                    "name": "DynVarGenerator",
+                    "sourceLocation": "https://github.com/TheJebForge/DynVarGenerator",
+                    "versions": {
+                        "1.3.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "837b436da5f72fe493fbd4ac12febbdc4ef1c0290315afca517e841efb7b8317",
+                                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.4/DynVarGenerator.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.4"
+                        }
+                    }
+                }
+            }
+        },
         "com.__Choco__": {
             "author": {
                 "__Choco__": {
