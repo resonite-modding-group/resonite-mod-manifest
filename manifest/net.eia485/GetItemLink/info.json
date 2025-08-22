@@ -12,6 +12,14 @@
 		"cheese"
 	],
 	"versions": {
+		"1.4.6": {
+			"releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.6.0",
+			"artifacts": [{
+				"url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.6.0/GetItemLink.dll",
+				"filename": "GetItemLink.dll",
+				"sha256": "ac32459d51e237577a4779f1c85d22af91e53b3bbd33511c3d9d4b6cebff246e"
+			}]
+		},
 		"1.4.5": {
 			"releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.5.0",
 			"artifacts": [{
