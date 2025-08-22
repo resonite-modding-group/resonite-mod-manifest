@@ -11,6 +11,13 @@
 				"url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.0.0/CustomTextureSettings.dll",
 				"sha256": "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89"
 			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/tag/1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.1.0/CustomTextureSettings.dll",
+				"sha256": "cb8194b7e2260f49bca97585c1cfcd426f70cbd440f2eecbaec3a3daa4a54a49"
+			}]
 		}
 	}
 }
