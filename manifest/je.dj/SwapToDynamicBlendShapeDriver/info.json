@@ -1,0 +1,18 @@
+{
+	"name": "SwapToDynamicBlendShapeDriver",
+	"id": "je.dj.SwapToDynamicBlendShapeDriver",
+	"description": "Adds a button to SkinnedMeshRenderers that moves any driven blendshapes to their own DynamicBlendShapeDriver.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/tag/1.0.1",
+			"changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
+			"artifacts": [{
+				"filename": "SwapToDynamicBlendShapeDriver.dll",
+				"url": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/download/1.0.1/SwapToDynamicBlendShapeDriver.dll",
+				"sha256": "1ea2d75d78dc4d7ca7e1005d2e40d2c85c38c4a39448f25da01455b15e2fc851"
+			}]
+		}
+	}
+}
