@@ -391,6 +391,47 @@
                 }
             }
         },
+        "com.GrandtheUK": {
+            "author": {
+                "Grand": {
+                    "url": "https://github.com/GrandtheUK"
+                }
+            },
+            "entries": {
+                "com.GrandtheUK.ResoniteLinuxClipboard": {
+                    "category": "Bug Workaround",
+                    "description": "A mod that implements copy and paste in resonite for Text, Images and other files on Wayland",
+                    "name": "ResoniteLinuxClipboard",
+                    "platforms": [
+                        "linux"
+                    ],
+                    "sourceLocation": "https://github.com/GrandtheUK/ResoniteLinuxClipboard",
+                    "tags": [
+                        "Linux",
+                        "Wayland",
+                        "Clipboard",
+                        "Copy",
+                        "Paste"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "89c797a00d2c387c05ef88b74da4013c30d9e85ff778bf932b9b2324abcbc195",
+                                    "url": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/download/v1.0.0/ResoniteLinuxClipboard.dll"
+                                },
+                                {
+                                    "installLocation": "/runtimes/linux-x64/native",
+                                    "sha256": "afac5e68099ee94697882b6c6b0aed71472c278fc1f53529b7d434c1859fc67a",
+                                    "url": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/download/v1.0.0/libresoniteclipboard_rs.so"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.Kannya": {
             "author": {
                 "Kannya": {
