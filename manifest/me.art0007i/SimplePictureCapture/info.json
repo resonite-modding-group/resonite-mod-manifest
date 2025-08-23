@@ -11,5 +11,10 @@
             ],
             "changelog": "Fix for splittening"
         }
-    }
+    },
+    "name": "SimplePictureCapture",
+    "id": "me.art0007i.SimplePictureCapture",
+    "description": " Allows you to take steam screenshots using the render to texture asset node.",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/SimplePictureCapture"
 }
