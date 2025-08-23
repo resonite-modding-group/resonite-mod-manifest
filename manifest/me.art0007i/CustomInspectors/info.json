@@ -57,6 +57,17 @@
                 }
             ],
             "changelog": "Rebuild for latest version of resonite."
+        },
+        "2.1.6": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.6/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "c3e19f5f7f595c6ec6e57c1e1d969db442e0bc4e986a569089e4be1c48df0515"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }
