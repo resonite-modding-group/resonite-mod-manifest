@@ -1421,6 +1421,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0"
+                        },
+                        "3.18.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Discord.Net.Core.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/Discord.Net.Core.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.18.0"
                         }
                     },
                     "website": "https://discordnet.dev/"
@@ -1446,6 +1457,22 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0"
+                        },
+                        "3.18.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Discord.Net.Rest.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "6ae5ec9ecf6117f24ad93c7bc445a312439892e14a0645c910cfda0860cdc91b",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/Discord.Net.Rest.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "dev.discordnet.Core": {
+                                    "version": "^3.18.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.18.0"
                         }
                     },
                     "website": "https://discordnet.dev/"
@@ -1474,6 +1501,25 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0"
+                        },
+                        "3.18.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Discord.Net.Webhook.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/Discord.Net.Webhook.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "dev.discordnet.Core": {
+                                    "version": "^3.18.0"
+                                },
+                                "dev.discordnet.Rest": {
+                                    "version": "^3.18.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.18.0"
                         }
                     },
                     "website": "https://discordnet.dev/"
@@ -5330,6 +5376,16 @@
                             ],
                             "changelog": "- Fixed start world commands creating invalid invites\n- Fix nml typo in a warning message fixed by XDelta",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.10"
+                        },
+                        "2.1.11": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3cfb3c6a3a1fc141ca1f8258143b06fceee9b005582b6510bb973a4d5f691c65",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/HeadlessTweaks.dll"
+                                }
+                            ],
+                            "changelog": "Post Splittening update\n- Added Renderite.Shared for moved types by Gyztor\n- Updated Discord.Net libraries to 3.18.0 by Gyztor",
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.11"
                         },
                         "2.1.9": {
                             "artifacts": [
