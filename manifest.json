@@ -4433,6 +4433,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "567566428e3e91000a6dcd4281e6260fd37b0d1c5a88753044a1670b008e9a33",
+                                    "url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.1/FixSelectionRadiusScale.dll"
+                                }
+                            ],
+                            "changelog": "- Removed leftover harmony debug",
+                            "releaseUrl": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/tag/v1.0.1"
                         }
                     }
                 },
