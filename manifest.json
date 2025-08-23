@@ -1122,6 +1122,41 @@
                 }
             }
         },
+        "com.tobsstuff": {
+            "author": {
+                "tobs": {
+                    "url": "https://github.com/tobs2007"
+                }
+            },
+            "entries": {
+                "com.tobsstuff.picture3dFix": {
+                    "category": "Misc",
+                    "description": "fix the backside of stereo pictures",
+                    "name": "picture3dFix",
+                    "sourceLocation": "https://github.com/tobs2007/picture3dFix",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3726e11d049fb9ae902c26c49a7e2b67b549131bf7c2fde2cd6d426764ee6e5c",
+                                    "url": "https://github.com/tobs2007/picture3dFix/releases/download/1.0.0/picture3dFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "59db880d1c3dd72ab9d4e217cefce146d862174bdd84f7db097af10b5bcc5990",
+                                    "url": "https://github.com/tobs2007/picture3dFix/releases/download/1.1.0/picture3dFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.ultrawidegamer": {
             "author": {
                 "ultrawidegamer": {
