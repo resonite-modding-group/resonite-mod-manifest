@@ -36,6 +36,17 @@
                 }
             ],
             "changelog": "Fix \"None\" override type not working correctly."
+        },
+        "1.0.5": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.5",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.5/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "00bef18ee1070727df92aea15dc21c0b4382b7821b6e64aee513d08d63220479"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }

@@ -36,6 +36,17 @@
                 }
             ],
             "changelog": "Fix reference to SkyFrost"
+        },
+        "2.0.4": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.4/LocalStorage.dll",
+                    "filename": "LocalStorage.dll",
+                    "sha256": "3ff6056465e8e6e347917feff9ae30335305420e09401dc0855791d8d1317ea1"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }

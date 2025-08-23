@@ -57,6 +57,17 @@
                 }
             ],
             "changelog": "Fix bug with ToolSimulator + ProtoFluxTool"
+        },
+        "2.1.5": {
+            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.5",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.5/ValueProxyExtensions.dll",
+                    "filename": "ValueProxyExtensions.dll",
+                    "sha256": "d88599578a2f8e1c3666ff829dc736fe74fac76fc54d1d340c48b3e70e646e84"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }

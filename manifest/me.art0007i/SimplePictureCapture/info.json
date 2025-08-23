@@ -1,0 +1,15 @@
+{
+    "versions": {
+        "1.0.2": {
+            "releaseUrl": "https://github.com/art0007i/SimplePictureCapture/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SimplePictureCapture/releases/download/1.0.2/SimplePictureCapture.dll",
+                    "filename": "SimplePictureCapture.dll",
+                    "sha256": "c7901131e7d51e9b0d6204995cbe395d6d39c80cad61fe766dba4fd615529ff2"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        }
+    }
+}

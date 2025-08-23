@@ -21,6 +21,17 @@
                 }
             ],
             "changelog": "Add toggle on/off option"
+        },
+        "2.0.3": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.3/MyInspectors.dll",
+                    "filename": "MyInspectors.dll",
+                    "sha256": "fe34c3a1a364e000962ca60d496d94caf0c81b73fd64d958233260e53f0b4f78"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     },
     "name": "MyInspectors",

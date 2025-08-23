@@ -14,6 +14,17 @@
                     "sha256": "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861"
                 }
             ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.1/LogCleaner.dll",
+                    "filename": "LogCleaner.dll",
+                    "sha256": "4270be92cc5ca01a319e632bff5b480d298f50b968075e69cee60e2321455b4b"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }

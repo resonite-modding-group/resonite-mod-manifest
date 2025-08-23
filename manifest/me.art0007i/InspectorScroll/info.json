@@ -14,6 +14,17 @@
                     "sha256": "2dbcea4b00f4650c8b06a76d6dfd4636977329ab1e26239dd61187a03848eb24"
                 }
             ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.1/InspectorScroll.dll",
+                    "filename": "InspectorScroll.dll",
+                    "sha256": "e82ba66a22fa03c161a062d0c98a15c6e4df8e89085d9bb07712cdd28a5ea8dc"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }
