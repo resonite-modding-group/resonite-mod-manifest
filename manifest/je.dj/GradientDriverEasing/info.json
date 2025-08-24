@@ -5,6 +5,20 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
 	"versions": {
+		"1.2.1": {
+			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.1",
+			"changelog": "Updated:\n- Migrated project to .NET 9.0\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2025.8.22.607.",
+			"dependencies": {
+				"me.art0007i.CustomUILib": {
+					"version": "^2.0.0"
+				}
+			},
+			"artifacts": [{
+				"filename": "GradientDriverEasing.dll",
+				"url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/GradientDriverEasing.dll",
+				"sha256": "a006071b037bb889e775595e318911c1ce4988cd91d5c679687f7edc3185750e"
+			}]
+		},
 		"1.2.0": {
 			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.0",
 			"changelog": "Added:\n- An option to enable/disable the mod.\n- Error popup when the mod fails to initialize, such as in the case of CustomUILib not being available.\n\nUpdated:\n- Code style & refactoring.\n\nFixed:\n- Interpolating colors by HSV not underflowing their hue if the difference of hues is over 180\u00b0.\n\nRemoved:Escape Unicode Characters\n- Being able to apply easing functions to non-lerpable types, such as booleans.\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2024.7.12.12.",
