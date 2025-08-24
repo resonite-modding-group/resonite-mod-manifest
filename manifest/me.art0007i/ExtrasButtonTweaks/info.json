@@ -25,6 +25,17 @@
                 }
             ],
             "changelog": "Allow dropping values onto the button."
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.1/ExtrasButtonTweaks.dll",
+                    "filename": "ExtrasButtonTweaks.dll",
+                    "sha256": "521911aff10e99990a05965d801b580945fafe578ec2164eabcef7d36031ca6b"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }

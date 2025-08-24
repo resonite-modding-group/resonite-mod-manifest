@@ -68,6 +68,17 @@
                 }
             ],
             "changelog": "Add a few delegates to the lookup table"
+        },
+        "2.2.10": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.10",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.10/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "b35b1a6893617c3cdf5a976c99f4d8a17f1770cfe6e8136515043c91f908afa2"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }
