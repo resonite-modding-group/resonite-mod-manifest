@@ -1994,6 +1994,17 @@
                             ],
                             "changelog": "Rebuild for latest version of resonite.",
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.5"
+                        },
+                        "2.1.6": {
+                            "artifacts": [
+                                {
+                                    "filename": "CustomInspectors.dll",
+                                    "sha256": "c3e19f5f7f595c6ec6e57c1e1d969db442e0bc4e986a569089e4be1c48df0515",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.6/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.6"
                         }
                     }
                 },
@@ -2070,6 +2081,17 @@
                             ],
                             "changelog": "Add option for modifier key.",
                             "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.4"
+                        },
+                        "1.0.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "DefaultToolOverride.dll",
+                                    "sha256": "21a446daad817537ced6eba36220b1e8ec2ed555a9a8eafb678c073517079047",
+                                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.5/DefaultToolOverride.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.5"
                         }
                     }
                 },
@@ -2142,6 +2164,17 @@
                             ],
                             "changelog": "Fix for latest version.",
                             "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.4"
+                        },
+                        "1.0.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "DuplicateFix.dll",
+                                    "sha256": "a96983e66866be51e61d5d6ae2050ec02dcbaf73dfbeb76721aca4a3f8854cd1",
+                                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.5/DuplicateFix.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.5"
                         }
                     }
                 },
@@ -2171,6 +2204,17 @@
                             ],
                             "changelog": "Allow dropping values onto the button.",
                             "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ExtrasButtonTweaks.dll",
+                                    "sha256": "521911aff10e99990a05965d801b580945fafe578ec2164eabcef7d36031ca6b",
+                                    "url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.1/ExtrasButtonTweaks.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.1.1"
                         }
                     }
                 },
@@ -2313,6 +2357,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "InspectorScroll.dll",
+                                    "sha256": "5276e355becb05e0b78b93b1af83b93b8a3abdbe90794592547b381e26ca5b49",
+                                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.1/InspectorScroll.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -2407,6 +2462,17 @@
                             ],
                             "changelog": "Fix reference to SkyFrost",
                             "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.3"
+                        },
+                        "2.0.4": {
+                            "artifacts": [
+                                {
+                                    "filename": "LocalStorage.dll",
+                                    "sha256": "50aa009b2e86b09db406cb4c5dc25b46775cd31806dd342d89b4e255fcbb4553",
+                                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.4/LocalStorage.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.4"
                         }
                     }
                 },
@@ -2425,6 +2491,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "LogCleaner.dll",
+                                    "sha256": "bc223dd143de4c66c0f4c5bf25aeb6bcd41cbeab6fc2274e20b1212a72c7cef8",
+                                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.1/LogCleaner.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.1"
                         }
                     }
                 },
@@ -2454,6 +2531,17 @@
                             ],
                             "changelog": "Fix reference to SkyFrost",
                             "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "MessageCopy.dll",
+                                    "sha256": "c309718255df6a2d80d885e0a5487895372da404c4ac262b709459494414a8f1",
+                                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.2/MessageCopy.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -2484,6 +2572,17 @@
                             ],
                             "changelog": "Add toggle on/off option",
                             "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.2"
+                        },
+                        "2.0.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "MyInspectors.dll",
+                                    "sha256": "1d67a6446b9ff721d01f26f595f0d0feeaf4a4aa9c66c27d9fa8134069472e5f",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.3/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.3"
                         }
                     }
                 },
@@ -2730,6 +2829,17 @@
                     "name": "ShowDelegates",
                     "sourceLocation": "https://github.com/art0007i/ShowDelegates",
                     "versions": {
+                        "2.2.10": {
+                            "artifacts": [
+                                {
+                                    "filename": "ShowDelegates.dll",
+                                    "sha256": "b35b1a6893617c3cdf5a976c99f4d8a17f1770cfe6e8136515043c91f908afa2",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.10/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.10"
+                        },
                         "2.2.4": {
                             "artifacts": [
                                 {
@@ -2840,6 +2950,25 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "me.art0007i.SimplePictureCapture": {
+                    "category": "Misc",
+                    "description": "Allows you to take steam screenshots using the render to texture asset node.",
+                    "name": "SimplePictureCapture",
+                    "sourceLocation": "https://github.com/art0007i/SimplePictureCapture",
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "SimplePictureCapture.dll",
+                                    "sha256": "bbeb59f997f6ea1bb992a8cd846ebc8ff7e82f13e04a6ba8d8604f70f03ba422",
+                                    "url": "https://github.com/art0007i/SimplePictureCapture/releases/download/1.0.2/SimplePictureCapture.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/SimplePictureCapture/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -2984,6 +3113,17 @@
                             ],
                             "changelog": "Fix bug with ToolSimulator + ProtoFluxTool",
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.4"
+                        },
+                        "2.1.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "ValueProxyExtensions.dll",
+                                    "sha256": "4fdcc092b2619858d7ff8521be7b619d63f2c2547de2682096ca100988d9e188",
+                                    "url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.5/ValueProxyExtensions.dll"
+                                }
+                            ],
+                            "changelog": "Fix for splittening",
+                            "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.5"
                         }
                     }
                 },
