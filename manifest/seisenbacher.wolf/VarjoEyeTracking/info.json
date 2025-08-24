@@ -6,17 +6,17 @@
 	"sourceLocation": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking",
 	"versions": {
 		"8.20.25.1810": {
-			"releaseUrl": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/tag/v8.20.25.1810",
+			"releaseUrl": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/tag/v2.0.0",
 			"artifacts":
 			[
 				{
-					"url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v8.20.25.1810/VarjoEyeIntegration.dll",
-					"sha256": "sha256:4175dee8d781c5e9db0b92aa43bf31f2563ac1cad0bdc259fe18b39bf30cb325",
+					"url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.0/VarjoEyeIntegration.dll",
+					"sha256": "sha256:2b79145439fda9e34cc363b7f473a3ee82139433ccb9cd51aabbdb9ce39b64f0",
 					"installLocation": "/rml_mods"
-				
+
 				}
 				{
-					"url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v8.20.25.1810/VarjoLib.dll",
+					"url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.0/VarjoLib.dll",
 					"sha256": "sha256:79955254df743f1c0c17778d5a2493a565230178ee6e2ff7e40f091d1e14d44c",
 					"installLocation": "/rml_mods/TrackingLibs"
 				}

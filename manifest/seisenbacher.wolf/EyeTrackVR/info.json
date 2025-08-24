@@ -6,18 +6,18 @@
 	"sourceLocation": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/",
 	"versions": {
 		"8.21.25.133": {
-			"releaseUrl": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/tag/V8.21.25.133",
+			"releaseUrl": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/tag/V2.2.0",
 			"artifacts": 
 			[
 				{
-					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V8.21.25.133/EyeTrackVRResonite.dll",
+					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/EyeTrackVRResonite.dll",
 					"sha256": "sha256:2001ef2396d524241d0beed37fcc3bee852dd8ff0f939952b6ab0a742ece2088",
-					"installLocation" : "/rml_mods"
+					"installLocation": "/rml_mods"
 				}
 				{
-					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V8.21.25.133/OscCore.dll",
+					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/OscCore.dll",
 					"sha256": "sha256:0c501fbe786c7913ff7aaf06b0a2882e9e56ff374c0565ac9b9d85f198d0254a",
-					"installLocation" : "/"
+					"installLocation": "/"
 				}
 			]
 		}
