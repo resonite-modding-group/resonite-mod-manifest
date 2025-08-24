@@ -11,7 +11,7 @@
 			[
 				{
 					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/EyeTrackVRResonite.dll",
-					"sha256": "2001ef2396d524241d0beed37fcc3bee852dd8ff0f939952b6ab0a742ece2088"
+					"sha256": "bf5efbfa4ab6381639306c3ec99102679fa8e8cc9cf75cde5a48f948f16949a5"
 				}
 				{
 					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/OscCore.dll",
@@ -22,3 +22,4 @@
 		}
 	}
 }
+
