@@ -14,6 +14,14 @@
 				"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
 				"sha256": "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7"
 			}]
+		},
+		"1.4.3": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.3",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.3/ProtoFluxOverhaul.dll",
+			"sha256": "d523ee51cc05d8b742dafa27de653259298825def9c5a0ac66a4d6a3db9cab34"
+			}],
+			"changelog": "Rebuild on net9.0"
 		}
 	}
 }
