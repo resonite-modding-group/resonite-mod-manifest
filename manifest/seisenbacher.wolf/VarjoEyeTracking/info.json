@@ -1,0 +1,25 @@
+{
+	"name": "Varjo Eyetracking",
+	"id": "seisenbacher.wolf.varjoeyetracking",
+	"description": "Enables Varjo Eyetracking into Resonite",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/tag/v2.0.1",
+			"artifacts":
+			[
+				{
+					"url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.1/VarjoEyeIntegration.dll",
+					"sha256": "86129c77a8cbd1cd23bc41db865b3a4ddbb812f1cf87d908eda76ed1bb41761a"
+
+				},
+				{
+					"url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.1/VarjoLib.dll",
+					"sha256": "79955254df743f1c0c17778d5a2493a565230178ee6e2ff7e40f091d1e14d44c",
+					"installLocation": "/rml_libs"
+				}
+			]
+		}
+	}
+}
