@@ -852,6 +852,23 @@
                             "releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V3.0.0"
                         }
                     }
+                },
+                "com.__Choco__.SimpleScalableMeshOrbs": {
+                    "category": "Misc",
+                    "description": "Stops mesh orbs from spinning and makes them scalable.",
+                    "name": "SimpleScalableMeshOrbs",
+                    "sourceLocation": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9b84eaf40d429ac61d8eeced52a898b9eec09c3fd309545d7a9ac488b6c051cd",
+                                    "url": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs/releases/download/V1.0.0/SimpleScalableMeshOrbs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs/releases/tag/V1.0.0"
+                        }
+                    }
                 }
             }
         },
