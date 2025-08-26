@@ -70,6 +70,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e495b5bc3b38d2bed1a71e66efc118ead1798661b372b515c563823c78d1a108",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.1/EnableToolspawnInVR.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.1"
                         }
                     }
                 },
