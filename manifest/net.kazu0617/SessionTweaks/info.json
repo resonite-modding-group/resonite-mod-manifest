@@ -6,6 +6,13 @@
 	"tags": ["world"],
 	"sourceLocation": "https://github.com/kazu0617/SessionTweaks",
 	"versions": {
+		"5.0.0": {
+			"releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/5.0.0",
+			"artifacts": [{
+				"url": "https://github.com/kazu0617/SessionTweaks/releases/download/5.0.0/SessionTweaks.dll",
+				"sha256": "cdc71c8d70b30f9d78e7a8b4a79dac2721132d0f132fa2b6132de5f5a92026f9"
+			}]
+		},
 		"4.0.0": {
 			"releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0",
 			"artifacts": [{
