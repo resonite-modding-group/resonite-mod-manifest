@@ -1,0 +1,22 @@
+{
+	"name": "DynamicTickRate",
+	"id": "net.raidriar796.DynamicTickRate",
+	"description": "Adjusts the tick rate of the headless client based on user and world count.",
+	"category": "Optimization",
+	"platforms": [
+		"headless"
+	],
+	"sourceLocation": "https://github.com/Raidriar796/DynamicTickRate",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll",
+					"filename": "DynamicTickRate.dll",
+					"sha256": "3AF94439A0E7153CDDF4F85A94A97F5349A50CB60B92D456001CCFF5A4BDABF5"
+				}
+			]
+		}
+	}
+}
