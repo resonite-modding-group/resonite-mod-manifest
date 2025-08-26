@@ -70,6 +70,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e495b5bc3b38d2bed1a71e66efc118ead1798661b372b515c563823c78d1a108",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.1/EnableToolspawnInVR.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -104,6 +113,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b10a8ec45a4b1c1d37e2a87f8b48826b7855c433cb04156415dc0a4848203f28",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.1.0/IgnoreControllerAxis.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.0"
                         }
                     }
                 }
@@ -386,6 +404,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2"
+                        },
+                        "1.4.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "414da7c71d8d4e0e22fa9e48a7e37172dcb3a6d1b93633cc078b6e0fffe5a2ec",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.3/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild on net9.0",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.3"
                         }
                     }
                 }
@@ -1407,6 +1435,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.3"
+                        },
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cdf6ac29d41f4229bc1a91642eadb46748d91050b7c579f0f245e5fa9de9caaf",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.1.0/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.1.0"
                         }
                     }
                 }
@@ -1693,6 +1730,22 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "BoundedUIX.dll",
+                                    "sha256": "a195b75bf23d4f9dd1a2fff140da06d653d5cc2269cbdffabedd833f476bd55f",
+                                    "url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.3/BoundedUIX.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
+                            "conflicts": {
+                                "Banane9.BoundedUIX": {
+                                    "version": "*"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/1.1.3"
                         }
                     }
                 },
@@ -1723,6 +1776,17 @@
                             ],
                             "changelog": "No functional changes, rebuilt for new game update.\nBuilt against Resonite version 2024.7.12.12.",
                             "releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "CopyHyperlink.dll",
+                                    "sha256": "1ff1c342c27b5d4296d20d5b79a0e1a6ea33deb380e9237a1b13a42b8d10e36b",
+                                    "url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.2/CopyHyperlink.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n- Reordered hyperlink popup buttons so Copy is in the middle.\n\nFixed:\n- Copy button shows locale string instead of locale key.\n\nBuilt against Resonite version 2025.8.22.607.",
+                            "releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -1779,6 +1843,41 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "GradientDriverEasing.dll",
+                                    "sha256": "7a4da79505920721a08596db8666dad7507c8249a8330dd33f854624960de89d",
+                                    "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/GradientDriverEasing.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2025.8.22.607.",
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.1"
+                        }
+                    }
+                },
+                "je.dj.SwapToDynamicBlendShapeDriver": {
+                    "category": "Inspectors",
+                    "description": "Adds a button to SkinnedMeshRenderers that moves any driven blendshapes to their own DynamicBlendShapeDriver.",
+                    "name": "SwapToDynamicBlendShapeDriver",
+                    "sourceLocation": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "SwapToDynamicBlendShapeDriver.dll",
+                                    "sha256": "08f33e5ac63ce39b8f35582dbe3fff022406c5bdb494af32f2b98711aeb0881e",
+                                    "url": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/download/1.0.1/SwapToDynamicBlendShapeDriver.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
+                            "releaseUrl": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/tag/1.0.1"
                         }
                     }
                 }
@@ -5577,6 +5676,59 @@
                         }
                     },
                     "website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md"
+                }
+            }
+        },
+        "seisenbacher.wolf": {
+            "author": {
+                "Wolf Seisenbacher": {
+                    "url": "https://github.com/Wolf-Seisenbacher/"
+                }
+            },
+            "entries": {
+                "seisenbacher.wolf.eyetrackvr": {
+                    "category": "Hardware Integration",
+                    "description": "Enables EyetrackVR eye tracking into Resonite",
+                    "name": "EyeTrackVR",
+                    "sourceLocation": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/",
+                    "versions": {
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "bf5efbfa4ab6381639306c3ec99102679fa8e8cc9cf75cde5a48f948f16949a5",
+                                    "url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/EyeTrackVRResonite.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "0c501fbe786c7913ff7aaf06b0a2882e9e56ff374c0565ac9b9d85f198d0254a",
+                                    "url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/OscCore.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/tag/V2.2.0"
+                        }
+                    }
+                },
+                "seisenbacher.wolf.varjoeyetracking": {
+                    "category": "Hardware Integration",
+                    "description": "Enables Varjo Eyetracking into Resonite",
+                    "name": "Varjo Eyetracking",
+                    "sourceLocation": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking",
+                    "versions": {
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "86129c77a8cbd1cd23bc41db865b3a4ddbb812f1cf87d908eda76ed1bb41761a",
+                                    "url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.1/VarjoEyeIntegration.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "79955254df743f1c0c17778d5a2493a565230178ee6e2ff7e40f091d1e14d44c",
+                                    "url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.1/VarjoLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/tag/v2.0.1"
+                        }
+                    }
                 }
             }
         },

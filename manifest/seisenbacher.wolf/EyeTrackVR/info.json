@@ -1,0 +1,25 @@
+{
+	"name": "EyeTrackVR",
+	"id": "seisenbacher.wolf.eyetrackvr",
+	"description": "Enables EyetrackVR eye tracking into Resonite",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/",
+	"versions": {
+		"2.2.0": {
+			"releaseUrl": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/tag/V2.2.0",
+			"artifacts":
+			[
+				{
+					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/EyeTrackVRResonite.dll",
+					"sha256": "bf5efbfa4ab6381639306c3ec99102679fa8e8cc9cf75cde5a48f948f16949a5"
+				},
+				{
+					"url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/OscCore.dll",
+					"sha256": "0c501fbe786c7913ff7aaf06b0a2882e9e56ff374c0565ac9b9d85f198d0254a",
+					"installLocation": "/rml_libs"
+				}
+			]
+		}
+	}
+}
+
