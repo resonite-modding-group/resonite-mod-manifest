@@ -1703,6 +1703,22 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "BoundedUIX.dll",
+                                    "sha256": "a195b75bf23d4f9dd1a2fff140da06d653d5cc2269cbdffabedd833f476bd55f",
+                                    "url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.3/BoundedUIX.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
+                            "conflicts": {
+                                "Banane9.BoundedUIX": {
+                                    "version": "*"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/1.1.3"
                         }
                     }
                 },
@@ -1733,6 +1749,17 @@
                             ],
                             "changelog": "No functional changes, rebuilt for new game update.\nBuilt against Resonite version 2024.7.12.12.",
                             "releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "CopyHyperlink.dll",
+                                    "sha256": "1ff1c342c27b5d4296d20d5b79a0e1a6ea33deb380e9237a1b13a42b8d10e36b",
+                                    "url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.2/CopyHyperlink.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n- Reordered hyperlink popup buttons so Copy is in the middle.\n\nFixed:\n- Copy button shows locale string instead of locale key.\n\nBuilt against Resonite version 2025.8.22.607.",
+                            "releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -1789,6 +1816,41 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "GradientDriverEasing.dll",
+                                    "sha256": "7a4da79505920721a08596db8666dad7507c8249a8330dd33f854624960de89d",
+                                    "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/GradientDriverEasing.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2025.8.22.607.",
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.1"
+                        }
+                    }
+                },
+                "je.dj.SwapToDynamicBlendShapeDriver": {
+                    "category": "Inspectors",
+                    "description": "Adds a button to SkinnedMeshRenderers that moves any driven blendshapes to their own DynamicBlendShapeDriver.",
+                    "name": "SwapToDynamicBlendShapeDriver",
+                    "sourceLocation": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "SwapToDynamicBlendShapeDriver.dll",
+                                    "sha256": "08f33e5ac63ce39b8f35582dbe3fff022406c5bdb494af32f2b98711aeb0881e",
+                                    "url": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/download/1.0.1/SwapToDynamicBlendShapeDriver.dll"
+                                }
+                            ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
+                            "releaseUrl": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/tag/1.0.1"
                         }
                     }
                 }
