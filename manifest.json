@@ -4261,6 +4261,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0"
+                        },
+                        "5.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cdc71c8d70b30f9d78e7a8b4a79dac2721132d0f132fa2b6132de5f5a92026f9",
+                                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/5.0.0/SessionTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/5.0.0"
                         }
                     }
                 }
@@ -4371,6 +4380,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicTickRate.dll",
+                                    "sha256": "A45C34A05CEB87BF3D70485DF98849D4127C78056B31C2DFF4716FAA74E95315",
+                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.1/DynamicTickRate.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.1"
                         }
                     }
                 },
