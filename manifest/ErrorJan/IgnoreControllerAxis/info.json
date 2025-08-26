@@ -5,12 +5,23 @@
 	"category": "Controls",
 	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis",
 	"versions": {
+		"1.1.0": {
+            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.1.0/IgnoreControllerAxis.dll",
+                    "sha256": "b10a8ec45a4b1c1d37e2a87f8b48826b7855c433cb04156415dc0a4848203f28"
+                }
+            ]
+        },
 		"1.0.0": {
 			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.0.0",
-			"artifacts": [{
-				"url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.0.0/IgnoreControllerAxis.dll",
-				"sha256": "9d5c8a8d0556b0f441f37e9e5167fa6da27bba0f58e2f30d1e7298d76a770a42"
-			}]
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.0.0/IgnoreControllerAxis.dll",
+					"sha256": "9d5c8a8d0556b0f441f37e9e5167fa6da27bba0f58e2f30d1e7298d76a770a42"
+				}
+			]
 		}
 	}
 }
