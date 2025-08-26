@@ -19,7 +19,7 @@
 			"artifacts": [{
 				"filename": "BoundedUIX.dll",
 				"url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.3/BoundedUIX.dll",
-				"sha256": "3c84a89b9f80ab10747bc4a405964e6df2caddd21fdb95fe2fee8bca3111f40d"
+				"sha256": "a195b75bf23d4f9dd1a2fff140da06d653d5cc2269cbdffabedd833f476bd55f"
 			}]
 		},
 		"1.1.2": {

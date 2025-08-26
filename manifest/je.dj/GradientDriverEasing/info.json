@@ -16,7 +16,7 @@
 			"artifacts": [{
 				"filename": "GradientDriverEasing.dll",
 				"url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/GradientDriverEasing.dll",
-				"sha256": "a006071b037bb889e775595e318911c1ce4988cd91d5c679687f7edc3185750e"
+				"sha256": "7a4da79505920721a08596db8666dad7507c8249a8330dd33f854624960de89d"
 			}]
 		},
 		"1.2.0": {
