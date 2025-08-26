@@ -9,6 +9,14 @@
 	"website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md",
 	"sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
 	"versions": {
+		"2.1.11": {
+			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.11",
+			"changelog": "Post Splittening update\n- Added Renderite.Shared for moved types by Gyztor\n- Updated Discord.Net libraries to 3.18.0 by Gyztor",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/HeadlessTweaks.dll",
+				"sha256": "3cfb3c6a3a1fc141ca1f8258143b06fceee9b005582b6510bb973a4d5f691c65"
+			}]
+		},
 		"2.1.10": {
 			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.10",
 			"changelog": "- Fixed start world commands creating invalid invites\n- Fix nml typo in a warning message fixed by XDelta",

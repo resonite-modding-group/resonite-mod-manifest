@@ -1,0 +1,16 @@
+{
+	"name": "BoneReferenceHelper",
+	"id": "com.TheJebForge.BoneReferenceHelper",
+	"description": "Adds a lot of useful things for transferring bone references of skinned mesh renderers",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/TheJebForge/BoneReferenceHelper",
+	"versions": {
+		"2.0.5": {
+			"releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.5",
+			"artifacts": [{
+				"url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.5/BoneReferenceHelper.dll",
+				"sha256": "203a14448c8b9fff31fee1b27c28e3cc139b660ed146854cff7696a31de8e861"
+			}]
+		}
+	}
+}

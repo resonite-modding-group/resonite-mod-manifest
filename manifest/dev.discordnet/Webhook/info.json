@@ -6,6 +6,23 @@
 	"sourceLocation": "https://github.com/discord-net/Discord.Net",
 	"website": "https://discordnet.dev/",
 	"versions": {
+		"3.18.0": {
+			"releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.18.0",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/Discord.Net.Webhook.dll",
+				"filename": "Discord.Net.Webhook.dll",
+				"sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
+				"installLocation": "/rml_libs"
+			}],
+			"dependencies": {
+				"dev.discordnet.Core": {
+					"version": "^3.18.0"
+				},
+				"dev.discordnet.Rest": {
+					"version": "^3.18.0"
+				}
+			}
+		},
 		"3.17.0": {
 			"releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0",
 			"artifacts": [{
