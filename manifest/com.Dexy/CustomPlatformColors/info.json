@@ -19,7 +19,7 @@
 			"releaseUrl": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/tag/v1.2",
 			"artifacts": [{
 				"url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/v1.2/CustomPlatformColors.dll",
-				"sha256": "cdc06119d0d1267e44c3e1e7d59c8e1034730ec5442f959afe37e12769de9ffc"
+				"sha256": "e268923bc793cbb4be2b1b6a5c56021802954ebbca04d9deec82f0e4fa0c894a"
 			}],
 			"changelog": "Fix for Splittening Build // Net.9"
 		}
