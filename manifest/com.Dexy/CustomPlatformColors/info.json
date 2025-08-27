@@ -11,8 +11,9 @@
 		"SectOLT"
 	],
 	"tags": [
-		"colours",
-		"interface"
+		"colour",
+		"interface",
+		"color"
 	],
 	"versions": {
 		"1.2": {
