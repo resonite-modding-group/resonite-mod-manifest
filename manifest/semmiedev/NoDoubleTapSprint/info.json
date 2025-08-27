@@ -4,6 +4,9 @@
 	"description": "Disable double-tap sprinting when using a keyboard",
 	"category": "Controls",
 	"sourceLocation": "https://github.com/SemmieDev/NoDoubleTapSprint",
+	"flags": [
+	"deprecated"
+	],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/tag/v1.0.0",
