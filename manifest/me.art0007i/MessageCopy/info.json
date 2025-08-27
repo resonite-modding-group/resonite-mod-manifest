@@ -25,6 +25,17 @@
                 }
             ],
             "changelog": "Fix reference to SkyFrost"
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.2/MessageCopy.dll",
+                    "filename": "MessageCopy.dll",
+                    "sha256": "c309718255df6a2d80d885e0a5487895372da404c4ac262b709459494414a8f1"
+                }
+            ],
+            "changelog": "Fix for splittening"
         }
     }
 }

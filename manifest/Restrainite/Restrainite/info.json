@@ -1,0 +1,46 @@
+{
+	"name": "Restrainite",
+	"id": "Restrainite.Restrainite",
+	"description": "Allows other users to control restrictions of the local user.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/Restrainite/Restrainite",
+	"versions": {
+		"1.2.3": {
+			"releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.3",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.3/Restrainite.dll",
+					"sha256": "e74d360869734bb3c1e70a6cef284add863c5f5158c2a7b1016e1898bd779f12"
+				}
+			]
+		},
+		"1.2.9": {
+			"releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.9",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.9/Restrainite.dll",
+					"sha256": "9de48bd8f991b30610d7fe8809393c0f4954aec8329e539d4ef0db4ecc55a9ad"
+				}
+			]
+		},
+		"1.3.6": {
+			"releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v1.3.6",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.6/Restrainite.dll",
+					"sha256": "5393e0a9c02c5e2041aeac572dbcc513eef929149131f15395c7fc49515a52a3"
+				}
+			]
+		},
+		"2.0.6": {
+			"releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.6",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.6/Restrainite.dll",
+					"sha256": "e4a001b230817e069ec3040fabc985d62b24d79958caffaf13e7cc8e8552e641"
+				}
+			]
+		}
+	},
+	"website": "https://restrainite.github.io/"
+}

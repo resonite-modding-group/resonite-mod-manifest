@@ -6,6 +6,15 @@
 	"sourceLocation": "https://github.com/discord-net/Discord.Net",
 	"website": "https://discordnet.dev/",
 	"versions": {
+		"3.18.0": {
+			"releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.18.0",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/Discord.Net.Core.dll",
+				"filename": "Discord.Net.Core.dll",
+				"sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
+				"installLocation": "/rml_libs"
+			}]
+		},
 		"3.17.0": {
 			"releaseUrl": "https://github.com/discord-net/Discord.Net/releases/tag/3.17.0",
 			"artifacts": [{

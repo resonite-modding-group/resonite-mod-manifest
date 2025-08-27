@@ -1,10 +1,34 @@
 {
 	"name": "HostCrashGuard",
 	"id": "com.__Choco__.HostCrashGuard",
-	"description": "Stops network changes from crashing Resonite. Also stops DIV/0 crashes caused by Decimal types. Fixes bug #2681 and #2746",
+	"description": "Makes Resonite crash less! Fixes #2746 (Decimal DIV/0), #2681 (Host timout), #1646 (Invalid components)",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard",
 	"versions": {
+		"3.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V3.0.0",
+			"artifacts": [{
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V3.0.0/HostCrashGuard.dll",
+				"sha256": "b9953fe57c6ceee222791e9517b02c7ce799c2042c339190ccff3c4a42c56a0c"
+			}],
+			"changelog": "Updated to .NET9"
+		},
+		"2.4.5": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.5",
+			"artifacts": [{
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.4.5/HostCrashGuard.dll",
+				"sha256": "5db26c4b3144caac23190727e1571193507b42c42a72b5f33b4de87e9361811d"
+			}],
+			"changelog": "Fixed component validation."
+		},
+		"2.4.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.4.0",
+			"artifacts": [{
+				"url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V2.4.0/HostCrashGuard.dll",
+				"sha256": "3dc229c417e5b484954d4614b237ff6bdf672e6449a183762101ade01290dac8"
+			}],
+			"changelog": "Added component validation, removed HostDisconnect catch."
+		},
 		"2.2.0": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/tag/V2.2.0",
 			"artifacts": [{
@@ -22,3 +46,4 @@
 		}
 	}
 }
+
