@@ -7,19 +7,21 @@
 	"additionalAuthors": [
 		"troyBORG",
 		"SectOLT",
-		"LeCloutPanda"
+		"LeCloutPanda",
+		"SectOLT"
 	],
 	"tags": [
 		"colours",
 		"interface"
 	],
 	"versions": {
-		"1.1": {
-			"releaseUrl": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/tag/Beta",
+		"1.2": {
+			"releaseUrl": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/tag/v1.2",
 			"artifacts": [{
-				"url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/Beta/CustomPlatformColors.dll",
-				"sha256": "6368ae70b98fd4ca53573c372de80a1ed1a7ed22c1d689190351454a554d8548"
-			}]
+				"url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/v1.2/CustomPlatformColors.dll",
+				"sha256": "cdc06119d0d1267e44c3e1e7d59c8e1034730ec5442f959afe37e12769de9ffc"
+			}],
+			"changelog": "Fix for Splittening Build // Net.9"
 		}
 	}
 }
