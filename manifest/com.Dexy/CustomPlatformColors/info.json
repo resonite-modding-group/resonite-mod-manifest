@@ -16,7 +16,7 @@
 		"color"
 	],
 	"versions": {
-		"1.2": {
+		"1.2.0": {
 			"releaseUrl": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/tag/v1.2",
 			"artifacts": [{
 				"url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/v1.2/CustomPlatformColors.dll",
