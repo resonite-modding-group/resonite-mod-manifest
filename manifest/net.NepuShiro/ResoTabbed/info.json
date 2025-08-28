@@ -19,13 +19,13 @@
 				"sha256": "4cb0ec4aba5522f7fc529cec45bd39e4df9e1d3f611625a29f43218d27c512a8"
 			}]
 		},
-		"2.1.0": {
-			"releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/2.1.0",
+		"2.1.1": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/2.1.1",
 			"artifacts": [{
-				"url": "https://github.com/NepuShiro/ResoTabbed/releases/download/2.1.0/ResoTabbed.dll",
-				"sha256": "c2600f0ac7e474bed2d40cf9ac853dfb30d6b943a76bdb842cab533215d69e50"
+				"url": "https://github.com/NepuShiro/ResoTabbed/releases/download/2.1.1/ResoTabbed.dll",
+				"sha256": "c38ac3f4f297b1aeaf2d8d6c086589abf919678b467dba28e6dcf6a0a6843de5"
 			}],
-			"changelog": "Update to splintering"
+			"changelog": ".NET 9 release with fixes"
 		}
 	}
 }
