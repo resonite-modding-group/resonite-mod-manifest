@@ -1,0 +1,22 @@
+{
+	"name": "TrackerVisuals",
+	"id": "com.zahndy.TrackerVisuals",
+	"description": "Removes or replaces Vive/Tundra Tracker Models.",
+	"tags": [
+        "Tracker",
+        "Trackers",
+        "Tundra",
+        "Vive"
+    ],
+	"category": "Misc",
+	"sourceLocation": "https://github.com/zahndy/TrackerVisuals",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/zahndy/TrackerVisuals/releases/tag/1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/zahndy/TrackerVisuals/releases/download/1.1.0/TrackerVisuals.dll",
+				"sha256": "da5d3c697d39241eb8b438ddbf021c034ac93a172c1417435cf8522cc4134202"
+			}]
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "NoSRanipal",
+	"id": "com.zahndy.NoSRanipal",
+	"description": "Completely Disables Launching SRanipal",
+	"tags": [
+        "SRanipal",
+        "face",
+        "tracking"
+    ],
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/zahndy/NoSRanipal",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/zahndy/NoSRanipal/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/zahndy/NoSRanipal/releases/download/1.0.0/NoSRanipal.dll",
+				"sha256": "5a70d884a002203dbb1d5f4a0906faca4f61ccee346af7cab84dff3a6f84392f"
+			}]
+		}
+	}
+}
