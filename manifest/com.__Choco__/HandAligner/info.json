@@ -5,7 +5,7 @@
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
 	"versions": {
-		"1.0.1": {
+		"2.0.1": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V2.0.1",
 			"artifacts": [
 				{
@@ -25,5 +25,6 @@
 		}
 	}
 }
+
 
 
