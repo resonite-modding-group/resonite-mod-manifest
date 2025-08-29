@@ -757,6 +757,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.1"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f077251076989f1447a74e40501e60d1057161f195930fdcb7d7d17ac469efa2",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V2.0.1/HandAligner.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V2.0.1"
                         }
                     }
                 },
