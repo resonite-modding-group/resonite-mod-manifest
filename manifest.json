@@ -3658,6 +3658,11 @@
                     "description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
                     "name": "DisableSRAnipal",
                     "sourceLocation": "https://github.com/XDelta/DisableSRAnipal",
+                    "tags": [
+                        "FT",
+                        "face",
+                        "tracking"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
