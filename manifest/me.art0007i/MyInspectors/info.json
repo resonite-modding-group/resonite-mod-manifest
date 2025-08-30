@@ -32,6 +32,16 @@
                 }
             ],
             "changelog": "Fix for splittening"
+        },
+        "2.0.4": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.4/MyInspectors.dll",
+                    "sha256": "8200974eea3e69def6d0c5ca2cbb0db5e5092ec2c23092e67af8afdde4f23067"
+                }
+            ],
+            "changelog": "Fix inspector content doubled"
         }
     },
     "name": "MyInspectors",
