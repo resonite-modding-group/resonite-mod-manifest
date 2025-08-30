@@ -3233,6 +3233,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a8dc9d0671d2b6630da97f01162fea6e754bf922016db64163b83fb2492b2f5f",
+                                    "url": "https://github.com/art0007i/SimpleInventorySearch/releases/download/1.0.1/SimpleInventorySearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.1"
                         }
                     }
                 },
