@@ -1335,6 +1335,107 @@
                 }
             }
         },
+        "com.zahndy": {
+            "author": {
+                "zahndy": {
+                    "icon": "https://github.com/zahndy.png",
+                    "url": "https://github.com/zahndy",
+                    "website": "https://resonite.zahndy.com"
+                }
+            },
+            "entries": {
+                "com.zahndy.ColliderGrabbableDeleter": {
+                    "category": "Technical Tweaks",
+                    "description": "ObjectRoot button that removes MeshColliders And Grabbables of Child slots",
+                    "name": "ColliderGrabbableDeleter",
+                    "sourceLocation": "https://github.com/zahndy/ColliderGrabbableDeleter",
+                    "tags": [
+                        "MeshColliders",
+                        "Grabbables",
+                        "Grabbable"
+                    ],
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22ddd2b9deb2abaaccea20db0f8c9b096c45abee67c6dc10c8b815cc91eef197",
+                                    "url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.1/ColliderGrabbableDeleter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "com.zahndy.FasterBadges": {
+                    "category": "Misc",
+                    "description": "Badges manager with badge presets, custom badges and badge removal",
+                    "name": "FasterBadges",
+                    "sourceLocation": "https://github.com/zahndy/FasterBadges",
+                    "tags": [
+                        "badges",
+                        "badge",
+                        "manager"
+                    ],
+                    "versions": {
+                        "1.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.1"
+                        }
+                    }
+                },
+                "com.zahndy.RainbowLasers": {
+                    "category": "Visual Tweaks",
+                    "description": "Turns your lasers into a animated rainbow.",
+                    "name": "RainbowLasers",
+                    "sourceLocation": "https://github.com/zahndy/RainbowLasers",
+                    "tags": [
+                        "rainbow",
+                        "lasers",
+                        "laser",
+                        "rgb"
+                    ],
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fd91e5c5805d743cde89147b77f90ba57ab87053cbb508847802a1912332de5c",
+                                    "url": "https://github.com/zahndy/RainbowLasers/releases/download/1.1.0/RainbowLasers.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.1.0"
+                        }
+                    }
+                },
+                "com.zahndy.TrackerVisuals": {
+                    "category": "Visual Tweaks",
+                    "description": "Removes or replaces Vive/Tundra Tracker Models.",
+                    "name": "TrackerVisuals",
+                    "sourceLocation": "https://github.com/zahndy/TrackerVisuals",
+                    "tags": [
+                        "Tracker",
+                        "Trackers",
+                        "Tundra",
+                        "Vive"
+                    ],
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "da5d3c697d39241eb8b438ddbf021c034ac93a172c1417435cf8522cc4134202",
+                                    "url": "https://github.com/zahndy/TrackerVisuals/releases/download/1.1.0/TrackerVisuals.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/TrackerVisuals/releases/tag/1.1.0"
+                        }
+                    }
+                }
+            }
+        },
         "dev.baru": {
             "author": {
                 "hantabaru1014": {
