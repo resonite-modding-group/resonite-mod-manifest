@@ -4,9 +4,6 @@
 	"description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
-	"flags": [
-	"deprecated"
-	],
 	"versions": {
 		"1.0.1": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.1",
