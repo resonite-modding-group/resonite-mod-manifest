@@ -1,0 +1,16 @@
+{
+	"name": "BetterInspectorCheckbox",
+	"id": "net.NepuShiro.BetterInspectorCheckbox",
+	"description": "Allows you to disable the Checkbox in the SlotInspector or use better UIBuilder settings.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/NepuShiro/BetterInspectorCheckbox",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.0.0/BetterInspectorCheckbox.dll",
+				"sha256": "761cd65dea5ea0873a1c679e8870418405bc8c836d3484d8683fc0d117c0a7bc"
+			}]
+		}
+	}
+}
