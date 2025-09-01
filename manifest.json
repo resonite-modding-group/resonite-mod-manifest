@@ -3886,6 +3886,23 @@
                         }
                     }
                 },
+                "net.deltawolf.NoSlotEnabled": {
+                    "category": "Inspectors",
+                    "description": "Disables the 'Enabled' checkbox on every slot in the inspector hierarchy.",
+                    "name": "NoSlotEnabled",
+                    "sourceLocation": "https://github.com/XDelta/NoSlotEnabled",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0224a647afe872f9f91acab4fcb9f7d0535efe9bb11678198aec023904169961",
+                                    "url": "https://github.com/XDelta/NoSlotEnabled/releases/download/1.0.0/NoSlotEnabled.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/NoSlotEnabled/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.NonPersistentInspectors": {
                     "category": "Inspectors",
                     "description": "Inspectors you spawn will be set as non-persistent",
