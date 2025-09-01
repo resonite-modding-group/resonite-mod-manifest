@@ -1,0 +1,32 @@
+{
+	"name": "OpenXREyeTracking",
+	"id": "net.headassbtw.OpenXREyeTracking",
+	"description": "Adds support for OpenXR-based eye trackers",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/headassbtw/ResoniteOpenXREyeTracking",
+	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/tag/1.0.2",
+			"artifacts": [
+				{
+					"url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.2/OpenXREyeTracking.dll",
+					"sha256": "4095a0b0f9c6a5972ef1d90ffed6d2788ff9e02e9c080875b6e86d597aae964c"
+				},
+				{
+					"url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.0/Silk.NET.Core.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "e62b55149f4cc59663b001374cb94bd570dc722efecab5e5f1e2efa5bbf50d56"
+				},
+				{
+					"url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.0/Silk.NET.OpenXR.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "7fb4df2bc2d1da5a77b7e82e7e940cdd0b8c5cd10a59aa861c7041a8d6bf049e"
+				}
+			]
+		}
+	},
+	"tags": [
+		"eye",
+		"tracking"
+	]
+}
