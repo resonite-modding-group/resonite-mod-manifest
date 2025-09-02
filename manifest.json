@@ -4444,6 +4444,49 @@
                 }
             }
         },
+        "net.headassbtw": {
+            "author": {
+                "headassbtw": {
+                    "icon": "https://github.com/headassbtw.png",
+                    "url": "https://github.com/headassbtw",
+                    "website": "https://headassbtw.pages.dev"
+                }
+            },
+            "entries": {
+                "net.headassbtw.OpenXREyeTracking": {
+                    "category": "Hardware Integration",
+                    "description": "Adds support for OpenXR-based eye trackers",
+                    "name": "OpenXREyeTracking",
+                    "sourceLocation": "https://github.com/headassbtw/ResoniteOpenXREyeTracking",
+                    "tags": [
+                        "oxr",
+                        "facebook",
+                        "gaze"
+                    ],
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4095a0b0f9c6a5972ef1d90ffed6d2788ff9e02e9c080875b6e86d597aae964c",
+                                    "url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.2/OpenXREyeTracking.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e62b55149f4cc59663b001374cb94bd570dc722efecab5e5f1e2efa5bbf50d56",
+                                    "url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.0/Silk.NET.Core.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7fb4df2bc2d1da5a77b7e82e7e940cdd0b8c5cd10a59aa861c7041a8d6bf049e",
+                                    "url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.0/Silk.NET.OpenXR.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/tag/1.0.2"
+                        }
+                    }
+                }
+            }
+        },
         "net.kazu0617": {
             "author": {
                 "kazu0617": {
