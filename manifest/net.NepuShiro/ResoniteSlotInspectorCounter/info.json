@@ -26,11 +26,11 @@
 				"sha256": "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab"
 			}]
 		},
-		"1.8.1": {
-			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.8.1",
+		"1.9.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.0",
 			"artifacts": [{
-				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.8.1/ResoniteSlotInspectorCounter.dll",
-				"sha256": "671ac209a93ec2b813a509b4a21d8ce94b89ff8a8796b156205123440f73ba5a"
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "5f37863d118ff9baeaa1b24428267e93960747e742bd12c73410bbd220553232"
 			}]
 		}
 	}
