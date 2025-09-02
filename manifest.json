@@ -3498,6 +3498,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.1.2"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7939782098f2af6d9c9d5e917f13387825054084ec3e2b7d33c8c0f5ae2ff7ee",
+                                    "url": "https://cyro.blue/cyro/CherryPick/releases/download/1.2.0/CherryPick.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.2.0"
                         }
                     }
                 },
