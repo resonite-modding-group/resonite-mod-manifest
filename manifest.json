@@ -259,6 +259,9 @@
                 "ch.isota.DynBoneWrangler": {
                     "category": "Optimization",
                     "description": "Stops DynamicBoneChain components from updating (locally) if your framerate is too low to properly simulate them.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "DynBoneWrangler",
                     "sourceLocation": "https://github.com/isovel/DynBoneWrangler",
                     "versions": {
@@ -530,6 +533,9 @@
                 "com.Kannya.FilesColours": {
                     "category": "Dashboard",
                     "description": "Simply colours your files in the files window on a per file category basis in Resonite. Configurable.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ColourMyFiles",
                     "sourceLocation": "https://github.com/KannyaResonite/ColourMyFiles",
                     "versions": {
