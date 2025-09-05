@@ -1,5 +1,5 @@
 {
-	"name": "Proxy Visuals",
+	"name": "ProxyVisuals",
 	"id": "dev.lecloutpanda.proxyvisuals",
 	"description": "Customise how ValueProxy and ReferenceProxy visuals look",
 	"tags": ["node", "flux"],
