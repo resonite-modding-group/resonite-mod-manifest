@@ -4,6 +4,9 @@
     "description": "Simply colours your files in the files window on a per file category basis in Resonite. Configurable.",
     "category": "Dashboard",
     "sourceLocation": "https://github.com/KannyaResonite/ColourMyFiles",
+	"flags": [
+	"deprecated"
+	],
     "versions": {
         "1.0.0": {
             "releaseUrl": "https://github.com/KannyaResonite/ColourMyFiles/releases/tag/1.0.0",
