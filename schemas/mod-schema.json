@@ -54,7 +54,7 @@
 			"type": "array",
 			"items": {
 				"type": "string",
-				"enum": ["deprecated", "plugin", "file"]
+				"enum": ["broken", "deprecated", "file", "plugin"]
 			},
 			"additionalItems": false
 		},
