@@ -1,0 +1,17 @@
+{
+	"name": "VideoProxy",
+	"id": "dev.lecloutpanda.videoproxy",
+	"description": "Allows importing YouTube videos at a higher resolution using a configurable proxy server, bypassing geo blocking",
+	"tags": ["bypass", "unblock"],
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/LeCloutPanda/VideoProxy",
+	"versions": {
+		"1.3.0": {
+			"releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.3.0",
+			"artifacts": [{
+				"url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.3.0/VideoProxy.dll",
+				"sha256": "1fffed87a5d887f0338590af0d1d3983eff8eb5473816b6da9603136c242aa04"
+			}]
+		}
+	}
+}
