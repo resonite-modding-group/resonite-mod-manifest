@@ -10,11 +10,12 @@
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/DrSciCortex/CyberFingerMod",
 	"versions": {
-		"1.0.0": {
+		"1.0.1": {
 			"releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.0.1",
 			"artifacts": [{
 				"url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/v1.0.1/CyberFingerMod.dll",
 				"sha256": "05ee77e73cd714cee83ee9f2deb699b04307e87a02bc899eedf62bf51158f6f1"
+
 			}]
 		}
 	}
