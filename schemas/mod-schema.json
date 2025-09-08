@@ -115,6 +115,10 @@
 								"version"
 							],
 							"properties": {
+								"optional": {
+									"type": "boolean",
+									"default": false,
+								},
 								"version": {
 									"type": "string"
 								}
