@@ -48,5 +48,8 @@
     "id": "me.art0007i.MyInspectors",
     "description": "Makes inspectors generate by local user instead of host. Slightly unsable, if anything with inspectors breaks remove this mod.",
     "category": "Inspectors",
-    "sourceLocation": "https://github.com/art0007i/MyInspectors"
+    "sourceLocation": "https://github.com/art0007i/MyInspectors",
+    "flags": [
+		"deprecated"
+	]
 }
