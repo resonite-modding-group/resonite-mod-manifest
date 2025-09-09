@@ -11,6 +11,13 @@
 				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.0/PermissionControl.dll",
 				"sha256": "575a1a04fe0aaac21b6a310924eb8a1b76f251a340b6f892633c9a2d57481706"
 			}]
+		},
+		"2.0.1": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.1/PermissionControl.dll",
+				"sha256": "080f09881336dd324ccb0cc4b5fe0484b192a88a994cf9d40564bd7d13bc8cc6"
+			}]
 		}
 	}
 }
