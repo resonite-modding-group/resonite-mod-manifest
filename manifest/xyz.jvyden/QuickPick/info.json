@@ -1,0 +1,16 @@
+{
+	"name": "QuickPick",
+	"id": "xyz.jvyden.QuickPick",
+	"description": "Quickly pick ProtoFlux nodes and components in desktop mode with CTRL+G",
+	"category": "Controls",
+	"sourceLocation": "https://github.com/jvyden/QuickPick",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/jvyden/QuickPick/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/jvyden/QuickPick/releases/download/v1.0.0/QuickPick.dll",
+				"sha256": "8234e2d708e651b47ff43002eba3ed0fe2c392dc669c322e7e8297d831418897"
+			}]
+		}
+	}
+}
