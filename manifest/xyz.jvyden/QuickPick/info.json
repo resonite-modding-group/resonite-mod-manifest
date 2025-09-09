@@ -1,7 +1,7 @@
 {
 	"name": "QuickPick",
 	"id": "xyz.jvyden.QuickPick",
-	"description": "A ResoniteModLoader mod that lets you quickly pick ProtoFlux nodes and components in desktop mode.",
+	"description": "Quickly pick ProtoFlux nodes and components in desktop mode with CTRL+G",
 	"category": "Controls",
 	"sourceLocation": "https://github.com/jvyden/QuickPick",
 	"versions": {
