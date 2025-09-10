@@ -5949,7 +5949,7 @@
                 },
                 "owo.Nytra.ReferenceFinderWizard": {
                     "category": "Wizards",
-                    "description": "Adds a wizard that lets you find references to things. Has options to adjust the search and can optionally spawn a detailed text output.",
+                    "description": "Adds a wizard that lets you find references to things. You can also find references via dev tool or inspectors. Has options to adjust the search and can optionally spawn a detailed text output.",
                     "name": "ReferenceFinderWizard",
                     "sourceLocation": "https://github.com/Nytra/ResoniteReferenceFinderWizard",
                     "versions": {
@@ -5979,6 +5979,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "03441b86954cb308a23781fd93934a600b8c596a9d3880965a30d1cc1d8eeb6e",
+                                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.1.3/ReferenceFinderWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.1.3"
                         }
                     }
                 },
