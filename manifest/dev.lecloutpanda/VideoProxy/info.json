@@ -1,8 +1,8 @@
 {
 	"name": "VideoProxy",
 	"id": "dev.lecloutpanda.videoproxy",
-	"description": "Allows importing YouTube videos at a higher resolution using a configurable proxy server, bypassing geo blocking",
-	"tags": ["bypass", "unblock"],
+	"description": "Adds an option to the import menu that converts YouTube videos using a configurable proxy server to a higher resolution and fps, also fixing videos not loading.",
+	"tags": ["bypass", "block", "HD"],
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/LeCloutPanda/VideoProxy",
 	"versions": {
