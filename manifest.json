@@ -1907,6 +1907,48 @@
                 }
             }
         },
+        "fr.baplar": {
+            "author": {
+                "Baplar": {
+                    "icon": "https://github.com/Baplar.png",
+                    "url": "https://github.com/Baplar"
+                }
+            },
+            "entries": {
+                "fr.baplar.ResoniteDiscordRpc": {
+                    "category": "Misc",
+                    "description": "Adds fancy features to the Discord Rich Presence integration.",
+                    "name": "ResoniteDiscordRpc",
+                    "platforms": [
+                        "linux",
+                        "windows"
+                    ],
+                    "sourceLocation": "https://github.com/Baplar/ResoniteDiscordRpc",
+                    "tags": [
+                        "discord",
+                        "rich",
+                        "presence",
+                        "rpc"
+                    ],
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c09d153cce3a2ee8cb50533ae189d78525f34e064e6def30b7f49a3175ef0152",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.2/ResoniteDiscordRpc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.2/DiscordRPC.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.2"
+                        }
+                    }
+                }
+            }
+        },
         "je.dj": {
             "author": {
                 "djsime1": {
