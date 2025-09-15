@@ -159,7 +159,7 @@
 								"filename": {
 									"type": "string",
 									"description":"Optional name override when saving the artifact",
-									"pattern": "^[^\\s].*[^\\s]$|^[^\\s]$"
+									"pattern": "^\\S(?:.*\\S)?$"
 								},
 								"sha256": {
 									"type": "string",
