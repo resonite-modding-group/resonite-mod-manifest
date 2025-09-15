@@ -1,0 +1,16 @@
+{
+	"name": "DirectoryCopyURL",
+	"id": "org.yosh.DirectoryCopyURL",
+	"description": "Fixes the \"Get Url\" button in the inventory to copy directory URLs as well.",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/download/v1.0.0/DirectoryCopyURL.dll",
+				"sha256": "e4c24cf1859caab34541843a2d735d9e98c2e1aa7142ba4e72f45ebb69df1eb3"
+			}]
+		}
+	}
+}
