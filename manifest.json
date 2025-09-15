@@ -2930,9 +2930,6 @@
                 "me.art0007i.MyInspectors": {
                     "category": "Inspectors",
                     "description": "Makes inspectors generate by local user instead of host. Slightly unsable, if anything with inspectors breaks remove this mod.",
-                    "flags": [
-                        "deprecated"
-                    ],
                     "name": "MyInspectors",
                     "sourceLocation": "https://github.com/art0007i/MyInspectors",
                     "versions": {
@@ -2978,6 +2975,16 @@
                             ],
                             "changelog": "Fix inspector content doubled",
                             "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.4"
+                        },
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "30c4aa069f791cfb5e901cf09f5b9a45ddbedb02b7e41e74f656678474e297da",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.0/MyInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix for affecting other inspectors",
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.0"
                         }
                     }
                 },
