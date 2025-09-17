@@ -13,6 +13,7 @@
 			"patternProperties": {
 				".*": {
 					"type": "object",
+					"description":"Author name",
 					"required": [
 						"url"
 					],
@@ -20,18 +21,22 @@
 					"properties": {
 						"url": {
 							"type": "string",
+							"description":"Link to your github or author page",
 							"format": "uri"
 						},
 						"icon": {
 							"type": "string",
+							"description":"Profile icon",
 							"format": "uri"
 						},
 						"website": {
 							"type": "string",
+							"description":"Link to a personal website",
 							"format": "uri"
 						},
 						"support": {
 							"type": "string",
+							"description":"Link for where users can support your work, such as ko-fi/patreon",
 							"format": "uri"
 						}
 					}

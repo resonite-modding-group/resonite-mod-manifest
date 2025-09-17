@@ -25,6 +25,20 @@
 				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.6.0/ResoniteSlotInspectorCounter.dll",
 				"sha256": "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab"
 			}]
+		},
+		"1.9.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "5f37863d118ff9baeaa1b24428267e93960747e742bd12c73410bbd220553232"
+			}]
+		},
+		"1.9.2": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.2",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.2/ResoniteSlotInspectorCounter.dll",
+				"sha256": "2ce683dfbc0bde712a8ba26209f2ab725295d96c25ca7d49180b8bb63f98bdac"
+			}]
 		}
 	}
 }
