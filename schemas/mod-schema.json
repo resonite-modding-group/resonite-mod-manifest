@@ -4,16 +4,20 @@
 	"type": "object",
 	"properties": {
 		"name": {
-			"type": "string"
+			"type": "string",
+			"description":"Name of the mod"
 		},
 		"id": {
-			"type": "string"
+			"type": "string",
+			"description":"id of your mod, typically a reverse domain name followed by the name of the mod"
 		},
 		"description": {
-			"type": "string"
+			"type": "string",
+			"description":"Brief description of your mod"
 		},
 		"category": {
 			"type": "string",
+			"description":"Category of your mod, if unsure, use Misc",
 			"enum": [
 				"Asset Importing",
 				"Audio",
@@ -37,14 +41,17 @@
 		},
 		"sourceLocation": {
 			"type": "string",
+			"description":"Where the source of this mod can be found",
 			"format": "uri"
 		},
 		"website": {
 			"type": "string",
+			"description":"Website or page for this specific mod if it is different than the sourceLocation",
 			"format": "uri"
 		},
 		"tags": {
 			"type": "array",
+			"description":"Keywords to assist in searching for this mod",
 			"items": {
 				"type": "string"
 			},
@@ -54,12 +61,13 @@
 			"type": "array",
 			"items": {
 				"type": "string",
-				"enum": ["deprecated", "plugin", "file"]
+				"enum": ["broken", "deprecated", "file", "plugin"]
 			},
 			"additionalItems": false
 		},
 		"platforms": {
 			"type": "array",
+			"description":"Specifically supported platforms if a mod isn't expected to generally run on most platforms",
 			"items": {
 				"type": "string",
 				"enum": ["android", "headless", "linux", "linux-native", "linux-wine", "windows", "other"]
@@ -68,6 +76,7 @@
 		},
 		"additionalAuthors": {
 			"type": "array",
+			"description":"Additional authors or significant contributors aside from the main author",
 			"items": {
 				"type": "string"
 			},
@@ -87,14 +96,17 @@
 				],
 				"properties": {
 					"changelog": {
-						"type": "string"
+						"type": "string",
+						"description":"Brief description of changes or fixes made"
 					},
 					"releaseUrl": {
 						"type": "string",
+						"description": "Link for this specific release",
 						"format": "uri"
 					},
 					"conflicts": {
 						"type": "object",
+						"description": "Mod ids that are known to conflict with this mod",
 						"additionalProperties": {
 							"type": "object",
 							"required": [
@@ -102,27 +114,36 @@
 							],
 							"properties": {
 								"version": {
-									"type": "string"
+									"type": "string",
+									"description":"Versions that conflict, use * for all versions"
 								}
 							}
 						}
 					},
 					"dependencies": {
 						"type": "object",
+						"description": "Other mods/libraries that this mod uses",
 						"additionalProperties": {
 							"type": "object",
 							"required": [
 								"version"
 							],
 							"properties": {
+								"optional": {
+									"type": "boolean",
+									"default": false,
+									"description": "Marks this dependency as optional. When set, the mod can function without it but may provide additional features or compatibility when available"
+								},
 								"version": {
-									"type": "string"
+									"type": "string",
+									"description":"Minimum version required of this dependency"
 								}
 							}
 						}
 					},
 					"artifacts": {
 						"type": "array",
+						"description":"All the files for this mod",
 						"items": {
 							"type": "object",
 							"required": [
@@ -132,18 +153,23 @@
 							"properties": {
 								"url": {
 									"type": "string",
+									"description":"Direct download url of the artifact",
 									"format": "uri"
 								},
 								"filename": {
 									"type": "string",
-									"pattern": "^[^\\s].*[^\\s]$|^[^\\s]$"
+									"description":"Optional name override when saving the artifact",
+									"pattern": "^\\S(?:.*\\S)?$"
 								},
 								"sha256": {
 									"type": "string",
+									"description":"Sha256 hash of the artifact",
 									"pattern": "^[a-fA-F0-9]{64}$"
 								},
 								"installLocation": {
-									"type": "string"
+									"type": "string",
+									"default": "/rml_mods",
+									"description":"Target install path for the artifact. Defaults to `/rml_mods`. The root path `/` refers to the Resonite installation folder"
 								}
 							},
 							"additionalProperties": false
