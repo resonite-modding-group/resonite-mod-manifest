@@ -6023,6 +6023,23 @@
                         }
                     }
                 },
+                "owo.Nytra.PluginSelect": {
+                    "category": "Plugins",
+                    "description": "Adds some extra UI to the \"Start Custom Session\" dialog to allow you to select which data model plugins to use for that session.",
+                    "name": "PluginSelect",
+                    "sourceLocation": "https://github.com/Nytra/ResonitePluginSelect",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1",
+                                    "url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.1"
+                        }
+                    }
+                },
                 "owo.Nytra.ReferenceFinderWizard": {
                     "category": "Wizards",
                     "description": "Adds a wizard that lets you find references to things. You can also find references via dev tool or inspectors. Has options to adjust the search and can optionally spawn a detailed text output.",
@@ -6310,5 +6327,5 @@
             }
         }
     },
-    "schemaVersion": "1.0.1"
+    "schemaVersion": "1.1.0"
 }
