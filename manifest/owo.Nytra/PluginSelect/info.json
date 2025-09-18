@@ -1,0 +1,16 @@
+{
+	"name": "PluginSelect",
+	"id": "owo.Nytra.PluginSelect",
+	"description": "Adds some extra UI to the \"Start Custom Session\" dialog to allow you to select which data model plugins to use for that session.",
+	"category": "Plugins",
+	"sourceLocation": "https://github.com/Nytra/ResonitePluginSelect",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll",
+				"sha256": "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1"
+			}]
+		}
+	}
+}
