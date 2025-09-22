@@ -2884,6 +2884,16 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d488e2768ebd95e7b80d0e1f987435611d4254183730f987bfe40e15e75babf0",
+                                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.2/LogCleaner.dll"
+                                }
+                            ],
+                            "changelog": "Removes BroadcastSession spam",
+                            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.2"
                         }
                     }
                 },
