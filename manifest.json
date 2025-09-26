@@ -462,6 +462,16 @@
                             ],
                             "changelog": "Rebuild on net9.0",
                             "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.3"
+                        },
+                        "1.4.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4b8ea008d746fd3c52ca9795af7683bca21b13716efe6d301f429e91c79e7c2e",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.5/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Two improvements, redesigned textures, added the option to color nodes by type",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.5"
                         }
                     }
                 }
