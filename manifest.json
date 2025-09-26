@@ -2420,6 +2420,16 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.6"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c6e976634db9a41a8610cd4c39a8737c922310a55d8a1a376b414ff865b6ea8a",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.0/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix importing animj crashing the game",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.0"
                         }
                     }
                 },
