@@ -2430,6 +2430,16 @@
                             ],
                             "changelog": "Fix importing animj crashing the game",
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.0"
+                        },
+                        "2.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f0c6b586e93ddfbda237f04daba843984515fd24e1fd30d0f109b361ea520cdd",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.1/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix scaling of inspector when spawned using the 'pop out button' on a RefEditor.",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.1"
                         }
                     }
                 },
