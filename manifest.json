@@ -6050,6 +6050,29 @@
                         }
                     }
                 },
+                "owo.Nytra.InterprocessLib": {
+                    "category": "Libraries",
+                    "description": "Library that allows mods to send data to the renderer and back.",
+                    "name": "InterprocessLib",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteInterprocessLib",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e768dc7cb00233e79bc9b5440454d10ea42599a86b9fc808a8a327974f184c58",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.0/InterprocessLib.FrooxEngine.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "215424ee7b82007536bc6637ebf645bb72f189a86a40e277e19dca9220a2a1a1",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.0/InterprocessLib.RML_Extensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v2.0.0"
+                        }
+                    }
+                },
                 "owo.Nytra.LeftHandedProtoFlux": {
                     "category": "Memes",
                     "description": "Makes ProtoFlux flow from right to left.",
