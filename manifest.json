@@ -4039,6 +4039,15 @@
                             ],
                             "changelog": "UIX Changes, and rebuilt for the latest Resonite version.",
                             "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.3"
+                        },
+                        "2.1.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4fff46d4fdcc78416ce1d7491bb8e173a05450f3f40e1d6f12d69f7b2564653f",
+                                    "url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.5/ReArmature.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.5"
                         }
                     }
                 }
