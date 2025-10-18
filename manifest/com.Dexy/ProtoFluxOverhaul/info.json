@@ -38,6 +38,14 @@
 			"sha256": "428bf01135a2e53fd222f803402e443d1d61ec3a0b34329e587bfd192a9cf85a"
 			}],
 			"changelog": "Fixed backwards clientside wire textures and added new toggles"
+		},
+		"1.4.8": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.8",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.8/ProtoFluxOverhaul.dll",
+			"sha256": "34bd9c4667bf6de0fdb36df4fe188d5aa4333b23e91d1ae5779bdeba8622575c"
+			}],
+			"changelog": "Added Advanced Note Title, bug fixes, improved materials, changed text size"
 		}
 	}
 }
