@@ -2054,6 +2054,34 @@
                 }
             }
         },
+        "gay.talii": {
+            "author": {
+                "Talii": {
+                    "icon": "https://forge.awawi.nexus/Talii.png",
+                    "url": "https://forge.awawi.nexus/Talii",
+                    "website": "https://talii.gay"
+                }
+            },
+            "entries": {
+                "gay.talii.VRCEyetrackingResonite": {
+                    "category": "Hardware Integration",
+                    "description": "Adds support for the VRChat OSC eyetracking format used by the beyond eyetracking client",
+                    "name": "VRCEyetrackingResonite",
+                    "sourceLocation": "https://forge.awawi.nexus/Talii/VRCEyetrackingResonite",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6c694b28cfaa77a57086bd40d7bf44063d0581c859c2adbf1997268b33012731",
+                                    "url": "https://forge.awawi.nexus/Talii/VRCEyetrackingResonite/releases/download/1.0.1/VRCEyetrackingResonite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://forge.awawi.nexus/Talii/VRCEyetrackingResonite/releases/tag/1.0.1"
+                        }
+                    }
+                }
+            }
+        },
         "je.dj": {
             "author": {
                 "djsime1": {
