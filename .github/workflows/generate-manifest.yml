@@ -24,7 +24,7 @@ jobs:
       with:
         python-version: "3.13"
 
-    - name: Run generate_manifest.py
+    - name: Generate manifest
       run: python generate_manifest.py
 
     - name: Check for changes and push

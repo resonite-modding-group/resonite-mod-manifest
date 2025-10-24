@@ -18,6 +18,13 @@
 				"url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.1.0/3DDashOnScreenResonite.dll",
 				"sha256": "28346faa13547a8ce4c63d7d52011d5d32814173393c44e11829d237765f114f"
 			}]
+		},
+		"3.6.2": {
+			"releaseUrl": "https://github.com/rampa3/3DDashOnScreenResonite/releases/tag/3.6.2.0",
+			"artifacts": [{
+				"url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.2.0/3DDashOnScreenResonite.dll",
+				"sha256": "1d0f645684cdb89c7840090d7d268538abf4a155302e7c7164b315de21636701"
+			}]
 		}
 	}
 }

@@ -21,6 +21,47 @@
                 }
             ],
             "changelog": "Add toggle on/off option"
+        },
+        "2.0.3": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.3/MyInspectors.dll",
+                    "filename": "MyInspectors.dll",
+                    "sha256": "1d67a6446b9ff721d01f26f595f0d0feeaf4a4aa9c66c27d9fa8134069472e5f"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
+        "2.0.4": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.4/MyInspectors.dll",
+                    "sha256": "8200974eea3e69def6d0c5ca2cbb0db5e5092ec2c23092e67af8afdde4f23067"
+                }
+            ],
+            "changelog": "Fix inspector content doubled"
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.0/MyInspectors.dll",
+                    "sha256": "30c4aa069f791cfb5e901cf09f5b9a45ddbedb02b7e41e74f656678474e297da"
+                }
+            ],
+            "changelog": "Fix for affecting other inspectors"
+        },
+        "2.1.1": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.1/MyInspectors.dll",
+                    "sha256": "a1c38ab8aafce3aa595107208ffeecf2b10aeddfe06e7754f82c6fa2b5c05bcd"
+                }
+            ],
+            "changelog": "Fixed disconnect from non-data model type"
         }
     },
     "name": "MyInspectors",

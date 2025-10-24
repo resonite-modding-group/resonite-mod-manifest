@@ -3,6 +3,11 @@
 	"id": "net.deltawolf.DisableSRAnipal",
 	"description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
 	"category": "Hardware Integration",
+	"tags": [
+		"FT",
+		"face",
+		"tracking"
+	],
 	"sourceLocation": "https://github.com/XDelta/DisableSRAnipal",
 	"versions": {
 		"1.0.2": {

@@ -11,6 +11,13 @@
 				"url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.0/LogFlush.dll",
 				"sha256": "4fb820f1d28b1f1b329519e51ed4be5438655d1cc05bcdd655e75607fc46ba79"
 			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.1/LogFlush.dll",
+				"sha256": "02918b19775a27d04cedbf9f4b894770086c1c86bbd3b932eb3c0830b8ba563b"
+			}]
 		}
 	}
 }

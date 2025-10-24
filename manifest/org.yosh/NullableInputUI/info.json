@@ -1,0 +1,16 @@
+{
+	"name": "NullableInputUI",
+	"id": "org.yosh.NullableInputUI",
+	"description": "Adds basic UI for nullable input nodes.",
+	"category": "Protoflux",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteNullableInputUI",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/download/v1.0.0/NullableInputUI.dll",
+				"sha256": "1fc6b22d0c99b5f8c43da051df80d4b90a1bafae5a9de5a83ccea7ec28fef12a"
+			}]
+		}
+	}
+}

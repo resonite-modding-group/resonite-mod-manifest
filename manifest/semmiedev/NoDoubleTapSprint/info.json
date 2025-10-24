@@ -11,6 +11,13 @@
 				"url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll",
 				"sha256": "b4410991d37bb2a6c675adaab18ea97c179b9b126dc5474ba3f1a64791931342"
 			}]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.1/NoDoubleTapSprint.dll",
+				"sha256": "5b06abe7f82d15548b379415f8faaf37322586b6fe613f136a53bdfc5ec407d0"
+			}]
 		}
 	}
 }

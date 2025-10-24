@@ -4,6 +4,7 @@
 	"description": "Stops the locomotion (and scale) context menu entries from disappearing when a tool is equipped",
 	"category": "Context Menu",
 	"sourceLocation": "https://github.com/Banane9/ResoniteStopDisappearingLocomotionMenu",
+	"flags": ["deprecated"],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/Banane9/ResoniteStopDisappearingLocomotionMenu/releases/tag/v1.0.0",

@@ -14,6 +14,27 @@
                     "sha256": "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861"
                 }
             ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.1/LogCleaner.dll",
+                    "filename": "LogCleaner.dll",
+                    "sha256": "bc223dd143de4c66c0f4c5bf25aeb6bcd41cbeab6fc2274e20b1212a72c7cef8"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
+        "1.1.2": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.2/LogCleaner.dll",
+                    "sha256": "d488e2768ebd95e7b80d0e1f987435611d4254183730f987bfe40e15e75babf0"
+                }
+            ],
+            "changelog": "Removes BroadcastSession spam"
         }
     }
 }
