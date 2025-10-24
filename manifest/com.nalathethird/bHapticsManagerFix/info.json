@@ -1,0 +1,19 @@
+{
+  "name": "bHapticsManagerFix",
+  "id": "com.nalathethird.bHapticsManager",
+  "description": "A mod to fix issues with the bHaptics Manager.",
+  "category": "Bug Workaround",
+  "sourceLocation": "https://github.com/nalathethird/bHapticsManagerFix",
+  "versions": {
+    "1.0.0": {
+      "releaseUrl": "https://github.com/nalathethird/bHapticsManagerFix/releases/tag/1.0.0",
+      "artifacts": [
+        {
+          "url": "https://github.com/nalathethird/bHapticsManagerFix/releases/download/1.0.0/bHapticsManager.dll",
+          "filename": "bHapticsManager.dll",
+          "sha256": "724e21bd5dc6b2c00a0cdd9ee1e61a2fe4ad694dc497ad3d2ab257be09039c67"
+        }
+      ]
+    }
+  }
+}

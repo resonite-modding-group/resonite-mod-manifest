@@ -1,0 +1,29 @@
+{
+  "name": "Numantics",
+  "id": "com.nalathethird.Numantics",
+  "description": "A mod that enhances numerical input handling.",
+  "category": "Technical Tweaks",
+  "sourceLocation": "https://github.com/nalathethird/Numantics",
+  "versions": {
+    "1.0.0": {
+      "releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.0",
+      "artifacts": [
+        {
+          "url": "https://github.com/nalathethird/Numantics/releases/download/1.0.0/Numantics.dll",
+          "filename": "Numantics.dll",
+          "sha256": "72b8a65dedc58f5698bbfbab2825d18ecab64d454def326033c798a5ba3211a3"
+        }
+      ]
+    },
+    "1.0.1": {
+      "releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.1",
+      "artifacts": [
+        {
+          "url": "https://github.com/nalathethird/Numantics/releases/download/1.0.1/Numantics.dll",
+          "filename": "Numantics.dll",
+          "sha256": "4ce1b5f27f339f81f2f271f831a56ac1fa7e7c0042abc31735e4c6b139ec1cb6"
+        }
+      ]
+    }
+  }
+}
