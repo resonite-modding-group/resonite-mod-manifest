@@ -4,6 +4,7 @@
     "description": "Makes you luckier",
     "category": "Memes",
     "sourceLocation": "https://github.com/art0007i/FourLeafClover",
+    "flags": ["deprecated"],
     "versions": {
         "2.0.0": {
             "releaseUrl": "https://github.com/art0007i/FourLeafClover/releases/tag/2.0.0",
