@@ -7,6 +7,11 @@
   "versions": {
     "1.0.0": {
       "releaseUrl": "https://github.com/nalathethird/bHapticsManagerFix/releases/tag/1.0.0",
+      "dependencies": {
+				"com.nalathethird.bHapticsLib": {
+					"version": "^1.0.8"
+				}
+			},
       "artifacts": [
         {
           "url": "https://github.com/nalathethird/bHapticsManagerFix/releases/download/1.0.0/bHapticsManager.dll",
