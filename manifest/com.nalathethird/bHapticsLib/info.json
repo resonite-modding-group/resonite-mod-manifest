@@ -2,7 +2,7 @@
   "name": "bHapticsLib",
   "id": "com.nalathethird.bHapticsLib",
   "description": "A Modern .NET9 Library for bHaptics Integration - Required for bHapticsManager (Mod) to work.",
-  "category": "Library",
+  "category": "Libraries",
   "sourceLocation": "https://github.com/nalathethird/bHapticsLib",
   "versions": {
     "1.0.8": {
