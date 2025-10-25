@@ -3714,6 +3714,9 @@
                 "me.art0007i.\ud83c\udf40": {
                     "category": "Memes",
                     "description": "Makes you luckier",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "\ud83c\udf40",
                     "sourceLocation": "https://github.com/art0007i/FourLeafClover",
                     "versions": {
