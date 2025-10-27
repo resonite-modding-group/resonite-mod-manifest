@@ -1,0 +1,25 @@
+{
+	"name": "SessionCaptureBlocker",
+	"id": "com.nalathethird.SessionCaptureBlocker",
+	"description": "Prevents session thumbnail generation and upload in sessions with selected AccessLevels",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/nalathethird/SessionCaptureBlocker",
+	"tags": [
+		"image",
+		"world",
+		"privacy",
+		"snapshot",
+		"photo"
+	],
+	"versions": {
+		"1.0.3": {
+			"releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.3",
+			"artifacts": [
+				{
+					"url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll",
+					"sha256": "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d"
+				}
+			]
+		}
+	}
+}
