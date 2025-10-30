@@ -1,0 +1,24 @@
+{
+	"name": "DynTunes",
+	"id": "xyz.jvyden.DynTunes",
+	"description": "Add Dynamic Variables to show the music you're listening to",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/jvyden/DynTunes",
+    "platforms": ["linux"],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/jvyden/DynTunes/releases/tag/v1.0.0",
+			"artifacts": [
+                {
+				    "url": "https://github.com/jvyden/DynTunes/releases/download/v1.0.0/DynTunes.dll",
+				    "sha256": "800333d01a6958136401cbecdde0ea1e819f95fb8a4ec48df7dd4a5867d5e20c"
+			    },
+                {
+                    "url": "https://github.com/jvyden/DynTunes/releases/download/v1.0.0/Tmds.DBus.Protocol.dll",
+                    "sha256": "111fddda3d7f523e41d8fe55380fa60ce4fa09ef0984972e97030790d18aa7d6",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+		}
+	}
+}
