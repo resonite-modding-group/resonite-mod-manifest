@@ -6630,6 +6630,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/jvyden/QuickPick/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6068548a1536e3d70d061a16810c3a9ecfaee2fc43230f26c7e93fef37e4f182",
+                                    "url": "https://github.com/jvyden/QuickPick/releases/download/v1.0.1/QuickPick.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/jvyden/QuickPick/releases/tag/v1.0.1"
                         }
                     }
                 }
