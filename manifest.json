@@ -4984,6 +4984,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/5.0.0"
+                        },
+                        "5.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7fbe911abb7358fcc2b942d81fbf37366cdb9a521e2cd9ac8057fc9fbf9d1300",
+                                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/5.1.0/SessionTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/5.1.0"
                         }
                     }
                 }
