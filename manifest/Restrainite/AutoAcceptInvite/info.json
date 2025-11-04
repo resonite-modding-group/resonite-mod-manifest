@@ -1,0 +1,9 @@
+{
+  "name": "AutoAcceptInvite",
+  "id": "Restrainite.AutoAcceptInvite",
+  "description": "Automatically accept invites or invite requests from trusted friends.",
+  "category": "Dashboard",
+  "sourceLocation": "https://github.com/Restrainite/AutoAcceptInvite",
+  "versions": {
+  }
+}
