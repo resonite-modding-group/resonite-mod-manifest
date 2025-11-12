@@ -5931,6 +5931,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a673004e22f4a014264b6f501362582169e51f8f4972e91e20197c36e8a53859",
+                                    "url": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/download/v1.0.1/NullableInputUI.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/tag/v1.0.1"
                         }
                     }
                 }
