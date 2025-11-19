@@ -139,6 +139,23 @@
                 }
             },
             "entries": {
+                "Restrainite.AutoAcceptInvite": {
+                    "category": "Dashboard",
+                    "description": "Automatically accept invites or invite requests from trusted friends.",
+                    "name": "AutoAcceptInvite",
+                    "sourceLocation": "https://github.com/Restrainite/AutoAcceptInvite",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a43e908421441e77329edd9d1170b69f0020345568c15f30b489bf6f328492d6",
+                                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v1.0.1/AutoAcceptInvite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v1.0.1"
+                        }
+                    }
+                },
                 "Restrainite.Restrainite": {
                     "category": "Misc",
                     "description": "Allows other users to control restrictions of the local user.",
@@ -180,6 +197,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.6"
+                        },
+                        "2.0.8": {
+                            "artifacts": [
+                                {
+                                    "sha256": "434100a840a4b1417ea24e3835e094a7638b5aa01ddd08a6e2e6379c9ad72193",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.8/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.8"
                         }
                     },
                     "website": "https://restrainite.github.io/"
@@ -361,6 +387,10 @@
                     "description": "Allows you to use a custom protoflux browser by saving and favoriting it in your inventory.",
                     "name": "CustomProtofluxBrowser",
                     "sourceLocation": "https://github.com/AlexW-578/CustomProtofluxBrowser",
+                    "tags": [
+                        "node",
+                        "favorite"
+                    ],
                     "versions": {
                         "2.1.2": {
                             "artifacts": [
@@ -369,6 +399,11 @@
                                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll"
                                 }
                             ],
+                            "dependencies": {
+                                "me.art0007i.SpecialItemsLib": {
+                                    "version": "^2.0.2"
+                                }
+                            },
                             "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.2"
                         },
                         "2.1.3": {
@@ -378,6 +413,11 @@
                                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll"
                                 }
                             ],
+                            "dependencies": {
+                                "me.art0007i.SpecialItemsLib": {
+                                    "version": "^2.0.3"
+                                }
+                            },
                             "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3"
                         }
                     }
@@ -448,6 +488,36 @@
                             ],
                             "changelog": "Rebuild on net9.0",
                             "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.3"
+                        },
+                        "1.4.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4b8ea008d746fd3c52ca9795af7683bca21b13716efe6d301f429e91c79e7c2e",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.5/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Two improvements, redesigned textures, added the option to color nodes by type",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.5"
+                        },
+                        "1.4.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "428bf01135a2e53fd222f803402e443d1d61ec3a0b34329e587bfd192a9cf85a",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.6/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Fixed backwards clientside wire textures and added new toggles",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.6"
+                        },
+                        "1.4.8": {
+                            "artifacts": [
+                                {
+                                    "sha256": "34bd9c4667bf6de0fdb36df4fe188d5aa4333b23e91d1ae5779bdeba8622575c",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.8/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Added Advanced Note Title, bug fixes, improved materials, changed text size",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.8"
                         }
                     }
                 }
@@ -460,6 +530,26 @@
                 }
             },
             "entries": {
+                "com.GrandtheUK.MoreReferenceProxies": {
+                    "additionalAuthors": {
+                        "EIA485": {}
+                    },
+                    "category": "Inspectors",
+                    "description": "An RML fork of the BepisLoader mod MoreReferenceProxies by EIA485 to add reference proxy source to bag editors and user inspector",
+                    "name": "MoreReferenceProxies",
+                    "sourceLocation": "https://github.com/GrandtheUK/MoreReferenceProxies",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "736a2016413f3b2f4c2db1d2d26468c7c0b8e2c34dffca61b5ee4f02f1adf54e",
+                                    "url": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/download/v1.0.1/MoreReferenceProxies.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/tag/v1.0.1"
+                        }
+                    }
+                },
                 "com.GrandtheUK.ResoniteLinuxClipboard": {
                     "category": "Bug Workaround",
                     "description": "A mod that implements copy and paste in resonite for Text, Images and other files on Wayland",
@@ -1036,6 +1126,75 @@
                 }
             }
         },
+        "com.nalathethird": {
+            "author": {
+                "nalathethird": {
+                    "icon": "https://github.com/nalathethird.png",
+                    "support": "https://ko-fi.com/ZeiaNala",
+                    "url": "https://github.com/nalathethird"
+                }
+            },
+            "entries": {
+                "com.nalathethird.IDontNeedHelp": {
+                    "category": "Dashboard",
+                    "description": "Removes the 'Help' Tab on the Dashboard",
+                    "name": "IDontNeedHelp",
+                    "sourceLocation": "https://github.com/nalathethird/IDontNeedHelp",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783",
+                                    "url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/IDontNeedHelp/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "com.nalathethird.SessionCaptureBlocker": {
+                    "category": "Technical Tweaks",
+                    "description": "Prevents session thumbnail generation and upload in sessions with selected AccessLevels",
+                    "name": "SessionCaptureBlocker",
+                    "sourceLocation": "https://github.com/nalathethird/SessionCaptureBlocker",
+                    "tags": [
+                        "image",
+                        "world",
+                        "privacy",
+                        "snapshot",
+                        "photo"
+                    ],
+                    "versions": {
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d",
+                                    "url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.3"
+                        }
+                    }
+                },
+                "com.nalathethird.bHapticsLib": {
+                    "category": "Libraries",
+                    "description": "Modern .NET9 Library for bHaptics Integration",
+                    "name": "bHapticsLib",
+                    "sourceLocation": "https://github.com/nalathethird/bHapticsLib",
+                    "versions": {
+                        "1.0.8": {
+                            "artifacts": [
+                                {
+                                    "sha256": "40bf725c0dc10c57160c058c150beb0caa1720fbb9c772c119115603a6af90c4",
+                                    "url": "https://github.com/nalathethird/bHapticsLib/releases/download/1.0.8/bHapticsLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/bHapticsLib/releases/tag/1.0.8"
+                        }
+                    }
+                }
+            }
+        },
         "com.nekometer.esnya": {
             "author": {
                 "esnya": {
@@ -1236,6 +1395,20 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.0.0"
+                        },
+                        "4.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e57c1f844cfb784399b46567fc55bc4b9cab01d257b2b5beda105cd064b7e988",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.1.0/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.1.0"
                         }
                     }
                 }
@@ -1352,6 +1525,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4d76355ef8c65a19dc73e5ad19e0e08a6ddc4f002e633f23b0673232d9f94ff7",
+                                    "url": "https://github.com/tobs2007/picture3dFix/releases/download/1.1.3/picture3dFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.3"
                         }
                     }
                 }
@@ -1544,6 +1726,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.0"
+                        },
+                        "0.7.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "deffdec3ebada4da56d521226f5d3d8ad5a196011896650e7f1f4fdb3654bd3d",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.7.1/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.1"
                         }
                     }
                 },
@@ -1659,6 +1850,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f2bc17e7631df9b52aec77adbf01502cae99c493706e8dfe9c6e921170481943",
+                                    "url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.1.1/ResoniteScreenshotExtensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.1.1"
                         }
                     }
                 }
@@ -1944,6 +2144,34 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.2"
+                        }
+                    }
+                }
+            }
+        },
+        "gay.talii": {
+            "author": {
+                "Talii": {
+                    "icon": "https://forge.awawi.nexus/Talii.png",
+                    "url": "https://forge.awawi.nexus/Talii",
+                    "website": "https://talii.gay"
+                }
+            },
+            "entries": {
+                "gay.talii.VRCEyetrackingResonite": {
+                    "category": "Hardware Integration",
+                    "description": "Adds support for the VRChat OSC eyetracking format used by the beyond eyetracking client",
+                    "name": "VRCEyetrackingResonite",
+                    "sourceLocation": "https://forge.awawi.nexus/Talii/VRCEyetrackingResonite",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6c694b28cfaa77a57086bd40d7bf44063d0581c859c2adbf1997268b33012731",
+                                    "url": "https://forge.awawi.nexus/Talii/VRCEyetrackingResonite/releases/download/1.0.1/VRCEyetrackingResonite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://forge.awawi.nexus/Talii/VRCEyetrackingResonite/releases/tag/1.0.1"
                         }
                     }
                 }
@@ -2387,6 +2615,26 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.6"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c6e976634db9a41a8610cd4c39a8737c922310a55d8a1a376b414ff865b6ea8a",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.0/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix importing animj crashing the game",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.0"
+                        },
+                        "2.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f0c6b586e93ddfbda237f04daba843984515fd24e1fd30d0f109b361ea520cdd",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.1/CustomInspectors.dll"
+                                }
+                            ],
+                            "changelog": "Fix scaling of inspector when spawned using the 'pop out button' on a RefEditor.",
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.1"
                         }
                     }
                 },
@@ -2884,6 +3132,16 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d488e2768ebd95e7b80d0e1f987435611d4254183730f987bfe40e15e75babf0",
+                                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.2/LogCleaner.dll"
+                                }
+                            ],
+                            "changelog": "Removes BroadcastSession spam",
+                            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.2"
                         }
                     }
                 },
@@ -3551,6 +3809,9 @@
                 "me.art0007i.\ud83c\udf40": {
                     "category": "Memes",
                     "description": "Makes you luckier",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "\ud83c\udf40",
                     "sourceLocation": "https://github.com/art0007i/FourLeafClover",
                     "versions": {
@@ -3923,6 +4184,15 @@
                             ],
                             "changelog": "UIX Changes, and rebuilt for the latest Resonite version.",
                             "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.3"
+                        },
+                        "2.1.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4fff46d4fdcc78416ce1d7491bb8e173a05450f3f40e1d6f12d69f7b2564653f",
+                                    "url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.5/ReArmature.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.5"
                         }
                     }
                 }
@@ -4416,6 +4686,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/tag/v2.0.0"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d96f3684e3c12aa6d6521f2ef40b7de0687e33fde379e21135a6834ac5817f6f",
+                                    "url": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/download/v2.0.2/SVGImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/tag/v2.0.2"
                         }
                     }
                 },
@@ -4598,6 +4877,32 @@
                         }
                     }
                 },
+                "net.hantabaru1014.ResoniteBaballoniaEyeTracking": {
+                    "category": "Hardware Integration",
+                    "description": "Allows using Baballonia for face and eye tracking in Resonite",
+                    "name": "ResoniteBaballoniaEyeTracking",
+                    "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
+                    "tags": [
+                        "babble",
+                        "eyetrackvr",
+                        "varjo",
+                        "vive",
+                        "pimax",
+                        "bigscreen",
+                        "beyond"
+                    ],
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a260ff4d7181e2453fe0b256833c23fd2d47b361f48f9dd051459c78e9749164",
+                                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.1.0/ResoniteBaballoniaEyeTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.0"
+                        }
+                    }
+                },
                 "net.hantabaru1014.SaveItemTweaks": {
                     "category": "Misc",
                     "description": "Tweaks for item saving/spawning when your scale is not set to 1",
@@ -4731,6 +5036,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/5.0.0"
+                        },
+                        "5.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7fbe911abb7358fcc2b942d81fbf37366cdb9a521e2cd9ac8057fc9fbf9d1300",
+                                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/5.1.0/SessionTweaks.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/5.1.0"
                         }
                     }
                 }
@@ -5310,6 +5624,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22e2530eb9e7390101af42b35a73c00d30634e3870dd1e34df7d4e23682d38f8",
+                                    "url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.1.0/FriendlyInventoryAvatars.dll"
+                                }
+                            ],
+                            "changelog": "- Fix for 2025.11.18.1216 as patched method was moved",
+                            "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.1.0"
                         }
                     }
                 },
@@ -5565,6 +5889,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "853eed74c78edddf14d71632280587126a04bd7e7a43e95dd999165599d16fc0",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.1/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.1"
                         }
                     }
                 },
@@ -5591,6 +5924,32 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteFasterFirstCasts/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "org.yosh.NullableInputUI": {
+                    "category": "Protoflux",
+                    "description": "Adds basic UI for nullable input nodes.",
+                    "name": "NullableInputUI",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteNullableInputUI",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1fc6b22d0c99b5f8c43da051df80d4b90a1bafae5a9de5a83ccea7ec28fef12a",
+                                    "url": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/download/v1.0.0/NullableInputUI.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a673004e22f4a014264b6f501362582169e51f8f4972e91e20197c36e8a53859",
+                                    "url": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/download/v1.0.1/NullableInputUI.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/tag/v1.0.1"
                         }
                     }
                 }
@@ -5954,6 +6313,44 @@
                         }
                     }
                 },
+                "owo.Nytra.InterprocessLib": {
+                    "category": "Libraries",
+                    "description": "Library that allows mods to send data to the renderer and back.",
+                    "name": "InterprocessLib",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteInterprocessLib",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e768dc7cb00233e79bc9b5440454d10ea42599a86b9fc808a8a327974f184c58",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.0/InterprocessLib.FrooxEngine.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "215424ee7b82007536bc6637ebf645bb72f189a86a40e277e19dca9220a2a1a1",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.0/InterprocessLib.RML_Extensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7f6e2df01b74a26bc15c75128ae3e2fc2933142b91b88e01e892d67112dca362",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.1/InterprocessLib.FrooxEngine.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "967bb63b60a9060c2bd2c1ec6e2c0db3ce30b2ffbca63ca053fece72c3d704a1",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.1/InterprocessLib.RML_Extensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v2.0.1"
+                        }
+                    }
+                },
                 "owo.Nytra.LeftHandedProtoFlux": {
                     "category": "Memes",
                     "description": "Makes ProtoFlux flow from right to left.",
@@ -6020,6 +6417,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.1"
+                        }
+                    }
+                },
+                "owo.Nytra.PluginSelect": {
+                    "category": "Plugins",
+                    "description": "Adds some extra UI to the \"Start Custom Session\" dialog to allow you to select which data model plugins to use for that session.",
+                    "name": "PluginSelect",
+                    "sourceLocation": "https://github.com/Nytra/ResonitePluginSelect",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_mods",
+                                    "sha256": "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1",
+                                    "url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.1"
                         }
                     }
                 },
@@ -6290,6 +6705,31 @@
                 }
             },
             "entries": {
+                "xyz.jvyden.DynTunes": {
+                    "category": "Misc",
+                    "description": "Add Dynamic Variables to show the music you're listening to",
+                    "name": "DynTunes",
+                    "platforms": [
+                        "linux"
+                    ],
+                    "sourceLocation": "https://github.com/jvyden/DynTunes",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "800333d01a6958136401cbecdde0ea1e819f95fb8a4ec48df7dd4a5867d5e20c",
+                                    "url": "https://github.com/jvyden/DynTunes/releases/download/v1.0.0/DynTunes.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "111fddda3d7f523e41d8fe55380fa60ce4fa09ef0984972e97030790d18aa7d6",
+                                    "url": "https://github.com/jvyden/DynTunes/releases/download/v1.0.0/Tmds.DBus.Protocol.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/jvyden/DynTunes/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "xyz.jvyden.QuickPick": {
                     "category": "Controls",
                     "description": "Quickly pick ProtoFlux nodes and components in desktop mode with CTRL+G",
@@ -6304,11 +6744,20 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/jvyden/QuickPick/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6068548a1536e3d70d061a16810c3a9ecfaee2fc43230f26c7e93fef37e4f182",
+                                    "url": "https://github.com/jvyden/QuickPick/releases/download/v1.0.1/QuickPick.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/jvyden/QuickPick/releases/tag/v1.0.1"
                         }
                     }
                 }
             }
         }
     },
-    "schemaVersion": "1.0.1"
+    "schemaVersion": "1.1.0"
 }

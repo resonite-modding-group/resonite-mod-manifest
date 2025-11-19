@@ -1,0 +1,18 @@
+{
+	"name": "IDontNeedHelp",
+	"id": "com.nalathethird.IDontNeedHelp",
+	"description": "Removes the 'Help' Tab on the Dashboard",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/nalathethird/IDontNeedHelp",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/nalathethird/IDontNeedHelp/releases/tag/1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll",
+					"sha256": "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783"
+				}
+			]
+		}
+	}
+}

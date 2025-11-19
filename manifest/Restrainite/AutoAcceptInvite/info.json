@@ -1,0 +1,18 @@
+{
+	"name": "AutoAcceptInvite",
+	"id": "Restrainite.AutoAcceptInvite",
+	"description": "Automatically accept invites or invite requests from trusted friends.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/Restrainite/AutoAcceptInvite",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v1.0.1/AutoAcceptInvite.dll",
+					"sha256": "a43e908421441e77329edd9d1170b69f0020345568c15f30b489bf6f328492d6"
+				}
+			]
+		}
+	}
+}
