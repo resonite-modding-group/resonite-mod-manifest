@@ -5624,6 +5624,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22e2530eb9e7390101af42b35a73c00d30634e3870dd1e34df7d4e23682d38f8",
+                                    "url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.1.0/FriendlyInventoryAvatars.dll"
+                                }
+                            ],
+                            "changelog": "- Fix for 2025.11.18.1216 as patched method was moved",
+                            "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.1.0"
                         }
                     }
                 },
