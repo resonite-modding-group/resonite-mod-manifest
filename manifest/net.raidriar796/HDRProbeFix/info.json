@@ -1,0 +1,21 @@
+{
+	"name": "HDRProbeFix",
+	"id": "net.raidriar796.HDRProbeFix",
+	"description": "Fixes reflection probes baking incorrectly.",
+	"category": "Bug Workaround",
+	"platforms": [
+		"headless"
+	],
+	"sourceLocation": "https://github.com/Raidriar796/HDRProbeFix",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/v1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll",
+					"sha256": "6D1F152107679BE5C67AD8D84B5C0EBE35638FA1172D386D1D93469149A76719"
+				}
+			]
+		}
+	}
+}
