@@ -5478,6 +5478,23 @@
                             "releaseUrl": "https://codeberg.org/Orion_Moonclaw/LocalAllowList/releases/tag/0.1.1"
                         }
                     }
+                },
+                "news.fawx.PreventWebsocketCrash": {
+                    "category": "Bug Workaround",
+                    "description": "Fixes a randomly occuring world crash when receiving events from a websocket.",
+                    "name": "PreventWebsocketCrash",
+                    "sourceLocation": "https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash",
+                    "versions": {
+                        "0.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1191e6944aa00226a49f5545e292da3874806801cc5985c93eeb9316d0feb30a",
+                                    "url": "https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash/releases/download/0.1.2/PreventWebsocketCrash.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash/releases/tag/0.1.2"
+                        }
+                    }
                 }
             }
         },
