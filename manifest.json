@@ -6631,6 +6631,16 @@
                             "changelog": "Post Splittening update\n- Added Renderite.Shared for moved types by Gyztor\n- Updated Discord.Net libraries to 3.18.0 by Gyztor",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.11"
                         },
+                        "2.1.12": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7331e3da2fc2501aa54e03ef98a9b18d12a298712dd43a0164b382fa9bf8bc71",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/HeadlessTweaks.dll"
+                                }
+                            ],
+                            "changelog": "Rebuild for 2025.11.19.6\n- FrooxEngine.Headless.GenericCommand constructor signature was changed",
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.12"
+                        },
                         "2.1.9": {
                             "artifacts": [
                                 {
