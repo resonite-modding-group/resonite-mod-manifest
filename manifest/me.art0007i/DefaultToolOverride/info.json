@@ -47,6 +47,15 @@
                 }
             ],
             "changelog": "Fix for splittening"
+        },
+        "1.0.6": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.6/DefaultToolOverride.dll",
+                    "sha256": "0055b7018a3bd3f6efba4634ec96c37901a31d1a7f96b53586053c35f3ab6d02"
+                }
+            ]
         }
     }
 }
