@@ -1449,6 +1449,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.0.1"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "98e75279f96410ff721375761066845e8b5ca1c4c1d186b91374a259f7b64a14",
+                                    "url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/v1.1.1/CyberFingerMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.1.1"
                         }
                     }
                 }
