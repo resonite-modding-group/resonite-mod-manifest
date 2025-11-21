@@ -81,6 +81,11 @@
         },
         "2.2.1": {
             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.1",
+            "dependencies": {
+                "me.art0007i.SpecialItemsLib": {
+                    "version": "^2.0.3"
+                }
+            },
             "artifacts": [
                 {
                     "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.1/CustomInspectors.dll",
