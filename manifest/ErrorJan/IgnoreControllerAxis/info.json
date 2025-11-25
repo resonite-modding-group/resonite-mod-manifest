@@ -5,6 +5,15 @@
 	"category": "Controls",
 	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis",
 	"versions": {
+		"1.1.1": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.1.1/IgnoreControllerAxis.dll",
+					"sha256": "9d688066fde38ccb548495348ee7a784caae466df691cb7eae2ce8e559f26ac0"
+				}
+			]
+		},
 		"1.1.0": {
 			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.0",
 			"artifacts": [
