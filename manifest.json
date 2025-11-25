@@ -82,6 +82,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "35b45dcd1d3d4f202e2febe7e11c47358f5f41cedd5099c7c1355cf11622d0ac",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.2/EnableToolspawnInVR.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -125,6 +134,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9d688066fde38ccb548495348ee7a784caae466df691cb7eae2ce8e559f26ac0",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.1.1/IgnoreControllerAxis.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.1"
                         }
                     }
                 }
