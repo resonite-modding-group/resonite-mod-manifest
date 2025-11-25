@@ -5,6 +5,15 @@
 	"category": "Controls",
 	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR",
 	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.2",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.2/EnableToolspawnInVR.dll",
+					"sha256": "35b45dcd1d3d4f202e2febe7e11c47358f5f41cedd5099c7c1355cf11622d0ac"
+				}
+			]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.1",
 			"artifacts": [
