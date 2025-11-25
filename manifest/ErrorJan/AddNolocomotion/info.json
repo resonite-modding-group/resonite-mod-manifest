@@ -1,0 +1,18 @@
+{
+	"name": "Add Nolocomotion",
+	"id": "ErrorJan.AddNolocomotion",
+	"description": "Makes it possible to select no locomotion in the locomotion menu.",
+	"category": "Context Menu",
+	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/tag/1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/download/1.0.1/AddNolocomotion.dll",
+					"sha256": "417872155d178c33744ceedd4da72a60de22c9ac2f762f78155fabf6954ddecf"
+				}
+			]
+		}
+	}
+}

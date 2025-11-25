@@ -1,9 +1,10 @@
 {
 	"name": "FixMirrorSteamVRIPDOffset",
 	"id": "ErrorJan.FixMirrorSteamVRIPDOffset",
-	"description": "When offsetting virtual IPD in SteamVR configs (steamvr.vrsettings) the mirror doesn't respect that, this mod fixes this issue.",
+	"description": "When offsetting virtual IPD in SteamVR configs (steamvr.vrsettings) the mirror doesn't respect that, this mod fixes this issue. (Deprecated due to splittening. Download this mod manually since it now requires a more manual setup)",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset",
+	"flags": ["deprecated"],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/1.0.0",
