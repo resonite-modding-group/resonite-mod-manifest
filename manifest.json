@@ -5342,6 +5342,24 @@
                         }
                     }
                 },
+                "net.raidriar796.LiteStreams": {
+                    "category": "Optimization",
+                    "description": "Reduces outbound network traffic.",
+                    "name": "LiteStreams",
+                    "sourceLocation": "https://github.com/Raidriar796/LiteStreams",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60",
+                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.1.0/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.1.0"
+                        }
+                    }
+                },
                 "net.raidriar796.NoSteamScreenshots": {
                     "category": "Technical Tweaks",
                     "description": "Prevents in app photos from additionally being saved to Steam.",
@@ -5463,6 +5481,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "59354E634CFF92B3A70B9335481A10717BBCAC716FF6F84ABFCDD13BA747F16C",
+                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.1"
                         }
                     }
                 },
