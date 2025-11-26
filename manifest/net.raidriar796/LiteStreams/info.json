@@ -1,0 +1,19 @@
+{
+	"name": "LiteStreams",
+	"id": "net.raidriar796.LiteStreams",
+	"description": "Reduces outbound network traffic.",
+	"category": "Optimization",
+	"sourceLocation": "https://github.com/Raidriar796/LiteStreams",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.1.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.1.0/LiteStreams.dll",
+					"filename": "LiteStreams.dll",
+					"sha256": "3AF94439A0E7153CDDF4F85A94A97F5349A50CB60B92D456001CCFF5A4BDABF5"
+				}
+			]
+		}
+	}
+}
