@@ -25,6 +25,21 @@
 					"installLocation": "/rml_libs"
 				}
 			]
+		},
+		"1.0.3": {
+			"releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.3",
+			"changelog": "- Recompiled for .NET 10\n- Fix disposal of existing official Discord RPC connector on Windows\n- Added optional debug logging",
+			"artifacts": [
+				{
+					"url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/ResoniteDiscordRpc.dll",
+					"sha256": "5e0fb2da45615b752cd76e3090f204bdee10bf7a76bf67887bbc9d529fe9ecf2"
+				},
+				{
+					"url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/DiscordRPC.dll",
+					"sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
+					"installLocation": "/rml_libs"
+				}
+			]
 		}
 	}
 }
