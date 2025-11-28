@@ -1,0 +1,16 @@
+{
+	"name": "SteamRecentUsers",
+	"id": "es.dant.SteamRecentUsers",
+	"description": "Adds support for Steam's Recently Played With feature. Users in sessions with you will appear in the Steam Client at View > Players",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/DanteTucker/SteamRecentUsers",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.1/SteamRecentUsers.dll",
+				"sha256": "6a27b7a86c8c537dd0cb488835a95f0f5f3099e21998bfb3fbf76f0c878a7119"
+			}]
+		}
+	}
+}
