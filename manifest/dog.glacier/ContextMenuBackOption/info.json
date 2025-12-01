@@ -1,0 +1,16 @@
+{
+	"name": "ContextMenuBackOption",
+	"id": "dog.glacier.ContextMenuBackOption",
+	"description": "Adds a Back option to every Context Menu submenu.",
+	"category": "Context Menu",
+	"sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
+	"versions": {
+		"2.3.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll",
+				"sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0"
+			}]
+		}
+	}
+}
