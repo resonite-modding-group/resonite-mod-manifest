@@ -2186,6 +2186,34 @@
                 }
             }
         },
+        "dog.glacier": {
+            "author": {
+                "Noble": {
+                    "icon": "https://github.com/noblereign.png",
+                    "url": "https://github.com/noblereign",
+                    "website": "https://glacier.dog"
+                }
+            },
+            "entries": {
+                "dog.glacier.ContextMenuBackOption": {
+                    "category": "Context Menu",
+                    "description": "Adds a Back option to every Context Menu submenu.",
+                    "name": "ContextMenuBackOption",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
+                    "versions": {
+                        "2.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0"
+                        }
+                    }
+                }
+            }
+        },
         "es.dant": {
             "author": {
                 "Dante": {
