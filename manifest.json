@@ -5468,6 +5468,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.0"
+                        },
+                        "1.3.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "A0E72B2285A113772BC12B7A1F86C1299144E1AD474FDC3192FE82CD2BC7B47A",
+                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.3.1/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.1"
                         }
                     }
                 },
