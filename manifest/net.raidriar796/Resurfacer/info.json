@@ -1,0 +1,19 @@
+{
+	"name": "Resurfacer",
+	"id": "net.raidriar796.Resurfacer",
+	"description": "Adds batch texture operations.",
+	"category": "Wizards",
+	"sourceLocation": "https://github.com/Raidriar796/Resurfacer",
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.1.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "61AE8977595B983B604A9D99181F28C34D9D76D0FC172A67146ABAD135DB1150"
+				}
+			]
+		}
+	}
+}
