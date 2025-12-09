@@ -1,0 +1,19 @@
+{
+	"name": "DynamicDesyncHelper",
+	"id": "net.raidriar796.DynamicDesyncHelper",
+	"description": "Dynamically adjusts the LNL Window Size to avoid desyncing.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/Raidriar796/DynamicDesyncHelper",
+	"versions": {
+		"0.1.1": {
+			"releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll",
+					"filename": "DynamicDesyncHelper.dll",
+					"sha256": "FB239E6F43BE2A2AB98A03EACE791F3B9C8EA860464945F733D9E10A4AE8CE10"
+				}
+			]
+		}
+	}
+}
