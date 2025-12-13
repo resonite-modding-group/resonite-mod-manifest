@@ -5,6 +5,13 @@
 	"category": "Bug Workaround",
 	"sourceLocation": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL",
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/download/v1.0.1/DirectoryCopyURL.dll",
+				"sha256": "4c03f515ec6cb9ed1e357103d23946a000477bd05ed03b1abe4a8bba61ae5e0b"
+			}]
+		},
 		"1.0.0": {
 			"releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.0",
 			"artifacts": [{
