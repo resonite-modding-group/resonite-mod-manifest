@@ -2245,6 +2245,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af",
+                                    "url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.2/SteamRecentUsers.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.2"
                         }
                     }
                 }
