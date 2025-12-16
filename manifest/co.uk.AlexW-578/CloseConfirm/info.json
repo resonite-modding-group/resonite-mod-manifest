@@ -13,6 +13,15 @@
 					"sha256": "C188D02C48303254066CBCC9D34737EF9FB646D7599ED73F2679BA437D3F1ABD"
 				}
 			]
+		},
+		"1.2.0": {
+			"releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.2.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll",
+					"sha256": "06012D9F38A65E2EDDD4570C8FF6E01AD0C58E0D79DF90C606B4EE0B22144017"
+				}
+			]
 		}
 	}
 }
