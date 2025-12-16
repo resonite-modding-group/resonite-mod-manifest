@@ -418,7 +418,7 @@
                 "AlexW-578": {
                     "icon": "https://github.com/AlexW-578.png",
                     "url": "https://github.com/AlexW-578",
-                    "website": "http://www.alexw-578.co.uk/"
+                    "website": "https://avali.co.uk/"
                 }
             },
             "entries": {
@@ -436,6 +436,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "06012D9F38A65E2EDDD4570C8FF6E01AD0C58E0D79DF90C606B4EE0B22144017",
+                                    "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.2.0"
                         }
                     }
                 },
