@@ -5,6 +5,13 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/TheJebForge/BoneReferenceHelper",
 	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.1.0/BoneReferenceHelper.dll",
+				"sha256": "54c9f8018cc124441ae356589c1f7a44b77971babf91751ab4bcf72dbf987d1e"
+			}]
+		},
 		"2.0.5": {
 			"releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.5",
 			"artifacts": [{
