@@ -1,0 +1,19 @@
+{
+	"name": "SessionTabOverhaul",
+	"id": "com.net.NepuShiro",
+	"description": "Improves the session tab of the dash, most notably the users list. Adds a Bring button.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul",
+	"additionalAuthors": [
+		"noblereign"
+	],
+	"versions": {
+		"": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.1.1",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.1.1/SessionTabOverhaul.dll",
+				"sha256": "cef36e3db7f2ae67730dd7b343bef833b8ba86708abdff64278ea82609fd3565"
+			}]
+		}
+	}
+}
