@@ -872,6 +872,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.1.0"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "08b769e3a6ba56c043d576940d66dd84b4c4ad5560bfb090869bea9f04b3edb9",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.2.0/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.0"
                         }
                     }
                 },
