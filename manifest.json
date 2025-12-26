@@ -5680,6 +5680,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.2"
+                        },
+                        "0.3.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "0C26B17BAF09A2E6FCDA170E117B82A35A6EA8AD3ACAFD47F28EF489F63DC0E4",
+                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.3.0/Resurfacer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.3.0"
                         }
                     }
                 },
