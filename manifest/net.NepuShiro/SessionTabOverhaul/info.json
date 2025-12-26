@@ -8,7 +8,7 @@
 		"noblereign"
 	],
 	"versions": {
-		"": {
+		"2.1.1": {
 			"releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.1.1",
 			"artifacts": [{
 				"url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.1.1/SessionTabOverhaul.dll",
