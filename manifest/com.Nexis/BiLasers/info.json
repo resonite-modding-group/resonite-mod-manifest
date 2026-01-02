@@ -1,0 +1,16 @@
+{
+	"name": "BiLasers",
+	"id": "com.Nexis.BiLasers",
+	"description": "Makes your laser look like the bisexual flag",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/l79627550-dot/BiLasers",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/l79627550-dot/BiLasers/releases/tag/1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/l79627550-dot/BiLasers/releases/download/1.1.0/BiLasers.dll",
+				"sha256": "5e20a4dcc10949ae0b48a4b2c88072c3b97a399c9afb0b8a3e17fcbb0055826f"
+			}]
+		}
+	}
+}
