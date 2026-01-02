@@ -12,10 +12,6 @@
         {
           "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.dll",
           "sha256": "0a1db5f9cb31345452d43fb645b4716927de8eca97a6de0a2262f7282bc7176d"
-        },
-        {
-          "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.pdb",
-          "sha256": "583db42423207bab83496c5de1e9092e7799446d818305430a204754ea7e755b"
         }
       ],
       "changelog": "Initial release with support for favorite generic types."
