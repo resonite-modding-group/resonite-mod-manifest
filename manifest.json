@@ -6366,6 +6366,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e4d0f615a9e960b4e9ac216f5755bbce5e97601af8dbc8aedc4af9f49a22a758",
+                                    "url": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/download/v1.0.2/DirectoryCopyURL.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.2"
                         }
                     }
                 },
