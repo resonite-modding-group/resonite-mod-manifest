@@ -4414,6 +4414,26 @@
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.2"
                         }
                     }
+                },
+                "net.NepuShiro.SessionTabOverhaul": {
+                    "additionalAuthors": {
+                        "noblereign": {}
+                    },
+                    "category": "Dashboard",
+                    "description": "Improves the session tab of the dash, most notably the users list. Adds a Bring button.",
+                    "name": "SessionTabOverhaul",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul",
+                    "versions": {
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "602c92ffe4cd6067dadd70868651dd8c300b7550fbb48bcad025d9f2e6350d0a",
+                                    "url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.1.1/SessionTabOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.1.1"
+                        }
+                    }
                 }
             }
         },
