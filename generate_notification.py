@@ -145,7 +145,7 @@ for author_guid in NEW_MANIFEST["objects"]:
 if EMBEDS:
     DISCORD_JSON = {
         "embeds": EMBEDS,
-        "username": "Resonite Mod Verifications",
+        "username": "RML Mod Verifications",
         "avatar_url": "https://github.com/resonite-modding-group.png"
     }
 
