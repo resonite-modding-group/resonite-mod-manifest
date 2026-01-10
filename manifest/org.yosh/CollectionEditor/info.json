@@ -8,13 +8,13 @@
 		"1.0.0": {
 			"dependencies": {
 				"org.yosh.ContextMenuHookLib": {
-					"version": "=1",
+					"version": "^1.0.0",
 					"optional": true
 				}
 			},
 			"conflicts": {
 				"owo.Nytra.ReferenceFinderWizard": {
-					"version": "=1.1"
+					"version": "1.1.0"
 				}
 			},
 			"releaseUrl": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/tag/v1.0.0",
