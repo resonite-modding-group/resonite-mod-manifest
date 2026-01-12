@@ -691,6 +691,9 @@
                 "com.GrandtheUK.ResoniteLinuxClipboard": {
                     "category": "Bug Workaround",
                     "description": "A mod that implements copy and paste in resonite for Text, Images and other files on Wayland",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteLinuxClipboard",
                     "platforms": [
                         "linux"
