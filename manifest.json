@@ -4629,6 +4629,23 @@
                         }
                     }
                 },
+                "net.deltawolf.HomeAccessLevel": {
+                    "category": "Technical Tweaks",
+                    "description": "Sets the access level for your home world when automatically opened on start. Private by default.",
+                    "name": "HomeAccessLevel",
+                    "sourceLocation": "https://github.com/XDelta/HomeAccessLevel",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a6db02853d218af507e8a2de537c26e0adc62cfb06a35299c41e8944fe542ce1",
+                                    "url": "https://github.com/XDelta/HomeAccessLevel/releases/download/1.0.0/HomeAccessLevel.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/HomeAccessLevel/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ImNotAsking": {
                     "category": "Dashboard",
                     "description": "Hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.",
