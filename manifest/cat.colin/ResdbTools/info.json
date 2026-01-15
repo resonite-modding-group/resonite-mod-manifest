@@ -1,0 +1,20 @@
+{
+  "name": "Resdb Tools",
+  "id": "cat.colin.ResdbTools",
+  "description": "Extends the inventory browser with tools to get and modify Resonite database records.",
+  "category": "Dashboard",
+  "sourceLocation": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod",
+  "tags": ["inventory", "resdb", "database", "cloud"],
+  "versions": {
+    "1.0.0": {
+      "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v1.0.0",
+      "artifacts": [
+        {
+          "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.0/ResdbTools.dll",
+          "sha256": "ad03d09314ed8da6892afd37c56954f50a94fc502c48a02c5da74e1a85c75169"
+        }
+      ],
+      "changelog": "Initial RML release. Includes localization."
+    }
+  }
+}
