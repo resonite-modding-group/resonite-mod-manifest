@@ -797,6 +797,33 @@
                 }
             }
         },
+        "com.Maurdekye": {
+            "author": {
+                "Maurdekye": {
+                    "icon": "https://github.com/Maurdekye.png",
+                    "url": "https://github.com/Maurdekye"
+                }
+            },
+            "entries": {
+                "com.Maurdekye.DisableDevToolPassthrough": {
+                    "category": "Technical Tweaks",
+                    "description": "This mod disables dev tool laser passthrough, a feature that by default makes your selection laser pass through normal objects and prioritize selecting developer UIs (inspectors, etc.) while you have a dev tool equipped.",
+                    "name": "DisableDevToolPassthrough",
+                    "sourceLocation": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ebbcf850264bbd29932287916fb0ac75dabca56468cf70595f0df756f1ce6324",
+                                    "url": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/download/1.0.0/DisableDevToolPassthrough.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.Sinduy": {
             "author": {
                 "Sinduy": {
