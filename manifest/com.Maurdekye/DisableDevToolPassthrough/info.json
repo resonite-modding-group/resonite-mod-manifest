@@ -12,12 +12,5 @@
 				"sha256": "ebbcf850264bbd29932287916fb0ac75dabca56468cf70595f0df756f1ce6324"
 			}]
 		}
-	},
-	"tags": [
-		"dev",
-		"tool",
-		"devtool",
-		"inspector",
-		"laser"
-	]
+	}
 }
