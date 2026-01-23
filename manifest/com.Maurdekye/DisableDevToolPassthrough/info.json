@@ -9,7 +9,7 @@
 			"releaseUrl": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/tag/1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/download/1.0.0/DisableDevToolPassthrough.dll",
-				"sha256": "5f9a3703b23d106bb8ee7309f10e7587e9eff73b2a72edddc3dd9cce9c2da7ba"
+				"sha256": "ebbcf850264bbd29932287916fb0ac75dabca56468cf70595f0df756f1ce6324"
 			}]
 		}
 	},
