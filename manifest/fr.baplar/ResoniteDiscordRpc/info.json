@@ -40,6 +40,21 @@
 					"installLocation": "/rml_libs"
 				}
 			]
+		},
+		"1.0.4": {
+			"releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.4",
+			"changelog": "- Don't start connector if Discord interface is disabled globally\n- Turn RPC client on/off when enabling/disabling rich presence in settings",
+			"artifacts": [
+				{
+					"url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/ResoniteDiscordRpc.dll",
+					"sha256": "a5c23069abd40c6176d4a23434a72f8f8718f00cbd73c9f1d6febdccfb5ca6f1"
+				},
+				{
+					"url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/DiscordRPC.dll",
+					"sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
+					"installLocation": "/rml_libs"
+				}
+			]
 		}
 	}
 }
