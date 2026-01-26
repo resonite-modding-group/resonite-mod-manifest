@@ -32,7 +32,6 @@ BASE_EMBED: dict[str, Any] = {
         "icon_url": "https://github.com/resonite-modding-group.png"
     },
     "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
-    "color": "007700",
     "fields": []
 }
 
