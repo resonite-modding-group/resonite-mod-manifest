@@ -1,0 +1,17 @@
+{
+	"name": "X11Clipboard",
+	"id": "org.yosh.X11Clipboard",
+	"description": "Work around fix for X11 clipboard not functioning. requires xclip in your Resonite install directory",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteX11Clipboard",
+	"platforms": [ "linux" ],
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteX11Clipboard/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteX11Clipboard/releases/download/v1.0.1/X11Clipboard.dll",
+				"sha256": "a3746fe79e71dcbd97669579fd70ced10dcd781edd1ec8ef1232083f0fe6cdad"
+			}]
+		}
+	}
+}
