@@ -380,6 +380,16 @@
                             ],
                             "changelog": "Fix: Use world type parser to parse some types correctly.",
                             "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "85449d3a464187af8711b61e969e50c1672ce66bad961c53ff20318bb8b69bc4",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.2/CherryTypes.dll"
+                                }
+                            ],
+                            "changelog": "Changed how the mod initializes to fix a potential issue.",
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.2"
                         }
                     }
                 }
