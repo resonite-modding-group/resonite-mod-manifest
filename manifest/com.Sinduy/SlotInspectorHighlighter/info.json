@@ -5,6 +5,13 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/sjsanjsrh/SlotInspectorHighlighter",
 	"versions": {
+		"1.0.3": {
+			"releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.3",
+			"artifacts": [{
+				"url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.3/SlotInspectorHighlighter.dll",
+				"sha256": "be997ad763dd2652d8f7f8dc7a609b80bc4b90dc81a98dd2c2fd8a486dae67ee"
+			}]
+		},
 		"1.0.2": {
 			"releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.2",
 			"artifacts": [{
