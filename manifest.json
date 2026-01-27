@@ -908,6 +908,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "be997ad763dd2652d8f7f8dc7a609b80bc4b90dc81a98dd2c2fd8a486dae67ee",
+                                    "url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.3/SlotInspectorHighlighter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.3"
                         }
                     }
                 },
