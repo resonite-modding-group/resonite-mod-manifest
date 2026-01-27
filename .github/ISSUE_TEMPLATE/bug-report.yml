@@ -25,6 +25,7 @@ body:
         - "Github"
         - "Discord"
         - "External tool"
+        - "Other"
     validations:
       required: true
   - type: textarea
