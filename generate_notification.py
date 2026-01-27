@@ -35,7 +35,7 @@ BASE_EMBED: dict[str, Any] = {
     "fields": []
 }
 
-def mod_to_embed(mod_entry: dict[str, Any]) -> dict[str, Any]:
+def mod_to_embed(mod_entry: dict[str, Any], is_new: bool ) -> dict[str, Any]:
     """
     Create discord embed JSON from a mod entry and its newest release
     """
@@ -45,7 +45,12 @@ def mod_to_embed(mod_entry: dict[str, Any]) -> dict[str, Any]:
     author = next(iter(mod_entry['author']))
     embed['footer']['text'] = author
     author_data = mod_entry['author'][author]
-    
+
+    if is_new:
+        embed['color'] = util.hex_to_int("#59eb5c")
+    else:
+        embed['color'] = util.hex_to_int("#236994")
+
     if 'icon' in author_data:
         embed['footer']['icon_url'] = author_data['icon']
     else:
@@ -116,6 +121,7 @@ def mod_to_embed(mod_entry: dict[str, Any]) -> dict[str, Any]:
 
     return embed
 
+
 for author_guid in NEW_MANIFEST["objects"]:
     entry_data = NEW_MANIFEST["objects"][author_guid]
 
@@ -126,20 +132,31 @@ for author_guid in NEW_MANIFEST["objects"]:
         if util.should_show_mod(mod_entry_value):
             # Sort the mod's versions
             mod_entry_value["versions"].sort(reverse=True, key=lambda version: version["id"])
-            is_new_mod_version = True
+            new_version_to_post = True
+            is_new = False
 
-            if author_guid in OLD_MANIFEST["objects"] and mod_entry_key in OLD_MANIFEST["objects"][author_guid]['entries']:
-                old_versions = OLD_MANIFEST["objects"][author_guid]['entries'][mod_entry_key]['versions']
-                old_versions = util.map_mod_versions(old_versions, author_guid)
-                
-                for version in old_versions:
-                    if version['id'] == mod_entry_value["versions"][0]['id']:
-                        is_new_mod_version = False
-                        break
+            # if author exists
+            if author_guid in OLD_MANIFEST["objects"]:
+                # mod key exist
+                if mod_entry_key in OLD_MANIFEST["objects"][author_guid]['entries']:
+                    old_versions = OLD_MANIFEST["objects"][author_guid]['entries'][mod_entry_key]['versions']
+                    old_versions = util.map_mod_versions(old_versions, author_guid)
 
-            if is_new_mod_version:
+                    # if the same set of versions exists
+                    for version in old_versions:
+                        if version['id'] == mod_entry_value["versions"][0]['id']:
+                            new_version_to_post = False
+                            break
+                else:
+                    # mod key didn't exist already
+                    is_new = True
+            else:
+                # no author in old, definitely new
+                is_new = True
+
+            if new_version_to_post:
                 mod_entry_value["author"] = entry_data["author"] #gives the specific mod with an update and copies the author data into it
-                EMBEDS.append(mod_to_embed(mod_entry_value))
+                EMBEDS.append(mod_to_embed(mod_entry_value, is_new))
 
 if EMBEDS:
     DISCORD_JSON = {
