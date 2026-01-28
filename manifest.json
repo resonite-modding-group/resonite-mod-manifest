@@ -2394,6 +2394,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.1"
+                        },
+                        "2.3.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7ec3573545d5c788d7780b9a4b9aabb2750c8c300e8d059e0c57b16d196b12b7",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.2/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.2"
                         }
                     }
                 }
