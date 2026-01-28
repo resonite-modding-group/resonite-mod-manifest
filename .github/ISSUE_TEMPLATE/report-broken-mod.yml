@@ -1,0 +1,33 @@
+name: Report a broken mod
+description: Report a mod that is broken to be marked on the manifest. Must be reported to the mod author first.
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Mods that are broken, reported to author, and don't seem to have a fix being created 'soon' can be marked as broken on the manifest.
+        Soon being somewhat variable depending on the severity of the break. Hard crashes would be shorter than something not loading but otherwise being harmless.
+        
+  - type: textarea
+    id: mod-name
+    attributes:
+      label: Mod ID or Name
+      description: What is the id or name of the mod.
+      placeholder: com.example.ExampleMod OR ExampleMod
+    validations:
+      required: true
+  - type: textarea
+    id: issue-report
+    attributes:
+      label: Issue Report
+      description: Link to where the author has been informed that the mod is broken, typically a github issue. (Created by anyone)
+      placeholder: https://github.com/resonite-modding-group/ExampleMod/issues/0
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the breakage?
+    validations:
+      required: false
