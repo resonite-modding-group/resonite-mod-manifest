@@ -1,6 +1,6 @@
 name: Report a broken mod
 description: Report a mod that is broken to be marked on the manifest. Must be reported to the mod author first.
-labels: []
+labels: [Broken Mod Report]
 body:
   - type: markdown
     attributes:
