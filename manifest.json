@@ -5330,6 +5330,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.1"
+                        },
+                        "0.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "193374c4edc94ff4a56183e5d70b2787e1997ca0906b9ef3d12b24d86a2478de",
+                                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.2.1/ResoniteBaballoniaEyeTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.1"
                         }
                     }
                 },
