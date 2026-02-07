@@ -1,0 +1,16 @@
+{
+	"name": "Inspectorimprovements",
+	"id": "net.deltawolf.Inspectorimprovements",
+	"description": "Adds several configurable improvements to inspectors",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
+				"sha256": "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81"
+			}]
+		}
+	}
+}
