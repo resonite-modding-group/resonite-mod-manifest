@@ -6523,8 +6523,8 @@
                                 },
                                 {
                                     "installLocation": "/rml_libs",
-                                    "sha256": "e8e24ed994f5cfb9e540833258def3be33ad15b81fa996fabd6df27035cc6c11",
-                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.0/bc7enc.NET.dll"
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
                                 },
                                 {
                                     "installLocation": "/rml_libs",
