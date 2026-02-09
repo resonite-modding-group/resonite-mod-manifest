@@ -6509,6 +6509,38 @@
                 }
             },
             "entries": {
+                "org.yosh.BC7EncMod": {
+                    "category": "Technical Tweaks",
+                    "description": "Encodes BC1, BC3, BC4, BC5, and BC7 LZMA textures through bc7enc instead of compressonator.",
+                    "name": "BC7EncMod",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteBC7EncMod",
+                    "versions": {
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6aec143c8cffe53bb8358767481e44d8d0010a7eb49159bcfbe93a9653915e8b",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.1/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e8e24ed994f5cfb9e540833258def3be33ad15b81fa996fabd6df27035cc6c11",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.0/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "14795053d2e091fe8510f4b5c3284e1490af4118d4e44f2b4b1d0e99ca0f0994",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.1"
+                        }
+                    }
+                },
                 "org.yosh.CollectionEditor": {
                     "category": "Wizards",
                     "description": "Adds a form for editing certain types of collections",
