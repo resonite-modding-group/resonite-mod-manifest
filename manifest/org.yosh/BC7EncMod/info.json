@@ -5,12 +5,12 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://git.unix.dog/yosh/ResoniteBC7EncMod",
 	"versions": {
-		"1.2.0": {
-			"releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.0",
+		"1.2.1": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.1",
 			"artifacts": [
 				{
-					"url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.0/BC7EncMod.dll",
-					"sha256": "a5db9f1397bf084a7b20635d69281441340b5cc4a1e74fa5f923c00522b32333"
+					"url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.1/BC7EncMod.dll",
+					"sha256": "6aec143c8cffe53bb8358767481e44d8d0010a7eb49159bcfbe93a9653915e8b"
 				},
 				{
 					"url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.0/bc7enc.NET.dll",
