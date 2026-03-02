@@ -1,0 +1,16 @@
+{
+	"name": "ExpandedMemberEditors",
+	"id": "owo.Nytra.ExpandedMemberEditors",
+	"description": "Adds basic inspector UI for SyncVar and SyncDictionary.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Nytra/ResoniteExpandedMemberEditors",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/download/v1.0.0/ExpandedMemberEditors.dll",
+				"sha256": "1ce42cc9159b4e90823fd3ea1c5bd7e87fc4ae2659ef3d4735e05cb1c06988f6"
+			}]
+		}
+	}
+}
