@@ -4660,6 +4660,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dfcef674ddc65bb70778860cda9aabb3b5a5fe934284491472ac56c4f1ae589b",
+                                    "url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.1/ContextMenuControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -4807,6 +4816,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1",
+                                    "url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -4841,6 +4859,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fff07d9f3713341c04ba8fc98f875bff08e423f9a8f073645000642d28e76ced",
+                                    "url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.1/NonPersistentInspectors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -4928,6 +4955,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.1"
+                        },
+                        "1.5.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "00026fc8d9f6857764267c56f98363f9753fd746b4d46c8f7267067b1ca43302",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.2/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.2"
                         }
                     }
                 },
@@ -5032,6 +5068,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.2"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c01295d424734b6e2f3531e3bd2ee0ee8915e77d231a2bbfcad7c29c8fc6a3bd",
+                                    "url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.3/ShowSourceLocation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.3"
                         }
                     }
                 }
