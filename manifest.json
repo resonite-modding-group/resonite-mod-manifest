@@ -5763,6 +5763,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.1"
+                        },
+                        "0.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicDesyncHelper.dll",
+                                    "sha256": "BF066707B59AB43BC9E871DA3BF4C5C90D23CC37D90A344BB2831D687617B6F3",
+                                    "url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.2/DynamicDesyncHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.2"
                         }
                     }
                 },
@@ -5794,6 +5804,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicTickRate.dll",
+                                    "sha256": "6798FDEB29957BC5691736A7A7EA4B5A6C635ABBBA8BD510C91250B1D246992B",
+                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.2/DynamicTickRate.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -5812,6 +5832,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/FastSync/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "FastSync.dll",
+                                    "sha256": "DAA9906556CF9DAC36462DE946D126E3797893831540B0569DB8488AFF70FAC3",
+                                    "url": "https://github.com/Raidriar796/FastSync/releases/download/1.0.1/FastSync.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/FastSync/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -5832,6 +5862,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a002d412201aceedd79c8e42e49d8fd09d35979cad48b6788ef79e868e6c7ae0",
+                                    "url": "https://github.com/Raidriar796/HDRProbeFix/releases/download/1.0.1/HDRProbeFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -5873,6 +5912,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessUserCulling.dll",
+                                    "sha256": "2589FBDCC2D722FF24BE61F5E70E7EDA709FF88578432BA33F7E5E8B5E784A16",
+                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.3/HeadlessUserCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.3"
                         }
                     }
                 },
@@ -5921,6 +5970,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.1"
+                        },
+                        "1.3.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "681AAA17B5B31A9D7CEB452D6663D9CA069B40ECDD63D10F924E3D133E37367E",
+                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.3.2/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.2"
                         }
                     }
                 },
@@ -5994,6 +6053,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0"
+                        },
+                        "2.7.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "86D901A818477840272FB1AAA3480F87AC97F8FB9691CF9B60FD33D1CC9770B6",
+                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.1"
                         }
                     }
                 },
@@ -6062,6 +6131,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.0"
+                        },
+                        "0.4.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "DDF196C7D23850CE6A007E3DA0F90F13B29D0E7CDA0814B95EAE9737ADF785C6",
+                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.1/Resurfacer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.1"
                         }
                     }
                 },
@@ -6123,6 +6202,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "1DCF08A17FA2B31F561224B00897E597DFD47ED06986E983746A3272A334F689",
+                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.2/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.2"
                         }
                     }
                 },
@@ -6151,6 +6240,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "Lognt.dll",
+                                    "sha256": "1E0C52BBFB47C82EAB7625C6CE37F4899D5CA192429E1C4049120484FC66FDFA",
+                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.1/Lognt.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.1"
                         }
                     }
                 },
