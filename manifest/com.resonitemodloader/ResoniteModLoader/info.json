@@ -8,6 +8,18 @@
 		"plugin"
 	],
 	"versions": {
+		"5.0.1": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.1",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.4.2"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.1/ResoniteModLoader.dll",
+				"sha256": "7a3a021d560963fdc5b307fcd7dc6d94f562efa2f034820c340ca5ec2c4bfeb7" 
+			}]
+		},
 		"5.0.0": {
 			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.0",
 			"dependencies": {
