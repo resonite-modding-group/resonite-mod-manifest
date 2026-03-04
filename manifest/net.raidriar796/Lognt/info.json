@@ -5,6 +5,16 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Raidriar796/Lognt",
 	"versions": {
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.1/Lognt.dll",
+					"filename": "Lognt.dll",
+					"sha256": "1E0C52BBFB47C82EAB7625C6CE37F4899D5CA192429E1C4049120484FC66FDFA"
+				}
+			]
+		},
 		"1.1.0": {
 			"releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.0",
 			"artifacts": [

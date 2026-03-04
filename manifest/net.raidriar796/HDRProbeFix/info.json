@@ -8,6 +8,15 @@
 	],
 	"sourceLocation": "https://github.com/Raidriar796/HDRProbeFix",
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/HDRProbeFix/releases/download/1.0.1/HDRProbeFix.dll",
+					"sha256": "a002d412201aceedd79c8e42e49d8fd09d35979cad48b6788ef79e868e6c7ae0"
+				}
+			]
+		},
 		"1.0.0": {
 			"releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/v1.0.0",
 			"artifacts": [
