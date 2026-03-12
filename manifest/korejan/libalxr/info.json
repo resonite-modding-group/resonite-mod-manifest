@@ -5,7 +5,7 @@
 	"category": "Misc",
 	"sourceLocation": "https://github.com/korejan/ALXR-nightly",
 	"versions": {
-        "v0.76.0+nightly.2025.10.23": {
+        "v0.76.0%2Bnightly.2025.10.23": {
             "releaseUrl": "https://github.com/korejan/ALXR-nightly/releases/v0.76.0%2Bnightly.2025.10.23",
             "artifacts": [{
                 "url": "https://github.com/korejan/ALXR-nightly/releases/download/v0.76.0%2Bnightly.2025.10.23/libalxr-win-x64.zip",
