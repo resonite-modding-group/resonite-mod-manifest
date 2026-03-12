@@ -15,16 +15,16 @@ jobs:
 
     steps:
     - name: Checkout main
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         token: ${{ secrets.GH_ACTION }}
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
-        python-version: "3.12"
+        python-version: "3.13"
 
-    - name: Run generate_manifest.py
+    - name: Generate manifest
       run: python generate_manifest.py
 
     - name: Check for changes and push

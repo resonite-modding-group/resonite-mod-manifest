@@ -4,6 +4,9 @@
 	"description": "Stops DynamicBoneChain components from updating (locally) if your framerate is too low to properly simulate them.",
 	"category": "Optimization",
 	"sourceLocation": "https://github.com/isovel/DynBoneWrangler",
+	"flags": [
+	"deprecated"
+	],
 	"versions": {
 		"1.0.1": {
 			"releaseUrl": "https://github.com/isovel/DynBoneWrangler/releases/tag/v1.0.1",

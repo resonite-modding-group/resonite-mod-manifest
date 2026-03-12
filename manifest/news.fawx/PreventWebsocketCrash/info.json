@@ -1,0 +1,16 @@
+{
+	"name": "PreventWebsocketCrash",
+	"id": "news.fawx.PreventWebsocketCrash",
+	"description": "Fixes a randomly occuring world crash when receiving events from a websocket.",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash",
+	"versions": {
+		"0.1.2": {
+			"releaseUrl": "https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash/releases/tag/0.1.2",
+			"artifacts": [{
+				"url": "https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash/releases/download/0.1.2/PreventWebsocketCrash.dll",
+				"sha256": "1191e6944aa00226a49f5545e292da3874806801cc5985c93eeb9316d0feb30a"
+			}]
+		}
+	}
+}

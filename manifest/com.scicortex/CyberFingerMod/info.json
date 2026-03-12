@@ -1,0 +1,42 @@
+{
+	"name": "CyberFingerMod",
+	"id": "com.scicortex.CyberFingerMod",
+	"description": "A Resonite Mod that improves the hand-tracking and CyberFinger Controller experience",
+	"tags":[
+		"cyberfinger",
+		"hand-tracking",
+		"dash"
+	],
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/DrSciCortex/CyberFingerMod",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/v1.0.0/CyberFingerMod.dll",
+				"sha256": "1f271e65c01cb08809b706ae900d971ce6fd59bf650ad61ada8e6a5bc4b9e6ea"
+			}]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/v1.0.1/CyberFingerMod.dll",
+				"sha256": "05ee77e73cd714cee83ee9f2deb699b04307e87a02bc899eedf62bf51158f6f1"
+			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/v1.1.1/CyberFingerMod.dll",
+				"sha256": "98e75279f96410ff721375761066845e8b5ca1c4c1d186b91374a259f7b64a14"
+			}]
+		},
+		"1.1.2": {
+			"releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/1.1.2",
+			"artifacts": [{
+				"url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/1.1.2/CyberFingerMod.dll",
+				"sha256": "4a666db73be9b0a2539e00da71abb09810cde629b4ed82de2c056cf6ff0e72e9"
+			}]
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "CustomPlatformColors",
+	"id": "com.Dexy.CustomPlatformColors",
+	"description": "Change your UI and UIX colors, configurable through mod settings. 🎨",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/DexyThePuppy/CustomPlatformColors",
+	"additionalAuthors": [
+		"troyBORG",
+		"SectOLT",
+		"LeCloutPanda",
+		"SectOLT"
+	],
+	"tags": [
+		"colour",
+		"interface",
+		"color"
+	],
+	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/tag/v1.2",
+			"artifacts": [{
+				"url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/v1.2/CustomPlatformColors.dll",
+				"sha256": "448b70369da30213ecd5cefdf6bf0e8755f0c8e631bc286d4d4710550a88f0aa"
+			}],
+			"changelog": "Fix for Splittening Build // Net.9"
+		}
+	}
+}

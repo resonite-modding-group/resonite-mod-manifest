@@ -1,0 +1,21 @@
+{
+	"name": "MoreReferenceProxies",
+	"id": "com.GrandtheUK.MoreReferenceProxies",
+	"description": "An RML fork of the BepisLoader mod MoreReferenceProxies by EIA485 to add reference proxy source to bag editors and user inspector",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/GrandtheUK/MoreReferenceProxies",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/tag/v1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/download/v1.0.1/MoreReferenceProxies.dll",
+					"sha256": "736a2016413f3b2f4c2db1d2d26468c7c0b8e2c34dffca61b5ee4f02f1adf54e"
+				}
+			]
+		}
+	},
+    "additionalAuthors": [
+        "EIA485"
+    ]
+}

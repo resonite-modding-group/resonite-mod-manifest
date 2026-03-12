@@ -1,0 +1,30 @@
+{
+	"name": "ContextMenuBackOption",
+	"id": "dog.glacier.ContextMenuBackOption",
+	"description": "Adds a Back option to every Context Menu submenu.",
+	"category": "Context Menu",
+	"sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
+	"versions": {
+		"2.3.2": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.2",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.2/ContextMenuBackOption.dll",
+				"sha256": "7ec3573545d5c788d7780b9a4b9aabb2750c8c300e8d059e0c57b16d196b12b7"
+			}]
+		},
+		"2.3.1": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.1",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.1/ContextMenuBackOption.dll",
+				"sha256": "03adece33f50bf5425498f3397d9c80c7c18ae254ce7b8c614291e030dfe59b2"
+			}]
+		},
+		"2.3.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll",
+				"sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0"
+			}]
+		}
+	}
+}

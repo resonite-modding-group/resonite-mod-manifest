@@ -4,10 +4,84 @@
 	"description": "A mod loader for Resonite",
 	"category": "Plugins",
 	"sourceLocation": "https://github.com/resonite-modding-group/ResoniteModLoader/",
-	"tags": [
-		"modloader"
+	"flags": [
+		"plugin"
 	],
 	"versions": {
+		"5.0.1": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.1",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.4.2"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.1/ResoniteModLoader.dll",
+				"sha256": "7a3a021d560963fdc5b307fcd7dc6d94f562efa2f034820c340ca5ec2c4bfeb7" 
+			}]
+		},
+		"5.0.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.0",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.4.2"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.dll",
+				"sha256": "fdd3481ffbc1be68baa8f71ce09c5ea16cadfb7812bf310c9bcf755d490c17ba" 
+			}]
+		},
+		"4.2.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.2.0",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.4.2"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.2.0/ResoniteModLoader.dll",
+				"sha256": "f800d70dac23d68962abab347b87d7795d3b92c32c0cce92352020cbda33ba62" 
+			}]
+		},
+		"4.1.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.1.0",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.4.0"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.1.0/ResoniteModLoader.dll",
+				"sha256": "e57c1f844cfb784399b46567fc55bc4b9cab01d257b2b5beda105cd064b7e988" 
+			}]
+		},
+		"4.0.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.0.0",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.4.0"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.0.0/ResoniteModLoader.dll",
+				"filename": "ResoniteModLoader.dll",
+				"sha256": "faa02723c21b7e9fc38ebf10837d3468c73e947383a1fcb2ce0c4629e21b3fd4" 
+			}]
+		},
+		"3.0.0": {
+			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/3.0.0",
+			"dependencies": {
+				"net.pardeike.harmony": {
+					"version": "^2.3.3"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/3.0.0/ResoniteModLoader.dll",
+				"filename": "ResoniteModLoader.dll",
+				"sha256": "84150995e0cb9c54f1e2c8f4c169da31162bd8100b5c85354e9178261c116621" 
+			}]
+		},
 		"2.6.0": {
 			"releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/2.6.0",
 			"dependencies": {

@@ -1,0 +1,36 @@
+{
+	"name": "EnableToolspawnInVR",
+	"id": "ErrorJan.EnableToolspawnInVR",
+	"description": "Patching out a bool check, that removes the ability using the number keys to spawn out tools in VR.",
+	"category": "Controls",
+	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR",
+	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.2",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.2/EnableToolspawnInVR.dll",
+					"sha256": "35b45dcd1d3d4f202e2febe7e11c47358f5f41cedd5099c7c1355cf11622d0ac"
+				}
+			]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.1/EnableToolspawnInVR.dll",
+					"sha256": "e495b5bc3b38d2bed1a71e66efc118ead1798661b372b515c563823c78d1a108"
+				}
+			]
+		},
+		"1.0.0": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.0/EnableToolspawnInVR.dll",
+					"sha256": "f603d232216a8872b603356868c4cd81a1863358dcfc51c1a1c1e3e46c93e61f"
+				}
+			]
+		}
+	}
+}

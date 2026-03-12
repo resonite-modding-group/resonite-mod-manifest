@@ -5,6 +5,13 @@
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/dfgHiatus/ResoniteSVGImporter",
 	"versions": {
+		"2.0.2": {
+			"releaseUrl": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/tag/v2.0.2",
+			"artifacts": [{
+				"url": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/download/v2.0.2/SVGImporter.dll",
+				"sha256": "d96f3684e3c12aa6d6521f2ef40b7de0687e33fde379e21135a6834ac5817f6f"
+			}]
+		},
 		"2.0.0": {
 			"releaseUrl": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/tag/v2.0.0",
 			"artifacts": [{

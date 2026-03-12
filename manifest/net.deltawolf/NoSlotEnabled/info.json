@@ -1,0 +1,16 @@
+{
+	"name": "NoSlotEnabled",
+	"id": "net.deltawolf.NoSlotEnabled",
+	"description": "Disables the 'Enabled' checkbox on every slot in the inspector hierarchy.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/XDelta/NoSlotEnabled",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/NoSlotEnabled/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/NoSlotEnabled/releases/download/1.0.0/NoSlotEnabled.dll",
+				"sha256": "0224a647afe872f9f91acab4fcb9f7d0535efe9bb11678198aec023904169961"
+			}]
+		}
+	}
+}

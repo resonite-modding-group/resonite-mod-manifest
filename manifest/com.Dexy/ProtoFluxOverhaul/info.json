@@ -1,0 +1,67 @@
+{
+	"name": "ProtoFluxOverhaul",
+	"id": "com.Dexy.ProtoFluxOverhaul",
+	"description": "Customizable node colors, rounded textures, and animated wires for your ProtoFlux nodes.",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
+	"additionalAuthors": [
+		"NepuShiro"
+	],
+	"versions": {
+		"1.4.2": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2",
+			"artifacts": [{
+				"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
+				"sha256": "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7"
+			}]
+		},
+		"1.4.3": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.3",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.3/ProtoFluxOverhaul.dll",
+			"sha256": "414da7c71d8d4e0e22fa9e48a7e37172dcb3a6d1b93633cc078b6e0fffe5a2ec"
+			}],
+			"changelog": "Rebuild on net9.0"
+		},
+		"1.4.5": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.5",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.5/ProtoFluxOverhaul.dll",
+			"sha256": "4b8ea008d746fd3c52ca9795af7683bca21b13716efe6d301f429e91c79e7c2e"
+			}],
+			"changelog": "Two improvements, redesigned textures, added the option to color nodes by type"
+		},
+		"1.4.6": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.6",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.6/ProtoFluxOverhaul.dll",
+			"sha256": "428bf01135a2e53fd222f803402e443d1d61ec3a0b34329e587bfd192a9cf85a"
+			}],
+			"changelog": "Fixed backwards clientside wire textures and added new toggles"
+		},
+		"1.4.8": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.8",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.8/ProtoFluxOverhaul.dll",
+			"sha256": "34bd9c4667bf6de0fdb36df4fe188d5aa4333b23e91d1ae5779bdeba8622575c"
+			}],
+			"changelog": "Added Advanced Note Title, bug fixes, improved materials, changed text size"
+		},
+		"1.4.9": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.9",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.9/ProtoFluxOverhaul.dll",
+			"sha256": "9fa4b13e470934996e4622e5871539953341f741a62dd8480344204987a54d03"
+			}],
+			"changelog": "Fixes and sprite changes"
+		},
+		"1.5.0": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.5.0",
+			"artifacts": [{
+			"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.5.0/ProtoFluxOverhaul.dll",
+			"sha256": "49c4b49b886e3929795241b30f05a04a8a56f439f3f98a1009889183ee08afc7"
+			}],
+			"changelog": "Fixed permission issues"
+		}
+	}
+}

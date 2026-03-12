@@ -1,0 +1,19 @@
+{
+	"name": "SimpleScalableMeshOrbs",
+	"id": "com.__Choco__.SimpleScalableMeshOrbs",
+	"description": "Stops mesh orbs from spinning and makes them scalable.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs/releases/tag/V1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs/releases/download/V1.0.0/SimpleScalableMeshOrbs.dll",
+					"sha256": "9b84eaf40d429ac61d8eeced52a898b9eec09c3fd309545d7a9ac488b6c051cd"
+				}
+			]
+		}
+	}
+}
+

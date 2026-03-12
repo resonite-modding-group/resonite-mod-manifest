@@ -16,19 +16,19 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
-        python-version: "3.12"
+        python-version: "3.13"
         cache: "pip"
 
     - run: pip install -r requirements.txt
 
     - name: Get all changed mod info files
       id: changed-mod-files
-      uses: tj-actions/changed-files@v41
+      uses: step-security/changed-files@60967b822d3001fa82242f8d6b4ed46bc3600a68 # v47.0.1
       with:
         files: |
           manifest/**/info.json

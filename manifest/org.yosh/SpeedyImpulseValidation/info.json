@@ -1,0 +1,16 @@
+{
+	"name": "SpeedyImpulseValidation",
+	"id": "org.yosh.SpeedyImpulseValidation",
+	"description": "Optimizes the impulse validation code such that complex impulse chains don't start hitching the game.",
+	"category": "Optimization",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation",
+	"versions": {
+		"1.0.4": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation/releases/tag/v1.0.4",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation/releases/download/v1.0.4/SpeedyImpulseValidation.dll",
+				"sha256": "1ed0069ef1db3ee1db8668beb3b316516609703fd8de6f14669646d625b1a0b6"
+			}]
+		}
+	}
+}

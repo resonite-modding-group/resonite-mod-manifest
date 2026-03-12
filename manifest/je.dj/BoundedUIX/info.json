@@ -1,0 +1,40 @@
+{
+	"name": "BoundedUIX (djsime1's fork)",
+	"id": "je.dj.BoundedUIX",
+	"description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted. Fork of Banane9's BoundedUIX.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/djsime1/BoundedUIX",
+	"additionalAuthors": [
+		"Banane9"
+	],
+	"versions": {
+		"1.1.3": {
+			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/1.1.3",
+			"changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
+			"conflicts": {
+				"Banane9.BoundedUIX": {
+					"version": "*"
+				}
+			},
+			"artifacts": [{
+				"filename": "BoundedUIX.dll",
+				"url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.3/BoundedUIX.dll",
+				"sha256": "a195b75bf23d4f9dd1a2fff140da06d653d5cc2269cbdffabedd833f476bd55f"
+			}]
+		},
+		"1.1.2": {
+			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2",
+			"changelog": "Added:\n- A mod section header in RectTransform inspectors.\n\nUpdated:\n- Changed the mod ID from Banane9.BoundedUIX to je.dj.BoundedUIX for the RML mod manifest.\n\nBuilt against Resonite version 2025.3.28.1172.",
+			"conflicts": {
+				"Banane9.BoundedUIX": {
+					"version": "*"
+				}
+			},
+			"artifacts": [{
+				"filename": "BoundedUIX.dll",
+				"url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll",
+				"sha256": "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b"
+			}]
+		}
+	}
+}

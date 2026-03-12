@@ -1,7 +1,7 @@
 {
 	"name": "ReferenceFinderWizard",
 	"id": "owo.Nytra.ReferenceFinderWizard",
-	"description": "Adds a wizard that lets you find references to things. Has options to adjust the search and can optionally spawn a detailed text output.",
+	"description": "Adds a wizard that lets you find references to things. You can also find references via dev tool or inspectors. Has options to adjust the search and can optionally spawn a detailed text output.",
 	"category": "Wizards",
 	"sourceLocation": "https://github.com/Nytra/ResoniteReferenceFinderWizard",
 	"versions": {
@@ -17,6 +17,33 @@
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.0.1/ReferenceFinderWizard.dll",
 				"sha256": "e3e06ad0b77c534c72f9c08f77aa2f9514022e07d40a16b493b36241e746d99c"
+			}]
+		},
+		"1.0.2": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.0.2/ReferenceFinderWizard.dll",
+				"sha256": "2bc3aed7d5afa10fe74f415d120fec71ed6f239fcb77c354d7c1af6a2537d216"
+			}]
+		},
+		"1.1.3": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.1.3",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.1.3/ReferenceFinderWizard.dll",
+				"sha256": "03441b86954cb308a23781fd93934a600b8c596a9d3880965a30d1cc1d8eeb6e"
+			}]
+		},
+		"1.2.0": {
+			"dependencies": {
+				"org.yosh.ContextMenuHookLib": {
+					"version": "^1.0.0",
+					"optional": true
+				}
+			},
+			"releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.0/ReferenceFinderWizard.dll",
+				"sha256": "c4dfdff70de2694d0f8d2452944e9ed387598fea339a5c8e995cb2118aa415f5"
 			}]
 		}
 	}

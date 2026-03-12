@@ -1,0 +1,20 @@
+{
+    "versions": {
+        "1.0.2": {
+            "releaseUrl": "https://github.com/art0007i/SimplePictureCapture/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SimplePictureCapture/releases/download/1.0.2/SimplePictureCapture.dll",
+                    "filename": "SimplePictureCapture.dll",
+                    "sha256": "bbeb59f997f6ea1bb992a8cd846ebc8ff7e82f13e04a6ba8d8604f70f03ba422"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        }
+    },
+    "name": "SimplePictureCapture",
+    "id": "me.art0007i.SimplePictureCapture",
+    "description": "Allows you to take steam screenshots using the render to texture asset node.",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/art0007i/SimplePictureCapture"
+}

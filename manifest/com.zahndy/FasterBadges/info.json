@@ -1,0 +1,21 @@
+{
+	"name": "FasterBadges",
+	"id": "com.zahndy.FasterBadges",
+	"description": "Badges manager with badge presets, custom badges and badge removal",
+	"tags": [
+        "badges",
+        "badge",
+        "manager"
+    ],
+	"category": "Misc",
+	"sourceLocation": "https://github.com/zahndy/FasterBadges",
+	"versions": {
+		"1.6.1": {
+			"releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.1",
+			"artifacts": [{
+				"url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll",
+				"sha256": "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac"
+			}]
+		}
+	}
+}

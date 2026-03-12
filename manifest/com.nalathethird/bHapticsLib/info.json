@@ -1,0 +1,18 @@
+{
+	"name": "bHapticsLib",
+	"id": "com.nalathethird.bHapticsLib",
+	"description": "Modern .NET9 Library for bHaptics Integration",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/nalathethird/bHapticsLib",
+	"versions": {
+		"1.0.8": {
+			"releaseUrl": "https://github.com/nalathethird/bHapticsLib/releases/tag/1.0.8",
+			"artifacts": [
+				{
+					"url": "https://github.com/nalathethird/bHapticsLib/releases/download/1.0.8/bHapticsLib.dll",
+					"sha256": "40bf725c0dc10c57160c058c150beb0caa1720fbb9c772c119115603a6af90c4"
+				}
+			]
+		}
+	}
+}

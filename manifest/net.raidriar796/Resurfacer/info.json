@@ -1,0 +1,79 @@
+{
+	"name": "Resurfacer",
+	"id": "net.raidriar796.Resurfacer",
+	"description": "Adds batch texture operations.",
+	"category": "Wizards",
+	"sourceLocation": "https://github.com/Raidriar796/Resurfacer",
+	"versions": {
+		"0.4.1": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.1/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "DDF196C7D23850CE6A007E3DA0F90F13B29D0E7CDA0814B95EAE9737ADF785C6"
+				}
+			]
+		},
+		"0.4.0": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.0/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "B962B0814102F2644086EE5C44F0344E6EF6B453F833606651AA66625637711C"
+				}
+			]
+		},
+		"0.3.0": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.3.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.3.0/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "0C26B17BAF09A2E6FCDA170E117B82A35A6EA8AD3ACAFD47F28EF489F63DC0E4"
+				}
+			]
+		},
+		"0.2.2": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.2",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.2/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "5880FD5CA02199CA0BCDEBEB2D8E0F659F0780C7DDAF644F93CEDADB343A4025"
+				}
+			]
+		},
+		"0.2.1": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.1/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "93793F115C6794D70DA296B2EEA4332D4FC1EA9E0F51A18A8CCF2837492B577C"
+				}
+			]
+		},
+		"0.2.0": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.0/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "FDB5ACCBB98FA337555CF013E454272F74BDAB2686B6965313DC4419DCBA0993"
+				}
+			]
+		},
+		"0.1.0": {
+			"releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.1.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll",
+					"filename": "Resurfacer.dll",
+					"sha256": "61AE8977595B983B604A9D99181F28C34D9D76D0FC172A67146ABAD135DB1150"
+				}
+			]
+		}
+	}
+}

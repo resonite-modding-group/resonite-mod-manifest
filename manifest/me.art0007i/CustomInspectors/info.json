@@ -25,6 +25,74 @@
                 }
             ],
             "changelog": "Fix reference to SkyFrost"
+        },
+        "2.1.3": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.3/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "3223d33159b848d6ae2d00a0077825697554db7c06f94bc3b6c34871e5d54794"
+                }
+            ],
+            "changelog": "Fix for type management build"
+        },
+        "2.1.4": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.4/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "caceeab994bfec8aa7009c3c29deccf63763a25fbf3816588f51565fc2c32307"
+                }
+            ]
+        },
+        "2.1.5": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.5",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.5/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "7955c4000384691d85b99d0b97048808f180b79d3765679c6155feb1ad8a5d4e"
+                }
+            ],
+            "changelog": "Rebuild for latest version of resonite."
+        },
+        "2.1.6": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.6/CustomInspectors.dll",
+                    "filename": "CustomInspectors.dll",
+                    "sha256": "c3e19f5f7f595c6ec6e57c1e1d969db442e0bc4e986a569089e4be1c48df0515"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
+        "2.2.0": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.0/CustomInspectors.dll",
+                    "sha256": "c6e976634db9a41a8610cd4c39a8737c922310a55d8a1a376b414ff865b6ea8a"
+                }
+            ],
+            "changelog": "Fix importing animj crashing the game"
+        },
+        "2.2.1": {
+            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.1",
+            "dependencies": {
+                "me.art0007i.SpecialItemsLib": {
+                    "version": "^2.0.3"
+                }
+            },
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.1/CustomInspectors.dll",
+                    "sha256": "f0c6b586e93ddfbda237f04daba843984515fd24e1fd30d0f109b361ea520cdd"
+                }
+            ],
+            "changelog": "Fix scaling of inspector when spawned using the 'pop out button' on a RefEditor."
         }
     }
 }

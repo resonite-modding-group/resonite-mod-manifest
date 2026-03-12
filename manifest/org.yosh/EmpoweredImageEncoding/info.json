@@ -1,0 +1,37 @@
+{
+	"name": "EmpoweredImageEncoding",
+	"id": "org.yosh.EmpoweredImageEncoding",
+	"description": "Configure Resonite image encoding & quick photo quality parameters",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v1.0.0/EmpoweredImageEncoding.dll",
+				"sha256": "eee0760b3e9593e75486b72dd9751aa33960b6c693dd8422fafa039b4fcbcc69"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v1.1.0/EmpoweredImageEncoding.dll",
+				"sha256": "8e17fb603b5dc9efea9349e3d7407a7b6feb55780cd887814cbe52239ab9e699"
+			}]
+		},
+		"2.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.0/EmpoweredImageEncoding.dll",
+				"sha256": "3700d1b945bd45609b723ed7fa7ce45515568610fbdfc9605efb2b7b75ebf6fb"
+			}]
+		},
+		"2.0.1": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.1/EmpoweredImageEncoding.dll",
+				"sha256": "853eed74c78edddf14d71632280587126a04bd7e7a43e95dd999165599d16fc0"
+			}]
+		}
+	}
+}

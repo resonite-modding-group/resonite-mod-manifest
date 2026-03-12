@@ -1,0 +1,44 @@
+{
+	"name": "ResoniteSlotInspectorCounter",
+	"id": "net.NepuShiro.ResoniteSlotInspectorCounter",
+	"description": "Changes the Collapse/Expand Buttons on the Inspector to Reflect the amount of Slots in that Slot Recursively.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter",
+	"versions": {
+		"1.3.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.3.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.3.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "108d0dc4be5a219751f741df5f74350929a1fd476915e20222a3dc5387996adf"
+			}]
+		},
+		"1.5.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.5.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.5.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "67e229fa48d362a9a5ca717d554e3cd926c2feb9252d42e8045bebdc2f1340c2"
+			}]
+		},
+		"1.6.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.6.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.6.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab"
+			}]
+		},
+		"1.9.0": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.0",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.0/ResoniteSlotInspectorCounter.dll",
+				"sha256": "5f37863d118ff9baeaa1b24428267e93960747e742bd12c73410bbd220553232"
+			}]
+		},
+		"1.9.2": {
+			"releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.2",
+			"artifacts": [{
+				"url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.2/ResoniteSlotInspectorCounter.dll",
+				"sha256": "2ce683dfbc0bde712a8ba26209f2ab725295d96c25ca7d49180b8bb63f98bdac"
+			}]
+		}
+	}
+}

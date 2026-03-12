@@ -1,0 +1,77 @@
+{
+	"name": "ResoniteMP3",
+	"id": "com.__Choco__.ResoniteMP3",
+	"description": "Usually, resonite imports MP3 files as videos. This mod auto converts MP3 files into OGG files on import so that they import as audio files.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/AwesomeTornado/ResoniteMP3",
+	"versions": {
+		"3.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V3.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/ResoniteMP3.dll",
+					"sha256": "2f3787c38c8338c48364224453e76a736982e60f7f26cf654b72c50b39264aa9"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/FFMpegCore.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "8065e8a1ae74db282723e0e53faa56410c867e9b41df7e835f54cf1e9807acc1"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/Instances.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "2c196e02ca9bc8d9b2aea7506014636e48868e180b0f54f7ff0ad520963588bf"
+				}
+			]
+		},
+		"2.1.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V2.1.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.1.0/ResoniteMP3.dll",
+					"sha256": "a962f9d9000ef8cba467e6059f0a327c0dae78c3364b5b415f3b7e0ec9f14625"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.1.0/NAudio.Core.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "fcf493fc47a2f478a65303886b975fbdbf714cbb1f2d79f7fce97e4bb16b01a8"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.1.0/NAudio.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "8bf0f2e8dadf3967757191c2212c269333ccd9d7e59839eea968212c64787be9"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.1.0/NAudio.WinMM.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "749a01ebbb5edd8b1a03c5263b04de6acadecf52e4cc84d7412bc6e93f180958"
+				}
+			]
+		},
+		"2.0.0": {
+			"releaseUrl": "https://github.com/AwesomeTornado/ResoniteMP3/releases/tag/V2.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.0.0/ResoniteMP3.dll",
+					"sha256": "aeaa1b92056d6f03a08cdae6ea496b819d4b28ad5d053deaa92c584bee599cfd"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.0.0/NAudio.Core.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "fcf493fc47a2f478a65303886b975fbdbf714cbb1f2d79f7fce97e4bb16b01a8"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.0.0/NAudio.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "8bf0f2e8dadf3967757191c2212c269333ccd9d7e59839eea968212c64787be9"
+				},
+				{
+					"url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.0.0/NAudio.WinMM.dll",
+					"installLocation": "/rml_libs",
+					"sha256": "749a01ebbb5edd8b1a03c5263b04de6acadecf52e4cc84d7412bc6e93f180958"
+				}
+			]
+		}
+	}
+}
+

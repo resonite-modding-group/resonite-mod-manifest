@@ -5,6 +5,13 @@
 	"category": "Misc",
 	"sourceLocation": "https://github.com/hantabaru1014/SaveItemTweaks",
 	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
+				"sha256": "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94"
+			}]
+		},
 		"2.0.2": {
 			"releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.2",
 			"artifacts": [{

@@ -1,0 +1,23 @@
+{
+	"name": "NonPersistentInspectors",
+	"id": "net.deltawolf.NonPersistentInspectors",
+	"description": "Inspectors you spawn will be set as non-persistent",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/XDelta/NonPersistentInspectors",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.1/NonPersistentInspectors.dll",
+				"sha256": "fff07d9f3713341c04ba8fc98f875bff08e423f9a8f073645000642d28e76ced"
+			}]
+		},
+		"2.0.0": {
+			"releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.0/NonPersistentInspectors.dll",
+				"sha256": "3d15180b8f3cc4fac717cc777248a96b50ec3ab02b17cd0cdf7f3b88628caaaf"
+			}]
+		}
+	}
+}
