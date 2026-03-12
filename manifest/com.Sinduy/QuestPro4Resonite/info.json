@@ -19,7 +19,7 @@
 					"version": "^1.9.0"
 				},
 				"korejan.libalxr": {
-					"version": "v0.76.0%2Bnightly.2025.10.23",
+					"version": "0.76.0+nightly.2025.10.23",
 					"optional": true
 				}
 			},
