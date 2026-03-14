@@ -884,6 +884,44 @@
                 }
             },
             "entries": {
+                "com.Sinduy.DoNotRunAwaySceneInspecter": {
+                    "category": "Inspectors",
+                    "description": "This mod prevents the scene inspector from moving away form user when they are trying to inspect a scene.",
+                    "name": "DoNotRunAwaySceneInspecter",
+                    "sourceLocation": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "a2ee76df5361933db30e812d3fad60998409eba2dc14dfbf5dfca0d52ac6e0cf",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.0/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "a6c9c20c62661331bbd994a1d9749bb2bd2225d4dc1568b49695da8aece9812a",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.1/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.1"
+                        },
+                        "1.0.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "ec022ba693587dfc67773e226295ab5d79418cb4384c3930492b72e2e89b4812",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/1.0.5/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/1.0.5"
+                        }
+                    }
+                },
                 "com.Sinduy.QuestPro4Resonite": {
                     "additionalAuthors": {
                         "Dante Tucker": {},
@@ -892,12 +930,14 @@
                         "dfgHiatus": {}
                     },
                     "category": "Hardware Integration",
-                    "description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
-                    "flags": [
-                        "deprecated"
-                    ],
+                    "description": "Eye tracking and facial tracking for Quest Pro using ALXR. Addition steps required, read the instructions on the github page to fully install the mod.",
                     "name": "QuestPro4Resonite",
                     "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
+                    "tags": [
+                        "alvr",
+                        "face",
+                        "link"
+                    ],
                     "versions": {
                         "2.1.4": {
                             "artifacts": [
@@ -913,6 +953,21 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "QuestProModule.dll",
+                                    "sha256": "1436145df2153f3cc77c7c3a65b03d69586fa14c3e9774b53673c24846199808",
+                                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.2.0/QuestProModule.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "com.Sinduy.libalxr-sharp": {
+                                    "version": "^1.9.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.2.0"
                         }
                     }
                 },
@@ -959,6 +1014,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.3"
+                        },
+                        "1.0.6": {
+                            "artifacts": [
+                                {
+                                    "filename": "SlotInspectorHighlighter.dll",
+                                    "sha256": "13b11885bf65be1f6758f635c08ad645ae03e3fda13c109b93741d7c2bd29abd",
+                                    "url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/1.0.6/SlotInspectorHighlighter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/1.0.6"
                         }
                     }
                 },
@@ -981,6 +1046,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0"
+                        },
+                        "1.9.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "libalxr-sharp.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620",
+                                    "url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.9.0/libalxr-sharp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.9.0"
                         }
                     }
                 }
