@@ -4353,6 +4353,32 @@
                         }
                     }
                 },
+                "me.art0007i.WikiIntegration": {
+                    "additionalAuthors": {
+                        "Banane9": {
+                            "Banane9": {
+                                "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                                "support": "https://paypal.me/Banane9",
+                                "url": "https://github.com/Banane9"
+                            }
+                        }
+                    },
+                    "category": "Inspectors",
+                    "description": "Adds links to the Wiki to Components in Worker Inspectors and ProtoFlux nodes.",
+                    "name": "WikiIntegration",
+                    "sourceLocation": "https://github.com/art0007i/WikiIntegration",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d35423983e2b5c561751b7cf2146f3f492b49953db047b36969a490861938cd0",
+                                    "url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.0/WikiIntegration.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/WikiIntegrationRML/releases/tag/0.1.0"
+                        }
+                    }
+                },
                 "me.art0007i.\ud83c\udf40": {
                     "category": "Memes",
                     "description": "Makes you luckier",
