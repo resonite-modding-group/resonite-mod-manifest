@@ -1032,7 +1032,7 @@
                         "korejan": {}
                     },
                     "category": "Libraries",
-                    "description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.2",
+                    "description": ".NET Bindings for libalxr compiled with .NET 10",
                     "name": "libalxr-sharp",
                     "sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
                     "versions": {
@@ -4934,10 +4934,10 @@
                         }
                     }
                 },
-                "net.deltawolf.Inspectorimprovements": {
+                "net.deltawolf.InspectorImprovements": {
                     "category": "Inspectors",
                     "description": "Adds several configurable improvements to inspectors",
-                    "name": "Inspectorimprovements",
+                    "name": "InspectorImprovements",
                     "sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
                     "versions": {
                         "1.0.0": {
