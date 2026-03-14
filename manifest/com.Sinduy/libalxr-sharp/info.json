@@ -8,6 +8,16 @@
 		"korejan"
 	],
 	"versions": {
+		"1.9.0": {
+			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.9.0",
+			"artifacts": [{
+				"url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.9.0/libalxr-sharp.dll",
+				"filename": "libalxr-sharp.dll",
+				"sha256": "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620",
+				"installLocation": "/rml_libs"
+			}]
+		},
+
 		"1.2.0": {
 			"releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0",
 			"artifacts": [{
