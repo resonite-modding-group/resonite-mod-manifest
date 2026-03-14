@@ -1,6 +1,6 @@
 {
-	"name": "Inspectorimprovements",
-	"id": "net.deltawolf.Inspectorimprovements",
+	"name": "InspectorImprovements",
+	"id": "net.deltawolf.InspectorImprovements",
 	"description": "Adds several configurable improvements to inspectors",
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
