@@ -2061,6 +2061,28 @@
                         }
                     }
                 },
+                "com.zahndy.StopTouchingMyEyeballs": {
+                    "category": "Bug Workaround",
+                    "description": "Replaces the eyetracking fallback that sometimes causes eyes to cross. Workaround for bug #263",
+                    "name": "StopTouchingMyEyeballs",
+                    "sourceLocation": "https://github.com/zahndy/StopTouchingMyEyeballs",
+                    "tags": [
+                        "Eyetracking",
+                        "Crosseyed",
+                        "Bug"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d8d98086c75ca8260870bcad12c7988e51be7d1e8fd4f8368d8f466df7a2e1c7",
+                                    "url": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/download/1.0.0/StopTouchingMyEyeballs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "com.zahndy.TrackerVisuals": {
                     "category": "Visual Tweaks",
                     "description": "Removes or replaces Vive/Tundra Tracker Models.",
