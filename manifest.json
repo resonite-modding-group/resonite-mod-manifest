@@ -4499,6 +4499,9 @@
                 "net.Cyro.EffortlessEfficiency": {
                     "category": "Optimization",
                     "description": "Provide a continually-expanding patchset for increasing performance in certain key areas of the game to reduce microstutters and momentary hitching.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "EffortlessEfficiency",
                     "sourceLocation": "https://github.com/BlueCyro/EffortlessEfficiency",
                     "versions": {
