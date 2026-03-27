@@ -1,2 +1,2 @@
-check-jsonschema==0.37.0
+check-jsonschema==0.37.1
 packaging==26.0
