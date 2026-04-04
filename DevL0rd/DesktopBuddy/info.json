@@ -1,7 +1,7 @@
 {
   "name": "DesktopBuddy",
   "id": "com.devl0rd.DesktopBuddy",
-  "description": "Super early access desktop/window viewer with touch input, GPU capture, and streaming to other users via Cloudflare Tunnel. Windows and NVIDIA GPU only for the moment. If streaming doesn't work, run as admin: netsh http add urlacl url=http://+:48080/ user=Everyone",
+  "description": "Super early access desktop/window viewer with touch input, GPU capture, and streaming to other users via Cloudflare Tunnel. Windows and NVIDIA GPU only for the moment. If streaming doesn't work, run as admin: netsh http add urlacl url=http://+:48080/ sddl=D:(A;;GX;;;S-1-1-0)",
   "category": "Misc",
   "sourceLocation": "https://github.com/DevL0rd/DesktopBuddy",
   "platforms": ["windows"],
