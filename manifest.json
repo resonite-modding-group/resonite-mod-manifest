@@ -6943,6 +6943,30 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.2"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "71301637fff29f5fa502b06a3d3abd75538335ca58409038aebab7b3a413d470",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.3/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.3"
                         }
                     }
                 },
