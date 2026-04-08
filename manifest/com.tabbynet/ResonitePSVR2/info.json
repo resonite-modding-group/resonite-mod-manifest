@@ -5,6 +5,27 @@
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
 	"versions": {
+		"1.1.2": {
+			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.2",
+			"artifacts": [{
+				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.2/ResonitePSVR2.dll",
+				"sha256": "aae71b5a153f9103585d1e5adc5120dc8d70ffd3ba3da79d1705147489c06957"
+			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.1/ResonitePSVR2.dll",
+				"sha256": "9881598f9ed913bbb9c45c1d148ecd4ee2168071a9db4c3d7c374ede538f4795"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.0/ResonitePSVR2.dll",
+				"sha256": "a783f2c74fb7a75ae28d87fb3833ba9509fa4c2a303af1f8940fa2d6fae4cd92"
+			}]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1",
 			"artifacts": [{
