@@ -2107,6 +2107,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3619b2862f279074bfd1754029e469f88c28ea865ca34c32211f1db0197f6c2c",
+                                    "url": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/download/1.0.1/StopTouchingMyEyeballs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.1"
                         }
                     }
                 },
