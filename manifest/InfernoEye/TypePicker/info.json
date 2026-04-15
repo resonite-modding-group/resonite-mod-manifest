@@ -1,0 +1,18 @@
+{
+	"name": "TypePicker",
+	"id": "InfernoEye.TypePicker",
+	"description": "Allows you to simply drop a reference into component attacher and choose what kind of type you want",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/InfernoEye/TypePicker",
+	"versions": {
+		"2.0.4": {
+			"releaseUrl": "https://github.com/InfernoEye/TypePicker/releases/tag/2.0.4",
+			"artifacts": [
+				{
+					"url": "https://github.com/InfernoEye/TypePicker/releases/download/2.0.4/TypePicker.dll",
+					"sha256": "a1bb7db26c634dd87576d42c18cd315af6c18c60d3a5b664408d769f91381306"
+				}
+			]
+		}
+	}
+}
