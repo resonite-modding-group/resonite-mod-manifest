@@ -8,6 +8,17 @@
 		"Purpzie"
 	],
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/InfernoEye/ResoSmoothFT/releases/tag/1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/InfernoEye/ResoSmoothFT/releases/download/1.0.1/SmoothFaceTracking.dll",
+					"sha256": "f98baf8bca739dbec08324753c12552d2db6b160a58743d0377b340c2637c268"
+				}
+			]
+		}
+	},
+	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/InfernoEye/ResoSmoothFT/releases/tag/1.0.0",
 			"artifacts": [
