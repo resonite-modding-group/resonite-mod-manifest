@@ -5,6 +5,15 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/InfernoEye/TypePicker",
 	"versions": {
+		"2.0.5": {
+			"releaseUrl": "https://github.com/InfernoEye/TypePicker/releases/tag/2.0.5",
+			"artifacts": [
+				{
+					"url": "https://github.com/InfernoEye/TypePicker/releases/download/2.0.5/TypePicker.dll",
+					"sha256": "83350947dd04730950cbeec3e3a4172ffcd4f3948f4928ba218823032015f824"
+				}
+			]
+		},
 		"2.0.4": {
 			"releaseUrl": "https://github.com/InfernoEye/TypePicker/releases/tag/2.0.4",
 			"artifacts": [
