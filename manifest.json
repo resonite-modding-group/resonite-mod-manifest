@@ -176,6 +176,26 @@
                 }
             },
             "entries": {
+                "InfernoEye.SmoothFaceTracking": {
+                    "additionalAuthors": {
+                        "Purpzie": {}
+                    },
+                    "category": "Visual Tweaks",
+                    "description": "Configurable smoothing for face tracking",
+                    "name": "SmoothFaceTracking",
+                    "sourceLocation": "https://github.com/InfernoEye/ResoSmoothFT",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f98baf8bca739dbec08324753c12552d2db6b160a58743d0377b340c2637c268",
+                                    "url": "https://github.com/InfernoEye/ResoSmoothFT/releases/download/1.0.0/SmoothFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/InfernoEye/ResoSmoothFT/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "InfernoEye.TypePicker": {
                     "category": "Technical Tweaks",
                     "description": "Allows you to simply drop a reference into component attacher and choose what kind of type you want",
