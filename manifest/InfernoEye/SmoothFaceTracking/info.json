@@ -4,7 +4,7 @@
 	"description": "Configurable smoothing for face tracking",
 	"category": "Visual Tweaks",
 	"sourceLocation": "https://github.com/InfernoEye/ResoSmoothFT",
-  "additionalAuthors": [
+	"additionalAuthors": [
 		"Purpzie"
 	],
 	"versions": {
@@ -16,9 +16,7 @@
 					"sha256": "b26855d977c86f8d7b69466ac0a04622964cdb19b612177d00d70c2a987d5ea2"
 				}
 			]
-		}
-	},
-	"versions": {
+		},
 		"1.0.0": {
 			"releaseUrl": "https://github.com/InfernoEye/ResoSmoothFT/releases/tag/1.0.0",
 			"artifacts": [
