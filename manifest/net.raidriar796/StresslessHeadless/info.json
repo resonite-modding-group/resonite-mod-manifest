@@ -8,65 +8,77 @@
 	],
 	"sourceLocation": "https://codeberg.org/Raidriar/StresslessHeadless",
 	"versions": {
-		"2.0.2": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.2",
+		"2.1.0": {
+			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.1.0",
 			"artifacts": [
 				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.2/StresslessHeadless.dll",
+					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.1.0/StresslessHeadless.dll",
 					"filename": "StresslessHeadless.dll",
-					"sha256": "1DCF08A17FA2B31F561224B00897E597DFD47ED06986E983746A3272A334F689"
+					"sha256": "66E99BA443238F754E0ED9DBFF7E9D364194DE4E2FCA4ABB58FCD468C7E5EB88"
 				}
 			]
 		},
-		"2.0.1": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.1",
-			"artifacts": [
-				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll",
-					"filename": "StresslessHeadless.dll",
-					"sha256": "59354E634CFF92B3A70B9335481A10717BBCAC716FF6F84ABFCDD13BA747F16C"
-				}
-			]
-		},
-		"2.0.0": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.0",
-			"artifacts": [
-				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
-					"filename": "StresslessHeadless.dll",
-					"sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A"
-				}
-			]
-		},
-		"1.3.1": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.3.1",
-			"artifacts": [
-				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
-					"filename": "StresslessHeadless.dll",
-					"sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166"
-				}
-			]
-		},
-		"1.2.0": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.2.0",
-			"artifacts": [
-				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
-					"filename": "StresslessHeadless.dll",
-					"sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15"
-				}
-			]
-		},
-		"1.1.0": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.1.0",
-			"artifacts": [
-				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
-					"filename": "StresslessHeadless.dll",
-					"sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D"
-				}
-			]
+		"sourceLocation": "https://codeberg.org/Raidriar/StresslessHeadless",
+		"versions": {
+			"2.0.2": {
+				"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.2",
+				"artifacts": [
+					{
+						"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.2/StresslessHeadless.dll",
+						"filename": "StresslessHeadless.dll",
+						"sha256": "1DCF08A17FA2B31F561224B00897E597DFD47ED06986E983746A3272A334F689"
+					}
+				]
+			},
+			"2.0.1": {
+				"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.1",
+				"artifacts": [
+					{
+						"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll",
+						"filename": "StresslessHeadless.dll",
+						"sha256": "59354E634CFF92B3A70B9335481A10717BBCAC716FF6F84ABFCDD13BA747F16C"
+					}
+				]
+			},
+			"2.0.0": {
+				"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.0",
+				"artifacts": [
+					{
+						"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
+						"filename": "StresslessHeadless.dll",
+						"sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A"
+					}
+				]
+			},
+			"1.3.1": {
+				"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.3.1",
+				"artifacts": [
+					{
+						"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
+						"filename": "StresslessHeadless.dll",
+						"sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166"
+					}
+				]
+			},
+			"1.2.0": {
+				"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.2.0",
+				"artifacts": [
+					{
+						"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
+						"filename": "StresslessHeadless.dll",
+						"sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15"
+					}
+				]
+			},
+			"1.1.0": {
+				"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.1.0",
+				"artifacts": [
+					{
+						"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
+						"filename": "StresslessHeadless.dll",
+						"sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D"
+					}
+				]
+			}
 		}
 	}
-}
