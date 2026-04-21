@@ -9,10 +9,10 @@
 	"sourceLocation": "https://codeberg.org/Raidriar/StresslessHeadless",
 	"versions": {
 		"2.1.0": {
-			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.1.0",
+			"releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/v2.1.0",
 			"artifacts": [
 				{
-					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.1.0/StresslessHeadless.dll",
+					"url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/v2.1.0/StresslessHeadless.dll",
 					"filename": "StresslessHeadless.dll",
 					"sha256": "66E99BA443238F754E0ED9DBFF7E9D364194DE4E2FCA4ABB58FCD468C7E5EB88"
 				}
