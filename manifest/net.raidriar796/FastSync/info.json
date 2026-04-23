@@ -5,6 +5,16 @@
 	"category": "Optimization",
 	"sourceLocation": "https://codeberg.org/Raidriar/FastSync",
 	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.1.0",
+			"artifacts": [
+				{
+					"url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.1.0/FastSync.dll",
+					"filename": "FastSync.dll",
+					"sha256": "8045D74F505989AFC32CA9FF353BA9F3AF25C38472A1C3702D78A70370FD06B3"
+				}
+			]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.0.1",
 			"artifacts": [
