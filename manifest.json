@@ -6082,6 +6082,16 @@
                                 }
                             ],
                             "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "FastSync.dll",
+                                    "sha256": "8045D74F505989AFC32CA9FF353BA9F3AF25C38472A1C3702D78A70370FD06B3",
+                                    "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.1.0/FastSync.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -6472,6 +6482,16 @@
                                 }
                             ],
                             "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.2.0"
+                        },
+                        "2.2.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "0E2A5E497D45EB4E29FF3300CA382069BE8EDA439F9E389B7DD5110214B3E1C5",
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.1/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.2.1"
                         }
                     }
                 },
