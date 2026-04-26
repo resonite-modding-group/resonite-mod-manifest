@@ -6184,6 +6184,84 @@
                         }
                     }
                 },
+                "net.raidriar796.IkCulling": {
+                    "category": "Optimization",
+                    "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
+                    "name": "IkCulling",
+                    "sourceLocation": "https://codeberg.org/Raidriar/IkCulling",
+                    "versions": {
+                        "2.5.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.5.0"
+                        },
+                        "2.6.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.6.1"
+                        },
+                        "2.6.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.6.2"
+                        },
+                        "2.7.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.7.0"
+                        },
+                        "2.7.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "86D901A818477840272FB1AAA3480F87AC97F8FB9691CF9B60FD33D1CC9770B6",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.7.1"
+                        },
+                        "2.8.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "IkCulling.dll",
+                                    "sha256": "4077940A210542AAB7694C195594515B250C12B95A97030005BC329366EB6431",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.0/IkCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.0"
+                        },
+                        "2.8.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "IkCulling.dll",
+                                    "sha256": "F5EEB8F37E5CC4DD9513186F78A798DFB04A34701809AA656BFE0AAB0217F29E",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.1/IkCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.1"
+                        }
+                    }
+                },
                 "net.raidriar796.LiteStreams": {
                     "category": "Optimization",
                     "description": "Reduces outbound network traffic.",
@@ -6264,64 +6342,6 @@
                                 }
                             ],
                             "releaseUrl": "https://codeberg.org/Raidriar/NoSteamScreenshots/releases/tag/1.0.1"
-                        }
-                    }
-                },
-                "net.raidriar796.ResoniteIkCulling": {
-                    "category": "Optimization",
-                    "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
-                    "name": "ResoniteIkCulling",
-                    "sourceLocation": "https://codeberg.org/Raidriar/ResoniteIkCulling",
-                    "versions": {
-                        "2.5.0": {
-                            "artifacts": [
-                                {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
-                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.5.0"
-                        },
-                        "2.6.1": {
-                            "artifacts": [
-                                {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A",
-                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.6.1"
-                        },
-                        "2.6.2": {
-                            "artifacts": [
-                                {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
-                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.6.2"
-                        },
-                        "2.7.0": {
-                            "artifacts": [
-                                {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
-                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.7.0"
-                        },
-                        "2.7.1": {
-                            "artifacts": [
-                                {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "86D901A818477840272FB1AAA3480F87AC97F8FB9691CF9B60FD33D1CC9770B6",
-                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.7.1"
                         }
                     }
                 },
