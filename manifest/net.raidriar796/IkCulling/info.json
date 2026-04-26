@@ -1,6 +1,6 @@
 {
-	"name": "ResoniteIkCulling",
-	"id": "net.raidriar796.ResoniteIkCulling",
+	"name": "IkCulling",
+	"id": "net.raidriar796.IkCulling",
 	"description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
 	"category": "Optimization",
 	"sourceLocation": "https://codeberg.org/Raidriar/IkCulling",
