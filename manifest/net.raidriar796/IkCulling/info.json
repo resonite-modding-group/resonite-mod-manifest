@@ -5,6 +5,16 @@
 	"category": "Optimization",
 	"sourceLocation": "https://codeberg.org/Raidriar/IkCulling",
 	"versions": {
+		"2.8.1": {
+			"releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.1",
+			"artifacts": [
+				{
+					"url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.1/IkCulling.dll",
+					"filename": "IkCulling.dll",
+					"sha256": "F5EEB8F37E5CC4DD9513186F78A798DFB04A34701809AA656BFE0AAB0217F29E"
+				}
+			]
+		},
 		"2.8.0": {
 			"releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.0",
 			"artifacts": [
