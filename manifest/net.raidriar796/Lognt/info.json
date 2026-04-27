@@ -5,6 +5,16 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://codeberg.org/Raidriar/Lognt",
 	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.2.0",
+			"artifacts": [
+				{
+					"url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.2.0/Lognt.dll",
+					"filename": "Lognt.dll",
+					"sha256": "8C3F50E63CCA6FDE5053A40CB170AF14CC59C0C2A6186BD1501FE79F6AAB2195"
+				}
+			]
+		},
 		"1.1.1": {
 			"releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.1.1",
 			"artifacts": [
