@@ -233,6 +233,33 @@
                 }
             }
         },
+        "Kayt": {
+            "author": {
+                "Kayt": {
+                    "icon": "https://github.com/jukefr.png",
+                    "url": "https://github.com/jukefr"
+                }
+            },
+            "entries": {
+                "Kayt.CustomInspectorFonts": {
+                    "category": "Visual Tweaks",
+                    "description": "Change the font used in Resonite's inspector panels and developer UI to whatever you want using a FontChain component on your avatar.",
+                    "name": "CustomInspectorFonts",
+                    "sourceLocation": "https://github.com/jukefr/ResoniteCustomInspectorFonts",
+                    "versions": {
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8e766a64b967320a9837134ac0eafe31fd3a22a2f2265ebf11e1e32ddf04326c",
+                                    "url": "https://github.com/jukefr/ResoniteCustomInspectorFonts/releases/download/v1.2.0/CustomInspectorFonts.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/jukefr/ResoniteCustomInspectorFonts/releases/tag/v1.2.0"
+                        }
+                    }
+                }
+            }
+        },
         "Restrainite": {
             "author": {
                 "Restrainite developers": {
