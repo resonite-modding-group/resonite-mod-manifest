@@ -1,8 +1,8 @@
 {
 	"name": "CustomInspectorFonts",
-	"id": "Kayt.CustomInspectorFonts",
+	"id": "org.Kayt.CustomInspectorFonts",
 	"description": "Change the font used in Resonite's inspector panels and developer UI to whatever you want using a FontChain component on your avatar.",
-	"category": "Visual Tweaks",
+	"category": "Inspectors",
 	"sourceLocation": "https://github.com/jukefr/ResoniteCustomInspectorFonts",
 	"versions": {
 		"1.2.0": {
