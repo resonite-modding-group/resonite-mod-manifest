@@ -10,7 +10,6 @@
 			"artifacts": [
 				{
 					"url": "https://github.com/Moonbasee/ReBlendshapes/releases/download/1.0.0/ReBlendshapes.dll",
-					"filename": "ReBlendshapes.dll",
 					"sha256": "09a960e0e0d30528b38c196a04c17f7f3cc882ad8358d2c4611d309c98d1cfa1"
 				}
 			]
@@ -20,7 +19,6 @@
 			"artifacts": [
 				{
 					"url": "https://github.com/Moonbasee/ReBlendshapes/releases/download/1.0.1/ReBlendshapes.dll",
-					"filename": "ReBlendshapes.dll",
 					"sha256": "629820148eb901282ff9a06c45791d43740c2db5482e1a2721cf05a2c47537a2"
 				}
 			]
