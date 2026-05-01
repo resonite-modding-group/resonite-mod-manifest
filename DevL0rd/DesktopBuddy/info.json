@@ -1,0 +1,20 @@
+{
+  "name": "DesktopBuddy",
+  "id": "com.devl0rd.DesktopBuddy",
+  "description": "Super early access desktop/window viewer with touch input, GPU capture, and streaming to other users via Cloudflare Tunnel. Windows and NVIDIA GPU only for the moment. If streaming doesn't work, run as admin: netsh http add urlacl url=http://+:48080/ sddl=\"D:(A;;GX;;;S-1-1-0)\"",
+  "category": "Misc",
+  "sourceLocation": "https://github.com/DevL0rd/DesktopBuddy",
+  "platforms": ["windows"],
+  "tags": ["desktop", "screen share", "streaming", "window capture"],
+  "versions": {
+    "1.0.0": {
+      "releaseUrl": "https://github.com/DevL0rd/DesktopBuddy/releases/tag/build-aaccf2a",
+      "artifacts": [
+        {
+          "url": "https://github.com/DevL0rd/DesktopBuddy/releases/download/build-aaccf2a/DesktopBuddy.zip",
+          "sha256": "47b2fc8d61212fb081b344368fa1e2e997a31935b054b6197d3bc5f8b8e136a0"
+        }
+      ]
+    }
+  }
+}
