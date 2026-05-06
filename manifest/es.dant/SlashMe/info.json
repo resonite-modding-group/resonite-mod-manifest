@@ -1,7 +1,7 @@
 {
 	"name": "SlashMe",
 	"id": "es.dant.slashme",
-	"description": "Parses outgoing DMs for "/me" and replaces the message text with an asterisk enclosed version. Perfect if you are used to emoting that way.",
+	"description": "Parses outgoing DMs for \"/me\" and replaces the message text with an asterisk enclosed version. Perfect if you are used to emoting that way.",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/DanteTucker/SlashMe",
 	"versions": {
