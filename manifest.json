@@ -2766,6 +2766,23 @@
                             "releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.2"
                         }
                     }
+                },
+                "es.dant.slashme": {
+                    "category": "Misc",
+                    "description": "Parses outgoing DMs for \"/me\" and replaces the message text with an asterisk enclosed version. Perfect if you are used to emoting that way.",
+                    "name": "SlashMe",
+                    "sourceLocation": "https://github.com/DanteTucker/SlashMe",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4d882fcae96820207ae1e7d5d056fbff9ef92855aee8fac0033b5c0ebbb67961",
+                                    "url": "https://github.com/DanteTucker/SlashMe/releases/download/1.0/SlashMe.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DanteTucker/SlashMe/releases/tag/1.0"
+                        }
+                    }
                 }
             }
         },
