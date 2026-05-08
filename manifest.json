@@ -4563,7 +4563,7 @@
                     "category": "Inspectors",
                     "description": "Adds links to the Wiki to Components in Worker Inspectors and ProtoFlux nodes.",
                     "name": "WikiIntegration",
-                    "sourceLocation": "https://github.com/art0007i/WikiIntegration",
+                    "sourceLocation": "https://github.com/art0007i/WikiIntegrationRML",
                     "versions": {
                         "0.1.0": {
                             "artifacts": [
@@ -4573,6 +4573,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/WikiIntegrationRML/releases/tag/0.1.0"
+                        },
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c56fb588726972e183ae429f945e7cd8caa1308800582d2e15285be320f7c092",
+                                    "url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.1/WikiIntegration.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/WikiIntegrationRML/releases/tag/0.1.1"
                         }
                     }
                 },
