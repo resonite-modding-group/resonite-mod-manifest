@@ -1,7 +1,7 @@
 {
 	"name": "WorldOrbDynVars",
-	"id": "com.dextraspace.WorldOrbDynVars",
-	"description": "A resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relay info for them.",
+	"id": "net.dextraspace.WorldOrbDynVars",
+	"description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relay info for them.",
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
 	"versions": {
@@ -10,28 +10,12 @@
 			"artifacts": [{
 				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.0.2/WorldOrbDynVars.dll",
 				"sha256": "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737"
-			}],
-			"dependencies": {
-				"net.pardeike.harmony": {
-					"version": "^2.4.2"
-				}
-			}
+			}]
 		}
 	},
 	"tags": [
-        "world",
-        "orb",
-        "worldorb",
-        "worldorbs",
-		"orb",
-		"dynvar",
-		"dynvars",
-		"dyn",
-		"var",
-		"vars",
 		"dynamic",
 		"variable",
-		"variables",
 		"dynamicvariablespace"
     ]
 }
