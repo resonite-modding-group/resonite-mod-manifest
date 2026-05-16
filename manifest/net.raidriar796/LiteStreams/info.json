@@ -5,6 +5,16 @@
 	"category": "Optimization",
 	"sourceLocation": "https://codeberg.org/Raidriar/LiteStreams",
 	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/2.0.1",
+			"artifacts": [
+				{
+					"url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.1/LiteStreams.dll",
+					"filename": "LiteStreams.dll",
+					"sha256": "3D7879E3E197B03E301AD95FBF65C65C825B60B15A27F552D2806CA37F526536"
+				}
+			]
+		},
 		"2.0.0": {
 			"releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/2.0.0",
 			"artifacts": [
