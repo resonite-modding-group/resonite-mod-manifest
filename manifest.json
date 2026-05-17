@@ -5459,6 +5459,38 @@
                 }
             }
         },
+        "net.dextraspace": {
+            "author": {
+                "Dominion": {
+                    "icon": "https://github.com/Cyberboss.png",
+                    "url": "https://github.com/Cyberboss"
+                }
+            },
+            "entries": {
+                "net.dextraspace.WorldOrbDynVars": {
+                    "category": "Technical Tweaks",
+                    "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
+                    "name": "WorldOrbDynVars",
+                    "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
+                    "tags": [
+                        "dynamic",
+                        "variable",
+                        "dynamicvariablespace"
+                    ],
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737",
+                                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.0.2/WorldOrbDynVars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.0.2"
+                        }
+                    }
+                }
+            }
+        },
         "net.dfgHiatus": {
             "author": {
                 "dfgHiatus": {
