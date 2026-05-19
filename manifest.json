@@ -7929,6 +7929,21 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v3.0.0"
+                        },
+                        "3.0.1": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "2df20a667a499d77d15d63f9e9fe3573343c82d6a4d8f486cf9b27fe809df822",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.FrooxEngine.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e3ca7c7db5bcaa212401a0c216ac8b741bb817fe872651a343cd2c8df5f348d4",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.RML_Extensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v3.0.1"
                         }
                     }
                 },
