@@ -5806,6 +5806,9 @@
                 "net.hantabaru1014.ResoniteBaballoniaEyeTracking": {
                     "category": "Hardware Integration",
                     "description": "Allows using Baballonia for face and eye tracking in Resonite",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteBaballoniaEyeTracking",
                     "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
                     "tags": [
