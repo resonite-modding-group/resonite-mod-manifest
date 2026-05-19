@@ -4463,6 +4463,9 @@
                 "me.art0007i.TransparentCameraEnabler": {
                     "category": "Bug Workaround",
                     "description": "Allows you to record transparent videos using OBS",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "TransparentCameraEnabler",
                     "sourceLocation": "https://github.com/art0007i/TransparentCameraEnabler",
                     "versions": {
