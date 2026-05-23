@@ -59,6 +59,23 @@
                 }
             },
             "entries": {
+                "ErrorJan.AddNolocomotion": {
+                    "category": "Context Menu",
+                    "description": "Makes it possible to select no locomotion in the locomotion menu.",
+                    "name": "Add Nolocomotion",
+                    "sourceLocation": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "417872155d178c33744ceedd4da72a60de22c9ac2f762f78155fabf6954ddecf",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/download/1.0.1/AddNolocomotion.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/tag/1.0.1"
+                        }
+                    }
+                },
                 "ErrorJan.EnableToolspawnInVR": {
                     "category": "Controls",
                     "description": "Patching out a bool check, that removes the ability using the number keys to spawn out tools in VR.",
@@ -96,7 +113,10 @@
                 },
                 "ErrorJan.FixMirrorSteamVRIPDOffset": {
                     "category": "Bug Workaround",
-                    "description": "When offsetting virtual IPD in SteamVR configs (steamvr.vrsettings) the mirror doesn't respect that, this mod fixes this issue.",
+                    "description": "When offsetting virtual IPD in SteamVR configs (steamvr.vrsettings) the mirror doesn't respect that, this mod fixes this issue. (Deprecated due to splittening. Download this mod manually since it now requires a more manual setup)",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "FixMirrorSteamVRIPDOffset",
                     "sourceLocation": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset",
                     "versions": {
@@ -148,6 +168,71 @@
                 }
             }
         },
+        "InfernoEye": {
+            "author": {
+                "InfernoEye": {
+                    "icon": "https://github.com/InfernoEye.png",
+                    "url": "https://github.com/InfernoEye"
+                }
+            },
+            "entries": {
+                "InfernoEye.SmoothFaceTracking": {
+                    "additionalAuthors": {
+                        "Purpzie": {}
+                    },
+                    "category": "Visual Tweaks",
+                    "description": "Configurable smoothing for face tracking",
+                    "name": "SmoothFaceTracking",
+                    "sourceLocation": "https://github.com/InfernoEye/ResoSmoothFT",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f98baf8bca739dbec08324753c12552d2db6b160a58743d0377b340c2637c268",
+                                    "url": "https://github.com/InfernoEye/ResoSmoothFT/releases/download/1.0.0/SmoothFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/InfernoEye/ResoSmoothFT/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b26855d977c86f8d7b69466ac0a04622964cdb19b612177d00d70c2a987d5ea2",
+                                    "url": "https://github.com/InfernoEye/ResoSmoothFT/releases/download/1.0.1/SmoothFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/InfernoEye/ResoSmoothFT/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "InfernoEye.TypePicker": {
+                    "category": "Technical Tweaks",
+                    "description": "Allows you to simply drop a reference into component attacher and choose what kind of type you want",
+                    "name": "TypePicker",
+                    "sourceLocation": "https://github.com/InfernoEye/TypePicker",
+                    "versions": {
+                        "2.0.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a1bb7db26c634dd87576d42c18cd315af6c18c60d3a5b664408d769f91381306",
+                                    "url": "https://github.com/InfernoEye/TypePicker/releases/download/2.0.4/TypePicker.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/InfernoEye/TypePicker/releases/tag/2.0.4"
+                        },
+                        "2.0.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "83350947dd04730950cbeec3e3a4172ffcd4f3948f4928ba218823032015f824",
+                                    "url": "https://github.com/InfernoEye/TypePicker/releases/download/2.0.5/TypePicker.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/InfernoEye/TypePicker/releases/tag/2.0.5"
+                        }
+                    }
+                }
+            }
+        },
         "Restrainite": {
             "author": {
                 "Restrainite developers": {
@@ -180,6 +265,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.3"
+                        },
+                        "2.0.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "090dec10c91d044d65de2b9ac8c72393148d066950ef0ee36745989c00b58016",
+                                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.4/AutoAcceptInvite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.4"
                         }
                     }
                 },
@@ -242,6 +336,33 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.1"
+                        },
+                        "3.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f30e4ec3713c87c25fb85d782b16a090a35238e91413d80003ead09892f4c671",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v3.0.2/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.2"
+                        },
+                        "3.0.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7207af17f50b8f491024d8aa61b0a26945a5688d4fd0f978349a70e7cb71909f",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v3.0.5/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.5"
+                        },
+                        "3.0.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f6cd35e02af78928d31ce7cacb39e5e88b6829ae8c9824fb9135a3a5f246a6c1",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v3.0.6/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.6"
                         }
                     },
                     "website": "https://restrainite.github.io/"
@@ -289,6 +410,7 @@
         "U-xyla": {
             "author": {
                 "Zyntaks": {
+                    "icon": "https://github.com/furrz.png",
                     "url": "https://github.com/furrz"
                 }
             },
@@ -307,6 +429,75 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/furrz/NoTankControls/releases/tag/1.0.0-resonite"
+                        }
+                    }
+                }
+            }
+        },
+        "cat.colin": {
+            "author": {
+                "ColinTimBarndt": {
+                    "icon": "https://github.com/ColinTimBarndt.png",
+                    "url": "https://github.com/ColinTimBarndt"
+                }
+            },
+            "entries": {
+                "cat.colin.CherryTypes": {
+                    "category": "Technical Tweaks",
+                    "description": "Smarter generic type suggestions for component selectors.",
+                    "name": "CherryTypes",
+                    "sourceLocation": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod",
+                    "tags": [
+                        "inspector",
+                        "component",
+                        "favorite",
+                        "favourite",
+                        "ProtoFlux"
+                    ],
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "aa19ceee651b8be17c6b7361d4e1303ebc530559ae9a42d4a1e44278584ab1e7",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.1/CherryTypes.dll"
+                                }
+                            ],
+                            "changelog": "Fix: Use world type parser to parse some types correctly.",
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "85449d3a464187af8711b61e969e50c1672ce66bad961c53ff20318bb8b69bc4",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.2/CherryTypes.dll"
+                                }
+                            ],
+                            "changelog": "Changed how the mod initializes to fix a potential issue.",
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.2"
+                        }
+                    }
+                },
+                "cat.colin.ResdbTools": {
+                    "category": "Dashboard",
+                    "description": "Extends the inventory browser with tools to get and modify Resonite database records.",
+                    "name": "Resdb Tools",
+                    "sourceLocation": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod",
+                    "tags": [
+                        "inventory",
+                        "resdb",
+                        "database",
+                        "cloud"
+                    ],
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "67361a23583e499e5bc4236303c43df7e533a3fdce4bd958769caa0e677fa977",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.1/ResdbTools.dll"
+                                }
+                            ],
+                            "changelog": "Initial RML release.",
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v1.0.1"
                         }
                     }
                 }
@@ -380,7 +571,7 @@
                 "AlexW-578": {
                     "icon": "https://github.com/AlexW-578.png",
                     "url": "https://github.com/AlexW-578",
-                    "website": "http://www.alexw-578.co.uk/"
+                    "website": "https://avali.co.uk/"
                 }
             },
             "entries": {
@@ -398,6 +589,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "06012D9F38A65E2EDDD4570C8FF6E01AD0C58E0D79DF90C606B4EE0B22144017",
+                                    "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.2.0"
                         }
                     }
                 },
@@ -502,7 +702,7 @@
                         "NepuShiro": {}
                     },
                     "category": "Visual Tweaks",
-                    "description": "Unpack your nodes with rounded textures and animated wires, or choose your own textures.",
+                    "description": "Customizable node colors, rounded textures, and animated wires for your ProtoFlux nodes.",
                     "name": "ProtoFluxOverhaul",
                     "sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
                     "versions": {
@@ -554,6 +754,26 @@
                             ],
                             "changelog": "Added Advanced Note Title, bug fixes, improved materials, changed text size",
                             "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.8"
+                        },
+                        "1.4.9": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9fa4b13e470934996e4622e5871539953341f741a62dd8480344204987a54d03",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.9/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Fixes and sprite changes",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.9"
+                        },
+                        "1.5.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "49c4b49b886e3929795241b30f05a04a8a56f439f3f98a1009889183ee08afc7",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.5.0/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "changelog": "Fixed permission issues",
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.5.0"
                         }
                     }
                 }
@@ -562,6 +782,7 @@
         "com.GrandtheUK": {
             "author": {
                 "Grand": {
+                    "icon": "https://github.com/GrandtheUK.png",
                     "url": "https://github.com/GrandtheUK"
                 }
             },
@@ -589,6 +810,9 @@
                 "com.GrandtheUK.ResoniteLinuxClipboard": {
                     "category": "Bug Workaround",
                     "description": "A mod that implements copy and paste in resonite for Text, Images and other files on Wayland",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteLinuxClipboard",
                     "platforms": [
                         "linux"
@@ -623,6 +847,7 @@
         "com.Kannya": {
             "author": {
                 "Kannya": {
+                    "icon": "https://github.com/KannyaResonite.png",
                     "url": "https://github.com/KannyaResonite"
                 }
             },
@@ -692,6 +917,71 @@
                 }
             }
         },
+        "com.Maurdekye": {
+            "author": {
+                "Maurdekye": {
+                    "icon": "https://github.com/Maurdekye.png",
+                    "url": "https://github.com/Maurdekye"
+                }
+            },
+            "entries": {
+                "com.Maurdekye.DisableDevToolPassthrough": {
+                    "category": "Technical Tweaks",
+                    "description": "This mod disables dev tool laser passthrough, a feature that by default makes your selection laser pass through normal objects and prioritize selecting developer UIs (inspectors, etc.) while you have a dev tool equipped.",
+                    "name": "DisableDevToolPassthrough",
+                    "sourceLocation": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ebbcf850264bbd29932287916fb0ac75dabca56468cf70595f0df756f1ce6324",
+                                    "url": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/download/1.0.0/DisableDevToolPassthrough.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "com.Moonbase": {
+            "author": {
+                "Moonbase__": {
+                    "icon": "https://github.com/Moonbasee.png",
+                    "support": "https://ko-fi.com/moonbase__",
+                    "url": "https://github.com/Moonbasee",
+                    "website": "https://furry.alanmoon.net"
+                }
+            },
+            "entries": {
+                "com.Moonbase.ReBlendshapes": {
+                    "category": "Inspectors",
+                    "description": "A Mod That Makes Copying Blendshapes From Your Avatar To A Piece Of Clothing Or Accessory Easier",
+                    "name": "ReBlendshapes",
+                    "sourceLocation": "https://github.com/Moonbasee/ReBlendshapes",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "09a960e0e0d30528b38c196a04c17f7f3cc882ad8358d2c4611d309c98d1cfa1",
+                                    "url": "https://github.com/Moonbasee/ReBlendshapes/releases/download/1.0.0/ReBlendshapes.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Moonbasee/ReBlendshapes/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "629820148eb901282ff9a06c45791d43740c2db5482e1a2721cf05a2c47537a2",
+                                    "url": "https://github.com/Moonbasee/ReBlendshapes/releases/download/1.0.1/ReBlendshapes.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Moonbasee/ReBlendshapes/releases/tag/1.0.1"
+                        }
+                    }
+                }
+            }
+        },
         "com.Sinduy": {
             "author": {
                 "Sinduy": {
@@ -700,6 +990,44 @@
                 }
             },
             "entries": {
+                "com.Sinduy.DoNotRunAwaySceneInspecter": {
+                    "category": "Inspectors",
+                    "description": "This mod prevents the scene inspector from moving away form user when they are trying to inspect a scene.",
+                    "name": "DoNotRunAwaySceneInspecter",
+                    "sourceLocation": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "a2ee76df5361933db30e812d3fad60998409eba2dc14dfbf5dfca0d52ac6e0cf",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.0/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "a6c9c20c62661331bbd994a1d9749bb2bd2225d4dc1568b49695da8aece9812a",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.1/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.1"
+                        },
+                        "1.0.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "ec022ba693587dfc67773e226295ab5d79418cb4384c3930492b72e2e89b4812",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/1.0.5/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/1.0.5"
+                        }
+                    }
+                },
                 "com.Sinduy.QuestPro4Resonite": {
                     "additionalAuthors": {
                         "Dante Tucker": {},
@@ -708,12 +1036,14 @@
                         "dfgHiatus": {}
                     },
                     "category": "Hardware Integration",
-                    "description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
-                    "flags": [
-                        "deprecated"
-                    ],
+                    "description": "Eye tracking and facial tracking for Quest Pro using ALXR. Addition steps required, read the instructions on the github page to fully install the mod.",
                     "name": "QuestPro4Resonite",
                     "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
+                    "tags": [
+                        "alvr",
+                        "face",
+                        "link"
+                    ],
                     "versions": {
                         "2.1.4": {
                             "artifacts": [
@@ -729,6 +1059,21 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "QuestProModule.dll",
+                                    "sha256": "1436145df2153f3cc77c7c3a65b03d69586fa14c3e9774b53673c24846199808",
+                                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.2.0/QuestProModule.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "com.Sinduy.libalxr-sharp": {
+                                    "version": "^1.9.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.2.0"
                         }
                     }
                 },
@@ -766,6 +1111,25 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "be997ad763dd2652d8f7f8dc7a609b80bc4b90dc81a98dd2c2fd8a486dae67ee",
+                                    "url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.3/SlotInspectorHighlighter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/v1.0.3"
+                        },
+                        "1.0.6": {
+                            "artifacts": [
+                                {
+                                    "filename": "SlotInspectorHighlighter.dll",
+                                    "sha256": "13b11885bf65be1f6758f635c08ad645ae03e3fda13c109b93741d7c2bd29abd",
+                                    "url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/1.0.6/SlotInspectorHighlighter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/tag/1.0.6"
                         }
                     }
                 },
@@ -774,7 +1138,7 @@
                         "korejan": {}
                     },
                     "category": "Libraries",
-                    "description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.2",
+                    "description": ".NET Bindings for libalxr compiled with .NET 10",
                     "name": "libalxr-sharp",
                     "sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
                     "versions": {
@@ -788,6 +1152,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0"
+                        },
+                        "1.9.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "libalxr-sharp.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620",
+                                    "url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.9.0/libalxr-sharp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.9.0"
                         }
                     }
                 }
@@ -816,6 +1191,33 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.5"
+                        },
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "54c9f8018cc124441ae356589c1f7a44b77971babf91751ab4bcf72dbf987d1e",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.1.0/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.1.0"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "08b769e3a6ba56c043d576940d66dd84b4c4ad5560bfb090869bea9f04b3edb9",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.2.0/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.0"
+                        },
+                        "2.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "17c6afc906042ac31df8d9e4e18684b01eaf804316141850172bbcca30331afb",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.2.1/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.1"
                         }
                     }
                 },
@@ -841,6 +1243,7 @@
         "com.__Choco__": {
             "author": {
                 "__Choco__": {
+                    "icon": "https://github.com/AwesomeTornado.png",
                     "url": "https://github.com/AwesomeTornado"
                 }
             },
@@ -1084,6 +1487,7 @@
         "com.example": {
             "author": {
                 "ExampleAuthor": {
+                    "icon": "https://github.com/resonite-modding-group.png",
                     "url": "https://github.com/resonite-modding-group"
                 }
             },
@@ -1110,6 +1514,7 @@
         "com.frozenreflex": {
             "author": {
                 "Frozenreflex": {
+                    "icon": "https://github.com/Frozenreflex.png",
                     "url": "https://github.com/Frozenreflex/"
                 }
             },
@@ -1459,6 +1864,34 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.2.0"
+                        },
+                        "5.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fdd3481ffbc1be68baa8f71ce09c5ea16cadfb7812bf310c9bcf755d490c17ba",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.2"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.0"
+                        },
+                        "5.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7a3a021d560963fdc5b307fcd7dc6d94f562efa2f034820c340ca5ec2c4bfeb7",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.1/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.2"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.1"
                         }
                     }
                 }
@@ -1467,6 +1900,7 @@
         "com.scicortex": {
             "author": {
                 "DrSciCortex": {
+                    "icon": "https://github.com/DrSciCortex.png",
                     "url": "https://github.com/DrSciCortex"
                 }
             },
@@ -1508,6 +1942,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4a666db73be9b0a2539e00da71abb09810cde629b4ed82de2c056cf6ff0e72e9",
+                                    "url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/1.1.2/CyberFingerMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/1.1.2"
                         }
                     }
                 }
@@ -1516,6 +1959,7 @@
         "com.tabbynet": {
             "author": {
                 "tabithamoon": {
+                    "icon": "https://github.com/tabithamoon.png",
                     "url": "https://github.com/tabithamoon",
                     "website": "https://tabby.page"
                 }
@@ -1540,6 +1984,33 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a783f2c74fb7a75ae28d87fb3833ba9509fa4c2a303af1f8940fa2d6fae4cd92",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.0/ResonitePSVR2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9881598f9ed913bbb9c45c1d148ecd4ee2168071a9db4c3d7c374ede538f4795",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.1/ResonitePSVR2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "aae71b5a153f9103585d1e5adc5120dc8d70ffd3ba3da79d1705147489c06957",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.2/ResonitePSVR2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.2"
                         }
                     }
                 }
@@ -1548,6 +2019,7 @@
         "com.tobsstuff": {
             "author": {
                 "tobs": {
+                    "icon": "https://github.com/tobs2007.png",
                     "url": "https://github.com/tobs2007"
                 }
             },
@@ -1629,6 +2101,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/tag/1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a9e0f3e2877290bd830ac863fb10a88152746fd4061694c64e60f78f4962d0a6",
+                                    "url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.2.0/CustomTextureSettings.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/tag/1.2.0"
                         }
                     }
                 }
@@ -1707,6 +2188,37 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.1.0"
+                        }
+                    }
+                },
+                "com.zahndy.StopTouchingMyEyeballs": {
+                    "category": "Bug Workaround",
+                    "description": "Replaces the eyetracking fallback that sometimes causes eyes to cross. Workaround for bug #263",
+                    "name": "StopTouchingMyEyeballs",
+                    "sourceLocation": "https://github.com/zahndy/StopTouchingMyEyeballs",
+                    "tags": [
+                        "Eyetracking",
+                        "Crosseyed",
+                        "Bug"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d8d98086c75ca8260870bcad12c7988e51be7d1e8fd4f8368d8f466df7a2e1c7",
+                                    "url": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/download/1.0.0/StopTouchingMyEyeballs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3619b2862f279074bfd1754029e469f88c28ea865ca34c32211f1db0197f6c2c",
+                                    "url": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/download/1.0.1/StopTouchingMyEyeballs.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -2166,6 +2678,114 @@
                 }
             }
         },
+        "dog.glacier": {
+            "author": {
+                "Noble": {
+                    "icon": "https://github.com/noblereign.png",
+                    "url": "https://github.com/noblereign",
+                    "website": "https://glacier.dog"
+                }
+            },
+            "entries": {
+                "dog.glacier.ContextMenuBackOption": {
+                    "category": "Context Menu",
+                    "description": "Adds a Back option to every Context Menu submenu.",
+                    "name": "ContextMenuBackOption",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
+                    "versions": {
+                        "2.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0"
+                        },
+                        "2.3.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "03adece33f50bf5425498f3397d9c80c7c18ae254ce7b8c614291e030dfe59b2",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.1/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.1"
+                        },
+                        "2.3.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7ec3573545d5c788d7780b9a4b9aabb2750c8c300e8d059e0c57b16d196b12b7",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.2/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.2"
+                        },
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "58f89b02e7256bb70cd9088c77d9a81497f774c7b62aadd6875e89682b9292c1",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v3.0.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v3.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "es.dant": {
+            "author": {
+                "Dante": {
+                    "icon": "https://github.com/DanteTucker.png",
+                    "url": "https://github.com/DanteTucker"
+                }
+            },
+            "entries": {
+                "es.dant.SteamRecentUsers": {
+                    "category": "Misc",
+                    "description": "Adds support for Steam's Recently Played With feature. Users in sessions with you will appear in the Steam Client at View > Players",
+                    "name": "SteamRecentUsers",
+                    "sourceLocation": "https://github.com/DanteTucker/SteamRecentUsers",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6a27b7a86c8c537dd0cb488835a95f0f5f3099e21998bfb3fbf76f0c878a7119",
+                                    "url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.1/SteamRecentUsers.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af",
+                                    "url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.2/SteamRecentUsers.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.2"
+                        }
+                    }
+                },
+                "es.dant.slashme": {
+                    "category": "Misc",
+                    "description": "Parses outgoing DMs for \"/me\" and replaces the message text with an asterisk enclosed version. Perfect if you are used to emoting that way.",
+                    "name": "SlashMe",
+                    "sourceLocation": "https://github.com/DanteTucker/SlashMe",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4d882fcae96820207ae1e7d5d056fbff9ef92855aee8fac0033b5c0ebbb67961",
+                                    "url": "https://github.com/DanteTucker/SlashMe/releases/download/1.0/SlashMe.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DanteTucker/SlashMe/releases/tag/1.0"
+                        }
+                    }
+                }
+            }
+        },
         "fr.baplar": {
             "author": {
                 "Baplar": {
@@ -2174,6 +2794,26 @@
                 }
             },
             "entries": {
+                "fr.baplar.LinuxSortedFiles": {
+                    "category": "Technical Tweaks",
+                    "description": "Improves the behavior of the Files dashboard tab on Linux, by sorting files by name.",
+                    "name": "LinuxSortedFiles",
+                    "platforms": [
+                        "linux"
+                    ],
+                    "sourceLocation": "https://github.com/Baplar/ResoniteLinuxSortedFiles",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a1b7ff94d6227aae7cdacc7423ce043cba6297832b16a264836d1551f07c2ef1",
+                                    "url": "https://github.com/Baplar/ResoniteLinuxSortedFiles/releases/download/v1.0.0/LinuxSortedFiles.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Baplar/ResoniteLinuxSortedFiles/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "fr.baplar.ResoniteDiscordRpc": {
                     "category": "Misc",
                     "description": "Adds fancy features to the Discord Rich Presence integration.",
@@ -2203,6 +2843,36 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5e0fb2da45615b752cd76e3090f204bdee10bf7a76bf67887bbc9d529fe9ecf2",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/ResoniteDiscordRpc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/DiscordRPC.dll"
+                                }
+                            ],
+                            "changelog": "- Recompiled for .NET 10\n- Fix disposal of existing official Discord RPC connector on Windows\n- Added optional debug logging",
+                            "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.3"
+                        },
+                        "1.0.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a5c23069abd40c6176d4a23434a72f8f8718f00cbd73c9f1d6febdccfb5ca6f1",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/ResoniteDiscordRpc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/DiscordRPC.dll"
+                                }
+                            ],
+                            "changelog": "- Don't start connector if Discord interface is disabled globally\n- Turn RPC client on/off when enabling/disabling rich presence in settings",
+                            "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.4"
                         }
                     }
                 }
@@ -2430,6 +3100,7 @@
         "lc.j4": {
             "author": {
                 "Jae": {
+                    "icon": "https://github.com/jae1911.png",
                     "url": "https://j4.lc"
                 }
             },
@@ -3792,6 +4463,9 @@
                 "me.art0007i.TransparentCameraEnabler": {
                     "category": "Bug Workaround",
                     "description": "Allows you to record transparent videos using OBS",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "TransparentCameraEnabler",
                     "sourceLocation": "https://github.com/art0007i/TransparentCameraEnabler",
                     "versions": {
@@ -3876,6 +4550,41 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.5"
+                        }
+                    }
+                },
+                "me.art0007i.WikiIntegration": {
+                    "additionalAuthors": {
+                        "Banane9": {
+                            "Banane9": {
+                                "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                                "support": "https://paypal.me/Banane9",
+                                "url": "https://github.com/Banane9"
+                            }
+                        }
+                    },
+                    "category": "Inspectors",
+                    "description": "Adds links to the Wiki to Components in Worker Inspectors and ProtoFlux nodes.",
+                    "name": "WikiIntegration",
+                    "sourceLocation": "https://github.com/art0007i/WikiIntegrationRML",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d35423983e2b5c561751b7cf2146f3f492b49953db047b36969a490861938cd0",
+                                    "url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.0/WikiIntegration.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/WikiIntegrationRML/releases/tag/0.1.0"
+                        },
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c56fb588726972e183ae429f945e7cd8caa1308800582d2e15285be320f7c092",
+                                    "url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.1/WikiIntegration.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/WikiIntegrationRML/releases/tag/0.1.1"
                         }
                     }
                 },
@@ -3967,6 +4676,9 @@
                 "net.Cyro.EffortlessEfficiency": {
                     "category": "Optimization",
                     "description": "Provide a continually-expanding patchset for increasing performance in certain key areas of the game to reduce microstutters and momentary hitching.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "EffortlessEfficiency",
                     "sourceLocation": "https://github.com/BlueCyro/EffortlessEfficiency",
                     "versions": {
@@ -4128,6 +4840,9 @@
                 "net.NepuShiro.ResoniteFixContactIcons": {
                     "category": "Dashboard",
                     "description": "Fixes the Contact PFP's in the Contacts Tab, and Notifications.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteFixContactIcons",
                     "sourceLocation": "https://github.com/NepuShiro/ResoniteFixContactIcons",
                     "versions": {
@@ -4203,12 +4918,33 @@
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.2"
                         }
                     }
+                },
+                "net.NepuShiro.SessionTabOverhaul": {
+                    "additionalAuthors": {
+                        "noblereign": {}
+                    },
+                    "category": "Dashboard",
+                    "description": "Improves the session tab of the dash, most notably the users list. Adds a Bring button.",
+                    "name": "SessionTabOverhaul",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul",
+                    "versions": {
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "602c92ffe4cd6067dadd70868651dd8c300b7550fbb48bcad025d9f2e6350d0a",
+                                    "url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.1.1/SessionTabOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.1.1"
+                        }
+                    }
                 }
             }
         },
         "net.catshark": {
             "author": {
                 "CatSharkShin": {
+                    "icon": "https://github.com/CatSharkShin.png",
                     "url": "https://github.com/CatSharkShin"
                 }
             },
@@ -4295,6 +5031,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dfcef674ddc65bb70778860cda9aabb3b5a5fe934284491472ac56c4f1ae589b",
+                                    "url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.1/ContextMenuControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -4368,6 +5113,23 @@
                         }
                     }
                 },
+                "net.deltawolf.HomeAccessLevel": {
+                    "category": "Technical Tweaks",
+                    "description": "Sets the access level for your home world when automatically opened on start. Private by default.",
+                    "name": "HomeAccessLevel",
+                    "sourceLocation": "https://github.com/XDelta/HomeAccessLevel",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a6db02853d218af507e8a2de537c26e0adc62cfb06a35299c41e8944fe542ce1",
+                                    "url": "https://github.com/XDelta/HomeAccessLevel/releases/download/1.0.0/HomeAccessLevel.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/HomeAccessLevel/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ImNotAsking": {
                     "category": "Dashboard",
                     "description": "Hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.",
@@ -4382,6 +5144,23 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ImNotAsking/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "net.deltawolf.InspectorImprovements": {
+                    "category": "Inspectors",
+                    "description": "Adds several configurable improvements to inspectors",
+                    "name": "InspectorImprovements",
+                    "sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81",
+                                    "url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0"
                         }
                     }
                 },
@@ -4408,6 +5187,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1",
+                                    "url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -4442,6 +5230,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fff07d9f3713341c04ba8fc98f875bff08e423f9a8f073645000642d28e76ced",
+                                    "url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.1/NonPersistentInspectors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/NonPersistentInspectors/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -4485,6 +5282,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "86a8a549ed6d01715474337df575292fde94b594bb64b20cdad10eaea8858074",
+                                    "url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.2/PermissionControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.2"
                         }
                     }
                 },
@@ -4529,6 +5335,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.1"
+                        },
+                        "1.5.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "00026fc8d9f6857764267c56f98363f9753fd746b4d46c8f7267067b1ca43302",
+                                    "url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.2/ResonitePTTKeybinds.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.2"
                         }
                     }
                 },
@@ -4633,6 +5448,47 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.2"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c01295d424734b6e2f3531e3bd2ee0ee8915e77d231a2bbfcad7c29c8fc6a3bd",
+                                    "url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.3/ShowSourceLocation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.3"
+                        }
+                    }
+                }
+            }
+        },
+        "net.dextraspace": {
+            "author": {
+                "Dominion": {
+                    "icon": "https://github.com/Cyberboss.png",
+                    "url": "https://github.com/Cyberboss"
+                }
+            },
+            "entries": {
+                "net.dextraspace.WorldOrbDynVars": {
+                    "category": "Technical Tweaks",
+                    "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
+                    "name": "WorldOrbDynVars",
+                    "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
+                    "tags": [
+                        "dynamic",
+                        "variable",
+                        "dynamicvariablespace"
+                    ],
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737",
+                                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.0.2/WorldOrbDynVars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.0.2"
                         }
                     }
                 }
@@ -4953,6 +5809,9 @@
                 "net.hantabaru1014.ResoniteBaballoniaEyeTracking": {
                     "category": "Hardware Integration",
                     "description": "Allows using Baballonia for face and eye tracking in Resonite",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteBaballoniaEyeTracking",
                     "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
                     "tags": [
@@ -4982,6 +5841,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.1"
+                        },
+                        "0.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "193374c4edc94ff4a56183e5d70b2787e1997ca0906b9ef3d12b24d86a2478de",
+                                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.2.1/ResoniteBaballoniaEyeTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.1"
                         }
                     }
                 },
@@ -5135,6 +6003,7 @@
         "net.mizle": {
             "author": {
                 "Eai": {
+                    "icon": "https://github.com/eai04191.png",
                     "url": "https://github.com/eai04191"
                 }
             },
@@ -5225,11 +6094,39 @@
         },
         "net.raidriar796": {
             "author": {
-                "Raidriar796": {
-                    "url": "https://github.com/Raidriar796"
+                "Raidriar": {
+                    "url": "https://codeberg.org/Raidriar"
                 }
             },
             "entries": {
+                "net.raidriar796.DynamicDesyncHelper": {
+                    "category": "Misc",
+                    "description": "Dynamically adjusts the LNL Window Size to avoid desyncing.",
+                    "name": "DynamicDesyncHelper",
+                    "sourceLocation": "https://codeberg.org/Raidriar/DynamicDesyncHelper",
+                    "versions": {
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicDesyncHelper.dll",
+                                    "sha256": "FB239E6F43BE2A2AB98A03EACE791F3B9C8EA860464945F733D9E10A4AE8CE10",
+                                    "url": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/tag/0.1.1"
+                        },
+                        "0.1.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicDesyncHelper.dll",
+                                    "sha256": "BF066707B59AB43BC9E871DA3BF4C5C90D23CC37D90A344BB2831D687617B6F3",
+                                    "url": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/download/0.1.2/DynamicDesyncHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/tag/0.1.2"
+                        }
+                    }
+                },
                 "net.raidriar796.DynamicTickRate": {
                     "category": "Optimization",
                     "description": "Adjusts the tick rate of the headless client based on user and world count.",
@@ -5237,27 +6134,75 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/DynamicTickRate",
+                    "sourceLocation": "https://codeberg.org/Raidriar/DynamicTickRate",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "DynamicTickRate.dll",
                                     "sha256": "3AF94439A0E7153CDDF4F85A94A97F5349A50CB60B92D456001CCFF5A4BDABF5",
-                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.0"
                         },
                         "1.0.1": {
                             "artifacts": [
                                 {
                                     "filename": "DynamicTickRate.dll",
                                     "sha256": "A45C34A05CEB87BF3D70485DF98849D4127C78056B31C2DFF4716FAA74E95315",
-                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.1/DynamicTickRate.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.1/DynamicTickRate.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicTickRate.dll",
+                                    "sha256": "6798FDEB29957BC5691736A7A7EA4B5A6C635ABBBA8BD510C91250B1D246992B",
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.2/DynamicTickRate.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.2"
+                        }
+                    }
+                },
+                "net.raidriar796.FastSync": {
+                    "category": "Optimization",
+                    "description": "Improves compression speed for sync messages.",
+                    "name": "FastSync",
+                    "sourceLocation": "https://codeberg.org/Raidriar/FastSync",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "FastSync.dll",
+                                    "sha256": "B7CC2897F96F6B4F968A0067ECEB03C31C75B6A0458FBE42566539AC7FF2F6D2",
+                                    "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.0.0/FastSync.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "FastSync.dll",
+                                    "sha256": "DAA9906556CF9DAC36462DE946D126E3797893831540B0569DB8488AFF70FAC3",
+                                    "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.0.1/FastSync.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "FastSync.dll",
+                                    "sha256": "8045D74F505989AFC32CA9FF353BA9F3AF25C38472A1C3702D78A70370FD06B3",
+                                    "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.1.0/FastSync.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.1.0"
                         }
                     }
                 },
@@ -5268,16 +6213,25 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/HDRProbeFix",
+                    "sourceLocation": "https://codeberg.org/Raidriar/HDRProbeFix",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "sha256": "6D1F152107679BE5C67AD8D84B5C0EBE35638FA1172D386D1D93469149A76719",
-                                    "url": "https://github.com/Raidriar796/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll"
+                                    "url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/v1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HDRProbeFix/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a002d412201aceedd79c8e42e49d8fd09d35979cad48b6788ef79e868e6c7ae0",
+                                    "url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/1.0.1/HDRProbeFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/HDRProbeFix/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -5288,37 +6242,213 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/HeadlessUserCulling",
+                    "sourceLocation": "https://codeberg.org/Raidriar/HeadlessUserCulling",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.0.0"
                         },
                         "1.1.1": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "2BA6F640DA9FE8D4451884838295A7A9E31C9DE2BBA2C7F33149F783F2114F15",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.1.1"
                         },
                         "1.1.2": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "BB632928114E2318D883CEB2A5E2B20734434D2AC83600791B803CAC2EC59131",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "HeadlessUserCulling.dll",
+                                    "sha256": "2589FBDCC2D722FF24BE61F5E70E7EDA709FF88578432BA33F7E5E8B5E784A16",
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.3/HeadlessUserCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.1.3"
+                        }
+                    }
+                },
+                "net.raidriar796.IkCulling": {
+                    "category": "Optimization",
+                    "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
+                    "name": "IkCulling",
+                    "sourceLocation": "https://codeberg.org/Raidriar/IkCulling",
+                    "versions": {
+                        "2.5.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.5.0"
+                        },
+                        "2.6.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.6.1"
+                        },
+                        "2.6.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.6.2"
+                        },
+                        "2.7.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.7.0"
+                        },
+                        "2.7.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ResoniteIKCulling.dll",
+                                    "sha256": "86D901A818477840272FB1AAA3480F87AC97F8FB9691CF9B60FD33D1CC9770B6",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.7.1"
+                        },
+                        "2.8.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "IkCulling.dll",
+                                    "sha256": "4077940A210542AAB7694C195594515B250C12B95A97030005BC329366EB6431",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.0/IkCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.0"
+                        },
+                        "2.8.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "IkCulling.dll",
+                                    "sha256": "F5EEB8F37E5CC4DD9513186F78A798DFB04A34701809AA656BFE0AAB0217F29E",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.1/IkCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.1"
+                        },
+                        "2.8.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "IkCulling.dll",
+                                    "sha256": "7E8FD1DD5F29C58A14AD0BE348D1046119EDBC59EA5773A812C6DC3594C58177",
+                                    "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.3/IkCulling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/IkCulling/releases/tag/2.8.3"
+                        }
+                    }
+                },
+                "net.raidriar796.LiteStreams": {
+                    "category": "Optimization",
+                    "description": "Reduces outbound network traffic.",
+                    "name": "LiteStreams",
+                    "sourceLocation": "https://codeberg.org/Raidriar/LiteStreams",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.1.0/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "57CA7B7D3303CE465BA78ED28F7889AF94D5953317C959F58E7059884BF6A7FD",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.2.0/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.2.0"
+                        },
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "7D18F254D2BC429CA49347BBC7990EED5606F6E132D63A9FB6257C34C5C0C135",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.3.0/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.3.0"
+                        },
+                        "1.3.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "A0E72B2285A113772BC12B7A1F86C1299144E1AD474FDC3192FE82CD2BC7B47A",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.3.1/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.3.1"
+                        },
+                        "1.3.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "681AAA17B5B31A9D7CEB452D6663D9CA069B40ECDD63D10F924E3D133E37367E",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.3.2/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.3.2"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "7D98768292E3A61B98EE2C26ACE8E42DC91F569189A079C7E63B904061171D03",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.0/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "3D7879E3E197B03E301AD95FBF65C65C825B60B15A27F552D2806CA37F526536",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.1/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -5333,65 +6463,95 @@
                         "linux",
                         "windows"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
+                    "sourceLocation": "https://codeberg.org/Raidriar/NoSteamScreenshots",
                     "versions": {
                         "1.0.1": {
                             "artifacts": [
                                 {
                                     "filename": "NoSteamScreenshots.dll",
                                     "sha256": "8D9F335ECD39AD245838215B47334825E8F96A8A1464545A1404FFE5C8A345D7",
-                                    "url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll"
+                                    "url": "https://codeberg.org/Raidriar/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/NoSteamScreenshots/releases/tag/1.0.1"
                         }
                     }
                 },
-                "net.raidriar796.ResoniteIkCulling": {
-                    "category": "Optimization",
-                    "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
-                    "name": "ResoniteIkCulling",
-                    "sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
+                "net.raidriar796.Resurfacer": {
+                    "category": "Wizards",
+                    "description": "Adds batch texture operations.",
+                    "name": "Resurfacer",
+                    "sourceLocation": "https://codeberg.org/Raidriar/Resurfacer",
                     "versions": {
-                        "2.5.0": {
+                        "0.1.0": {
                             "artifacts": [
                                 {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "61AE8977595B983B604A9D99181F28C34D9D76D0FC172A67146ABAD135DB1150",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.1.0/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.1.0"
                         },
-                        "2.6.1": {
+                        "0.2.0": {
                             "artifacts": [
                                 {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "FDB5ACCBB98FA337555CF013E454272F74BDAB2686B6965313DC4419DCBA0993",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.2.0/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.2.0"
                         },
-                        "2.6.2": {
+                        "0.2.1": {
                             "artifacts": [
                                 {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "93793F115C6794D70DA296B2EEA4332D4FC1EA9E0F51A18A8CCF2837492B577C",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.2.1/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.2.1"
                         },
-                        "2.7.0": {
+                        "0.2.2": {
                             "artifacts": [
                                 {
-                                    "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "5880FD5CA02199CA0BCDEBEB2D8E0F659F0780C7DDAF644F93CEDADB343A4025",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.2.2/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.2.2"
+                        },
+                        "0.3.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "0C26B17BAF09A2E6FCDA170E117B82A35A6EA8AD3ACAFD47F28EF489F63DC0E4",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.3.0/Resurfacer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.3.0"
+                        },
+                        "0.4.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "B962B0814102F2644086EE5C44F0344E6EF6B453F833606651AA66625637711C",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.4.0/Resurfacer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.4.0"
+                        },
+                        "0.4.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "DDF196C7D23850CE6A007E3DA0F90F13B29D0E7CDA0814B95EAE9737ADF785C6",
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.4.1/Resurfacer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.4.1"
                         }
                     }
                 },
@@ -5402,47 +6562,97 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
+                    "sourceLocation": "https://codeberg.org/Raidriar/StresslessHeadless",
                     "versions": {
                         "1.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.1.0"
                         },
                         "1.2.0": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.2.0"
                         },
                         "1.3.1": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.3.1"
                         },
                         "2.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "59354E634CFF92B3A70B9335481A10717BBCAC716FF6F84ABFCDD13BA747F16C",
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "1DCF08A17FA2B31F561224B00897E597DFD47ED06986E983746A3272A334F689",
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.2/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.2"
+                        },
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "66E99BA443238F754E0ED9DBFF7E9D364194DE4E2FCA4ABB58FCD468C7E5EB88",
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.1.0/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.1.0"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "834A4052978EBB39744FF39455EFB2F3E0007B1C1FCD5331D112C92D3221CC8E",
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.0/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.2.0"
+                        },
+                        "2.2.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "0E2A5E497D45EB4E29FF3300CA382069BE8EDA439F9E389B7DD5110214B3E1C5",
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.1/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.2.1"
                         }
                     }
                 },
@@ -5450,27 +6660,47 @@
                     "category": "Technical Tweaks",
                     "description": "Allows for disabling all logs, warnings, and errors from being written to disk.",
                     "name": "Lognt",
-                    "sourceLocation": "https://github.com/Raidriar796/Lognt",
+                    "sourceLocation": "https://codeberg.org/Raidriar/Lognt",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
                                     "sha256": "1F69BE8F97EEBB89F7C86286E3540966D176F160AB3D91003C8DF9BB96C2F81A",
-                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.0.0/Lognt.dll"
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.0.0/Lognt.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.0.0"
                         },
                         "1.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
                                     "sha256": "0C2B00AAED7FA050040B62CB534AA9DA4DC26A862590507E5549D6FE85836FEE",
-                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.0/Lognt.dll"
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.1.0/Lognt.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "Lognt.dll",
+                                    "sha256": "1E0C52BBFB47C82EAB7625C6CE37F4899D5CA192429E1C4049120484FC66FDFA",
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.1.1/Lognt.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.1.1"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Lognt.dll",
+                                    "sha256": "8C3F50E63CCA6FDE5053A40CB170AF14CC59C0C2A6186BD1501FE79F6AAB2195",
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.2.0/Lognt.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.2.0"
                         }
                     }
                 },
@@ -5485,37 +6715,37 @@
                         "linux-wine",
                         "windows"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
+                    "sourceLocation": "https://codeberg.org/Raidriar/yt-dlp-Updater",
                     "versions": {
                         "1.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
                                     "sha256": "9B6AEE2D1DBEC0A80DA7CEBD90EC208254B64D3F8B00BCA76234CC10098F4CB5",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll"
+                                    "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/tag/1.1.0"
                         },
                         "1.2.0": {
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
                                     "sha256": "4B9DF59C40D647F90AE1166A3619B408B558C049C42823CA975AEE8833DB2066",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
+                                    "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/tag/1.2.0"
                         },
                         "1.3.0": {
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
                                     "sha256": "2C00777F29F88E0B032239A55029944938592823523EC05CB8459F2D6BD742FE",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll"
+                                    "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.3.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/tag/1.3.0"
                         }
                     }
                 }
@@ -5568,7 +6798,9 @@
         "news.fawx": {
             "author": {
                 "OrionMoonclaw": {
-                    "url": "https://blog.fawx.news/"
+                    "icon": "https://github.com/OrionMoonclaw.png",
+                    "url": "https://github.com/OrionMoonclaw",
+                    "website": "https://blog.fawx.news/"
                 }
             },
             "entries": {
@@ -5970,6 +7202,131 @@
                 }
             },
             "entries": {
+                "org.yosh.BC7EncMod": {
+                    "category": "Technical Tweaks",
+                    "description": "Encodes BC1, BC3, BC4, BC5, and BC7 LZMA textures through bc7enc instead of compressonator.",
+                    "name": "BC7EncMod",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteBC7EncMod",
+                    "versions": {
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6aec143c8cffe53bb8358767481e44d8d0010a7eb49159bcfbe93a9653915e8b",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.1/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d7850289e3926ff1d912feb85b4bf1c0e6c4ea877a20a034a65c1d6e0e600c2f",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.2/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.2"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "71301637fff29f5fa502b06a3d3abd75538335ca58409038aebab7b3a413d470",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.3/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.3"
+                        }
+                    }
+                },
+                "org.yosh.CollectionEditor": {
+                    "category": "Wizards",
+                    "description": "Adds a form for editing certain types of collections",
+                    "name": "CollectionEditor",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteCollectionEditor",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b1edf16805ddc386ee512ec68f59007d976d867d4de4e2ad2e78f7501d5fbe9b",
+                                    "url": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/download/v1.0.0/CollectionEditor.dll"
+                                }
+                            ],
+                            "conflicts": {
+                                "owo.Nytra.ReferenceFinderWizard": {
+                                    "version": "1.1.0"
+                                }
+                            },
+                            "dependencies": {
+                                "org.yosh.ContextMenuHookLib": {
+                                    "optional": true,
+                                    "version": "^1.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/tag/v1.0.0"
+                        }
+                    }
+                },
+                "org.yosh.ContextMenuHookLib": {
+                    "category": "Libraries",
+                    "description": "Library for adding prefix hooks to functions that make context menu items",
+                    "name": "ContextMenuHookLib",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2dafb593483b8c549738408df86abb5013e774a9ceb2e26b4eb822fdd5fd6b2e",
+                                    "url": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/download/v1.0.0/ContextMenuHookLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "org.yosh.DirectoryCopyURL": {
                     "category": "Bug Workaround",
                     "description": "Fixes the \"Get Url\" button in the inventory to copy directory URLs as well.",
@@ -5984,6 +7341,24 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4c03f515ec6cb9ed1e357103d23946a000477bd05ed03b1abe4a8bba61ae5e0b",
+                                    "url": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/download/v1.0.1/DirectoryCopyURL.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e4d0f615a9e960b4e9ac216f5755bbce5e97601af8dbc8aedc4af9f49a22a758",
+                                    "url": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/download/v1.0.2/DirectoryCopyURL.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.2"
                         }
                     }
                 },
@@ -6082,6 +7457,43 @@
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteNullableInputUI/releases/tag/v1.0.1"
                         }
                     }
+                },
+                "org.yosh.SpeedyImpulseValidation": {
+                    "category": "Optimization",
+                    "description": "Optimizes the impulse validation code such that complex impulse chains don't start hitching the game.",
+                    "name": "SpeedyImpulseValidation",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation",
+                    "versions": {
+                        "1.0.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1ed0069ef1db3ee1db8668beb3b316516609703fd8de6f14669646d625b1a0b6",
+                                    "url": "https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation/releases/download/v1.0.4/SpeedyImpulseValidation.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation/releases/tag/v1.0.4"
+                        }
+                    }
+                },
+                "org.yosh.X11Clipboard": {
+                    "category": "Bug Workaround",
+                    "description": "Work around fix for X11 clipboard not functioning. requires xclip in your Resonite install directory",
+                    "name": "X11Clipboard",
+                    "platforms": [
+                        "linux"
+                    ],
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteX11Clipboard",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a3746fe79e71dcbd97669579fd70ced10dcd781edd1ec8ef1232083f0fe6cdad",
+                                    "url": "https://git.unix.dog/yosh/ResoniteX11Clipboard/releases/download/v1.0.1/X11Clipboard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteX11Clipboard/releases/tag/v1.0.1"
+                        }
+                    }
                 }
             }
         },
@@ -6154,6 +7566,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.3"
+                        },
+                        "1.1.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1fdcba29034aaa8c447d50f5f8c957bc7de85beeaf65c27032eb5ef4767162db",
+                                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.4/VDFaceTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.4"
                         }
                     }
                 }
@@ -6162,6 +7583,7 @@
         "owo.Nytra": {
             "author": {
                 "Nytra": {
+                    "icon": "https://github.com/Nytra.png",
                     "url": "https://github.com/Nytra"
                 }
             },
@@ -6317,6 +7739,23 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.4"
+                        }
+                    }
+                },
+                "owo.Nytra.ExpandedMemberEditors": {
+                    "category": "Inspectors",
+                    "description": "Adds basic inspector UI for SyncVar and SyncDictionary.",
+                    "name": "ExpandedMemberEditors",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteExpandedMemberEditors",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1ce42cc9159b4e90823fd3ea1c5bd7e87fc4ae2659ef3d4735e05cb1c06988f6",
+                                    "url": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/download/v1.0.0/ExpandedMemberEditors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.0.0"
                         }
                     }
                 },
@@ -6478,6 +7917,36 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v2.0.1"
+                        },
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "0a2344f115696b4131e162ebe3f205e330f6f797435791ab64e7a81f5a22773f",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.0/InterprocessLib.FrooxEngine.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "9040a036fe3a401b46f543940e1de5672c88265ae1cd3d71c14918baeae6f907",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.0/InterprocessLib.RML_Extensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v3.0.0"
+                        },
+                        "3.0.1": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "2df20a667a499d77d15d63f9e9fe3573343c82d6a4d8f486cf9b27fe809df822",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.FrooxEngine.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e3ca7c7db5bcaa212401a0c216ac8b741bb817fe872651a343cd2c8df5f348d4",
+                                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.RML_Extensions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v3.0.1"
                         }
                     }
                 },
@@ -6609,6 +8078,21 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.1.3"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c4dfdff70de2694d0f8d2452944e9ed387598fea339a5c8e995cb2118aa415f5",
+                                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.0/ReferenceFinderWizard.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "org.yosh.ContextMenuHookLib": {
+                                    "optional": true,
+                                    "version": "^1.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.0"
                         }
                     }
                 },
@@ -6743,6 +8227,16 @@
                             ],
                             "changelog": "- Added the option to automatically accept invite requests sent using the Ask to Join button (`AutoHandleInviteRequests`)\n  - This will send an invite for whatever session the headless is currently focused on\n  - This is only done if it is sent directly to the headless by the person requesting, this does not apply to forwarded requests\n  - The permission check is handled the same as the `/reqInvite` command\n  - If the user does not have permission to join then the request will be forwarded to the session admins\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added option to add go.resonite.com link to session start message (`DiscordLinkToSession`)\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n  - Updated project files\n",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.9"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4c3af5a3e143a3179cbfc6ed3fa41873d1fb297102f324a66bd2447e0c27a65a",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.0/HeadlessTweaks.dll"
+                                }
+                            ],
+                            "changelog": "- Fix smart autosave\n- Update to dotnet 10",
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.0"
                         }
                     },
                     "website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md"
@@ -6805,6 +8299,7 @@
         "semmiedev": {
             "author": {
                 "SemmieDev": {
+                    "icon": "https://github.com/SemmieDev.png",
                     "url": "https://github.com/SemmieDev"
                 }
             },

@@ -1,0 +1,16 @@
+{
+	"name": "HomeAccessLevel",
+	"id": "net.deltawolf.HomeAccessLevel",
+	"description": "Sets the access level for your home world when automatically opened on start. Private by default.",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/XDelta/HomeAccessLevel",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/HomeAccessLevel/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/HomeAccessLevel/releases/download/1.0.0/HomeAccessLevel.dll",
+				"sha256": "a6db02853d218af507e8a2de537c26e0adc62cfb06a35299c41e8944fe542ce1"
+			}]
+		}
+	}
+}

@@ -84,3 +84,9 @@ def exec_shell(command: str) -> str:
     if status != 0:
         raise Exception(f"{command} exited with status ${status}, output: {output}")
     return output
+
+def hex_to_int(s: str) -> int:
+    """
+    Convert a hex code to an int
+    """
+    return int(s.lstrip("#"), 16)

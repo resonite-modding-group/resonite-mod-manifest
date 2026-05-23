@@ -9,6 +9,14 @@
 	"website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md",
 	"sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
 	"versions": {
+		"2.2.0": {
+			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.0",
+			"changelog": "- Fix smart autosave\n- Update to dotnet 10",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.0/HeadlessTweaks.dll",
+				"sha256": "4c3af5a3e143a3179cbfc6ed3fa41873d1fb297102f324a66bd2447e0c27a65a"
+			}]
+		},
 		"2.1.12": {
 			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.12",
 			"changelog": "Rebuild for 2025.11.19.6\n- FrooxEngine.Headless.GenericCommand constructor signature was changed",

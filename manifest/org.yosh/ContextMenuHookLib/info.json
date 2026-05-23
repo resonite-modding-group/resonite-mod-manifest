@@ -1,0 +1,16 @@
+{
+	"name": "ContextMenuHookLib",
+	"id": "org.yosh.ContextMenuHookLib",
+	"description": "Library for adding prefix hooks to functions that make context menu items",
+	"category": "Libraries",
+	"sourceLocation": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/download/v1.0.0/ContextMenuHookLib.dll",
+				"sha256": "2dafb593483b8c549738408df86abb5013e774a9ceb2e26b4eb822fdd5fd6b2e"
+			}]
+		}
+	}
+}

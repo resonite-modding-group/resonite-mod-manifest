@@ -4,6 +4,7 @@
 	"description": "Fixes the Contact PFP's in the Contacts Tab, and Notifications.",
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/NepuShiro/ResoniteFixContactIcons",
+	"flags": ["deprecated"],
 	"versions": {
 		"1.0.1": {
 			"releaseUrl": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.1",

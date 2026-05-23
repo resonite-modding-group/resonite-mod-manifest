@@ -16,10 +16,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: "3.13"
         cache: "pip"
@@ -28,7 +28,7 @@ jobs:
 
     - name: Get all changed author files
       id: changed-author-files
-      uses: step-security/changed-files@95b56dadb92a30ca9036f16423fd3c088a71ee94 # v46.0.5
+      uses: step-security/changed-files@2e07db73e5ccdb319b9a6c7766bd46d39d304bad # v47.0.5
       with:
         files: |
           manifest/**/author.json

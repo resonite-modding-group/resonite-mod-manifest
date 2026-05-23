@@ -1,0 +1,19 @@
+{
+	"name": "LinuxSortedFiles",
+	"id": "fr.baplar.LinuxSortedFiles",
+	"description": "Improves the behavior of the Files dashboard tab on Linux, by sorting files by name.",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/Baplar/ResoniteLinuxSortedFiles",
+	"platforms": ["linux"],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Baplar/ResoniteLinuxSortedFiles/releases/tag/v1.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Baplar/ResoniteLinuxSortedFiles/releases/download/v1.0.0/LinuxSortedFiles.dll",
+					"sha256": "a1b7ff94d6227aae7cdacc7423ce043cba6297832b16a264836d1551f07c2ef1"
+				}
+			]
+		}
+	}
+}

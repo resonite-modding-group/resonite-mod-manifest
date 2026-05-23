@@ -5,6 +5,13 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/XDelta/ResoniteShowSourceLocation",
 	"versions": {
+		"1.2.3": {
+			"releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.3",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.3/ShowSourceLocation.dll",
+				"sha256": "c01295d424734b6e2f3531e3bd2ee0ee8915e77d231a2bbfcad7c29c8fc6a3bd"
+			}]
+		},
 		"1.2.2": {
 			"releaseUrl": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.2",
 			"artifacts": [{

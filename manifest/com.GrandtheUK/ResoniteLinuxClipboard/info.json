@@ -4,6 +4,7 @@
 	"description": "A mod that implements copy and paste in resonite for Text, Images and other files on Wayland",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/GrandtheUK/ResoniteLinuxClipboard",
+	"flags": ["deprecated"],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/tag/v1.0.0",

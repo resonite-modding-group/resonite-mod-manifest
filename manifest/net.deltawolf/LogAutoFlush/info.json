@@ -5,6 +5,13 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/XDelta/LogAutoFlush",
 	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll",
+				"sha256": "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1"
+			}]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.1",
 			"artifacts": [{
