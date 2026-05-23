@@ -10,7 +10,7 @@
 			"releaseUrl": "https://github.com/SeyfertGames/Resonance/releases/tag/v2.0.0",
 			"artifacts": [{
 				"url": "https://github.com/SeyfertGames/Resonance/releases/download/v2.0.0/Resonance.dll",
-				"sha256": "dbe73fec7ae0b2cf50ac0769dcc56b2106c60f62063b190097fc13275923b124"
+				"sha256": "68909a17de970c779495aea06e1cb996aa3dcddb74198c8146d3a2c38bacea2f"
 			}]
 		}
 	}
