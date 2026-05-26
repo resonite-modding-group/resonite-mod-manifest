@@ -1,0 +1,17 @@
+{
+	"name": "Resonance (Seyfert's Fork)",
+	"id": "net.Seyfert.Resonance",
+	"description": "Realtime networked FFT support for Resonite, now with video support.",
+	"category": "Audio",
+	"additionalAuthors": ["Cyro", "Pointer Offset"],
+	"sourceLocation": "https://github.com/SeyfertGames/Resonance",
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/SeyfertGames/Resonance/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/SeyfertGames/Resonance/releases/download/v2.0.0/Resonance.dll",
+				"sha256": "44c7b45c4a14bb8c2c8d19aae8257f591114fe4aacef6a966cefe6bf25ea8cda"
+			}]
+		}
+	}
+}
