@@ -4254,6 +4254,16 @@
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.10"
                         },
+                        "2.2.11": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8aebd1cf051c235f43bad2cd902099e46c194dfd097729267b70cc9fcf0d48d4",
+                                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.11/ShowDelegates.dll"
+                                }
+                            ],
+                            "changelog": "Gracefully handle errors when the type stored in the sync method attribute is wrong",
+                            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.11"
+                        },
                         "2.2.4": {
                             "artifacts": [
                                 {
