@@ -6,6 +6,14 @@
 	"website": "https://github.com/badhaloninja/AvatarCreatorUtils/blob/master/README.md",
 	"sourceLocation": "https://github.com/badhaloninja/AvatarCreatorUtils",
 	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v2.1.0",
+			"changelog": "Fix avatar creation failing partway through",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v2.1.0/AvatarCreatorUtils.dll",
+				"sha256": "ff63a806788c0ed65d8e5d61f86aaef1207ceaf9526f3122abd77e4e83d89dd5"
+			}]
+		},
 		"2.0.0": {
 			"releaseUrl": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v2.0.0",
 			"changelog": "- Resonite Port",
