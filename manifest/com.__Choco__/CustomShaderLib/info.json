@@ -4,6 +4,9 @@
 	"description": "Removes shader validation and verification, in order to allow custom shaders.",
 	"category": "Libraries",
 	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
+	"flags": [
+		"deprecated"
+	],
 	"versions": {
 		"1.0.1": {
 			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1",
