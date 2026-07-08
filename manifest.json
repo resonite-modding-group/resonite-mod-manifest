@@ -7390,6 +7390,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4e001c590b12863ed6b8dff5aa83a3843c5aa6e766065fdef779f40320b3e941",
+                                    "url": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/download/v1.0.1/ContextMenuHookLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.1"
                         }
                     }
                 },
