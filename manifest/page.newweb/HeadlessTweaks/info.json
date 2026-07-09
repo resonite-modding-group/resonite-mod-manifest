@@ -9,6 +9,14 @@
 	"website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md",
 	"sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
 	"versions": {
+		"2.2.1": {
+			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.1",
+			"changelog": "Rebuild for Resonite 2026.7.7.829",
+			"artifacts": [{
+				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1/HeadlessTweaks.dll",
+				"sha256": "55bef3e1a598c217000f0156bdefd4779d5e21c2727a99a701d2e3d238bc5ab3"
+			}]
+		},
 		"2.2.0": {
 			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.0",
 			"changelog": "- Fix smart autosave\n- Update to dotnet 10",
