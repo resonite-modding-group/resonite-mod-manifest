@@ -1,0 +1,16 @@
+{
+	"name": "GrabbersGalore",
+	"id": "dog.glacier.GrabbersGalore",
+	"description": "Allows you to add more Grabbers to your avatar using dynamic variables. Check the readme for setup steps",
+	"category": "Controls",
+	"sourceLocation": "https://github.com/noblereign/ResoniteGrabbersGalore",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.1.0/GrabbersGalore.dll",
+				"sha256": "c3c394601992801a85ac5311148196b39761cb9410f282fc2acd275d2a859c22"
+			}]
+		}
+	}
+}

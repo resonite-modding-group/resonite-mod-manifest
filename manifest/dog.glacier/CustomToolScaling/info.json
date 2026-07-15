@@ -1,0 +1,16 @@
+{
+	"name": "CustomToolScaling",
+	"id": "dog.glacier.CustomToolScaling",
+	"description": "Lets you specify a custom tool scale for your avatars. ",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/noblereign/ResoniteCustomToolScaling",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.0.1/CustomToolScaling.dll",
+				"sha256": "caf942f54e174bed84a4f787d0cebec9045cfea50db7dfc5ab3f72bb00713f83"
+			}]
+		}
+	}
+}

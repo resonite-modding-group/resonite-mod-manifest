@@ -1,0 +1,16 @@
+{
+	"name": "BetterDynBoneVisualizer",
+	"id": "dog.glacier.BetterDynBoneVisualizer",
+	"description": "Reimplements the Dynamic Bone Chain's visualizer in a less flashy way.",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.0/BetterDynBoneVisualizer.dll",
+				"sha256": "5c2e8ff58b078f6d2b7d4f03625f25e9d7f04b0d73a25becf13c0b3a5793cadd"
+			}]
+		}
+	}
+}
