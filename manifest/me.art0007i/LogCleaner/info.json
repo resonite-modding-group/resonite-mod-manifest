@@ -35,6 +35,16 @@
                 }
             ],
             "changelog": "Removes BroadcastSession spam"
+        },
+        "1.1.3": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.3/LogCleaner.dll",
+                    "sha256": "1b123e43008e0f0cbc313b8739d5e0440c05603acb72a80bb85cb705b0dc3283"
+                }
+            ],
+            "changelog": "Removes Cloud variable refresh spam"
         }
     }
 }
