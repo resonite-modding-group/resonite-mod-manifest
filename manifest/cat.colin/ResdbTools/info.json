@@ -6,6 +6,16 @@
   "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod",
   "tags": ["inventory", "resdb", "database", "cloud"],
   "versions": {
+    "1.1.0": {
+      "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod/releases/tag/v1.1.0",
+      "artifacts": [
+        {
+          "url": "https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod/releases/download/v1.1.0/ResdbTools.dll",
+          "sha256": "844f68ee5f504be6eef28b8b7e96c33032b90719f99c70ec917f5fe686af892d"
+        }
+      ],
+      "changelog": "Properly implemented renaming directories."
+    },
     "1.0.1": {
       "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod/releases/tag/v1.0.1",
       "artifacts": [
