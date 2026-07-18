@@ -5,6 +5,13 @@
 	"category": "Context Menu",
 	"sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
 	"versions": {
+		"4.0.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v4.0.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v4.0.0/ContextMenuBackOption.dll",
+				"sha256": "4399a5ac5d8bec18e7f434ac298dc6ec4fcde387dd83960943abd4529c365e97"
+			}]
+		},
 		"3.0.0": {
 			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v3.0.0",
 			"artifacts": [{
