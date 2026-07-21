@@ -2879,6 +2879,29 @@
                 }
             },
             "entries": {
+                "fr.baplar.JustLetItGo": {
+                    "category": "Bug Workaround",
+                    "description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it",
+                    "name": "JustLetItGo",
+                    "sourceLocation": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo",
+                    "tags": [
+                        "stuck",
+                        "clear",
+                        "gather",
+                        "job"
+                    ],
+                    "versions": {
+                        "1.4.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "662e1e927da86853314ac9f888dad61d69f2e35f11bf2e4fa1d10103f7956a78",
+                                    "url": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/download/1.4.0/JustLetItGo.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/tag/1.4.0"
+                        }
+                    }
+                },
                 "fr.baplar.LinuxSortedFiles": {
                     "category": "Technical Tweaks",
                     "description": "Improves the behavior of the Files dashboard tab on Linux, by sorting files by name.",
