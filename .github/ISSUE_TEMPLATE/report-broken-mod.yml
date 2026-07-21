@@ -20,7 +20,7 @@ body:
     id: issue-report
     attributes:
       label: Issue Report
-      description: Link to where the author has been informed that the mod is broken, typically a github issue. (Created by anyone)
+      description: Link to where the author has been informed that the mod is broken, typically an issue created on their mod repo. (Created by anyone)
       placeholder: https://github.com/resonite-modding-group/ExampleMod/issues/0
     validations:
       required: true
