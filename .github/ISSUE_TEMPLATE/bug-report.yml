@@ -24,6 +24,7 @@ body:
       options:
         - "Github"
         - "Discord"
+        - "Fluxer"
         - "External tool"
         - "Other"
     validations:
