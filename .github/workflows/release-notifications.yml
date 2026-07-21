@@ -33,10 +33,16 @@ jobs:
           REF_NEW: ${{ github.head_ref || github.sha }}
         run: python3 generate_notification.py
 
-      - name: Send notification
+      - name: Send notification to Discord
         if: ${{ steps.gen.outputs.JSON != '' }}
         env:
           JSON: ${{ steps.gen.outputs.JSON }}
         run: |
           curl --fail -H 'Content-Type: application/json' --data-raw "$JSON" '${{ secrets.DISCORD_MOD_RELEASES_WEBHOOK_URL }}'
+      - name: Send notification to Fluxer
+        if: ${{ steps.gen.outputs.JSON != '' }}
+        env:
+          JSON: ${{ steps.gen.outputs.JSON }}
+        run: |
+          curl --fail -H 'Content-Type: application/json' --data-raw "$JSON" '${{ secrets.FLUXER_MOD_RELEASES_WEBHOOK_URL }}'
 
