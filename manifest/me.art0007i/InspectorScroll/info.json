@@ -25,6 +25,16 @@
                 }
             ],
             "changelog": "Fix for splittening"
+        },
+        "2.0.2": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.2/InspectorScroll.dll",
+                    "sha256": "df53ff50270df446eeba1af7939b3674a8b84dc44613b7cad9a38c3ad4be09e4"
+                }
+            ],
+            "changelog": "Added options to block movement on canvases and scroll with index thumbstick"
         }
     }
 }
