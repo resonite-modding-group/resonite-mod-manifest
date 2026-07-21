@@ -1,0 +1,24 @@
+{
+	"name": "JustLetItGo",
+	"id": "fr.baplar.JustLetItGo",
+	"description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo",
+	"tags": [
+		"stuck",
+		"clear",
+		"gather",
+		"job"
+	],
+	"versions": {
+		"1.4.0": {
+			"releaseUrl": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/tag/1.4.0",
+			"artifacts": [
+				{
+					"url": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/download/1.4.0/JustLetItGo.dll",
+					"sha256": "662e1e927da86853314ac9f888dad61d69f2e35f11bf2e4fa1d10103f7956a78"
+				}
+			]
+		}
+	}
+}
