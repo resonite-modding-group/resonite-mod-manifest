@@ -1,0 +1,16 @@
+{
+	"name": "RandomAudioClipPlayerUtils",
+	"id": "net.marsmaantje.RandomAudioClipPlayerUtils",
+	"description": "Adds buttons to copy the settings of one RandomAudioClipPlayer clip to all others",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils/releases/tag/V1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils/releases/download/V1.0.0/RandomAudioClipPlayerUtils.dll",
+				"sha256": "sha256:e68454d1e696f72da7d300eb3828ffb4eb6f001aab96524896e436382a9b4ca8"
+			}]
+		}
+	}
+}
