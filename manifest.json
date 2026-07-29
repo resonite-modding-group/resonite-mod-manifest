@@ -6169,6 +6169,33 @@
                 }
             }
         },
+        "net.marsmaantje": {
+            "author": {
+                "marsmaantje": {
+                    "icon": "https://github.com/marsmaantje.png",
+                    "url": "https://github.com/marsmaantje"
+                }
+            },
+            "entries": {
+                "net.marsmaantje.RandomAudioClipPlayerUtils": {
+                    "category": "Inspectors",
+                    "description": "Adds buttons to copy the settings of one RandomAudioClipPlayer clip to all others",
+                    "name": "RandomAudioClipPlayerUtils",
+                    "sourceLocation": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e68454d1e696f72da7d300eb3828ffb4eb6f001aab96524896e436382a9b4ca8",
+                                    "url": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils/releases/download/V1.0.0/RandomAudioClipPlayerUtils.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils/releases/tag/V1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "net.mizle": {
             "author": {
                 "Eai": {
