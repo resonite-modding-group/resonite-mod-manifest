@@ -10,6 +10,13 @@
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/zahndy/StopTouchingMyEyeballs",
 	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/download/1.0.2/StopTouchingMyEyeballs.dll",
+				"sha256": "d5e0790b8f08bb85a5975c2fce179ddbf7c9ae2077d5349fcb98c44cf2965e21"
+			}]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/zahndy/StopTouchingMyEyeballs/releases/tag/1.0.1",
 			"artifacts": [{
