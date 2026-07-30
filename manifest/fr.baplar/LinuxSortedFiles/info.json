@@ -2,6 +2,7 @@
 	"name": "LinuxSortedFiles",
 	"id": "fr.baplar.LinuxSortedFiles",
 	"description": "Improves the behavior of the Files dashboard tab on Linux, by sorting files by name.",
+	"flags": ["deprecated"],
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Baplar/ResoniteLinuxSortedFiles",
 	"platforms": ["linux"],
