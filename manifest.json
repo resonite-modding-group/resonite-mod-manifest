@@ -2890,10 +2890,11 @@
             "entries": {
                 "fr.baplar.JustLetItGo": {
                     "category": "Bug Workaround",
-                    "description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it",
+                    "description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it. Experimental mod, may help but might also cause crashes, use at your own peril!",
                     "name": "JustLetItGo",
                     "sourceLocation": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo",
                     "tags": [
+                        "experimental",
                         "stuck",
                         "clear",
                         "gather",
@@ -2914,6 +2915,9 @@
                 "fr.baplar.LinuxSortedFiles": {
                     "category": "Technical Tweaks",
                     "description": "Improves the behavior of the Files dashboard tab on Linux, by sorting files by name.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "LinuxSortedFiles",
                     "platforms": [
                         "linux"
@@ -2934,6 +2938,9 @@
                 "fr.baplar.ResoniteDiscordRpc": {
                     "category": "Misc",
                     "description": "Adds fancy features to the Discord Rich Presence integration.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteDiscordRpc",
                     "platforms": [
                         "linux",
