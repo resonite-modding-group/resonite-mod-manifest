@@ -1,10 +1,11 @@
 {
 	"name": "JustLetItGo",
 	"id": "fr.baplar.JustLetItGo",
-	"description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it",
+	"description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it. Experimental mod, may help but might also cause crashes, use at your own peril!",
 	"category": "Bug Workaround",
 	"sourceLocation": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo",
 	"tags": [
+		"experimental",
 		"stuck",
 		"clear",
 		"gather",
