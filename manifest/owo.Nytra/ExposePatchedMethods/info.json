@@ -2,7 +2,7 @@
 	"name": "ExposePatchedMethods",
 	"id": "owo.Nytra.ExposePatchedMethods",
 	"description": "Adds the option to expose what mods you have loaded to your userspace and/or the world you are in.",
-	"category": "Inspectors",
+	"category": "Misc",
 	"additionalAuthors": ["EIA485", "kazu0617", "rampa3"],
 	"sourceLocation": "https://github.com/Nytra/ResoniteExposePatchedMethods",
 	"versions": {
