@@ -8008,6 +8008,28 @@
                         }
                     }
                 },
+                "owo.Nytra.ExposePatchedMethods": {
+                    "additionalAuthors": {
+                        "EIA485": {},
+                        "kazu0617": {},
+                        "rampa3": {}
+                    },
+                    "category": "Misc",
+                    "description": "Adds the option to expose what mods you have loaded to your userspace and/or the world you are in.",
+                    "name": "ExposePatchedMethods",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteExposePatchedMethods",
+                    "versions": {
+                        "5.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6910e3707b5666690788317e8308efdd0f07575c4ebb1a0c3e507933988bf30f",
+                                    "url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.1/ExposePatchedMethods.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.1.1"
+                        }
+                    }
+                },
                 "owo.Nytra.FixSessionBrowser": {
                     "category": "Bug Workaround",
                     "description": "A mod that fixed the session browser. This is no longer needed as of Beta 2024.1.30.731.",
