@@ -8,6 +8,15 @@
 	],
 	"sourceLocation": "https://codeberg.org/Raidriar/HDRProbeFix",
 	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://codeberg.org/Raidriar/HDRProbeFix/releases/tag/1.1.0",
+			"artifacts": [
+				{
+					"url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/1.1.0/HDRProbeFix.dll",
+					"sha256": "47521392858eb0d5ec529f549b86b8a33be69ff74e96e430341ac6d2cf51f1ed"
+				}
+			]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://codeberg.org/Raidriar/HDRProbeFix/releases/tag/1.0.1",
 			"artifacts": [
