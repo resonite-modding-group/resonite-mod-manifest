@@ -5,6 +5,16 @@
 	"category": "Misc",
 	"sourceLocation": "https://codeberg.org/Raidriar/DynamicDesyncHelper",
 	"versions": {
+  	"0.2.0": {
+  		"releaseUrl": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/tag/0.2.0",
+  		"artifacts": [
+  			{
+  				"url": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/download/0.2.0/DynamicDesyncHelper.dll",
+  				"filename": "DynamicDesyncHelper.dll",
+  				"sha256": "77EB6068E3E2F3DAC8F218D3AEDB55CDF5BD7EA379CECD22B002C90521D44798"
+  			}
+  		]
+  	},
 		"0.1.2": {
 			"releaseUrl": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/tag/0.1.2",
 			"artifacts": [
