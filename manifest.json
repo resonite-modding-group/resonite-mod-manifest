@@ -6394,6 +6394,16 @@
                                 }
                             ],
                             "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.2"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicTickRate.dll",
+                                    "sha256": "1434D585BA3CF5E922029EF78485B916B38FA13BD561FD16E16F6FBF76241532",
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.1.0/DynamicTickRate.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.1.0"
                         }
                     }
                 },
