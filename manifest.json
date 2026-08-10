@@ -2899,8 +2899,8 @@
         "fr.baplar": {
             "author": {
                 "Baplar": {
-                    "icon": "https://github.com/Baplar.png",
-                    "url": "https://github.com/Baplar"
+                    "icon": "https://forge.moldy.gift/Baplar.png",
+                    "url": "https://forge.moldy.gift/Baplar"
                 }
             },
             "entries": {
@@ -2908,7 +2908,10 @@
                     "category": "Bug Workaround",
                     "description": "Improves the behavior of the local asset queue, in particular to work around the 'clogging' that can sometimes affect it. Experimental mod, may help but might also cause crashes, use at your own peril!",
                     "name": "JustLetItGo",
-                    "sourceLocation": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo",
+                    "platforms": [
+                        "headless"
+                    ],
+                    "sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.JustLetItGo",
                     "tags": [
                         "experimental",
                         "stuck",
@@ -2925,6 +2928,15 @@
                                 }
                             ],
                             "releaseUrl": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/tag/1.4.0"
+                        },
+                        "1.5.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7c4918c616ce5b81cfd067c19aae9a3b574d640ca54a941af080f3c95ffb8b56",
+                                    "url": "https://forge.moldy.gift/Baplar/Resonite.JustLetItGo/releases/download/1.5.0/JustLetItGo.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://forge.moldy.gift/Baplar/Resonite.JustLetItGo/releases/tag/1.5.0"
                         }
                     }
                 },
