@@ -1,7 +1,7 @@
 {
 	"name": "SmileForTheCamera",
 	"id": "fr.baplar.SmileForTheCamera",
-	"description": "Makes LookAtUser components (such as user nameplates) look at the camera instead of the local user when taking a picture.",
+	"description": "Makes LookAtUser components (such as user nameplates) look at the camera instead of the local user when taking a picture or while streaming to desktop.",
 	"category": "Visual Tweaks",
 	"sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera",
 	"tags": [
@@ -16,6 +16,15 @@
 				{
 					"url": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/download/1.0.0/SmileForTheCamera.dll",
 					"sha256": "d39b1550b4a03bb6f7bfd1342456a547080f756e87d12b1c903f888863d87f57"
+				}
+			]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/tag/1.1.0",
+			"artifacts": [
+				{
+					"url": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/download/1.1.0/SmileForTheCamera.dll",
+					"sha256": "aeb4e982ebdfd142d69da53d6206a8d408e5f4421e2c244f8641abbb7c6d858a"
 				}
 			]
 		}
