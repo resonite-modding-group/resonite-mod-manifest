@@ -1,7 +1,9 @@
 {
 	"author": {
 		"Raidriar": {
-			"url": "https://codeberg.org/Raidriar"
+			"url": "https://codeberg.org/Raidriar",
+			"icon": "https://codeberg.org/avatars/9a5adced05fbaa61684a4f263572003c8fcfa992efada5ebe193a2875b630c12",
+			"support": "https://ko-fi.com/raidriar"
 		}
 	}
 }
