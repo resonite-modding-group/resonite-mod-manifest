@@ -2037,12 +2037,40 @@
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/psvr2_toolkit_capi_loader.dll"
                                 },
                                 {
+                                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/libpsvr2_toolkit_capi_loader.so"
+                                },
+                                {
                                     "filename": "ResonitePSVR2.dll",
                                     "sha256": "1666606a5c28173de920ae12ade5209672781a01b1e3fbb31636e39e225dcd50",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/ResonitePSVR2.dll"
                                 }
                             ],
                             "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "psvr2_toolkit_capi_loader.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/psvr2_toolkit_capi_loader.dll"
+                                },
+                                {
+                                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/libpsvr2_toolkit_capi_loader.so"
+                                },
+                                {
+                                    "filename": "ResonitePSVR2.dll",
+                                    "sha256": "41740304d8f21bcf8f983d89df332a6b8840f1f1c15e73744e80df9eb6c04065",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/ResonitePSVR2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.2"
                         }
                     }
                 }
