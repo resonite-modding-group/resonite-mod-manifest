@@ -5452,6 +5452,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6407AD92EA449E437FB921723202903582BCAC70DE717A168FA2F9B4E224AAF5",
+                                    "url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.2/InspectorImprovements.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.2"
                         }
                     }
                 },
