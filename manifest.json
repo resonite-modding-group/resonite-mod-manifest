@@ -8593,7 +8593,7 @@
                             "dependencies": {
                                 "org.yosh.ContextMenuHookLib": {
                                     "optional": true,
-                                    "version": "^1.0.0"
+                                    "version": "^1.0.2"
                                 }
                             },
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.1"
