@@ -8545,6 +8545,21 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e9306832b7c8680db407a28dae584a0614a7b26ef7f1cecb5bb5942fb320a0d5",
+                                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.1/ReferenceFinderWizard.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "org.yosh.ContextMenuHookLib": {
+                                    "optional": true,
+                                    "version": "^1.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.1"
                         }
                     }
                 },
