@@ -32,6 +32,13 @@
 				"url": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/download/v1.2.1/ColorMyProtoFlux.dll",
 				"sha256": "c5c4de1f10097132e763a4b316399b1220be9940213453b14e39910631da9904"
 			}]
+		},
+		"1.2.2": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/tag/v1.2.2",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/download/v1.2.2/ColorMyProtoFlux.dll",
+				"sha256": "1fccd70bee710ea526cc7582d1851e3facaa4451df9685b6127ac26d62c1f845"
+			}]
 		}
 	}
 }
