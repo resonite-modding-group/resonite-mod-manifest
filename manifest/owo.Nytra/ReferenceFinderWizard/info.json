@@ -49,7 +49,7 @@
 		"1.2.1": {
 			"dependencies": {
 				"org.yosh.ContextMenuHookLib": {
-					"version": "^1.0.0",
+					"version": "^1.0.2",
 					"optional": true
 				}
 			},
