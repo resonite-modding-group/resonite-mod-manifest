@@ -434,6 +434,33 @@
                 }
             }
         },
+        "Uruloke": {
+            "author": {
+                "Uruloke": {
+                    "icon": "https://github.com/Uruloke.png",
+                    "url": "https://github.com/Uruloke"
+                }
+            },
+            "entries": {
+                "Uruloke.Restonite": {
+                    "category": "Wizards",
+                    "description": "Adds a wizard to allow easy installation of the Statufication Remaster system for your avatar.",
+                    "name": "Restonite",
+                    "sourceLocation": "https://github.com/Uruloke/Restonite",
+                    "versions": {
+                        "1.7.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "10cda1bff5ae05bd3d84c3fda593c54cdfbd03a3e29fe16727481aefe8bb1ca9",
+                                    "url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.4/Restonite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.4"
+                        }
+                    }
+                }
+            }
+        },
         "cat.colin": {
             "author": {
                 "ColinTimBarndt": {
