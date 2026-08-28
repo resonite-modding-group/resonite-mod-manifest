@@ -2806,6 +2806,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9a6247ae7ccc691e6c43e1ebf307b4c2fb34321cb48dee36f9d43af595a239e5",
+                                    "url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.1/BetterDynBoneVisualizer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.1"
                         }
                     }
                 },
