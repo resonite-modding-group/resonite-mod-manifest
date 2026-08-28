@@ -5,6 +5,13 @@
 	"category": "Visual Tweaks",
 	"sourceLocation": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer",
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.1/BetterDynBoneVisualizer.dll",
+				"sha256": "9a6247ae7ccc691e6c43e1ebf307b4c2fb34321cb48dee36f9d43af595a239e5"
+			}]
+		},
 		"1.0.0": {
 			"releaseUrl": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.0",
 			"artifacts": [{
