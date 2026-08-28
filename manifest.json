@@ -5860,6 +5860,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f4d9f97695cf8f005b59f0de59b26ce0817398410ae51a5d895f3ac21f306599",
+                                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.1/WorldOrbDynVars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.1"
                         }
                     }
                 }
