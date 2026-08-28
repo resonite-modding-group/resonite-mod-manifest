@@ -456,6 +456,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.4"
+                        },
+                        "1.7.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4c5084baf7699a44d6d1abc54ca6b8527f5e7a705875fba1de9476a065814919",
+                                    "url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.5/Restonite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.5"
                         }
                     }
                 }
