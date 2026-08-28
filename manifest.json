@@ -850,6 +850,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/tag/v1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "af5a4a94138dbf15b1f9930c45177708f61066a3642b94bc98f7b76489e315ee",
+                                    "url": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/download/v1.1.0/MoreReferenceProxies.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/tag/v1.1.0"
                         }
                     }
                 },
