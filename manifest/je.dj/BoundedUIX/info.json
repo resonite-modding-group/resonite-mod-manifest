@@ -8,6 +8,20 @@
 		"Banane9"
 	],
 	"versions": {
+		"1.1.4": {
+			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/1.1.4",
+			"changelog": "Updated:\n- Migrated project to .NET 10.0\n\nBuilt against Resonite version 2026.8.27.1094.",
+			"conflicts": {
+				"Banane9.BoundedUIX": {
+					"version": "*"
+				}
+			},
+			"artifacts": [{
+				"filename": "BoundedUIX.dll",
+				"url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.4/BoundedUIX.dll",
+				"sha256": "a81f637d3dc52637918a02fab9379149f1a686814e5e8d51c05cbede72983f32"
+			}]
+		},
 		"1.1.3": {
 			"releaseUrl": "https://github.com/djsime1/BoundedUIX/releases/tag/1.1.3",
 			"changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
