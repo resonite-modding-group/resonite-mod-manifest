@@ -5,6 +5,13 @@
 	"category": "Dashboard",
 	"sourceLocation": "https://github.com/XDelta/PermissionControl",
 	"versions": {
+		"2.0.3": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.3",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.3/PermissionControl.dll",
+				"sha256": "ef4084905c54cb13793ac98f07da899cc0167ce60742f86ac88a7c0a5cd4d6cb"
+			}]
+		},
 		"2.0.2": {
 			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.2",
 			"artifacts": [{
