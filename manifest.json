@@ -1273,6 +1273,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.1"
+                        },
+                        "2.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8f4123bdee972a44b358803c07880687a182a56ddb6a724fc9954ee86f4eca89",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.2.2/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.2"
                         }
                     }
                 },
@@ -1290,6 +1299,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.4"
+                        },
+                        "1.3.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f60f3591dfb889a5460489525496b31b7c58ab2811002ccbb0d9de8f16c6f2b6",
+                                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.5/DynVarGenerator.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.5"
                         }
                     }
                 }
