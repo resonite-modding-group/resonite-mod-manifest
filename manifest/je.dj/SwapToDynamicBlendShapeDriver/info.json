@@ -5,6 +5,15 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver",
 	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/tag/1.0.2",
+			"changelog": "Updated:\n- Migrated project to .NET 10.0\n\nBuilt against Resonite version 2026.8.27.1094.",
+			"artifacts": [{
+				"filename": "SwapToDynamicBlendShapeDriver.dll",
+				"url": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/download/1.0.2/SwapToDynamicBlendShapeDriver.dll",
+				"sha256": "ec166315d5139763105549a92152d387d339a80b736c27ea37b08754cc7bd432"
+			}]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/tag/1.0.1",
 			"changelog": "Updated:\n- Migrated project to .NET 9.0\n\nBuilt against Resonite version 2025.8.22.607.",
