@@ -62,6 +62,15 @@
                 }
             ],
             "changelog": "Fixed disconnect from non-data model type"
+        },
+        "2.1.2": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.2/MyInspectors.dll",
+                    "sha256": "d69f65281c8356573036f595c7b690aeb5ce06b94f9268b0caf51a8cc4c79013"
+                }
+            ]
         }
     },
     "name": "MyInspectors",
