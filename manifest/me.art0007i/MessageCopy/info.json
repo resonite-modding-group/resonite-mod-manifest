@@ -36,6 +36,15 @@
                 }
             ],
             "changelog": "Fix for splittening"
+        },
+        "1.0.4": {
+            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.4/MessageCopy.dll",
+                    "sha256": "7dabb12f148319af22e2bcfa0a71b4c514c5cdcf4e06b407682621d126b54eb0"
+                }
+            ]
         }
     }
 }

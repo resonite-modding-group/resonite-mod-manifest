@@ -58,6 +58,15 @@
                 }
             ],
             "changelog": "Fix for splittening"
+        },
+        "1.0.6": {
+            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.6/DuplicateFix.dll",
+                    "sha256": "d85db242e7bf5b561f12aff3d8b0c9efdb8c7a02e9ec29cbdb77a6891fd338d2"
+                }
+            ]
         }
     }
 }

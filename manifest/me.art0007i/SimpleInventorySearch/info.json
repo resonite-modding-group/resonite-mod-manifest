@@ -23,6 +23,15 @@
                     "sha256": "a8dc9d0671d2b6630da97f01162fea6e754bf922016db64163b83fb2492b2f5f"
                 }
             ]
+        },
+        "1.0.3": {
+            "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SimpleInventorySearch/releases/download/1.0.3/SimpleInventorySearch.dll",
+                    "sha256": "0761fb3ba6c6ad3546f0be8bdf0027dae58613e365a6b4c52e86edacade1d7c0"
+                }
+            ]
         }
     }
 }
