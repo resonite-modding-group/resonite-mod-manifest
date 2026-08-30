@@ -1786,6 +1786,15 @@
                             ],
                             "changelog": "Migrated to .NET 9, bug fixes",
                             "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.8.0"
+                        },
+                        "0.8.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "094a0ca8f3c380dc36de7eb3a0f93ccb6d80b63bdfe8d220a551d455a6154e64",
+                                    "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.1/ResoniteMetricsCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.8.1"
                         }
                     }
                 }
