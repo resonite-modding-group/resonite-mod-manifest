@@ -6,6 +6,16 @@
   "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod",
   "tags": ["inspector", "component", "favorite", "favourite", "ProtoFlux"],
   "versions": {
+    "1.0.5": {
+      "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod/releases/tag/v1.0.5",
+      "artifacts": [
+        {
+          "url": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod/releases/download/v1.0.5/CherryTypes.dll",
+          "sha256": "69cc4a189e3f27be7b83404e96dd4f46f5802b9a104214fb3dc410a19e123949"
+        }
+      ],
+      "changelog": "Compiled for Resonite 2026.8.27.1094 and later with support for both System.Text.Json and Newtonsoft.Json."
+    },
     "1.0.2": {
       "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod/releases/tag/v1.0.2",
       "artifacts": [
