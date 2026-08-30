@@ -3832,6 +3832,15 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.5"
+                        },
+                        "1.0.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d85db242e7bf5b561f12aff3d8b0c9efdb8c7a02e9ec29cbdb77a6891fd338d2",
+                                    "url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.6/DuplicateFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.6"
                         }
                     }
                 },
@@ -4239,6 +4248,15 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.2"
+                        },
+                        "1.0.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7dabb12f148319af22e2bcfa0a71b4c514c5cdcf4e06b407682621d126b54eb0",
+                                    "url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.4/MessageCopy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/MessageCopy/releases/tag/1.0.4"
                         }
                     }
                 },
@@ -4310,6 +4328,15 @@
                             ],
                             "changelog": "Fixed disconnect from non-data model type",
                             "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d69f65281c8356573036f595c7b690aeb5ce06b94f9268b0caf51a8cc4c79013",
+                                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.2/MyInspectors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.2"
                         }
                     }
                 },
@@ -4696,6 +4723,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.1"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0761fb3ba6c6ad3546f0be8bdf0027dae58613e365a6b4c52e86edacade1d7c0",
+                                    "url": "https://github.com/art0007i/SimpleInventorySearch/releases/download/1.0.3/SimpleInventorySearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/SimpleInventorySearch/releases/tag/1.0.3"
                         }
                     }
                 },
