@@ -7904,6 +7904,26 @@
                                 }
                             },
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "899ad4ffedf71717ce94da8f25bf83b204cba926cf0fdda55a1d2eed44568238",
+                                    "url": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/download/v1.0.1/CollectionEditor.dll"
+                                }
+                            ],
+                            "conflicts": {
+                                "owo.Nytra.ReferenceFinderWizard": {
+                                    "version": "1.1.0"
+                                }
+                            },
+                            "dependencies": {
+                                "org.yosh.ContextMenuHookLib": {
+                                    "optional": true,
+                                    "version": "^1.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/tag/v1.0.1"
                         }
                     }
                 },
