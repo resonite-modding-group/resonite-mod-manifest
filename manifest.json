@@ -233,6 +233,33 @@
                 }
             }
         },
+        "ModernBalloonie": {
+            "author": {
+                "ModernBalloonie": {
+                    "icon": "https://github.com/ModernBalloonie.png",
+                    "url": "https://github.com/ModernBalloonie"
+                }
+            },
+            "entries": {
+                "ModernBalloonie.FBTCalibratorFollowHead": {
+                    "category": "Misc",
+                    "description": "A mod for Resonite that makes the full body calibration reference follow your head. ",
+                    "name": "FBTCalibratorFollowHead",
+                    "sourceLocation": "https://github.com/ModernBalloonie/FBTCalibratorFollowHead",
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8ba32b3bc1d4bec7f9fd9332eb357d6d87809788aef5f7020acabf668dce4510",
+                                    "url": "https://github.com/ModernBalloonie/FBTCalibratorFollowHead/releases/download/v1.0.2/FBTCalibratorFollowHead.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ModernBalloonie/FBTCalibratorFollowHead/releases/tag/v1.0.2"
+                        }
+                    }
+                }
+            }
+        },
         "Restrainite": {
             "author": {
                 "Restrainite developers": {
