@@ -6332,6 +6332,9 @@
                 "net.eia485.GetItemLink": {
                     "category": "Dashboard",
                     "description": "Adds buttons in the inventory to copy an item resdb or resrec to the clipboard.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "GetItemLink",
                     "sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
                     "tags": [
