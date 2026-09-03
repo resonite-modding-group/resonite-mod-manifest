@@ -5,6 +5,13 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/noblereign/ResoniteCustomToolScaling",
 	"versions": {
+		"1.0.2": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.0.2/CustomToolScaling.dll",
+				"sha256": "ef20aa323f40f4e20bb64077788f83b0923154eb60acd7ecabc2f4e2de5e1d5a"
+			}]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.1",
 			"artifacts": [{
