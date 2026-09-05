@@ -5981,6 +5981,23 @@
                         }
                     }
                 },
+                "net.deltawolf.ShowHiddenComponents": {
+                    "category": "Inspectors",
+                    "description": "Shows components that are marked as hidden",
+                    "name": "ShowHiddenComponents",
+                    "sourceLocation": "https://github.com/XDelta/ShowHiddenComponents/",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "47798ff9bae8f02627b3d6c4ca289d604b9be05f58c21bb0454fcf9bd8bac1a2",
+                                    "url": "https://github.com/XDelta/ShowHiddenComponents/releases/download/1.0.0/ShowHiddenComponents.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ShowHiddenComponents/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ShowSourceLocation": {
                     "category": "Inspectors",
                     "description": "Allows seeing what is driving a field and where a component is located.",
