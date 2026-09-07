@@ -798,6 +798,9 @@
                     },
                     "category": "Visual Tweaks",
                     "description": "Customizable node colors, rounded textures, and animated wires for your ProtoFlux nodes.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "ProtoFluxOverhaul",
                     "sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
                     "versions": {
