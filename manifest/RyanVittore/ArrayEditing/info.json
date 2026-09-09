@@ -8,6 +8,13 @@
 	],
 	"sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
 	"versions": {
+		"1.0.3": {
+			"releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.3",
+			"artifacts": [{
+				"url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.3/ArrayEditing.dll",
+				"sha256": "c0d42903efb8a228e8554a94d08583ed7ca3f849b02cfd5ca1b356625b7b3967"
+			}]
+		},
 		"1.0.2": {
 			"releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.2",
 			"artifacts": [{
