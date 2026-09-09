@@ -63,6 +63,16 @@
 			"sha256": "49c4b49b886e3929795241b30f05a04a8a56f439f3f98a1009889183ee08afc7"
 			}],
 			"changelog": "Fixed permission issues"
+		},
+		"1.5.2": {
+			"artifacts": [
+				{
+					"sha256": "eb18a12eaabcfec5d65cadae51200ec3900abb31d4b6568a14fe24466f6fec3a",
+					"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.5.2/ProtoFluxOverhaul.dll"
+				}
+			],
+			"changelog": "- Fixed the RML assembly loading error.\n- Fixed Node Create, Node Grab, Wire Grab and Connect sounds not playing properly. #29\n- Fixed sounds only playing on the second interaction.\n- Fixed sound caching after switching sessions or changing sound URLs. #34\n- Added a wire dragging sound with changing pitch and playback speed (audible during slow movement, pauses when still, max 2x).\n- Materials, textures and sprites are now shared from __TEMP/ProtoFluxOverhaul to reduce duplicated assets. #35\n- Improved wire animation performance by animating shared materials while keeping input/output directions correct.\n- Shared assets now stay in the world when their user leaves, keeping existing nodes and wires working.\n- Texture and scrolling settings now update existing shared assets.\n- Added custom material, texture and sound overrides from the user root or avatar. #13\n- Added the Create Avatar Overrides toggle (creates editable overrides on your avatar and resets afterward).\n- Avatar overrides are used directly, so edits to their materials and texture/sound URLs update live.\n- Added automatic fallback to default assets when avatar overrides disappear.\n- Node material overrides only apply to the main background (buttons, headers and shading keep their native materials).\n- Generated Node materials now use the correct native depth and rendering settings.\n- Fixed dropping an input over an input field pasting the node's header color. #36\n- Fixed missing names on multiplication and other forced overview nodes.\n- Fixed node names disappearing when styling is skipped or fails.\n- Fixed PlatformColorPalette and other driven background colors being overwritten.\n- Improved styling recovery, relay detection and overview handling while preserving compact node layouts.\n- Improved error logging and added a separate Verbose Permission Logging toggle.",
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.5.2"
 		}
 	}
 }
