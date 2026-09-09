@@ -4,7 +4,11 @@
 	"description": "Makes Arrays editable in inspectors.",
 	"category": "Inspectors",
 	"tags": [
-		"list"
+		"list",
+		"curve",
+		"linear",
+		"proxy",
+		"point"
 	],
 	"sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
 	"versions": {
