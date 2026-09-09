@@ -4,10 +4,22 @@
 	"description": "Makes Arrays editable in inspectors.",
 	"category": "Inspectors",
 	"tags": [
-		"list"
+		"list",
+		"curve",
+		"linear",
+		"proxy",
+		"point"
 	],
 	"sourceLocation": "https://github.com/RyanVittore/ArrayEditing",
 	"versions": {
+		"1.0.3": {
+			"releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.3",
+			"changelog" : "Added localization \n Added warning log for types that aren't supported \n Fallback to original when type is not supported.",
+			"artifacts": [{
+				"url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.3/ArrayEditing.dll",
+				"sha256": "24119a77dc5240baa7b8710631a995aa9abdcc05c706cc17ce928ef5df658a16"
+			}]
+		},
 		"1.0.2": {
 			"releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.2",
 			"artifacts": [{
