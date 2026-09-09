@@ -1,0 +1,16 @@
+name: Prevent Direct Manifest Change
+
+on:
+  pull_request:
+    paths:
+      - 'manifest.json'
+
+jobs:
+  prevent-direct-manifest-change:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Error on direct manifest.json changes
+      run: |
+        echo "::error file=manifest.json::The manifest.json should not be edited directly in a pull request. Make changes under the 'manifest' folder instead."
+        exit 1
