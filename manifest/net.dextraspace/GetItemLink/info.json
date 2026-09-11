@@ -2,7 +2,7 @@
 	"name": "GetItemLink",
 	"id": "net.dextraspace.GetItemLink",
 	"description": "Adds buttons to your inventory for copying an item's cloud url/item link to clipboard.",
-	"category": "Technical Tweaks",
+	"category": "Dashboard",
 	"sourceLocation": "https://github.com/Cyberboss/ResoniteGetItemLink",
 	"tags": [
 		"url",
