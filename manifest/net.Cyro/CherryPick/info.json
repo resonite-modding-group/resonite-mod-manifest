@@ -4,6 +4,7 @@
 	"description": "Simple component and protoflux searching",
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/BlueCyro/CherryPick",
+	"tags": ["filter"],
 	"versions": {
 		"1.2.0": {
 			"releaseUrl": "https://github.com/BlueCyro/CherryPick/releases/tag/1.2.0",
