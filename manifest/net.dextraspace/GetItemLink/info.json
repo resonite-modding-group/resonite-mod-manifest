@@ -1,0 +1,24 @@
+{
+	"name": "GetItemLink",
+	"id": "net.dextraspace.GetItemLink",
+	"description": "Adds buttons to your inventory for copying an item's cloud url/item link to clipboard.",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/Cyberboss/ResoniteGetItemLink",
+	"tags": [
+		"url",
+		"link",
+		"asset",
+		"potato",
+		"cheese"
+	],
+	"additionalAuthors": ["EIA485"],
+	"versions": {
+		"2.0.0": {
+			"releaseUrl": "https://github.com/Cyberboss/ResoniteGetItemLink/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/ResoniteGetItemLink/releases/download/v2.0.0/GetItemLink.dll",
+				"sha256": "cd2e3c9cdff2b498aa2e16614f4f5d0814a0d12722c00d84708a10c81e455697"
+			}]
+		}
+	}
+}
