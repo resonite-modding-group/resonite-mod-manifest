@@ -11,7 +11,7 @@
 		"potato",
 		"cheese"
 	],
-    "additionalAuthors": ["EIA485", "runtime"],
+	"additionalAuthors": ["EIA485"],
 	"versions": {
 		"2.0.0": {
 			"releaseUrl": "https://github.com/Cyberboss/ResoniteGetItemLink/releases/tag/v2.0.0",
