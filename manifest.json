@@ -812,9 +812,6 @@
                     },
                     "category": "Visual Tweaks",
                     "description": "Customizable node colors, rounded textures, and animated wires for your ProtoFlux nodes.",
-                    "flags": [
-                        "broken"
-                    ],
                     "name": "ProtoFluxOverhaul",
                     "sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
                     "versions": {
@@ -5171,6 +5168,9 @@
                     "description": "Simple component and protoflux searching",
                     "name": "CherryPick",
                     "sourceLocation": "https://github.com/BlueCyro/CherryPick",
+                    "tags": [
+                        "filter"
+                    ],
                     "versions": {
                         "1.0.7": {
                             "artifacts": [
@@ -6422,7 +6422,7 @@
                     "category": "Dashboard",
                     "description": "Adds buttons in the inventory to copy an item resdb or resrec to the clipboard.",
                     "flags": [
-                        "broken"
+                        "deprecated"
                     ],
                     "name": "GetItemLink",
                     "sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
