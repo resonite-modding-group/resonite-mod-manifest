@@ -1,0 +1,22 @@
+{
+	"name": "CustomJoinVerifierWhitelist",
+	"id": "net.dextraspace.CustomJoinVerifierWhitelist",
+	"description": "A ResoniteModLoader mod for Resonite that allows a configured list of user IDs to skip running an enabled custom join verifier for hosted sessions.",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist",
+	"tags": [
+		"join",
+		"verifier",
+		"whitelist",
+		"allowlist"
+	],
+	"versions": {
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.1.1/CustomJoinVerifierWhitelist.dll",
+				"sha256": "14c17c99293288eda8a6e70451ae88b1d7079d5b89e935effd08db72093095c9"
+			}]
+		}
+	}
+}
