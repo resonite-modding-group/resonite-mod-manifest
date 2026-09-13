@@ -1,0 +1,23 @@
+{
+	"name": "OpenReferenceProxyAtHand",
+	"id": "net.dextraspace.OpenReferenceProxyAtHand",
+	"description": "A ResoniteModLoader mod for Resonite that changes ReferenceProxy's opening of inspectors from in front of your face to in front of the hand that opened it.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Cyberboss/OpenReferenceProxyAtHand",
+	"tags": [
+		"referenceproxy",
+		"hand",
+		"align",
+		"alignment",
+		"inspector"
+	],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Cyberboss/OpenReferenceProxyAtHand/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/OpenReferenceProxyAtHand/releases/tag/v1.0.0/OpenReferenceProxyAtHand.dll",
+				"sha256": "930b60b421f94417370d15d927472a534f6788d114882481e1b79d577dc5d41e"
+			}]
+		}
+	}
+}
