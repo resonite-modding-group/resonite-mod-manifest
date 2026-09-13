@@ -6149,6 +6149,28 @@
                         }
                     }
                 },
+                "net.dextraspace.OpenReferenceProxyAtHand": {
+                    "category": "Inspectors",
+                    "description": "Changes ReferenceProxy's opening of inspectors from in front of your face to in front of the hand that opened it.",
+                    "name": "OpenReferenceProxyAtHand",
+                    "sourceLocation": "https://github.com/Cyberboss/OpenReferenceProxyAtHand",
+                    "tags": [
+                        "move",
+                        "align",
+                        "alignment"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "930b60b421f94417370d15d927472a534f6788d114882481e1b79d577dc5d41e",
+                                    "url": "https://github.com/Cyberboss/OpenReferenceProxyAtHand/releases/download/v1.0.0/OpenReferenceProxyAtHand.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/OpenReferenceProxyAtHand/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "net.dextraspace.WorldOrbDynVars": {
                     "category": "Technical Tweaks",
                     "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
