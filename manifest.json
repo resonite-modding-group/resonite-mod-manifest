@@ -3067,6 +3067,36 @@
                             "releaseUrl": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/tag/v1.1.0"
                         }
                     }
+                },
+                "dog.glacier.UnifiedExpressionMapper": {
+                    "category": "Asset Importing",
+                    "description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
+                    "name": "UnifiedExpressionMapper",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
+                    "tags": [
+                        "ue",
+                        "sranipal",
+                        "arkit",
+                        "facs",
+                        "blendshapes"
+                    ],
+                    "versions": {
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3803b8cb6671d05eb9d445a88d2a925ad31bcea93da068621a506c2a7218f92e",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.2/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "optional": false,
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2"
+                        }
+                    }
                 }
             }
         },
