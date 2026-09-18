@@ -10,6 +10,13 @@
 		"sessions"
 	],
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Cyberboss/LetMeIn/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.0.1/LetMeIn.dll",
+				"sha256": "2f53a354953c07cf9d9ce3f321047977521fb1efb1b0173b0f30d2c0c9be521d"
+			}]
+		},
 		"1.1.0": {
 			"releaseUrl": "https://github.com/Cyberboss/LetMeIn/releases/tag/v1.1.0",
 			"artifacts": [{
