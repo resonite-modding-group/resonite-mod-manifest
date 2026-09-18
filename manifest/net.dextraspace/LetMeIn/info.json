@@ -1,0 +1,28 @@
+{
+	"name": "LetMeIn",
+	"id": "net.dextraspace.LetMeIn",
+	"description": "Automatically requests invites from the hosts of sessions in your `autoJoinSessions` config list when you log in.",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/Cyberboss/LetMeIn",
+	"tags": [
+		"invite",
+		"contacts",
+		"sessions"
+	],
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Cyberboss/LetMeIn/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.0.1/LetMeIn.dll",
+				"sha256": "2f53a354953c07cf9d9ce3f321047977521fb1efb1b0173b0f30d2c0c9be521d"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Cyberboss/LetMeIn/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.1.0/LetMeIn.dll",
+				"sha256": "d1d8c059ee131299f5edc59a41dfdacae8be22bdc18f81fc52d5c6f7125518d5"
+			}]
+		}
+	}
+}
