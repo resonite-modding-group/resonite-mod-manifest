@@ -1,0 +1,26 @@
+{
+	"name": "ComponentRunUpgrade",
+	"id": "net.deltawolf.ComponentRunUpgrade",
+	"description": "Allows re-running some components' cleanup or upgrade methods such as on RadiantDashScreen and GridContainerScreen for issue #594",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/XDelta/ComponentRunUpgrade",
+	"tags": [
+		"LegacyRadiantScreenWrapper",
+		"screen",
+		"dash"
+	],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/ComponentRunUpgrade/releases/tag/1.0.0",
+			"dependencies": {
+				"me.art0007i.CustomUILib": {
+					"version": "^2.0.0"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/XDelta/ComponentRunUpgrade/releases/download/1.0.0/ComponentRunUpgrade.dll",
+				"sha256": "dd0e4f0e826e841d8fe9ec442e9afc4e6dc495385ee53d2e8dc77414289ac560"
+			}]
+		}
+	}
+}
