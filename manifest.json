@@ -5624,6 +5624,33 @@
                 }
             },
             "entries": {
+                "net.deltawolf.ComponentRunUpgrade": {
+                    "category": "Technical Tweaks",
+                    "description": "Allows re-running some components' cleanup or upgrade methods such as on RadiantDashScreen and GridContainerScreen for issue #594",
+                    "name": "ComponentRunUpgrade",
+                    "sourceLocation": "https://github.com/XDelta/ComponentRunUpgrade",
+                    "tags": [
+                        "LegacyRadiantScreenWrapper",
+                        "screen",
+                        "dash"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dd0e4f0e826e841d8fe9ec442e9afc4e6dc495385ee53d2e8dc77414289ac560",
+                                    "url": "https://github.com/XDelta/ComponentRunUpgrade/releases/download/1.0.0/ComponentRunUpgrade.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/XDelta/ComponentRunUpgrade/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ContextMenuControl": {
                     "category": "Context Menu",
                     "description": "Gives higher control over your context menu. Features include disabling scale reset, hiding the scale or locomotion options and hiding the context menu from others.",
