@@ -5805,6 +5805,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "386fd383f79f0f6e51c1798d5a12a0c537f1a4db3808c04f9f18ff99efb7e9b7",
+                                    "url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.3/InspectorImprovements.dll"
+                                }
+                            ],
+                            "changelog": "Adds an option to use the header bar as the collapse button with a 'collapseStyle' setting",
+                            "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.3"
                         }
                     }
                 },
