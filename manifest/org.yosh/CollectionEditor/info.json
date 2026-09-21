@@ -8,8 +8,7 @@
 		"1.0.0": {
 			"dependencies": {
 				"org.yosh.ContextMenuHookLib": {
-					"version": "^1.0.0",
-					"optional": true
+					"version": "^1.0.0"
 				}
 			},
 			"conflicts": {
@@ -26,8 +25,7 @@
 		"1.0.1": {
 			"dependencies": {
 				"org.yosh.ContextMenuHookLib": {
-					"version": "^1.0.0",
-					"optional": true
+					"version": "^1.0.0"
 				}
 			},
 			"conflicts": {
