@@ -8190,7 +8190,6 @@
                             },
                             "dependencies": {
                                 "org.yosh.ContextMenuHookLib": {
-                                    "optional": true,
                                     "version": "^1.0.0"
                                 }
                             },
@@ -8210,7 +8209,6 @@
                             },
                             "dependencies": {
                                 "org.yosh.ContextMenuHookLib": {
-                                    "optional": true,
                                     "version": "^1.0.0"
                                 }
                             },
@@ -9082,7 +9080,6 @@
                             ],
                             "dependencies": {
                                 "org.yosh.ContextMenuHookLib": {
-                                    "optional": true,
                                     "version": "^1.0.0"
                                 }
                             },
@@ -9097,7 +9094,6 @@
                             ],
                             "dependencies": {
                                 "org.yosh.ContextMenuHookLib": {
-                                    "optional": true,
                                     "version": "^1.0.2"
                                 }
                             },
