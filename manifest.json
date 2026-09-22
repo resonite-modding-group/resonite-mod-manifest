@@ -8707,6 +8707,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f0e4a430084fc846ba59ff168cbcce8098d94f777cf0ef5e279575e4d41cf22e",
+                                    "url": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/download/v1.1.0/ExpandedMemberEditors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.1.0"
                         }
                     }
                 },
