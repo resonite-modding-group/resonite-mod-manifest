@@ -1895,6 +1895,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.8.1"
+                        },
+                        "0.8.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "83963322c532ea7f07316ec4421b427be25b053de852d661d00c9ab448aef7ff",
+                                    "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.2/ResoniteMetricsCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.8.2"
                         }
                     }
                 }
