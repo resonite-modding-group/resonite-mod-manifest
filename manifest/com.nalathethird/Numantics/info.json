@@ -1,0 +1,22 @@
+{
+	"name": "Numantics",
+	"id": "com.nalathethird.Numantics",
+	"description": "Adds math expression evaluation to numeric input fields",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/nalathethird/Numantics",
+	"tags": [
+		"math",
+		"input"
+	],
+	"versions": {
+		"1.0.3": {
+			"releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.3",
+			"artifacts": [
+				{
+					"url": "https://github.com/nalathethird/Numantics/releases/download/1.0.3/Numantics.dll",
+					"sha256": "595088934d0dd838b3997087cfafc015b96a2d27093aeaeb64bd007eb1c3b4f0"
+				}
+			]
+		}
+	}
+}
