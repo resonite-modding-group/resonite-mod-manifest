@@ -1,0 +1,19 @@
+{
+	"name": "AnimatorTrackReference",
+	"id": "net.dextraspace.AnimatorTrackReference",
+	"description": "Adds a button to Animator components to show a reference of the clips animation tracks.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Cyberboss/AnimatorTrackReference",
+	"tags": [
+		"animx"
+	],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.0/AnimatorTrackReference.dll",
+				"sha256": "387e803d0e0f1afc830c478a3ea0cda4b50f61c8b7e3073739d294456ff2f062"
+			}]
+		}
+	}
+}
