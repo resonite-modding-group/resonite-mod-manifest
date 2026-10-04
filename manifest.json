@@ -6198,6 +6198,26 @@
                 }
             },
             "entries": {
+                "net.dextraspace.AnimatorTrackReference": {
+                    "category": "Inspectors",
+                    "description": "Adds a button to Animator components to show a reference of the clips animation tracks.",
+                    "name": "AnimatorTrackReference",
+                    "sourceLocation": "https://github.com/Cyberboss/AnimatorTrackReference",
+                    "tags": [
+                        "animx"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "387e803d0e0f1afc830c478a3ea0cda4b50f61c8b7e3073739d294456ff2f062",
+                                    "url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.0/AnimatorTrackReference.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "net.dextraspace.CustomJoinVerifierWhitelist": {
                     "category": "Technical Tweaks",
                     "description": "Allows adding a list of user IDs to skip running an enabled custom join verifier for hosted sessions.",
