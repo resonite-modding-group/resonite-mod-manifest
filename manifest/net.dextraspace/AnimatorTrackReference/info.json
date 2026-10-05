@@ -20,6 +20,19 @@
 				"url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.0/AnimatorTrackReference.dll",
 				"sha256": "387e803d0e0f1afc830c478a3ea0cda4b50f61c8b7e3073739d294456ff2f062"
 			}]
+		},
+		"1.0.1": {
+			"dependencies": {
+				"me.art0007i.MyInspectors": {
+					"version": "*",
+					"optional": true
+				}
+			},
+			"releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.1/AnimatorTrackReference.dll",
+				"sha256": "fe7da5710433c32bdd965f22415d308a11bc1ad61f1244a417a90c36be4d661f"
+			}]
 		}
 	}
 }
