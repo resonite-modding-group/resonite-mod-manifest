@@ -1,7 +1,7 @@
 {
 	"name": "AnimatorTrackReference",
 	"id": "net.dextraspace.AnimatorTrackReference",
-	"description": "Adds a button to Animator components to show a reference of the clips animation tracks.",
+	"description": "Adds a button to Animator components to show a reference of the clips animation tracks. MyInspectors dependency needed unless you are hosting the world you are working in.",
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/Cyberboss/AnimatorTrackReference",
 	"tags": [
@@ -9,6 +9,12 @@
 	],
 	"versions": {
 		"1.0.0": {
+			"dependencies": {
+				"me.art0007i.MyInspectors": {
+					"version": "*",
+					"optional": true
+				}
+			},
 			"releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.0/AnimatorTrackReference.dll",
