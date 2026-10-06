@@ -1645,33 +1645,6 @@
                 }
             }
         },
-        "com.example": {
-            "author": {
-                "ExampleAuthor": {
-                    "icon": "https://github.com/resonite-modding-group.png",
-                    "url": "https://github.com/resonite-modding-group"
-                }
-            },
-            "entries": {
-                "com.example.ExampleMod": {
-                    "category": "Template",
-                    "description": "Description of your mod",
-                    "name": "ExampleMod",
-                    "sourceLocation": "https://github.com/resonite-modding-group/ExampleMod",
-                    "versions": {
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-                                    "url": "https://github.com/resonite-modding-group/ExampleMod/releases/download/1.0.0/ExampleMod.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/resonite-modding-group/ExampleMod/releases/tag/1.0.0"
-                        }
-                    }
-                }
-            }
-        },
         "com.frozenreflex": {
             "author": {
                 "Frozenreflex": {
