@@ -1,0 +1,21 @@
+{
+	"name": "DynamicSavedSlotNames",
+	"id": "net.dextraspace.DynamicSavedSlotNames",
+	"description": "Allows the name of saved slots that are changed using the `OnSaving` Protoflux node to persist to the inventory rather than using their old name.",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/Cyberboss/DynamicSavedSlotNames",
+	"tags": [
+		"slot",
+		"name",
+		"OnSaving"
+	],
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/Cyberboss/DynamicSavedSlotNames/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/DynamicSavedSlotNames/releases/download/v1.0.1/DynamicSavedSlotNames.dll",
+				"sha256": "e22bf024f159cb291a4f354c3c9e099f957c85d2171892032aa216b3d59f0e94"
+			}]
+		}
+	}
+}
