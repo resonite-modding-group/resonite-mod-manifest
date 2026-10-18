@@ -25,6 +25,14 @@
 				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.1/WorldOrbDynVars.dll",
 				"sha256": "f4d9f97695cf8f005b59f0de59b26ce0817398410ae51a5d895f3ac21f306599"
 			}]
+		},
+		"2.0.0": {
+			"releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.0/WorldOrbDynVars.dll",
+				"sha256": "e7749f36a372dde921c0cb2088899b8b25db9eb5c7ce32f4424eaf8dccf48f29"
+			}],
+			"changelog": "The DynamicVariableSpace now only allows direct binding."
 		}
 	},
 	"tags": [
