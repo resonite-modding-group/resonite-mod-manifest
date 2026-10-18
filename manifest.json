@@ -6410,6 +6410,16 @@
                             ],
                             "changelog": "The DynamicVariableSpace now only allows direct binding.",
                             "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "16c996814bf538839b58348d6d431ba39e97cd468e2e55545f81faed72a6f1b8",
+                                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.1/WorldOrbDynVars.dll"
+                                }
+                            ],
+                            "changelog": "Fixed the DynamicVariableSpace also being created next to your `UserRoot` components.",
+                            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.1"
                         }
                     }
                 }
