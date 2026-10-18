@@ -40,7 +40,7 @@
 				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.1/WorldOrbDynVars.dll",
 				"sha256": "16c996814bf538839b58348d6d431ba39e97cd468e2e55545f81faed72a6f1b8"
 			}],
-			"changelog": "Fixed the DynamicVariableSpace also being created next to all `UserRoot` components."
+			"changelog": "Fixed the DynamicVariableSpace also being created next to your `UserRoot` components."
 		}
 	},
 	"tags": [
