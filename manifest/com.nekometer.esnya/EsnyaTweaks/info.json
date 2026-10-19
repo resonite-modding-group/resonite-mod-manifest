@@ -3,6 +3,7 @@
 	"id": "com.nekometer.esnya.EsnyaTweaks",
 	"description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
 	"category": "Technical Tweaks",
+	"flags": ["broken"],
 	"sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
 	"tags": [
 		"PhotonDust",

@@ -3,6 +3,7 @@
 	"id": "com.nekometer.esnya.ResoniteMetricsCounter",
 	"description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
 	"category": "Optimization",
+	"flags": ["broken"],
 	"sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
 	"additionalAuthors": [
 		"AwesomeTornado"
