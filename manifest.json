@@ -1829,6 +1829,9 @@
                 "com.nekometer.esnya.EsnyaResoniteModTemplate": {
                     "category": "Template",
                     "description": "Esnya's customized template for ResoniteModLoader mods.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "EsnyaResoniteModTemplate",
                     "sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
                     "versions": {
@@ -1846,6 +1849,9 @@
                 "com.nekometer.esnya.EsnyaTweaks": {
                     "category": "Technical Tweaks",
                     "description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "EsnyaTweaks",
                     "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
                     "tags": [
@@ -1880,6 +1886,9 @@
                     },
                     "category": "Optimization",
                     "description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "Resonite Metrics Counter",
                     "sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
                     "tags": [
