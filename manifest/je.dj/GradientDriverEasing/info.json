@@ -4,6 +4,7 @@
 	"description": "Adds easing function presets to ValueGradientDriver components.",
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
+	"tags": ["smoothing", "curve", "ease", "linear", "sine"],
 	"versions": {
 		"1.3.0": {
 			"releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.3.0",
