@@ -520,6 +520,33 @@
                 }
             }
         },
+        "XekriRedmane": {
+            "author": {
+                "Xekri": {
+                    "icon": "https://github.com/XekriRedmane.png",
+                    "url": "https://github.com/XekriRedmane"
+                }
+            },
+            "entries": {
+                "XekriRedmane.AutoResoLink": {
+                    "category": "Technical Tweaks",
+                    "description": "Adds an Enable ResoniteLink checkbox and port field to the New World dialog, with an option to enable ResoniteLink on new worlds automatically. Picks the lowest free port at or above a configurable starting port, and lists running ResoniteLink sessions in a JSON file that external programs can read.",
+                    "name": "AutoResoLink",
+                    "sourceLocation": "https://github.com/XekriRedmane/AutoResoLink",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3656014a0e92a0bc4abf10b341bb0da9e5b2ad02a13274a29774fa9cc0b5b111",
+                                    "url": "https://github.com/XekriRedmane/AutoResoLink/releases/download/v1.0.0/AutoResoLink.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "cat.colin": {
             "author": {
                 "ColinTimBarndt": {
