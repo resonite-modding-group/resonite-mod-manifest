@@ -5,6 +5,13 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/XekriRedmane/AutoResoLink",
 	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/XekriRedmane/AutoResoLink/releases/download/v1.0.1/AutoResoLink.dll",
+				"sha256": "59d0c79cf5a176e8bf7cb79fb7bf1db546e5d882b02079e74a7fee186b8908b8"
+			}]
+		},
 		"1.0.0": {
 			"releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.0",
 			"artifacts": [{
