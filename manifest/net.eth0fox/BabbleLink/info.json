@@ -1,0 +1,20 @@
+{
+	"name": "BabbleFrameRuntime",
+	"id": "net.eth0fox.BabbleLink",
+	"description": "Adds native support for the Babble Frame Runtime BabbleLink protocol. No VRCFT required.",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://git.boxfox.es/fox/resonite-babblelink",
+    "tags": ["steamframe","facetracking","eyetracking", "babble"],
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://git.boxfox.es/fox/resonite-babblelink/releases/tag/1.0.0",
+			"artifacts": [ 
+				{
+					"url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.0.0/BabbleLinkMod.dll",
+					"sha256": "0a5c861627d15e45c336e4e83c85299bb7b8d97b6477c705302535086bb32955" 
+				}
+			]
+		}
+	},
+	"website": "https://github.com/eth0fox/resonite-babblelink/issues"
+}
