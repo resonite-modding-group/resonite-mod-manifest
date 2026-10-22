@@ -542,6 +542,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "59d0c79cf5a176e8bf7cb79fb7bf1db546e5d882b02079e74a7fee186b8908b8",
+                                    "url": "https://github.com/XekriRedmane/AutoResoLink/releases/download/v1.0.1/AutoResoLink.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.1"
                         }
                     }
                 }
