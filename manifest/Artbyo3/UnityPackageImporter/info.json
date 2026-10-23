@@ -1,0 +1,60 @@
+{
+  "name": "UnityPackageImporter",
+  "id": "Artbyo3.UnityPackageImporter",
+  "description": "Experimental importer for Unity packages: reconstructs supported prefabs, scenes, avatars and materials in Resonite.",
+  "category": "Asset Importing",
+  "sourceLocation": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter",
+  "website": "https://artbyo3.github.io/ResoniteUnityPackagesImporter/",
+  "tags": [
+    "unitypackage",
+    "prefab",
+    "avatar"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "additionalAuthors": [
+    "dfgHiatus",
+    "eia485",
+    "delta",
+    "Frozenreflex",
+    "benaclejames",
+    "989onan"
+  ],
+  "versions": {
+    "0.0.6": {
+      "releaseUrl": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/tag/v0.0.6",
+      "conflicts": {
+        "net.dfgHiatus.UnityPackageImporter": {
+          "version": "*"
+        }
+      },
+      "artifacts": [
+        {
+          "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/UnityPackageImporter.dll",
+          "filename": "UnityPackageImporter.dll",
+          "sha256": "44b63ec41b318f5a00c05ac033e9316b50d38d536f0ba32ce97f7bb924f5ca1f",
+          "installLocation": "/rml_mods"
+        },
+        {
+          "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/YamlDotNet.dll",
+          "filename": "YamlDotNet.dll",
+          "sha256": "86f873f682c619a0c24e263dcdd15fe027104666641c92f503516671d61edda6",
+          "installLocation": "/rml_libs"
+        },
+        {
+          "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/LICENSE",
+          "filename": "UnityPackageImporter.LICENSE",
+          "sha256": "ca7d981c404cc540d88d13f814aefd5767dce2e414d1e36f157ea470d15ac066",
+          "installLocation": "/"
+        },
+        {
+          "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/THIRD_PARTY_NOTICES.md",
+          "filename": "UnityPackageImporter.THIRD_PARTY_NOTICES.md",
+          "sha256": "6796918d239fc9d2ca1130ced4fd9a2d6d7e3e1ebfe29013e28a7eb407611b57",
+          "installLocation": "/"
+        }
+      ]
+    }
+  }
+}
