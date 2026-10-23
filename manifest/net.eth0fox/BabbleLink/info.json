@@ -6,12 +6,12 @@
 	"sourceLocation": "https://git.boxfox.es/fox/resonite-babblelink",
     "tags": ["steamframe","facetracking","eyetracking", "babble"],
 	"versions": {
-		"1.0.0": {
-			"releaseUrl": "https://git.boxfox.es/fox/resonite-babblelink/releases/tag/1.0.0",
+		"1.1.0": {
+			"releaseUrl": "https://git.boxfox.es/fox/resonite-babblelink/releases/tag/1.1.0",
 			"artifacts": [ 
 				{
-					"url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.0.0/BabbleLinkMod.dll",
-					"sha256": "0a5c861627d15e45c336e4e83c85299bb7b8d97b6477c705302535086bb32955" 
+					"url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll",
+					"sha256": "081652b9e265ddd04a4864313a227dc03af9c2e0c4eec08a9df42765094c5437" 
 				}
 			]
 		}
