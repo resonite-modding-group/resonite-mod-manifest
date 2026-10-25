@@ -3170,6 +3170,22 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "46eeddbdd84eb4801b8f16b6d5981955577593254494d6e4ce0ad9fb9de2eb08",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.2.0/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "changelog": "Added support for duplicated blendshape names (for example, NoseSneer.NoseSneer)",
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "optional": false,
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.2.0"
                         }
                     }
                 }
