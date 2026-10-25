@@ -12,6 +12,20 @@
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
 	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.2.0/UnifiedExpressionMapper.dll",
+				"sha256": "46eeddbdd84eb4801b8f16b6d5981955577593254494d6e4ce0ad9fb9de2eb08"
+			}],
+            "dependencies": {
+                "me.art0007i.CustomUILib": {
+                    "version": "^2.0.0",
+                    "optional": false
+                }
+            },
+			"changelog": "Added support for duplicated blendshape names (for example, NoseSneer.NoseSneer)"
+		},
 		"1.1.2": {
 			"releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2",
 			"artifacts": [{
