@@ -1,0 +1,25 @@
+{
+  "name": "ResoniteModularSearch",
+  "id": "mpmxyz.ResoniteModularSearch",
+  "description": "adds the ability to search the world hierarchy and do actions like \"replace\", designed to be extensible",
+  "category": "Misc",
+  "sourceLocation": "https://github.com/mpmxyz/ResoniteModularSearch/",
+  "tags": [
+    "search",
+    "tool",
+    "edit",
+    "replace",
+    "modular"
+  ],
+  "versions": {
+    "1.1.0": {
+      "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.1.0-2026.9.18.82",
+      "artifacts": [
+        {
+          "url": "https://github.com/mpmxyz/ResoniteModularSearch/releases/download/v1.1.0-2026.9.18.82/ResoniteModularSearch.dll",
+          "sha256": "ef5906e56ca042e607fd7ba7ba285bb033f1c5eb5a6cf3e32e395dfae9a3338a"
+        }
+      ]
+    }
+  }
+}
