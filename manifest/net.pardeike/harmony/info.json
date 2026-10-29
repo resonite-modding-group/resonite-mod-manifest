@@ -7,7 +7,7 @@
 	"website": "https://harmony.pardeike.net/",
 	"versions": {
 		"2.4.3": {
-			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.3.0",
+			"releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.3",
 			"artifacts": [{
 				"url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.2/0Harmony.dll",
 				"filename": "0Harmony.dll",
