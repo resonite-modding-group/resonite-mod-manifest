@@ -5297,6 +5297,39 @@
                 }
             }
         },
+        "mpmxyz": {
+            "author": {
+                "mpmxyz": {
+                    "url": "https://github.com/mpmxyz"
+                }
+            },
+            "entries": {
+                "mpmxyz.ResoniteModularSearch": {
+                    "category": "Misc",
+                    "description": "adds the ability to search the world hierarchy and do actions like \"replace\", designed to be extensible",
+                    "name": "ResoniteModularSearch",
+                    "sourceLocation": "https://github.com/mpmxyz/ResoniteModularSearch/",
+                    "tags": [
+                        "search",
+                        "tool",
+                        "edit",
+                        "replace",
+                        "modular"
+                    ],
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ef5906e56ca042e607fd7ba7ba285bb033f1c5eb5a6cf3e32e395dfae9a3338a",
+                                    "url": "https://github.com/mpmxyz/ResoniteModularSearch/releases/download/v1.1.0-2026.9.18.82/ResoniteModularSearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.1.0-2026.9.18.82"
+                        }
+                    }
+                }
+            }
+        },
         "net.Cyro": {
             "author": {
                 "Cyro": {
