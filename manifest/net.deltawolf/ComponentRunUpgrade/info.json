@@ -5,9 +5,9 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/XDelta/ComponentRunUpgrade",
 	"tags": [
-		"LegacyRadiantScreenWrapper",
-		"screen",
-		"dash"
+		"dash",
+		"legacy",
+		"wrapper"
 	],
 	"versions": {
 		"1.0.0": {

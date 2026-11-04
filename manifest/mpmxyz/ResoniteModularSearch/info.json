@@ -5,11 +5,9 @@
   "category": "Misc",
   "sourceLocation": "https://github.com/mpmxyz/ResoniteModularSearch/",
   "tags": [
-    "search",
     "tool",
     "edit",
-    "replace",
-    "modular"
+    "filter"
   ],
   "versions": {
     "1.1.0": {

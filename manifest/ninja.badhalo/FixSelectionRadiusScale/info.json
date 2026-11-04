@@ -2,13 +2,6 @@
 	"name": "FixSelectionRadiusScale",
 	"id": "ninja.badhalo.FixSelectionRadiusScale",
 	"description": "Makes the Developer Tool's selection radius dependent on scale, fixes issues selecting what you want when scaled down",
-	"tags": [
-		"dev",
-		"developer",
-		"tool",
-		"select",
-		"scale"
-	],
 	"category": "Misc",
 	"sourceLocation": "https://github.com/badhaloninja/FixSelectionRadiusScale",
 	"versions": {

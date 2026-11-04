@@ -3,10 +3,9 @@
 	"id": "ninja.badhalo.FriendlyInventoryAvatars",
 	"description": "Makes the inventory only clear blocking avatars when equipping",
 	"tags": [
-		"bodynode",
-		"equip",
+		"body",
 		"multiple",
-		"avatar"
+		"node"
 	],
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/badhaloninja/FriendlyInventoryAvatars",

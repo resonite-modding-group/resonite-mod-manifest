@@ -42,10 +42,5 @@
 			}],
 			"changelog": "Fixed the DynamicVariableSpace also being created next to your `UserRoot` components."
 		}
-	},
-	"tags": [
-		"dynamic",
-		"variable",
-		"dynamicvariablespace"
-    ]
+	}
 }

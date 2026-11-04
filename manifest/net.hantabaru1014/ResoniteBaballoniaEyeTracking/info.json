@@ -6,12 +6,11 @@
 	"sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
 	"tags": [
 		"babble",
-		"eyetrackvr",
-		"varjo",
-		"vive",
-		"pimax",
+		"beyond",
 		"bigscreen",
-		"beyond"
+		"pimax",
+		"varjo",
+		"vive"
 	],
 	"flags": ["deprecated"],
 	"versions": {

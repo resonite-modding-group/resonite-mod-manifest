@@ -3,11 +3,13 @@
 	"id": "dog.glacier.UnifiedExpressionMapper",
 	"description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
     "tags": [
-        "ue",
-        "sranipal",
         "arkit",
+        "blend",
         "facs",
-        "blendshapes"
+        "key",
+        "shape",
+        "sranipal",
+        "ue"
     ],
 	"category": "Asset Importing",
 	"sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",

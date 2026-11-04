@@ -4,7 +4,7 @@
 	"description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
 	"category": "Hardware Integration",
 	"tags": [
-		"FT",
+		"eye",
 		"face",
 		"tracking"
 	],

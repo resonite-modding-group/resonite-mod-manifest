@@ -4,6 +4,10 @@
 	"description": "Enables support for special hardware features on the PlayStation VR2",
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
+	"tags": [
+		"eye",
+		"tracking"
+	],
 	"versions": {
 		"1.2.2": {
 			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.2",
@@ -77,10 +81,5 @@
 				"sha256": "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b"
 			}]
 		}
-	},
-        "tags": [
-            "psvr2",
-            "eye",
-            "tracking"
-        ]
+	}
 }

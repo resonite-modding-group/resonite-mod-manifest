@@ -5,9 +5,9 @@
 	"category": "Visual Tweaks",
 	"sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera",
 	"tags": [
-		"camera",
-		"nameplate",
-		"lookatuser"
+		"name",
+		"plate",
+		"tag"
 	],
 	"versions": {
 		"1.0.0": {

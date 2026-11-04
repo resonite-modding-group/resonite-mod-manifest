@@ -3,11 +3,14 @@
 	"id": "dev.pointeroffset.RemoveThatKinkFromSteamLinkCS",
 	"description": "Forces the SteamLink integration in Resonite to be enabled. (C# Rewrite)",
 	"tags": [
-		"Edrakon",
-		"Quest Pro",
-		"Eye Tracking",
-		"Face Tracking",
-		"WiVRn"
+		"edrakon",
+		"eye",
+		"face",
+		"osc",
+		"pro",
+		"quest",
+		"tracking",
+		"wivrn"
 	],
 	"additionalAuthors": ["BlueCyro"],
 	"category": "Hardware Integration",

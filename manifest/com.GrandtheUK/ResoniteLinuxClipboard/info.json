@@ -21,12 +21,5 @@
 			]
 		}
 	},
-	"tags": [
-		"Linux",
-		"Wayland",
-		"Clipboard",
-		"Copy",
-		"Paste"
-	],
 	"platforms": [ "linux" ]
 }

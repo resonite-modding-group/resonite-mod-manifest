@@ -4,7 +4,12 @@
 	"description": "Adds native support for the Babble Frame Runtime BabbleLink protocol. No VRCFT required.",
 	"category": "Hardware Integration",
 	"sourceLocation": "https://github.com/eth0fox/resonite-babblelink",
-    "tags": ["steamframe","facetracking","eyetracking", "babble"],
+	"tags": [
+		"eye",
+		"face",
+		"steam",
+		"tracking"
+	],
 	"versions": {
 		"1.1.0": {
 			"releaseUrl": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.1.0",

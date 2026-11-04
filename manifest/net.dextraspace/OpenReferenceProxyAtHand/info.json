@@ -5,9 +5,9 @@
 	"category": "Inspectors",
 	"sourceLocation": "https://github.com/Cyberboss/OpenReferenceProxyAtHand",
 	"tags": [
-		"move",
 		"align",
-		"alignment"
+		"alignment",
+		"move"
 	],
 	"versions": {
 		"1.0.0": {
