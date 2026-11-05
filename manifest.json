@@ -571,10 +571,8 @@
                     "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod",
                     "tags": [
                         "inspector",
-                        "component",
                         "favorite",
-                        "favourite",
-                        "ProtoFlux"
+                        "protoflux"
                     ],
                     "versions": {
                         "1.0.1": {
@@ -615,9 +613,7 @@
                     "name": "Resdb Tools",
                     "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod",
                     "tags": [
-                        "inventory",
                         "resdb",
-                        "database",
                         "cloud"
                     ],
                     "versions": {
@@ -825,9 +821,7 @@
                     "name": "CustomPlatformColors",
                     "sourceLocation": "https://github.com/DexyThePuppy/CustomPlatformColors",
                     "tags": [
-                        "colour",
-                        "interface",
-                        "color"
+                        "interface"
                     ],
                     "versions": {
                         "1.2.0": {
@@ -982,13 +976,6 @@
                         "linux"
                     ],
                     "sourceLocation": "https://github.com/GrandtheUK/ResoniteLinuxClipboard",
-                    "tags": [
-                        "Linux",
-                        "Wayland",
-                        "Clipboard",
-                        "Copy",
-                        "Paste"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -1796,8 +1783,8 @@
                     "name": "Numantics",
                     "sourceLocation": "https://github.com/nalathethird/Numantics",
                     "tags": [
-                        "math",
-                        "input"
+                        "formula",
+                        "solve"
                     ],
                     "versions": {
                         "1.0.3": {
@@ -1891,9 +1878,10 @@
                     "name": "EsnyaTweaks",
                     "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
                     "tags": [
-                        "PhotonDust",
-                        "LOD",
-                        "SystemHelper"
+                        "photondust",
+                        "lod",
+                        "system",
+                        "helper"
                     ],
                     "versions": {
                         "0.0.1": {
@@ -2166,12 +2154,12 @@
             "entries": {
                 "com.scicortex.CyberFingerMod": {
                     "category": "Hardware Integration",
-                    "description": "A Resonite Mod that improves the hand-tracking and CyberFinger Controller experience",
+                    "description": "A Resonite Mod that improves the hand tracking and CyberFinger Controller experience",
                     "name": "CyberFingerMod",
                     "sourceLocation": "https://github.com/DrSciCortex/CyberFingerMod",
                     "tags": [
-                        "cyberfinger",
-                        "hand-tracking",
+                        "laser",
+                        "tool",
                         "dash"
                     ],
                     "versions": {
@@ -2230,7 +2218,6 @@
                     "name": "ResonitePSVR2",
                     "sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
                     "tags": [
-                        "psvr2",
                         "eye",
                         "tracking"
                     ],
@@ -2432,11 +2419,6 @@
                     "description": "ObjectRoot button that removes MeshColliders And Grabbables of Child slots",
                     "name": "ColliderGrabbableDeleter",
                     "sourceLocation": "https://github.com/zahndy/ColliderGrabbableDeleter",
-                    "tags": [
-                        "MeshColliders",
-                        "Grabbables",
-                        "Grabbable"
-                    ],
                     "versions": {
                         "1.0.1": {
                             "artifacts": [
@@ -2451,13 +2433,13 @@
                 },
                 "com.zahndy.FasterBadges": {
                     "category": "Misc",
-                    "description": "Badges manager with badge presets, custom badges and badge removal",
+                    "description": "Badges manager with badge presets, custom badges and system badge removal",
                     "name": "FasterBadges",
                     "sourceLocation": "https://github.com/zahndy/FasterBadges",
                     "tags": [
-                        "badges",
-                        "badge",
-                        "manager"
+                        "name",
+                        "tag",
+                        "plate"
                     ],
                     "versions": {
                         "1.6.1": {
@@ -2477,9 +2459,7 @@
                     "name": "RainbowLasers",
                     "sourceLocation": "https://github.com/zahndy/RainbowLasers",
                     "tags": [
-                        "rainbow",
-                        "lasers",
-                        "laser",
+                        "color",
                         "rgb"
                     ],
                     "versions": {
@@ -2499,11 +2479,6 @@
                     "description": "Replaces the eyetracking fallback that sometimes causes eyes to cross. Workaround for bug #263",
                     "name": "StopTouchingMyEyeballs",
                     "sourceLocation": "https://github.com/zahndy/StopTouchingMyEyeballs",
-                    "tags": [
-                        "Eyetracking",
-                        "Crosseyed",
-                        "Bug"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -2539,12 +2514,6 @@
                     "description": "Removes or replaces Vive/Tundra Tracker Models.",
                     "name": "TrackerVisuals",
                     "sourceLocation": "https://github.com/zahndy/TrackerVisuals",
-                    "tags": [
-                        "Tracker",
-                        "Trackers",
-                        "Tundra",
-                        "Vive"
-                    ],
                     "versions": {
                         "1.1.0": {
                             "artifacts": [
@@ -2923,9 +2892,8 @@
                     "name": "ResonitePrivacyShield",
                     "sourceLocation": "https://github.com/hazre/ResonitePrivacyShield",
                     "tags": [
-                        "privacy",
-                        "spoofing",
-                        "network"
+                        "network",
+                        "prompt"
                     ],
                     "versions": {
                         "2.0.2": {
@@ -2956,12 +2924,10 @@
                         "knackrack615": {}
                     },
                     "category": "Hardware Integration",
-                    "description": "A Mod that let's you use VRCFaceTracking Program for Eye and Face Tracking inside Resonite.",
+                    "description": "A mod that let's you use VRCFaceTracking program for eye and face tracking inside Resonite.",
                     "name": "VRCFTReceiver",
                     "sourceLocation": "https://github.com/hazre/VRCFTReceiver",
                     "tags": [
-                        "facetracking",
-                        "eyetracking",
                         "expressions",
                         "avatar"
                     ],
@@ -2997,11 +2963,14 @@
                     "name": "RemoveThatKinkFromSteamLinkCS",
                     "sourceLocation": "https://github.com/PointerOffset/RemoveThatKinkFromSteamLinkCS",
                     "tags": [
-                        "Edrakon",
-                        "Quest Pro",
-                        "Eye Tracking",
-                        "Face Tracking",
-                        "WiVRn"
+                        "edrakon",
+                        "eye",
+                        "face",
+                        "osc",
+                        "pro",
+                        "quest",
+                        "tracking",
+                        "wivrn"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -3163,11 +3132,13 @@
                     "name": "UnifiedExpressionMapper",
                     "sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
                     "tags": [
-                        "ue",
-                        "sranipal",
                         "arkit",
+                        "blend",
                         "facs",
-                        "blendshapes"
+                        "key",
+                        "shape",
+                        "sranipal",
+                        "ue"
                     ],
                     "versions": {
                         "1.1.2": {
@@ -3275,11 +3246,10 @@
                     ],
                     "sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.JustLetItGo",
                     "tags": [
-                        "experimental",
-                        "stuck",
                         "clear",
                         "gather",
-                        "job"
+                        "job",
+                        "stuck"
                     ],
                     "versions": {
                         "1.4.0": {
@@ -3338,10 +3308,9 @@
                     ],
                     "sourceLocation": "https://github.com/Baplar/ResoniteDiscordRpc",
                     "tags": [
-                        "discord",
-                        "rich",
-                        "presence",
-                        "rpc"
+                        "detail",
+                        "session",
+                        "status"
                     ],
                     "versions": {
                         "1.0.2": {
@@ -3396,9 +3365,9 @@
                     "name": "SmileForTheCamera",
                     "sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera",
                     "tags": [
-                        "camera",
-                        "nameplate",
-                        "lookatuser"
+                        "name",
+                        "plate",
+                        "tag"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -3591,11 +3560,11 @@
                     "name": "GradientDriverEasing",
                     "sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
                     "tags": [
-                        "smoothing",
                         "curve",
                         "ease",
                         "linear",
-                        "sine"
+                        "sine",
+                        "smoothing"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -3638,7 +3607,7 @@
                                     "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.0/GradientDriverEasing.dll"
                                 }
                             ],
-                            "changelog": "Added:\n- An option to enable/disable the mod.\n- Error popup when the mod fails to initialize, such as in the case of CustomUILib not being available.\n\nUpdated:\n- Code style & refactoring.\n\nFixed:\n- Interpolating colors by HSV not underflowing their hue if the difference of hues is over 180\u00b0.\n\nRemoved:Escape Unicode Characters\n- Being able to apply easing functions to non-lerpable types, such as booleans.\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2024.7.12.12.",
+                            "changelog": "Added:\n- An option to enable/disable the mod.\n- Error popup when the mod fails to initialize, such as in the case of CustomUILib not being available.\n\nUpdated:\n- Code style & refactoring.\n\nFixed:\n- Interpolating colors by HSV not underflowing their hue if the difference of hues is over 180\u00b0.\n\nRemoved:Escape Unicode Characters\n- Being able to apply easing functions to non-lerpable types, such as booleans.\n\nBuilt against Resonite version 2024.7.12.12.",
                             "dependencies": {
                                 "me.art0007i.CustomUILib": {
                                     "version": "^2.0.0"
@@ -5310,11 +5279,9 @@
                     "name": "ResoniteModularSearch",
                     "sourceLocation": "https://github.com/mpmxyz/ResoniteModularSearch/",
                     "tags": [
-                        "search",
                         "tool",
                         "edit",
-                        "replace",
-                        "modular"
+                        "filter"
                     ],
                     "versions": {
                         "1.1.0": {
@@ -5775,9 +5742,9 @@
                     "name": "ComponentRunUpgrade",
                     "sourceLocation": "https://github.com/XDelta/ComponentRunUpgrade",
                     "tags": [
-                        "LegacyRadiantScreenWrapper",
-                        "screen",
-                        "dash"
+                        "dash",
+                        "legacy",
+                        "wrapper"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -5829,7 +5796,7 @@
                     "name": "DisableSRAnipal",
                     "sourceLocation": "https://github.com/XDelta/DisableSRAnipal",
                     "tags": [
-                        "FT",
+                        "eye",
                         "face",
                         "tracking"
                     ],
@@ -6369,9 +6336,8 @@
                     "name": "CustomJoinVerifierWhitelist",
                     "sourceLocation": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist",
                     "tags": [
-                        "world",
-                        "skip",
-                        "allowlist"
+                        "bypass",
+                        "world"
                     ],
                     "versions": {
                         "1.1.1": {
@@ -6390,11 +6356,6 @@
                     "description": "Allows the name of saved slots that are changed using the `OnSaving` Protoflux node to persist to the inventory rather than using their old name.",
                     "name": "DynamicSavedSlotNames",
                     "sourceLocation": "https://github.com/Cyberboss/DynamicSavedSlotNames",
-                    "tags": [
-                        "slot",
-                        "name",
-                        "OnSaving"
-                    ],
                     "versions": {
                         "1.0.1": {
                             "artifacts": [
@@ -6416,11 +6377,11 @@
                     "name": "GetItemLink",
                     "sourceLocation": "https://github.com/Cyberboss/ResoniteGetItemLink",
                     "tags": [
-                        "url",
-                        "link",
                         "asset",
+                        "cheese",
                         "potato",
-                        "cheese"
+                        "resdb",
+                        "resrec"
                     ],
                     "versions": {
                         "2.0.0": {
@@ -6440,9 +6401,7 @@
                     "name": "LetMeIn",
                     "sourceLocation": "https://github.com/Cyberboss/LetMeIn",
                     "tags": [
-                        "invite",
-                        "contacts",
-                        "sessions"
+                        "contact"
                     ],
                     "versions": {
                         "1.0.1": {
@@ -6471,9 +6430,9 @@
                     "name": "OpenReferenceProxyAtHand",
                     "sourceLocation": "https://github.com/Cyberboss/OpenReferenceProxyAtHand",
                     "tags": [
-                        "move",
                         "align",
-                        "alignment"
+                        "alignment",
+                        "move"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -6492,11 +6451,6 @@
                     "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
                     "name": "WorldOrbDynVars",
                     "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
-                    "tags": [
-                        "dynamic",
-                        "variable",
-                        "dynamicvariablespace"
-                    ],
                     "versions": {
                         "1.0.2": {
                             "artifacts": [
@@ -6807,11 +6761,11 @@
                     "name": "GetItemLink",
                     "sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
                     "tags": [
-                        "url",
-                        "link",
                         "asset",
+                        "cheese",
                         "potato",
-                        "cheese"
+                        "resdb",
+                        "resrec"
                     ],
                     "versions": {
                         "1.4.5": {
@@ -6853,10 +6807,10 @@
                     "name": "BabbleFrameRuntime",
                     "sourceLocation": "https://github.com/eth0fox/resonite-babblelink",
                     "tags": [
-                        "steamframe",
-                        "facetracking",
-                        "eyetracking",
-                        "babble"
+                        "eye",
+                        "face",
+                        "steam",
+                        "tracking"
                     ],
                     "versions": {
                         "1.1.0": {
@@ -6908,12 +6862,11 @@
                     "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
                     "tags": [
                         "babble",
-                        "eyetrackvr",
-                        "varjo",
-                        "vive",
-                        "pimax",
+                        "beyond",
                         "bigscreen",
-                        "beyond"
+                        "pimax",
+                        "varjo",
+                        "vive"
                     ],
                     "versions": {
                         "0.1.0": {
@@ -8108,13 +8061,6 @@
                     "description": "Makes the Developer Tool's selection radius dependent on scale, fixes issues selecting what you want when scaled down",
                     "name": "FixSelectionRadiusScale",
                     "sourceLocation": "https://github.com/badhaloninja/FixSelectionRadiusScale",
-                    "tags": [
-                        "dev",
-                        "developer",
-                        "tool",
-                        "select",
-                        "scale"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -8143,10 +8089,9 @@
                     "name": "FriendlyInventoryAvatars",
                     "sourceLocation": "https://github.com/badhaloninja/FriendlyInventoryAvatars",
                     "tags": [
-                        "bodynode",
-                        "equip",
+                        "body",
                         "multiple",
-                        "avatar"
+                        "node"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -8329,9 +8274,7 @@
                     "sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",
                     "tags": [
                         "material",
-                        "mesh",
-                        "tool",
-                        "orb"
+                        "mesh"
                     ],
                     "versions": {
                         "2.0.1": {
@@ -9522,7 +9465,7 @@
                                     "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/HeadlessTweaks.dll"
                                 }
                             ],
-                            "changelog": "- Added the option to automatically accept invite requests sent using the Ask to Join button (`AutoHandleInviteRequests`)\n  - This will send an invite for whatever session the headless is currently focused on\n  - This is only done if it is sent directly to the headless by the person requesting, this does not apply to forwarded requests\n  - The permission check is handled the same as the `/reqInvite` command\n  - If the user does not have permission to join then the request will be forwarded to the session admins\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added option to add go.resonite.com link to session start message (`DiscordLinkToSession`)\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n  - Updated project files\n",
+                            "changelog": "- Added `AutoHandleInviteRequests` to automatically accept direct invite requests sent using the Ask to Join button (not forwarded requests)\n  - This will send an invite for whatever session the headless is currently focused on\n  - The permission check is handled the same as the `/reqInvite` command and will be forwarded to session admin otherwise\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added `DiscordLinkToSession` to add a go.resonite.com link to session start message\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.9"
                         },
                         "2.2.0": {
@@ -9701,5 +9644,5 @@
             }
         }
     },
-    "schemaVersion": "1.1.0"
+    "schemaVersion": "1.1.1"
 }
