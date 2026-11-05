@@ -5,15 +5,18 @@
 	"properties": {
 		"name": {
 			"type": "string",
-			"description":"Name of the mod"
+			"description":"Name of the mod",
+			"maxLength": 64
 		},
 		"id": {
 			"type": "string",
-			"description":"id of your mod, typically a reverse domain name followed by the name of the mod"
+			"description":"id of your mod, typically a reverse domain name followed by the name of the mod",
+			"maxLength": 128
 		},
 		"description": {
 			"type": "string",
-			"description":"Brief description of your mod"
+			"description":"Brief description of your mod",
+			"maxLength": 512
 		},
 		"category": {
 			"type": "string",
@@ -52,8 +55,11 @@
 		"tags": {
 			"type": "array",
 			"description":"Keywords to assist in searching for this mod",
+			"maxItems": 10,
 			"items": {
-				"type": "string"
+				"type": "string",
+				"pattern": "^[a-z0-9]+$",
+				"maxLength": 32
 			},
 			"additionalItems": false
 		},
@@ -97,7 +103,8 @@
 				"properties": {
 					"changelog": {
 						"type": "string",
-						"description":"Brief description of changes or fixes made"
+						"description":"Brief description of changes or fixes made",
+						"maxLength": 1024
 					},
 					"releaseUrl": {
 						"type": "string",
@@ -132,7 +139,7 @@
 								"optional": {
 									"type": "boolean",
 									"default": false,
-									"description": "Marks this dependency as optional. When set, the mod can function without it but may provide additional features or compatibility when available"
+									"description": "Marks this dependency as optional. When set to true, the mod can function without it but may provide additional features or compatibility when available"
 								},
 								"version": {
 									"type": "string",
@@ -144,6 +151,7 @@
 					"artifacts": {
 						"type": "array",
 						"description":"All the files for this mod",
+						"minItems": 1,
 						"items": {
 							"type": "object",
 							"required": [
@@ -158,7 +166,7 @@
 								},
 								"filename": {
 									"type": "string",
-									"description":"Optional name override when saving the artifact",
+									"description":"Optional name override when saving the artifact if the downloaded file name differs from the listed name or isn't in the url",
 									"pattern": "^\\S(?:.*\\S)?$"
 								},
 								"sha256": {
