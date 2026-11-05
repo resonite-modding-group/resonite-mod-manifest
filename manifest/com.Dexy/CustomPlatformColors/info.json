@@ -8,13 +8,10 @@
 	"additionalAuthors": [
 		"troyBORG",
 		"SectOLT",
-		"LeCloutPanda",
-		"SectOLT"
+		"LeCloutPanda"
 	],
 	"tags": [
-		"colour",
-		"interface",
-		"color"
+		"interface"
 	],
 	"versions": {
 		"1.2.0": {

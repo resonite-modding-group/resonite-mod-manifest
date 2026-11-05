@@ -4,9 +4,7 @@
 	"description": "Makes orb based tools grab a new orb regardless if there is already an orb in the tool",
 	"tags": [
 		"material",
-		"mesh",
-		"tool",
-		"orb"
+		"mesh"
 	],
 	"category": "Misc",
 	"sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",

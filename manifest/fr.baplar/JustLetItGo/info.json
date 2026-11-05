@@ -8,11 +8,10 @@
 		"headless"
 	],
 	"tags": [
-		"experimental",
-		"stuck",
 		"clear",
 		"gather",
-		"job"
+		"job",
+		"stuck"
 	],
 	"versions": {
 		"1.4.0": {

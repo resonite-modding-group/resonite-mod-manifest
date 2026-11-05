@@ -6,9 +6,10 @@
 	"flags": ["broken"],
 	"sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
 	"tags": [
-		"PhotonDust",
-		"LOD",
-		"SystemHelper"
+		"photondust",
+		"lod",
+		"system",
+		"helper"
 	],
 	"versions": {
 		"0.1.0": {

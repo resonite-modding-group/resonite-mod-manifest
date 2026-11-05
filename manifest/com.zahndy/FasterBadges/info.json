@@ -1,11 +1,11 @@
 {
 	"name": "FasterBadges",
 	"id": "com.zahndy.FasterBadges",
-	"description": "Badges manager with badge presets, custom badges and badge removal",
+	"description": "Badges manager with badge presets, custom badges and system badge removal",
 	"tags": [
-        "badges",
-        "badge",
-        "manager"
+        "name",
+        "tag",
+        "plate"
     ],
 	"category": "Misc",
 	"sourceLocation": "https://github.com/zahndy/FasterBadges",

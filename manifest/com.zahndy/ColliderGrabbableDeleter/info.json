@@ -2,11 +2,6 @@
 	"name": "ColliderGrabbableDeleter",
 	"id": "com.zahndy.ColliderGrabbableDeleter",
 	"description": "ObjectRoot button that removes MeshColliders And Grabbables of Child slots",
-	"tags": [
-        "MeshColliders",
-        "Grabbables",
-        "Grabbable"
-    ],
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/zahndy/ColliderGrabbableDeleter",
 	"versions": {

@@ -5,9 +5,8 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist",
 	"tags": [
-		"world",
-		"skip",
-		"allowlist"
+		"bypass",
+		"world"
 	],
 	"versions": {
 		"1.1.1": {

@@ -1,10 +1,10 @@
 {
 	"name": "CyberFingerMod",
 	"id": "com.scicortex.CyberFingerMod",
-	"description": "A Resonite Mod that improves the hand-tracking and CyberFinger Controller experience",
+	"description": "A Resonite Mod that improves the hand tracking and CyberFinger Controller experience",
 	"tags":[
-		"cyberfinger",
-		"hand-tracking",
+		"laser",
+		"tool",
 		"dash"
 	],
 	"category": "Hardware Integration",

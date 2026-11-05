@@ -7,10 +7,9 @@
 	"sourceLocation": "https://github.com/Baplar/ResoniteDiscordRpc",
 	"platforms": ["linux", "windows"],
 	"tags": [
-		"discord",
-		"rich",
-		"presence",
-		"rpc"
+		"detail",
+		"session",
+		"status"
 	],
 	"versions": {
 		"1.0.2": {

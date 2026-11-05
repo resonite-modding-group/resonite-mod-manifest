@@ -2,11 +2,6 @@
 	"name": "StopTouchingMyEyeballs",
 	"id": "com.zahndy.StopTouchingMyEyeballs",
 	"description": "Replaces the eyetracking fallback that sometimes causes eyes to cross. Workaround for bug #263",
-	"tags": [
-		"Eyetracking",
-		"Crosseyed",
-		"Bug"
-	],
 	"category": "Bug Workaround",
 	"sourceLocation": "https://github.com/zahndy/StopTouchingMyEyeballs",
 	"versions": {
