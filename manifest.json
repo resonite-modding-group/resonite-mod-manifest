@@ -2139,6 +2139,20 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.2"
+                        },
+                        "5.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ab6cfd603f675464c8e8d70c680f9189bc3da68ff645074b0ff4f2e10d55bf7a",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.3/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.3"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.3"
                         }
                     }
                 }
