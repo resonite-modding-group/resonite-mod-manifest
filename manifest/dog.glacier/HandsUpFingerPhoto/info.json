@@ -1,0 +1,22 @@
+{
+	"name": "HandsUpFingerPhoto",
+	"id": "dog.glacier.HandsUpFingerPhoto",
+	"description": "Replaces the Finger Photo gesture with an easier one: bring both of your hands up close to your head, facing vertically and parallel to each other.",
+    "tags": [
+        "quick",
+        "capture",
+        "picture"
+    ],
+	"category": "Controls",
+	"sourceLocation": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto",
+	"versions": {
+		"1.2.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.2.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.2.0/HandsUpFingerPhoto.dll",
+				"sha256": "2a9101a06b06a7e373bd3de04c1c667c40e29c3729135b536009ba58d621ad67"
+			}],
+			"changelog": "Now supports the video recording function introduced in Resonite 2026.11.10.1262"
+		}
+	}
+}
