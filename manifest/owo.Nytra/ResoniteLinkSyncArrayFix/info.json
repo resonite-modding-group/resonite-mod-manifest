@@ -9,7 +9,7 @@
 			"releaseUrl": "https://github.com/Nytra/ResoniteLinkSyncArrayFix/releases/tag/v1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteLinkSyncArrayFix/releases/download/v1.0.0/ResoniteLinkSyncArrayFix.dll",
-				"sha256": "0dd0cc0024289464e8be3acfcec389ba434717885306da6f048e920ab3aa9dfe"
+				"sha256": "9964d711e9df2a8fc4ae35384f4cfc73a2fcd203c41621189700f0d224cbee8e"
 			}]
 		}
 	}
