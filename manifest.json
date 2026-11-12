@@ -3149,6 +3149,29 @@
                         }
                     }
                 },
+                "dog.glacier.HandsUpFingerPhoto": {
+                    "category": "Controls",
+                    "description": "Replaces the Finger Photo gesture with an easier one: bring both of your hands up close to your head, facing vertically and parallel to each other.",
+                    "name": "HandsUpFingerPhoto",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto",
+                    "tags": [
+                        "quick",
+                        "capture",
+                        "picture"
+                    ],
+                    "versions": {
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2a9101a06b06a7e373bd3de04c1c667c40e29c3729135b536009ba58d621ad67",
+                                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.2.0/HandsUpFingerPhoto.dll"
+                                }
+                            ],
+                            "changelog": "Now supports the video recording function introduced in Resonite 2026.11.10.1262",
+                            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.2.0"
+                        }
+                    }
+                },
                 "dog.glacier.UnifiedExpressionMapper": {
                     "category": "Asset Importing",
                     "description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
