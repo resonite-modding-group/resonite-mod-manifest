@@ -2369,6 +2369,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.3"
+                        },
+                        "1.1.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "bd967a574ca1e102e474f6f2a2455001814c80ce5eaadfbe02a22f1ea7eff0b4",
+                                    "url": "https://git.tobsstuff.com/-/project/5/uploads/7ed971cca57e4fa4a7bf266bcc7be6e5/picture3dFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.tobsstuff.com/tobs/picture3dFix/-/releases/1.1.4"
                         }
                     }
                 }
