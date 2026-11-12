@@ -5347,6 +5347,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.1.0-2026.9.18.82"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6cfa98435d55ad08d6d9c1e6b62c26439c7ae2b4121fd9e379230d6839938428",
+                                    "url": "https://github.com/mpmxyz/ResoniteModularSearch/releases/download/v1.2.0-2026.11.11.21/ResoniteModularSearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.2.0-2026.11.11.21"
                         }
                     }
                 }
