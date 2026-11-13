@@ -1,0 +1,16 @@
+{
+	"name": "ResoniteLinkSyncArrayFix",
+	"id": "owo.Nytra.ResoniteLinkSyncArrayFix",
+	"description": "Fixes SyncArray writes through ResoniteLink",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/Nytra/ResoniteLinkSyncArrayFix",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteLinkSyncArrayFix/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteLinkSyncArrayFix/releases/download/v1.0.0/ResoniteLinkSyncArrayFix.dll",
+				"sha256": "9964d711e9df2a8fc4ae35384f4cfc73a2fcd203c41621189700f0d224cbee8e"
+			}]
+		}
+	}
+}
