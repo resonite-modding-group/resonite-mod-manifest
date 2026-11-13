@@ -5698,6 +5698,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.1.1"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "394656d35a948134e0360fe981f3a8876e4a0a3c53c4b84645a26b09058405db",
+                                    "url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.2.0/SessionTabOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.2.0"
                         }
                     }
                 }
