@@ -2,8 +2,9 @@
 	"name": "LinuxNativeDesktop",
 	"id": "owo.Nytra.LinuxNativeDesktop",
 	"description": "Makes the desktop tab in the dash work on Linux",
-	"category": "Technical Tweaks",
+	"category": "Dashboard",
 	"sourceLocation": "https://github.com/Nytra/ResoniteLinuxNativeDesktop",
+	"platforms": ["linux"],
 	"versions": {
 		"1.0.0": {
 			"releaseUrl": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/tag/v1.0.0",
