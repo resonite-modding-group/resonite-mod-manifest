@@ -9292,6 +9292,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/tag/v1.0.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cc61f41892b6327afbbbe5b7fd49852ca03ae12be556aba74dc50ea2fd5ef062",
+                                    "url": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/download/v1.1.1/LinuxNativeDesktop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/tag/v1.1.1"
                         }
                     }
                 },
