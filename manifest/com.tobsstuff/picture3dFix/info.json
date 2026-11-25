@@ -3,7 +3,7 @@
         "id": "com.tobsstuff.picture3dFix",
         "description": "fix the backside of stereo pictures",
         "category": "Misc",
-        "sourceLocation": "https://github.com/tobs2007/picture3dFix",
+        "sourceLocation": "https://git.tobsstuff.com/tobs/picture3dFix",
         "versions": {
                 "1.0.0": {
                         "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.0.0",
