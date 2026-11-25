@@ -4,6 +4,7 @@
 	"description": "Skips the countdown in the hyperlink open dialog",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/dfgHiatus/SpeedyURLs",
+	"flags": ["deprecated"],
 	"versions": {
 		"2.0.0": {
 			"releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v2.0.0",
