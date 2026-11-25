@@ -1,9 +1,15 @@
 {
 	"name": "CopyHyperlink",
 	"id": "je.dj.CopyHyperlink",
-	"description": "Adds a \"Copy Link\" button to the hyperlink popup.",
+	"description": "Adds a 'Copy Link' button to the hyperlink popup. Also allows skipping the delay before being able to click open.",
 	"category": "Misc",
 	"sourceLocation": "https://github.com/djsime1/CopyHyperlink",
+	"tags": [
+		"dialog",
+		"open",
+		"url",
+		"countdown"
+	],
 	"versions": {
 		"1.1.0": {
 			"releaseUrl": "https://github.com/djsime1/CopyHyperlink/releases/tag/1.1.0",
