@@ -45,6 +45,15 @@
 					"sha256": "6e82c26506eb3c5f8bef745a5f977d709acc7031c4c0ea325b1874f9cdc3390b"
 				}
 			]
+		},
+		"1.4.0": {
+			"releaseUrl": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/tag/1.4.0",
+			"artifacts": [
+				{
+					"url": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/download/1.4.0/SmileForTheCamera.dll",
+					"sha256": "246d948d9bca683aa39c58683534eabb2b5b2ab5e0498f68283363a8c09647f6"
+				}
+			]
 		}
 	}
 }
