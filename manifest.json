@@ -2153,6 +2153,21 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.3"
+                        },
+                        "5.0.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "962090ca6a10eca62bd716e83be7f20cc2fe6e58cb6d57dbf718fecb1d00c685",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.4/ResoniteModLoader.dll"
+                                }
+                            ],
+                            "changelog": ".Net11 rebuild against 2026.11.25.87",
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^3.0.0-rc.8"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.4"
                         }
                     }
                 }
@@ -7260,6 +7275,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.3"
+                        },
+                        "3.0.0-rc.8": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "0301490123818f0784dfcd97787fb62b7fd5b1990055944b9882695973792a68",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.4/0Harmony.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v3.0.0-rc.8"
                         }
                     },
                     "website": "https://harmony.pardeike.net/"
