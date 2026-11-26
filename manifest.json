@@ -6439,6 +6439,22 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b51d4fe8a083f4839be97bbd3a67d96ca900c53f4aec68457647ba6cf87c3579",
+                                    "url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.2/AnimatorTrackReference.dll"
+                                }
+                            ],
+                            "changelog": "Migrated project to .NET 11.0",
+                            "dependencies": {
+                                "me.art0007i.MyInspectors": {
+                                    "optional": true,
+                                    "version": "*"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.2"
                         }
                     }
                 },
