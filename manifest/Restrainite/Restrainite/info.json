@@ -85,6 +85,15 @@
 					"sha256": "f6cd35e02af78928d31ce7cacb39e5e88b6829ae8c9824fb9135a3a5f246a6c1"
 				}
 			]
+		},
+		"4.0.0": {
+			"releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v4.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/Restrainite/releases/download/v4.0.0/Restrainite.dll",
+					"sha256": "cc482ee8c3a27ea3e4f65a4fcea76b018e15f6e9d452686303e25735acb6a229"
+				}
+			]
 		}
 	},
 	"website": "https://restrainite.github.io/"
