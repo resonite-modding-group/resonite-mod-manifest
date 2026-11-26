@@ -15,6 +15,14 @@
 				"url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.1/CustomJoinVerifierWhitelist.dll",
 				"sha256": "14c17c99293288eda8a6e70451ae88b1d7079d5b89e935effd08db72093095c9"
 			}]
+		},
+		"1.1.2": {
+			"releaseUrl": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.1.2",
+			"changelog": "Migrated project to .NET 11.0",
+			"artifacts": [{
+				"url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.2/CustomJoinVerifierWhitelist.dll",
+				"sha256": "b496d818adff7431b1c993721a93908eeaee235b8492016778a3bb7893d477a3"
+			}]
 		}
 	}
 }
