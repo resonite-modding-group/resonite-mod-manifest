@@ -5,6 +5,14 @@
 	"category": "Technical Tweaks",
 	"sourceLocation": "https://github.com/noblereign/ResoniteCustomToolScaling",
 	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.1.0/CustomToolScaling.dll",
+				"sha256": "9e9a8a2c883813e11a3cfced6f9d07fc703a5322a59c56b0d3a2f31b6bf5caf0"
+			}],
+			"changelog": ".NET 11 support"
+		},
 		"1.0.2": {
 			"releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.2",
 			"artifacts": [{
