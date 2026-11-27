@@ -1,0 +1,20 @@
+{
+  "name": "RefUnhacking",
+  "id": "cat.colin.RefUnhacking",
+  "description": "Changes the string representation of RefIDs to intentionally break Ref Hacking.",
+  "category": "Technical Tweaks",
+  "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-ref-unhacking-mod",
+  "tags": ["protoflux"],
+  "versions": {
+    "1.1.1": {
+      "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-ref-unhacking-mod/releases/tag/v1.1.1",
+      "artifacts": [
+        {
+          "url": "https://forge.colintimbarndt.de/Colin/resonite-ref-unhacking-mod/releases/download/v1.1.1/RefUnhacking.dll",
+          "sha256": "4cd0e2b582da632915a960f3b7eac172d05b39997487b8285e95c21f064d2cfb"
+        }
+      ],
+      "changelog": "Fixed repository link and built for net11."
+    }
+  }
+}
