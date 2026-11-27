@@ -1,0 +1,20 @@
+{
+  "name": "ContextMenuCustomizer",
+  "id": "cat.colin.ContextMenuCustomizer",
+  "description": "Adds a variety of customization options for the context menu.",
+  "category": "Context Menu",
+  "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-context-menu-customizer-mod",
+  "tags": ["custom", "accessibility", "a11y"],
+  "versions": {
+    "1.0.4": {
+      "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-context-menu-customizer-mod/releases/tag/v1.0.4",
+      "artifacts": [
+        {
+          "url": "https://forge.colintimbarndt.de/Colin/resonite-context-menu-customizer-mod/releases/download/v1.0.4/ContextMenuCustomizer.dll",
+          "sha256": "9fffd37423228785316a5767454f9fa5134f6f1382cc2850c1f0214448670651"
+        }
+      ],
+      "changelog": "Config keys are sliders, simplified locale keys, config values are clamped."
+    }
+  }
+}
