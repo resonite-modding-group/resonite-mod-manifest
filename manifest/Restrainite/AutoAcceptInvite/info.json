@@ -31,6 +31,15 @@
 					"sha256": "090dec10c91d044d65de2b9ac8c72393148d066950ef0ee36745989c00b58016"
 				}
 			]
+		},
+		"3.0.0": {
+			"releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v3.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v3.0.0/AutoAcceptInvite.dll",
+					"sha256": "6ec5393700f44ee0c0b19d0bef180381ed61879c2732a0f757b956cd9822f0fe"
+				}
+			]
 		}
 	}
 }
