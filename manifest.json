@@ -3153,6 +3153,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.2"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9e9a8a2c883813e11a3cfced6f9d07fc703a5322a59c56b0d3a2f31b6bf5caf0",
+                                    "url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.1.0/CustomToolScaling.dll"
+                                }
+                            ],
+                            "changelog": ".NET 11 support",
+                            "releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.1.0"
                         }
                     }
                 },
