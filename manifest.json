@@ -5871,6 +5871,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.5"
+                        },
+                        "2.1.6": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d970e6b2475608be263080902b70ff21a9b08b81b70d93c267812d9874b75452",
+                                    "url": "https://github.com/CatSharkShin/ReArmature/releases/download/2.1.6/ReArmature.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/CatSharkShin/ReArmature/releases/tag/2.1.6"
                         }
                     }
                 }
