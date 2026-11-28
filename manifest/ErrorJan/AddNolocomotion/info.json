@@ -5,6 +5,15 @@
 	"category": "Context Menu",
 	"sourceLocation": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion",
 	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/tag/1.1.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/download/1.1.0/AddNolocomotion.dll",
+					"sha256": "fd08b960c85b4b07bdf1201a09b7cd04480c2ba60f8dd0c3e4360718a87bf710"
+				}
+			]
+		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/tag/1.0.1",
 			"artifacts": [
